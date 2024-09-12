@@ -11,7 +11,7 @@ def set_var():
 	global repo
 	username = ''
 	token = ''
-	repo = os.environ['CUR_REPO']
+	repo = 'zuckung/endless-sky-plugins'
 
 def get_date():
 	now = datetime.now()
