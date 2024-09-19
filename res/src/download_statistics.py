@@ -100,4 +100,4 @@ def write_readme():
 
 set_var()
 analyze_write()
-#write_readme()
+write_readme()
