@@ -15,11 +15,13 @@ jobs:
           fetch-depth: 2
       - name: write statistics
         run: python res/src/download_statistics.py
+      - name: write readme
+        run: python res/src/write_readme.py
       - name: Commit file
         run: |
           git config user.name "script" 
           git config user.email "<>"
-          git add 'res/dl_log/', 'README.md'
+          git add 'res/dl_log/' 'README.md'
           git commit -m "dl log written" || true
       - name: Push changes
         uses: ad-m/github-push-action@master
