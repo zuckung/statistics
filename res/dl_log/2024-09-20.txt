@@ -3,7 +3,7 @@ v1.0.5-coalition.shopping | downloads: 10
 v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 16
 v1.1.4-hai.side.mission.unlocker | downloads: 13
-v1.0.6-additional.command.buttons.radial | downloads: 18
+v1.0.6-additional.command.buttons.radial | downloads: 20
 v1.0.3-no.more.mereti.mines | downloads: 8
 v1.0.1-paint.your.ships | downloads: 10
 v1.0.0-paint.your.ships | downloads: 3
@@ -124,12 +124,12 @@ v1.1-galactic.capital.investment | downloads: 27
 
 
 # NUMBER OF RELEASES: 123
-# TOTAL DOWNLOADS: 3053
+# TOTAL DOWNLOADS: 3055
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 71
-additional.command.buttons.radial 111
+additional.command.buttons.radial 113
 automata.destruction.0percent 80
 automata.in.human.space 56
 better.starts 80
