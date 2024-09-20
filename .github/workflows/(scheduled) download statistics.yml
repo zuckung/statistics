@@ -22,7 +22,7 @@ jobs:
         run: |
           git config user.name "script" 
           git config user.email "<>"
-          git add 'res/dl_log/'
+          git add 'res/dl_log/', 'README.md'
           git commit -m "dl log written" || true
       - name: Push changes
         uses: ad-m/github-push-action@master
