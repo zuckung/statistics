@@ -1,13 +1,13 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2024-09-13</td>
-		<td>2024-09-14</td>
-		<td>2024-09-15</td>
-		<td>2024-09-16</td>
-		<td>2024-09-17</td>
-		<td>2024-09-18</td>
-		<td>2024-09-19</td>
+		<td>09-13</td>
+		<td>09-14</td>
+		<td>09-15</td>
+		<td>09-16</td>
+		<td>09-17</td>
+		<td>09-18</td>
+		<td>09-19</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons</td>
