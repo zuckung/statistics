@@ -45,6 +45,7 @@ def write_readme():
 	rows7 = relevant[6].split('\n')
 	# write the readme
 	with open('README.md', 'w') as target:
+		target.writelines('Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>\n<br>\n')
 		# split the 7 variable contents to lists
 		first = True
 		for row in rows7:

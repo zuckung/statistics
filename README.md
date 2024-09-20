@@ -1,3 +1,5 @@
+Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
+<br>
 <table>
 	<tr>
 		<td></td>
