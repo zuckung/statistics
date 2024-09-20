@@ -108,8 +108,8 @@
 		<td>76</td>
 		<td>76</td>
 		<td>76</td>
-		<td>80</td>
-		<td>+ 4</td>
+		<td>82</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -317,8 +317,8 @@
 		<td>111</td>
 		<td>113</td>
 		<td>113</td>
-		<td>117</td>
-		<td>+ 4</td>
+		<td>120</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
