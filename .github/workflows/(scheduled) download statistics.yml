@@ -4,8 +4,8 @@ env:
   CUR_REPO: ${{ github.repository }}
 on: 
   schedule: 
-    - cron: '30 23 * * *' 
-    # runs at 23:30 utc every day
+    - cron: '00 * * * *' 
+    # runs every hour
     # minute(0-59) / hour(0-23) / day of month(1-31) / month(1-12) / day of week(0-6)
 jobs:
   First:

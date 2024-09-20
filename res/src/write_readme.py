@@ -63,10 +63,11 @@ def write_readme():
 				target.writelines('\t\t<td>' + rows5[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
 				target.writelines('\t\t<td>' + rows6[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
 				target.writelines('\t\t<td>' + rows7[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
+				target.writelines('\t\t<td>today +</td>\n')
 				target.writelines('\t</tr>\n')
 				first = False
 			else:
-				# write the cell contents
+				# write the numbers
 				target.writelines('\t<tr>\n')
 				target.writelines('\t\t<td>' + row.split(' ')[0] + '</td>\n')
 				target.writelines('\t\t<td>' + findp(rows1, row.split(' ')[0]) + '</td>\n')
@@ -76,6 +77,12 @@ def write_readme():
 				target.writelines('\t\t<td>' + findp(rows5, row.split(' ')[0]) + '</td>\n')
 				target.writelines('\t\t<td>' + findp(rows6, row.split(' ')[0]) + '</td>\n')
 				target.writelines('\t\t<td>' + findp(rows7, row.split(' ')[0]) + '</td>\n')
+				difference = str(int(findp(rows7, row.split(' ')[0])) - int(findp(rows6, row.split(' ')[0])))
+				if difference == '0':
+					difference = ''
+				else:
+					difference = '+ ' + difference 
+				target.writelines('\t\t<td>' + difference + '</td>\n')
 				target.writelines('\t</tr>\n')
 		target.writelines('</table>\n')
 				
