@@ -20,8 +20,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>69</td>
 		<td>69</td>
 		<td>69</td>
-		<td>69</td>
-		<td></td>
+		<td>71</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -42,8 +42,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>78</td>
 		<td>78</td>
 		<td>78</td>
-		<td>78</td>
-		<td></td>
+		<td>80</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -53,8 +53,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>54</td>
 		<td>54</td>
 		<td>54</td>
-		<td>54</td>
-		<td></td>
+		<td>56</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -64,8 +64,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>78</td>
 		<td>78</td>
 		<td>78</td>
-		<td>78</td>
-		<td></td>
+		<td>80</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -75,8 +75,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>85</td>
 		<td>88</td>
 		<td>88</td>
-		<td>88</td>
-		<td></td>
+		<td>90</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -86,8 +86,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>77</td>
 		<td>77</td>
 		<td>77</td>
-		<td>77</td>
-		<td></td>
+		<td>79</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -97,8 +97,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>105</td>
 		<td>106</td>
 		<td>106</td>
-		<td>106</td>
-		<td></td>
+		<td>108</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -108,8 +108,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>76</td>
 		<td>76</td>
 		<td>76</td>
-		<td>76</td>
-		<td></td>
+		<td>78</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -152,8 +152,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>82</td>
 		<td>88</td>
 		<td>88</td>
-		<td>88</td>
-		<td></td>
+		<td>90</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -174,8 +174,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>113</td>
 		<td>117</td>
 		<td>117</td>
-		<td>117</td>
-		<td></td>
+		<td>119</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -185,8 +185,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>107</td>
 		<td>109</td>
 		<td>109</td>
-		<td>109</td>
-		<td></td>
+		<td>111</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -218,8 +218,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>82</td>
 		<td>84</td>
 		<td>84</td>
-		<td>84</td>
-		<td></td>
+		<td>86</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -229,8 +229,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>41</td>
 		<td>41</td>
 		<td>41</td>
-		<td>41</td>
-		<td></td>
+		<td>43</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -240,8 +240,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>91</td>
 		<td>91</td>
 		<td>91</td>
-		<td>91</td>
-		<td></td>
+		<td>93</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -284,8 +284,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>110</td>
 		<td>112</td>
 		<td>112</td>
-		<td>112</td>
-		<td></td>
+		<td>114</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -295,8 +295,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>72</td>
 		<td>76</td>
 		<td>76</td>
-		<td>76</td>
-		<td></td>
+		<td>78</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -306,8 +306,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>83</td>
 		<td>85</td>
 		<td>85</td>
-		<td>85</td>
-		<td></td>
+		<td>87</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -317,8 +317,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>111</td>
 		<td>113</td>
 		<td>113</td>
-		<td>113</td>
-		<td></td>
+		<td>115</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -339,8 +339,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>25</td>
 		<td>25</td>
 		<td>25</td>
-		<td>25</td>
-		<td></td>
+		<td>27</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -372,8 +372,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>53</td>
 		<td>53</td>
 		<td>53</td>
-		<td>53</td>
-		<td></td>
+		<td>55</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -383,8 +383,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>92</td>
 		<td>92</td>
 		<td>92</td>
-		<td>92</td>
-		<td></td>
+		<td>94</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -394,8 +394,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>80</td>
 		<td>82</td>
 		<td>82</td>
-		<td>82</td>
-		<td></td>
+		<td>84</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -405,8 +405,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>73</td>
 		<td>73</td>
 		<td>73</td>
-		<td>73</td>
-		<td></td>
+		<td>75</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -416,8 +416,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>79</td>
 		<td>81</td>
 		<td>81</td>
-		<td>81</td>
-		<td></td>
+		<td>83</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -427,8 +427,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>77</td>
 		<td>81</td>
 		<td>81</td>
-		<td>81</td>
-		<td></td>
+		<td>83</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -449,8 +449,8 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>45</td>
 		<td>45</td>
 		<td>45</td>
-		<td>45</td>
-		<td></td>
+		<td>47</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
@@ -471,7 +471,7 @@ Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
 		<td>25</td>
 		<td>27</td>
 		<td>27</td>
-		<td>27</td>
-		<td></td>
+		<td>29</td>
+		<td>+ 2</td>
 	</tr>
 </table>
