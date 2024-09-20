@@ -86,8 +86,8 @@
 		<td>77</td>
 		<td>77</td>
 		<td>77</td>
-		<td>79</td>
-		<td>+ 2</td>
+		<td>81</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -108,8 +108,8 @@
 		<td>76</td>
 		<td>76</td>
 		<td>76</td>
-		<td>78</td>
-		<td>+ 2</td>
+		<td>80</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -141,8 +141,8 @@
 		<td>63</td>
 		<td>65</td>
 		<td>65</td>
-		<td>65</td>
-		<td></td>
+		<td>67</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -196,8 +196,8 @@
 		<td>83</td>
 		<td>83</td>
 		<td>83</td>
-		<td>83</td>
-		<td></td>
+		<td>85</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -229,8 +229,8 @@
 		<td>41</td>
 		<td>41</td>
 		<td>41</td>
-		<td>43</td>
-		<td>+ 2</td>
+		<td>45</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -251,8 +251,8 @@
 		<td>57</td>
 		<td>57</td>
 		<td>57</td>
-		<td>57</td>
-		<td></td>
+		<td>59</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -317,8 +317,8 @@
 		<td>111</td>
 		<td>113</td>
 		<td>113</td>
-		<td>115</td>
-		<td>+ 2</td>
+		<td>117</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -471,8 +471,8 @@
 		<td>25</td>
 		<td>27</td>
 		<td>27</td>
-		<td>29</td>
-		<td>+ 2</td>
+		<td>31</td>
+		<td>+ 4</td>
 	</tr>
 </table>
 </h6>
