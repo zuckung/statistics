@@ -1,5 +1,22 @@
 import os
 
+
+
+def local_check():
+	# for local testing
+	if os.getcwd() == '/storage/emulated/0/Download/mgit/statistics/res/src':
+		os.chdir('../../')
+
+
+def findp(list, p):
+	count = ''
+	for check in list:
+		if check.startswith(p + ' '):
+			count = check.split(' ')[1]
+			break
+	return count
+
+
 def write_readme():
 	logfiles = os.listdir('res/dl_log/')
 	logfiles.sort()
@@ -19,14 +36,44 @@ def write_readme():
 				if started == True:
 					relevant[i] += line
 	with open('README.md', 'w') as target:
-		target.writelines('<table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr>')
-		for each in relevant:
-			target.writelines('<td>')
-			target.writelines(each)
-			target.writelines('</td>')
-		target.writelines('</tr></table>')
-	
+		rows1 = relevant[0].split('\n')
+		rows2 = relevant[1].split('\n')
+		rows3 = relevant[2].split('\n')
+		rows4 = relevant[3].split('\n')
+		rows5 = relevant[4].split('\n')
+		rows6 = relevant[5].split('\n')
+		rows7 = relevant[6].split('\n')
+		first = True
+		for row in rows7:
+			if row == '':
+					continue
+			if first == True:
+				target.writelines('<table>\n')
+				target.writelines('\t<tr>\n')
+				target.writelines('\t\t<td></td>\n')
+				target.writelines('\t\t<td>' + rows1[0].replace('.txt', '') + '</td>\n')
+				target.writelines('\t\t<td>' + rows2[0].replace('.txt', '')  + '</td>\n')
+				target.writelines('\t\t<td>' + rows3[0].replace('.txt', '')  + '</td>\n')
+				target.writelines('\t\t<td>' + rows4[0].replace('.txt', '')  + '</td>\n')
+				target.writelines('\t\t<td>' + rows5[0].replace('.txt', '')  + '</td>\n')
+				target.writelines('\t\t<td>' + rows6[0].replace('.txt', '')  + '</td>\n')
+				target.writelines('\t\t<td>' + rows7[0].replace('.txt', '')  + '</td>\n')
+				target.writelines('\t</tr>\n')
+				first = False
+			else:
+				target.writelines('\t<tr>\n')
+				target.writelines('\t\t<td>' + row.split(' ')[0] + '</td>\n')
+				target.writelines('\t\t<td>' + findp(rows1, row.split(' ')[0]) + '</td>\n')
+				target.writelines('\t\t<td>' + findp(rows2, row.split(' ')[0]) + '</td>\n')
+				target.writelines('\t\t<td>' + findp(rows3, row.split(' ')[0]) + '</td>\n')
+				target.writelines('\t\t<td>' + findp(rows4, row.split(' ')[0]) + '</td>\n')
+				target.writelines('\t\t<td>' + findp(rows5, row.split(' ')[0]) + '</td>\n')
+				target.writelines('\t\t<td>' + findp(rows6, row.split(' ')[0]) + '</td>\n')
+				target.writelines('\t\t<td>' + findp(rows7, row.split(' ')[0]) + '</td>\n')
+				target.writelines('\t</tr>\n')
+		target.writelines('</table>\n')
+				
 		 
 		
-
+local_check()
 write_readme()
