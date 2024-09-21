@@ -64,8 +64,8 @@
 		<td>78</td>
 		<td>78</td>
 		<td>83</td>
-		<td>83</td>
-		<td></td>
+		<td>85</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -163,8 +163,8 @@
 		<td>57</td>
 		<td>57</td>
 		<td>58</td>
-		<td>58</td>
-		<td></td>
+		<td>60</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -295,8 +295,8 @@
 		<td>76</td>
 		<td>76</td>
 		<td>79</td>
-		<td>79</td>
-		<td></td>
+		<td>81</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -405,8 +405,8 @@
 		<td>73</td>
 		<td>73</td>
 		<td>76</td>
-		<td>76</td>
-		<td></td>
+		<td>78</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -471,8 +471,8 @@
 		<td>27</td>
 		<td>27</td>
 		<td>32</td>
-		<td>32</td>
-		<td></td>
+		<td>34</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </h6>
