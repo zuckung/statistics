@@ -163,8 +163,8 @@
 		<td>57</td>
 		<td>58</td>
 		<td>60</td>
-		<td>60</td>
-		<td></td>
+		<td>62</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
