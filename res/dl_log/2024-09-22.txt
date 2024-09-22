@@ -118,21 +118,21 @@ v1.0-devil-run.unhidden | downloads: 0
 v1.0-coalition.shopping | downloads: 0
 v1.0-bunrodea.missions | downloads: 3
 v1.0-better.starts | downloads: 3
-v1.0-automata.in.human.space | downloads: 57
+v1.0-automata.in.human.space | downloads: 59
 v1.0-automata.destruction.0percent | downloads: 0
 v1.0-additional.command.buttons | downloads: 0
 v1.1-galactic.capital.investment | downloads: 27
 
 
 # NUMBER OF RELEASES: 124
-# TOTAL DOWNLOADS: 3153
+# TOTAL DOWNLOADS: 3155
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 72
 additional.command.buttons.radial 114
 automata.destruction.0percent 81
-automata.in.human.space 57
+automata.in.human.space 59
 better.starts 86
 bunrodea.missions 93
 captureable.person.ships 82

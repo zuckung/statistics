@@ -53,8 +53,8 @@
 		<td>54</td>
 		<td>57</td>
 		<td>57</td>
-		<td>57</td>
-		<td></td>
+		<td>59</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
