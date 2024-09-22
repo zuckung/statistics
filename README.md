@@ -75,8 +75,8 @@
 		<td>88</td>
 		<td>91</td>
 		<td>91</td>
-		<td>91</td>
-		<td></td>
+		<td>93</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -229,8 +229,8 @@
 		<td>41</td>
 		<td>46</td>
 		<td>46</td>
-		<td>46</td>
-		<td></td>
+		<td>48</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -240,8 +240,8 @@
 		<td>91</td>
 		<td>94</td>
 		<td>94</td>
-		<td>94</td>
-		<td></td>
+		<td>96</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -317,8 +317,8 @@
 		<td>113</td>
 		<td>121</td>
 		<td>121</td>
-		<td>121</td>
-		<td></td>
+		<td>123</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -350,8 +350,8 @@
 		<td>13</td>
 		<td>14</td>
 		<td>16</td>
-		<td>16</td>
-		<td></td>
+		<td>18</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
