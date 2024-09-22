@@ -56,7 +56,7 @@ v1.0.3-bunrodea.missions | downloads: 1
 v1.0.2-too.many.asteroids | downloads: 84
 v1.0.2-navy.licenses | downloads: 116
 v1.0.2-expert.crew.members | downloads: 88
-v1.0.2-additional.command.buttons | downloads: 72
+v1.0.2-additional.command.buttons | downloads: 74
 v1.0.1-too.many.asteroids | downloads: 1
 v1.0.1-quarg.farm | downloads: 95
 v1.0.1-expert.crew.members | downloads: 2
@@ -125,11 +125,11 @@ v1.1-galactic.capital.investment | downloads: 27
 
 
 # NUMBER OF RELEASES: 124
-# TOTAL DOWNLOADS: 3155
+# TOTAL DOWNLOADS: 3157
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-additional.command.buttons 72
+additional.command.buttons 74
 additional.command.buttons.radial 114
 automata.destruction.0percent 81
 automata.in.human.space 59

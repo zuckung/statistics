@@ -20,8 +20,8 @@
 		<td>69</td>
 		<td>72</td>
 		<td>72</td>
-		<td>72</td>
-		<td></td>
+		<td>74</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
