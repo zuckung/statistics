@@ -174,8 +174,8 @@
 		<td>117</td>
 		<td>120</td>
 		<td>120</td>
-		<td>120</td>
-		<td></td>
+		<td>122</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -185,8 +185,8 @@
 		<td>109</td>
 		<td>112</td>
 		<td>114</td>
-		<td>114</td>
-		<td></td>
+		<td>116</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -471,8 +471,8 @@
 		<td>27</td>
 		<td>32</td>
 		<td>34</td>
-		<td>34</td>
-		<td></td>
+		<td>36</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </h6>
