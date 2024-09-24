@@ -97,8 +97,8 @@
 		<td>109</td>
 		<td>109</td>
 		<td>114</td>
-		<td>114</td>
-		<td></td>
+		<td>115</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -152,8 +152,8 @@
 		<td>93</td>
 		<td>93</td>
 		<td>97</td>
-		<td>97</td>
-		<td></td>
+		<td>99</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -240,8 +240,8 @@
 		<td>94</td>
 		<td>96</td>
 		<td>98</td>
-		<td>98</td>
-		<td></td>
+		<td>100</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -284,8 +284,8 @@
 		<td>115</td>
 		<td>115</td>
 		<td>119</td>
-		<td>119</td>
-		<td></td>
+		<td>121</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -295,8 +295,8 @@
 		<td>81</td>
 		<td>81</td>
 		<td>86</td>
-		<td>86</td>
-		<td></td>
+		<td>88</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -350,8 +350,8 @@
 		<td>16</td>
 		<td>18</td>
 		<td>21</td>
-		<td>21</td>
-		<td></td>
+		<td>23</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -383,8 +383,8 @@
 		<td>95</td>
 		<td>95</td>
 		<td>98</td>
-		<td>98</td>
-		<td></td>
+		<td>100</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -471,8 +471,8 @@
 		<td>34</td>
 		<td>36</td>
 		<td>39</td>
-		<td>39</td>
-		<td></td>
+		<td>41</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </h6>
