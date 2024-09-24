@@ -20,8 +20,8 @@
 		<td>72</td>
 		<td>74</td>
 		<td>78</td>
-		<td>78</td>
-		<td></td>
+		<td>80</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -31,8 +31,8 @@
 		<td>114</td>
 		<td>114</td>
 		<td>122</td>
-		<td>122</td>
-		<td></td>
+		<td>124</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -64,8 +64,8 @@
 		<td>86</td>
 		<td>86</td>
 		<td>89</td>
-		<td>89</td>
-		<td></td>
+		<td>91</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -262,8 +262,8 @@
 		<td>70</td>
 		<td>70</td>
 		<td>75</td>
-		<td>75</td>
-		<td></td>
+		<td>77</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>

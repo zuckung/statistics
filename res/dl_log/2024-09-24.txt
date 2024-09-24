@@ -5,7 +5,7 @@ v1.0.5-coalition.shopping | downloads: 13
 v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 18
-v1.0.6-additional.command.buttons.radial | downloads: 23
+v1.0.6-additional.command.buttons.radial | downloads: 25
 v1.0.3-no.more.mereti.mines | downloads: 11
 v1.0.1-paint.your.ships | downloads: 19
 v1.0.0-paint.your.ships | downloads: 4
@@ -23,7 +23,7 @@ v1.0.2-tribute.republic | downloads: 34
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 46
 v1.0.0-tribute.republic | downloads: 2
-v1.0.3-landing.images.android | downloads: 47
+v1.0.3-landing.images.android | downloads: 49
 v1.0.2-landing.images.android | downloads: 2
 v1.0.1-landing.images.android | downloads: 21
 v1.0.2-no.more.mereti.mines | downloads: 54
@@ -57,11 +57,11 @@ v1.0.3-bunrodea.missions | downloads: 2
 v1.0.2-too.many.asteroids | downloads: 86
 v1.0.2-navy.licenses | downloads: 118
 v1.0.2-expert.crew.members | downloads: 92
-v1.0.2-additional.command.buttons | downloads: 76
+v1.0.2-additional.command.buttons | downloads: 78
 v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 99
 v1.0.1-expert.crew.members | downloads: 3
-v1.0.1-better.starts | downloads: 85
+v1.0.1-better.starts | downloads: 87
 v1.0.1-automata.destruction.0percent | downloads: 83
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
@@ -126,15 +126,15 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 125
-# TOTAL DOWNLOADS: 3330
+# TOTAL DOWNLOADS: 3338
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-additional.command.buttons 78
-additional.command.buttons.radial 122
+additional.command.buttons 80
+additional.command.buttons.radial 124
 automata.destruction.0percent 84
 automata.in.human.space 61
-better.starts 89
+better.starts 91
 bunrodea.missions 99
 captureable.person.ships 88
 coalition.shopping 115
@@ -152,7 +152,7 @@ jump.gates 90
 kestrel.unlocks 50
 kor.efret.shipyard 100
 landing.images 64
-landing.images.android 75
+landing.images.android 77
 landing.images.highres 62
 more.arfectas 121
 more.boarding.missions 88
