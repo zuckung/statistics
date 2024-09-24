@@ -75,8 +75,8 @@
 		<td>91</td>
 		<td>93</td>
 		<td>99</td>
-		<td>99</td>
-		<td></td>
+		<td>101</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -185,8 +185,8 @@
 		<td>114</td>
 		<td>116</td>
 		<td>119</td>
-		<td>119</td>
-		<td></td>
+		<td>121</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -438,8 +438,8 @@
 		<td>86</td>
 		<td>86</td>
 		<td>90</td>
-		<td>90</td>
-		<td></td>
+		<td>92</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
