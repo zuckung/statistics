@@ -152,8 +152,8 @@
 		<td>93</td>
 		<td>97</td>
 		<td>100</td>
-		<td>100</td>
-		<td></td>
+		<td>101</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -317,8 +317,8 @@
 		<td>123</td>
 		<td>127</td>
 		<td>128</td>
-		<td>128</td>
-		<td></td>
+		<td>129</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -339,8 +339,8 @@
 		<td>30</td>
 		<td>32</td>
 		<td>33</td>
-		<td>33</td>
-		<td></td>
+		<td>34</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -372,8 +372,8 @@
 		<td>56</td>
 		<td>59</td>
 		<td>60</td>
-		<td>60</td>
-		<td></td>
+		<td>61</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
