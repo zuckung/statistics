@@ -438,8 +438,8 @@
 		<td>86</td>
 		<td>90</td>
 		<td>93</td>
-		<td>93</td>
-		<td></td>
+		<td>94</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>

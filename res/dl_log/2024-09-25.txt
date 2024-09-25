@@ -55,7 +55,7 @@ v1.1.1-galactic.capital.investment | downloads: 1
 v1.0.4-real.fluff | downloads: 1
 v1.0.3-real.fluff | downloads: 2
 v1.0.3-bunrodea.missions | downloads: 2
-v1.0.2-too.many.asteroids | downloads: 89
+v1.0.2-too.many.asteroids | downloads: 90
 v1.0.2-navy.licenses | downloads: 120
 v1.0.2-expert.crew.members | downloads: 94
 v1.0.2-additional.command.buttons | downloads: 79
@@ -127,7 +127,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 126
-# TOTAL DOWNLOADS: 3400
+# TOTAL DOWNLOADS: 3401
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -169,7 +169,7 @@ real.fluff 93
 show.reputation 81
 snowfeather.robotics 90
 space.fauna 89
-too.many.asteroids 93
+too.many.asteroids 94
 tribute.republic 53
 unique.fix 44
 uniques 44
