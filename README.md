@@ -86,8 +86,8 @@
 		<td>82</td>
 		<td>88</td>
 		<td>89</td>
-		<td>89</td>
-		<td></td>
+		<td>91</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -108,8 +108,8 @@
 		<td>83</td>
 		<td>86</td>
 		<td>87</td>
-		<td>87</td>
-		<td></td>
+		<td>89</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -163,8 +163,8 @@
 		<td>62</td>
 		<td>64</td>
 		<td>65</td>
-		<td>65</td>
-		<td></td>
+		<td>67</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -284,8 +284,8 @@
 		<td>115</td>
 		<td>119</td>
 		<td>122</td>
-		<td>122</td>
-		<td></td>
+		<td>124</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -295,8 +295,8 @@
 		<td>81</td>
 		<td>86</td>
 		<td>89</td>
-		<td>89</td>
-		<td></td>
+		<td>91</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -306,8 +306,8 @@
 		<td>88</td>
 		<td>91</td>
 		<td>92</td>
-		<td>92</td>
-		<td></td>
+		<td>94</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -471,8 +471,8 @@
 		<td>36</td>
 		<td>39</td>
 		<td>42</td>
-		<td>42</td>
-		<td></td>
+		<td>44</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </h6>
