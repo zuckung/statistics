@@ -383,8 +383,8 @@
 		<td>101</td>
 		<td>101</td>
 		<td>101</td>
-		<td>102</td>
-		<td>+ 1</td>
+		<td>104</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
