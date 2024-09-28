@@ -152,8 +152,8 @@
 		<td>101</td>
 		<td>101</td>
 		<td>102</td>
-		<td>102</td>
-		<td></td>
+		<td>104</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>

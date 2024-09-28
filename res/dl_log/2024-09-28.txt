@@ -57,7 +57,7 @@ v1.0.3-real.fluff | downloads: 2
 v1.0.3-bunrodea.missions | downloads: 2
 v1.0.2-too.many.asteroids | downloads: 90
 v1.0.2-navy.licenses | downloads: 120
-v1.0.2-expert.crew.members | downloads: 95
+v1.0.2-expert.crew.members | downloads: 97
 v1.0.2-additional.command.buttons | downloads: 79
 v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 104
@@ -127,7 +127,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 126
-# TOTAL DOWNLOADS: 3411
+# TOTAL DOWNLOADS: 3413
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -143,7 +143,7 @@ control.station 89
 devil-run.unhidden 66
 disable.person.ships 61
 disable.spaceport.repeatables 74
-expert.crew.members 102
+expert.crew.members 104
 free.worlds.5.years.later 67
 galactic.capital.investment 129
 gegno.pirates 123
