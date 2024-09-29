@@ -64,8 +64,8 @@
 		<td>92</td>
 		<td>92</td>
 		<td>92</td>
-		<td>92</td>
-		<td></td>
+		<td>93</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -152,8 +152,8 @@
 		<td>101</td>
 		<td>102</td>
 		<td>104</td>
-		<td>106</td>
-		<td>+ 2</td>
+		<td>108</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
