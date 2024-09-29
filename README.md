@@ -185,8 +185,8 @@
 		<td>122</td>
 		<td>123</td>
 		<td>123</td>
-		<td>125</td>
-		<td>+ 2</td>
+		<td>127</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -218,8 +218,8 @@
 		<td>91</td>
 		<td>91</td>
 		<td>91</td>
-		<td>93</td>
-		<td>+ 2</td>
+		<td>95</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -240,8 +240,8 @@
 		<td>101</td>
 		<td>101</td>
 		<td>101</td>
-		<td>103</td>
-		<td>+ 2</td>
+		<td>105</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -295,8 +295,8 @@
 		<td>91</td>
 		<td>91</td>
 		<td>91</td>
-		<td>91</td>
-		<td></td>
+		<td>93</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -317,8 +317,8 @@
 		<td>129</td>
 		<td>129</td>
 		<td>129</td>
-		<td>130</td>
-		<td>+ 1</td>
+		<td>132</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -350,8 +350,8 @@
 		<td>24</td>
 		<td>24</td>
 		<td>24</td>
-		<td>24</td>
-		<td></td>
+		<td>26</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -383,8 +383,8 @@
 		<td>101</td>
 		<td>104</td>
 		<td>105</td>
-		<td>105</td>
-		<td></td>
+		<td>107</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -405,8 +405,8 @@
 		<td>81</td>
 		<td>81</td>
 		<td>81</td>
-		<td>81</td>
-		<td></td>
+		<td>83</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -416,8 +416,8 @@
 		<td>90</td>
 		<td>90</td>
 		<td>90</td>
-		<td>90</td>
-		<td></td>
+		<td>92</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -427,8 +427,8 @@
 		<td>89</td>
 		<td>89</td>
 		<td>89</td>
-		<td>89</td>
-		<td></td>
+		<td>91</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
