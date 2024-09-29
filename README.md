@@ -53,8 +53,8 @@
 		<td>62</td>
 		<td>62</td>
 		<td>62</td>
-		<td>62</td>
-		<td></td>
+		<td>64</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -75,8 +75,8 @@
 		<td>102</td>
 		<td>103</td>
 		<td>103</td>
-		<td>103</td>
-		<td></td>
+		<td>105</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -97,8 +97,8 @@
 		<td>116</td>
 		<td>116</td>
 		<td>116</td>
-		<td>116</td>
-		<td></td>
+		<td>118</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -152,8 +152,8 @@
 		<td>101</td>
 		<td>102</td>
 		<td>104</td>
-		<td>104</td>
-		<td></td>
+		<td>106</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -185,8 +185,8 @@
 		<td>122</td>
 		<td>123</td>
 		<td>123</td>
-		<td>123</td>
-		<td></td>
+		<td>125</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -218,8 +218,8 @@
 		<td>91</td>
 		<td>91</td>
 		<td>91</td>
-		<td>91</td>
-		<td></td>
+		<td>93</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -229,8 +229,8 @@
 		<td>51</td>
 		<td>51</td>
 		<td>51</td>
-		<td>51</td>
-		<td></td>
+		<td>52</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -240,8 +240,8 @@
 		<td>101</td>
 		<td>101</td>
 		<td>101</td>
-		<td>101</td>
-		<td></td>
+		<td>103</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -317,8 +317,8 @@
 		<td>129</td>
 		<td>129</td>
 		<td>129</td>
-		<td>129</td>
-		<td></td>
+		<td>130</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -328,8 +328,8 @@
 		<td>68</td>
 		<td>68</td>
 		<td>68</td>
-		<td>68</td>
-		<td></td>
+		<td>70</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -339,8 +339,8 @@
 		<td>34</td>
 		<td>34</td>
 		<td>34</td>
-		<td>34</td>
-		<td></td>
+		<td>36</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -438,8 +438,8 @@
 		<td>94</td>
 		<td>94</td>
 		<td>94</td>
-		<td>94</td>
-		<td></td>
+		<td>96</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
