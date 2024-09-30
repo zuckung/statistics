@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.3-too.many.asteroids | downloads: 1
+v1.0.3-too.many.asteroids | downloads: 2
 v1.0.1-automata.in.human.space | downloads: 4
 v1.0.4-uniques | downloads: 9
 v1.0.3-uniques | downloads: 5
@@ -128,7 +128,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 127
-# TOTAL DOWNLOADS: 3512
+# TOTAL DOWNLOADS: 3513
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -170,7 +170,7 @@ real.fluff 93
 show.reputation 86
 snowfeather.robotics 93
 space.fauna 92
-too.many.asteroids 97
+too.many.asteroids 98
 tribute.republic 54
 unique.fix 44
 uniques 47
