@@ -25,7 +25,7 @@ v1.0.2-tribute.republic | downloads: 36
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 48
 v1.0.0-tribute.republic | downloads: 2
-v1.0.3-landing.images.android | downloads: 51
+v1.0.3-landing.images.android | downloads: 53
 v1.0.2-landing.images.android | downloads: 2
 v1.0.1-landing.images.android | downloads: 21
 v1.0.2-no.more.mereti.mines | downloads: 54
@@ -128,7 +128,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 127
-# TOTAL DOWNLOADS: 3510
+# TOTAL DOWNLOADS: 3512
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -154,7 +154,7 @@ jump.gates 96
 kestrel.unlocks 53
 kor.efret.shipyard 106
 landing.images 66
-landing.images.android 79
+landing.images.android 81
 landing.images.highres 64
 more.arfectas 125
 more.boarding.missions 96

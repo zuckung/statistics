@@ -262,8 +262,8 @@
 		<td>78</td>
 		<td>78</td>
 		<td>79</td>
-		<td>79</td>
-		<td></td>
+		<td>81</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
