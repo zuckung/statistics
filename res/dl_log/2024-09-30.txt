@@ -7,7 +7,7 @@ v1.0.5-coalition.shopping | downloads: 17
 v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 20
-v1.0.6-additional.command.buttons.radial | downloads: 27
+v1.0.6-additional.command.buttons.radial | downloads: 28
 v1.0.3-no.more.mereti.mines | downloads: 15
 v1.0.1-paint.your.ships | downloads: 25
 v1.0.0-paint.your.ships | downloads: 4
@@ -59,7 +59,7 @@ v1.0.3-bunrodea.missions | downloads: 2
 v1.0.2-too.many.asteroids | downloads: 92
 v1.0.2-navy.licenses | downloads: 124
 v1.0.2-expert.crew.members | downloads: 102
-v1.0.2-additional.command.buttons | downloads: 80
+v1.0.2-additional.command.buttons | downloads: 81
 v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 107
 v1.0.1-expert.crew.members | downloads: 3
@@ -128,12 +128,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 127
-# TOTAL DOWNLOADS: 3508
+# TOTAL DOWNLOADS: 3510
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-additional.command.buttons 82
-additional.command.buttons.radial 126
+additional.command.buttons 83
+additional.command.buttons.radial 127
 automata.destruction.0percent 86
 automata.in.human.space 65
 better.starts 94

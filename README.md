@@ -20,8 +20,8 @@
 		<td>81</td>
 		<td>81</td>
 		<td>82</td>
-		<td>82</td>
-		<td></td>
+		<td>83</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -31,8 +31,8 @@
 		<td>125</td>
 		<td>125</td>
 		<td>126</td>
-		<td>126</td>
-		<td></td>
+		<td>127</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
