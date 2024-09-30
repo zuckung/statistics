@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.3-too.many.asteroids | downloads: 2
+v1.0.3-too.many.asteroids | downloads: 4
 v1.0.1-automata.in.human.space | downloads: 4
 v1.0.4-uniques | downloads: 9
 v1.0.3-uniques | downloads: 5
@@ -41,7 +41,7 @@ v1.0.6-real.fluff | downloads: 1
 v1.0.1-jump.gates | downloads: 95
 v1.0.0-jump.gates | downloads: 1
 v1.1.4-captureable.person.ships | downloads: 85
-v1.1.3-galactic.capital.investment | downloads: 101
+v1.1.3-galactic.capital.investment | downloads: 103
 v1.0.5-real.fluff | downloads: 1
 v1.0.4-human.labels | downloads: 78
 v1.0.3-human.labels | downloads: 2
@@ -87,7 +87,7 @@ v1.0.2-bunrodea.missions | downloads: 1
 v1.1.2-more.boarding.missions | downloads: 1
 v1.0.1-coalition.shopping | downloads: 2
 v1.0.2-real.fluff | downloads: 1
-v1.0.1-gegno.pirates | downloads: 127
+v1.0.1-gegno.pirates | downloads: 129
 v1.1.2-hai.side.mission.unlocker | downloads: 1
 v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
@@ -128,7 +128,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 127
-# TOTAL DOWNLOADS: 3513
+# TOTAL DOWNLOADS: 3519
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -146,8 +146,8 @@ disable.person.ships 62
 disable.spaceport.repeatables 75
 expert.crew.members 109
 free.worlds.5.years.later 69
-galactic.capital.investment 131
-gegno.pirates 128
+galactic.capital.investment 133
+gegno.pirates 130
 hai.side.mission.unlocker 95
 human.labels 83
 jump.gates 96
@@ -170,7 +170,7 @@ real.fluff 93
 show.reputation 86
 snowfeather.robotics 93
 space.fauna 92
-too.many.asteroids 98
+too.many.asteroids 100
 tribute.republic 54
 unique.fix 44
 uniques 47
