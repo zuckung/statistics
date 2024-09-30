@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.3-too.many.asteroids | downloads: 1
 v1.0.1-automata.in.human.space | downloads: 4
-v1.0.4-uniques | downloads: 7
+v1.0.4-uniques | downloads: 8
 v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 17
 v1.0.4-coalition.shopping | downloads: 1
@@ -16,7 +16,7 @@ v1.0.1-uniques | downloads: 14
 v1.0.4-additional.command.buttons.radial | downloads: 5
 v1.0.3-additional.command.buttons.radial | downloads: 10
 v1.0.2-additional.command.buttons.radial | downloads: 4
-v1.0.0-outfits.weapon.slot | downloads: 37
+v1.0.0-outfits.weapon.slot | downloads: 38
 v1.0.1-more.person.ships | downloads: 43
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 37
@@ -41,7 +41,7 @@ v1.0.6-real.fluff | downloads: 1
 v1.0.1-jump.gates | downloads: 95
 v1.0.0-jump.gates | downloads: 1
 v1.1.4-captureable.person.ships | downloads: 85
-v1.1.3-galactic.capital.investment | downloads: 100
+v1.1.3-galactic.capital.investment | downloads: 101
 v1.0.5-real.fluff | downloads: 1
 v1.0.4-human.labels | downloads: 78
 v1.0.3-human.labels | downloads: 2
@@ -114,7 +114,7 @@ v1.0-more.boarding.missions | downloads: 4
 v1.0-more.arfectas | downloads: 1
 v1.0-kor.efret.shipyard | downloads: 106
 v1.0-gegno.pirates | downloads: 1
-v1.0-free.worlds.5.years.later | downloads: 68
+v1.0-free.worlds.5.years.later | downloads: 69
 v1.0-expert.crew.members | downloads: 4
 v1.0-disable.person.ships | downloads: 62
 v1.0-devil-run.unhidden | downloads: 1
@@ -128,7 +128,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 127
-# TOTAL DOWNLOADS: 3502
+# TOTAL DOWNLOADS: 3506
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -145,8 +145,8 @@ devil-run.unhidden 66
 disable.person.ships 62
 disable.spaceport.repeatables 75
 expert.crew.members 109
-free.worlds.5.years.later 68
-galactic.capital.investment 130
+free.worlds.5.years.later 69
+galactic.capital.investment 131
 gegno.pirates 128
 hai.side.mission.unlocker 95
 human.labels 83
@@ -161,7 +161,7 @@ more.boarding.missions 96
 more.person.ships 95
 navy.licenses 133
 no.more.mereti.mines 71
-outfits.weapon.slot 37
+outfits.weapon.slot 38
 paint.your.ships 29
 pirate.warlords 2
 planet.map 62
@@ -173,4 +173,4 @@ space.fauna 92
 too.many.asteroids 97
 tribute.republic 54
 unique.fix 44
-uniques 45
+uniques 46

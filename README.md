@@ -163,8 +163,8 @@
 		<td>67</td>
 		<td>67</td>
 		<td>68</td>
-		<td>68</td>
-		<td></td>
+		<td>69</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -174,8 +174,8 @@
 		<td>129</td>
 		<td>129</td>
 		<td>130</td>
-		<td>130</td>
-		<td></td>
+		<td>131</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -339,8 +339,8 @@
 		<td>34</td>
 		<td>34</td>
 		<td>37</td>
-		<td>37</td>
-		<td></td>
+		<td>38</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -471,8 +471,8 @@
 		<td>44</td>
 		<td>44</td>
 		<td>45</td>
-		<td>45</td>
-		<td></td>
+		<td>46</td>
+		<td>+ 1</td>
 	</tr>
 </table>
 </h6>
