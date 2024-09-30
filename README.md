@@ -328,8 +328,8 @@
 		<td>68</td>
 		<td>68</td>
 		<td>71</td>
-		<td>71</td>
-		<td></td>
+		<td>72</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -438,8 +438,8 @@
 		<td>94</td>
 		<td>94</td>
 		<td>97</td>
-		<td>100</td>
-		<td>+ 3</td>
+		<td>101</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>

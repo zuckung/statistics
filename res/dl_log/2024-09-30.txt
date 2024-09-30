@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.3-too.many.asteroids | downloads: 4
+v1.0.3-too.many.asteroids | downloads: 5
 v1.0.1-automata.in.human.space | downloads: 4
 v1.0.4-uniques | downloads: 9
 v1.0.3-uniques | downloads: 5
@@ -8,7 +8,7 @@ v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 20
 v1.0.6-additional.command.buttons.radial | downloads: 28
-v1.0.3-no.more.mereti.mines | downloads: 15
+v1.0.3-no.more.mereti.mines | downloads: 16
 v1.0.1-paint.your.ships | downloads: 25
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
@@ -128,7 +128,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 127
-# TOTAL DOWNLOADS: 3519
+# TOTAL DOWNLOADS: 3521
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -160,7 +160,7 @@ more.arfectas 125
 more.boarding.missions 96
 more.person.ships 96
 navy.licenses 133
-no.more.mereti.mines 71
+no.more.mereti.mines 72
 outfits.weapon.slot 38
 paint.your.ships 29
 pirate.warlords 2
@@ -170,7 +170,7 @@ real.fluff 93
 show.reputation 86
 snowfeather.robotics 93
 space.fauna 92
-too.many.asteroids 100
+too.many.asteroids 101
 tribute.republic 54
 unique.fix 44
 uniques 47
