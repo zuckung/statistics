@@ -130,8 +130,8 @@
 		<td>61</td>
 		<td>61</td>
 		<td>62</td>
-		<td>62</td>
-		<td></td>
+		<td>64</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -306,8 +306,8 @@
 		<td>94</td>
 		<td>94</td>
 		<td>95</td>
-		<td>96</td>
-		<td>+ 1</td>
+		<td>98</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -328,8 +328,8 @@
 		<td>68</td>
 		<td>68</td>
 		<td>71</td>
-		<td>72</td>
-		<td>+ 1</td>
+		<td>73</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -438,8 +438,8 @@
 		<td>94</td>
 		<td>94</td>
 		<td>97</td>
-		<td>101</td>
-		<td>+ 4</td>
+		<td>102</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
