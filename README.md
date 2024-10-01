@@ -174,8 +174,8 @@
 		<td>129</td>
 		<td>130</td>
 		<td>133</td>
-		<td>133</td>
-		<td></td>
+		<td>134</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -240,8 +240,8 @@
 		<td>101</td>
 		<td>106</td>
 		<td>106</td>
-		<td>106</td>
-		<td></td>
+		<td>107</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -284,8 +284,8 @@
 		<td>124</td>
 		<td>125</td>
 		<td>125</td>
-		<td>125</td>
-		<td></td>
+		<td>126</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -383,8 +383,8 @@
 		<td>105</td>
 		<td>108</td>
 		<td>108</td>
-		<td>108</td>
-		<td></td>
+		<td>109</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
