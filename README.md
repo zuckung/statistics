@@ -152,8 +152,8 @@
 		<td>104</td>
 		<td>109</td>
 		<td>109</td>
-		<td>109</td>
-		<td></td>
+		<td>110</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -229,8 +229,8 @@
 		<td>51</td>
 		<td>53</td>
 		<td>53</td>
-		<td>53</td>
-		<td></td>
+		<td>54</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -350,8 +350,8 @@
 		<td>24</td>
 		<td>27</td>
 		<td>29</td>
-		<td>29</td>
-		<td></td>
+		<td>30</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -471,8 +471,8 @@
 		<td>44</td>
 		<td>45</td>
 		<td>47</td>
-		<td>47</td>
-		<td></td>
+		<td>48</td>
+		<td>+ 1</td>
 	</tr>
 </table>
 </h6>

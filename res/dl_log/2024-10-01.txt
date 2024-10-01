@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.3-too.many.asteroids | downloads: 6
 v1.0.1-automata.in.human.space | downloads: 4
-v1.0.4-uniques | downloads: 9
+v1.0.4-uniques | downloads: 10
 v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 17
 v1.0.4-coalition.shopping | downloads: 1
@@ -9,7 +9,7 @@ v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 20
 v1.0.6-additional.command.buttons.radial | downloads: 28
 v1.0.3-no.more.mereti.mines | downloads: 17
-v1.0.1-paint.your.ships | downloads: 25
+v1.0.1-paint.your.ships | downloads: 26
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
 v1.0.1-uniques | downloads: 14
@@ -20,7 +20,7 @@ v1.0.0-outfits.weapon.slot | downloads: 38
 v1.0.1-more.person.ships | downloads: 46
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 37
-v1.0.0-kestrel.unlocks | downloads: 53
+v1.0.0-kestrel.unlocks | downloads: 54
 v1.0.2-tribute.republic | downloads: 36
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 48
@@ -58,7 +58,7 @@ v1.0.3-real.fluff | downloads: 2
 v1.0.3-bunrodea.missions | downloads: 2
 v1.0.2-too.many.asteroids | downloads: 92
 v1.0.2-navy.licenses | downloads: 124
-v1.0.2-expert.crew.members | downloads: 102
+v1.0.2-expert.crew.members | downloads: 103
 v1.0.2-additional.command.buttons | downloads: 81
 v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 107
@@ -128,7 +128,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 127
-# TOTAL DOWNLOADS: 3527
+# TOTAL DOWNLOADS: 3531
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -144,14 +144,14 @@ control.station 90
 devil-run.unhidden 66
 disable.person.ships 64
 disable.spaceport.repeatables 75
-expert.crew.members 109
+expert.crew.members 110
 free.worlds.5.years.later 69
 galactic.capital.investment 133
 gegno.pirates 130
 hai.side.mission.unlocker 95
 human.labels 83
 jump.gates 96
-kestrel.unlocks 53
+kestrel.unlocks 54
 kor.efret.shipyard 106
 landing.images 66
 landing.images.android 81
@@ -162,7 +162,7 @@ more.person.ships 98
 navy.licenses 133
 no.more.mereti.mines 73
 outfits.weapon.slot 38
-paint.your.ships 29
+paint.your.ships 30
 pirate.warlords 2
 planet.map 62
 quarg.farm 108
@@ -173,4 +173,4 @@ space.fauna 92
 too.many.asteroids 102
 tribute.republic 54
 unique.fix 44
-uniques 47
+uniques 48
