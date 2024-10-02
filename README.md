@@ -75,8 +75,8 @@
 		<td>106</td>
 		<td>106</td>
 		<td>106</td>
-		<td>107</td>
-		<td>+ 1</td>
+		<td>109</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -97,8 +97,8 @@
 		<td>119</td>
 		<td>119</td>
 		<td>119</td>
-		<td>120</td>
-		<td>+ 1</td>
+		<td>122</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -306,8 +306,8 @@
 		<td>95</td>
 		<td>98</td>
 		<td>98</td>
-		<td>99</td>
-		<td>+ 1</td>
+		<td>101</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -339,8 +339,8 @@
 		<td>37</td>
 		<td>38</td>
 		<td>38</td>
-		<td>39</td>
-		<td>+ 1</td>
+		<td>41</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -372,8 +372,8 @@
 		<td>62</td>
 		<td>62</td>
 		<td>62</td>
-		<td>63</td>
-		<td>+ 1</td>
+		<td>65</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>

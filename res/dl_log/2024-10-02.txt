@@ -4,7 +4,7 @@ v1.0.3-too.many.asteroids | downloads: 9
 v1.0.1-automata.in.human.space | downloads: 5
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
-v1.0.5-coalition.shopping | downloads: 18
+v1.0.5-coalition.shopping | downloads: 20
 v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 21
@@ -17,10 +17,10 @@ v1.0.1-uniques | downloads: 14
 v1.0.4-additional.command.buttons.radial | downloads: 5
 v1.0.3-additional.command.buttons.radial | downloads: 10
 v1.0.2-additional.command.buttons.radial | downloads: 4
-v1.0.0-outfits.weapon.slot | downloads: 39
-v1.0.1-more.person.ships | downloads: 47
+v1.0.0-outfits.weapon.slot | downloads: 41
+v1.0.1-more.person.ships | downloads: 49
 v1.0.1-additional.command.buttons.radial | downloads: 10
-v1.0.1-planet.map | downloads: 38
+v1.0.1-planet.map | downloads: 40
 v1.0.0-kestrel.unlocks | downloads: 55
 v1.0.2-tribute.republic | downloads: 37
 v1.0.1-tribute.republic | downloads: 16
@@ -49,7 +49,7 @@ v1.0.3-human.labels | downloads: 2
 v1.0.2-human.labels | downloads: 1
 v1.0.1-human.labels | downloads: 1
 v1.0.0-more.person.ships | downloads: 52
-v1.0.4-bunrodea.missions | downloads: 99
+v1.0.4-bunrodea.missions | downloads: 101
 v1.0.0-human.labels | downloads: 1
 v1.1.3-captureable.person.ships | downloads: 1
 v1.1.2-galactic.capital.investment | downloads: 1
@@ -129,7 +129,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 128
-# TOTAL DOWNLOADS: 3583
+# TOTAL DOWNLOADS: 3593
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -138,9 +138,9 @@ additional.command.buttons.radial 129
 automata.destruction.0percent 87
 automata.in.human.space 66
 better.starts 95
-bunrodea.missions 107
+bunrodea.missions 109
 captureable.person.ships 93
-coalition.shopping 120
+coalition.shopping 122
 control.station 91
 devil-run.unhidden 66
 disable.person.ships 65
@@ -159,13 +159,13 @@ landing.images.android 82
 landing.images.highres 65
 more.arfectas 127
 more.boarding.missions 97
-more.person.ships 99
+more.person.ships 101
 navy.licenses 134
 no.more.mereti.mines 74
-outfits.weapon.slot 39
+outfits.weapon.slot 41
 paint.your.ships 31
 pirate.warlords 2
-planet.map 63
+planet.map 65
 quarg.farm 112
 real.fluff 93
 show.reputation 87
