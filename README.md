@@ -174,8 +174,8 @@
 		<td>130</td>
 		<td>133</td>
 		<td>134</td>
-		<td>135</td>
-		<td>+ 1</td>
+		<td>137</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -416,8 +416,8 @@
 		<td>93</td>
 		<td>93</td>
 		<td>93</td>
-		<td>94</td>
-		<td>+ 1</td>
+		<td>96</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
