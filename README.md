@@ -141,8 +141,8 @@
 		<td>75</td>
 		<td>75</td>
 		<td>75</td>
-		<td>76</td>
-		<td>+ 1</td>
+		<td>78</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
