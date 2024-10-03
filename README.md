@@ -31,8 +31,8 @@
 		<td>127</td>
 		<td>127</td>
 		<td>129</td>
-		<td>131</td>
-		<td>+ 2</td>
+		<td>133</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -53,8 +53,8 @@
 		<td>65</td>
 		<td>65</td>
 		<td>66</td>
-		<td>66</td>
-		<td></td>
+		<td>68</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -163,8 +163,8 @@
 		<td>69</td>
 		<td>69</td>
 		<td>70</td>
-		<td>70</td>
-		<td></td>
+		<td>72</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -174,8 +174,8 @@
 		<td>133</td>
 		<td>134</td>
 		<td>137</td>
-		<td>140</td>
-		<td>+ 3</td>
+		<td>142</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
