@@ -174,8 +174,8 @@
 		<td>133</td>
 		<td>134</td>
 		<td>137</td>
-		<td>137</td>
-		<td></td>
+		<td>139</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
