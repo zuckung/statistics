@@ -196,8 +196,8 @@
 		<td>95</td>
 		<td>95</td>
 		<td>96</td>
-		<td>96</td>
-		<td></td>
+		<td>98</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -295,8 +295,8 @@
 		<td>96</td>
 		<td>96</td>
 		<td>97</td>
-		<td>97</td>
-		<td></td>
+		<td>99</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -317,8 +317,8 @@
 		<td>133</td>
 		<td>133</td>
 		<td>134</td>
-		<td>134</td>
-		<td></td>
+		<td>136</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -350,8 +350,8 @@
 		<td>29</td>
 		<td>30</td>
 		<td>31</td>
-		<td>31</td>
-		<td></td>
+		<td>33</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -416,8 +416,8 @@
 		<td>93</td>
 		<td>93</td>
 		<td>96</td>
-		<td>96</td>
-		<td></td>
+		<td>98</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
