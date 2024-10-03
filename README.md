@@ -75,8 +75,8 @@
 		<td>106</td>
 		<td>106</td>
 		<td>109</td>
-		<td>111</td>
-		<td>+ 2</td>
+		<td>113</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -152,8 +152,8 @@
 		<td>109</td>
 		<td>110</td>
 		<td>111</td>
-		<td>111</td>
-		<td></td>
+		<td>112</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -174,8 +174,8 @@
 		<td>133</td>
 		<td>134</td>
 		<td>137</td>
-		<td>139</td>
-		<td>+ 2</td>
+		<td>140</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -185,8 +185,8 @@
 		<td>130</td>
 		<td>130</td>
 		<td>131</td>
-		<td>133</td>
-		<td>+ 2</td>
+		<td>135</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -240,8 +240,8 @@
 		<td>106</td>
 		<td>107</td>
 		<td>108</td>
-		<td>108</td>
-		<td></td>
+		<td>110</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -295,8 +295,8 @@
 		<td>96</td>
 		<td>96</td>
 		<td>97</td>
-		<td>99</td>
-		<td>+ 2</td>
+		<td>101</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -306,8 +306,8 @@
 		<td>98</td>
 		<td>98</td>
 		<td>101</td>
-		<td>103</td>
-		<td>+ 2</td>
+		<td>105</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -317,8 +317,8 @@
 		<td>133</td>
 		<td>133</td>
 		<td>134</td>
-		<td>136</td>
-		<td>+ 2</td>
+		<td>138</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -339,8 +339,8 @@
 		<td>38</td>
 		<td>38</td>
 		<td>41</td>
-		<td>41</td>
-		<td></td>
+		<td>43</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -416,8 +416,8 @@
 		<td>93</td>
 		<td>93</td>
 		<td>96</td>
-		<td>98</td>
-		<td>+ 2</td>
+		<td>100</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
