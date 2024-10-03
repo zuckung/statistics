@@ -75,8 +75,8 @@
 		<td>106</td>
 		<td>106</td>
 		<td>109</td>
-		<td>109</td>
-		<td></td>
+		<td>111</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -185,8 +185,8 @@
 		<td>130</td>
 		<td>130</td>
 		<td>131</td>
-		<td>131</td>
-		<td></td>
+		<td>133</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -306,8 +306,8 @@
 		<td>98</td>
 		<td>98</td>
 		<td>101</td>
-		<td>101</td>
-		<td></td>
+		<td>103</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -427,8 +427,8 @@
 		<td>92</td>
 		<td>92</td>
 		<td>93</td>
-		<td>93</td>
-		<td></td>
+		<td>95</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -471,8 +471,8 @@
 		<td>47</td>
 		<td>50</td>
 		<td>51</td>
-		<td>51</td>
-		<td></td>
+		<td>53</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </h6>
