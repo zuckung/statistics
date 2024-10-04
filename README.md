@@ -339,8 +339,8 @@
 		<td>38</td>
 		<td>41</td>
 		<td>43</td>
-		<td>45</td>
-		<td>+ 2</td>
+		<td>46</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
