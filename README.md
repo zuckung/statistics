@@ -174,8 +174,8 @@
 		<td>134</td>
 		<td>137</td>
 		<td>142</td>
-		<td>144</td>
-		<td>+ 2</td>
+		<td>146</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -218,8 +218,8 @@
 		<td>96</td>
 		<td>97</td>
 		<td>97</td>
-		<td>97</td>
-		<td></td>
+		<td>99</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -306,8 +306,8 @@
 		<td>98</td>
 		<td>101</td>
 		<td>105</td>
-		<td>105</td>
-		<td></td>
+		<td>107</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -438,8 +438,8 @@
 		<td>104</td>
 		<td>105</td>
 		<td>107</td>
-		<td>107</td>
-		<td></td>
+		<td>109</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -471,8 +471,8 @@
 		<td>50</td>
 		<td>51</td>
 		<td>53</td>
-		<td>53</td>
-		<td></td>
+		<td>55</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </h6>
