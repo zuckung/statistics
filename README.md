@@ -31,8 +31,8 @@
 		<td>127</td>
 		<td>129</td>
 		<td>133</td>
-		<td>133</td>
-		<td></td>
+		<td>137</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -174,8 +174,8 @@
 		<td>134</td>
 		<td>137</td>
 		<td>142</td>
-		<td>142</td>
-		<td></td>
+		<td>144</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -262,8 +262,8 @@
 		<td>81</td>
 		<td>82</td>
 		<td>82</td>
-		<td>82</td>
-		<td></td>
+		<td>84</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
