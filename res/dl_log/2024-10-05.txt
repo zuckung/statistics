@@ -62,7 +62,7 @@ v1.0.2-navy.licenses | downloads: 131
 v1.0.2-expert.crew.members | downloads: 107
 v1.0.2-additional.command.buttons | downloads: 83
 v1.0.1-too.many.asteroids | downloads: 2
-v1.0.1-quarg.farm | downloads: 113
+v1.0.1-quarg.farm | downloads: 115
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 96
 v1.0.1-automata.destruction.0percent | downloads: 86
@@ -129,7 +129,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 128
-# TOTAL DOWNLOADS: 3726
+# TOTAL DOWNLOADS: 3728
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -166,7 +166,7 @@ outfits.weapon.slot 46
 paint.your.ships 33
 pirate.warlords 2
 planet.map 65
-quarg.farm 114
+quarg.farm 116
 real.fluff 93
 show.reputation 89
 snowfeather.robotics 102
