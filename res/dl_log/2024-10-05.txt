@@ -80,7 +80,7 @@ v1.0.3-coalition.shopping | downloads: 97
 v1.0.2-coalition.shopping | downloads: 1
 v1.0.1-navy.licenses | downloads: 1
 v1.1.2-space.fauna | downloads: 93
-v1.0.3-snowfeather.robotics | downloads: 95
+v1.0.3-snowfeather.robotics | downloads: 97
 v1.0.2-snowfeather.robotics | downloads: 1
 v1.1.1-space.fauna | downloads: 1
 v1.0-space.fauna | downloads: 1
@@ -129,7 +129,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 128
-# TOTAL DOWNLOADS: 3747
+# TOTAL DOWNLOADS: 3749
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -169,7 +169,7 @@ planet.map 65
 quarg.farm 116
 real.fluff 93
 show.reputation 91
-snowfeather.robotics 102
+snowfeather.robotics 104
 space.fauna 95
 too.many.asteroids 111
 tribute.republic 57

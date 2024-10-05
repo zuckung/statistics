@@ -416,8 +416,8 @@
 		<td>96</td>
 		<td>100</td>
 		<td>102</td>
-		<td>102</td>
-		<td></td>
+		<td>104</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
