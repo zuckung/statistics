@@ -218,8 +218,8 @@
 		<td>97</td>
 		<td>97</td>
 		<td>99</td>
-		<td>99</td>
-		<td></td>
+		<td>100</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -229,8 +229,8 @@
 		<td>55</td>
 		<td>55</td>
 		<td>55</td>
-		<td>55</td>
-		<td></td>
+		<td>56</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -284,8 +284,8 @@
 		<td>127</td>
 		<td>127</td>
 		<td>129</td>
-		<td>129</td>
-		<td></td>
+		<td>130</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -306,8 +306,8 @@
 		<td>101</td>
 		<td>105</td>
 		<td>109</td>
-		<td>109</td>
-		<td></td>
+		<td>111</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -471,8 +471,8 @@
 		<td>51</td>
 		<td>53</td>
 		<td>57</td>
-		<td>57</td>
-		<td></td>
+		<td>59</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </h6>
