@@ -31,8 +31,8 @@
 		<td>129</td>
 		<td>133</td>
 		<td>139</td>
-		<td>139</td>
-		<td></td>
+		<td>141</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -64,8 +64,8 @@
 		<td>95</td>
 		<td>95</td>
 		<td>100</td>
-		<td>100</td>
-		<td></td>
+		<td>101</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -75,8 +75,8 @@
 		<td>109</td>
 		<td>113</td>
 		<td>115</td>
-		<td>115</td>
-		<td></td>
+		<td>117</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -97,8 +97,8 @@
 		<td>122</td>
 		<td>122</td>
 		<td>122</td>
-		<td>122</td>
-		<td></td>
+		<td>124</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -251,8 +251,8 @@
 		<td>67</td>
 		<td>69</td>
 		<td>69</td>
-		<td>69</td>
-		<td></td>
+		<td>71</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -262,8 +262,8 @@
 		<td>82</td>
 		<td>82</td>
 		<td>86</td>
-		<td>86</td>
-		<td></td>
+		<td>88</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -273,8 +273,8 @@
 		<td>65</td>
 		<td>65</td>
 		<td>65</td>
-		<td>65</td>
-		<td></td>
+		<td>67</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -350,8 +350,8 @@
 		<td>31</td>
 		<td>33</td>
 		<td>33</td>
-		<td>33</td>
-		<td></td>
+		<td>35</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
