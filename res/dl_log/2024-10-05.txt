@@ -105,7 +105,7 @@ v1.1-captureable.person.ships | downloads: 4
 v1.0-unique.fix | downloads: 44
 v1.0-too.many.asteroids | downloads: 2
 v1.0-snowfeather.robotics | downloads: 4
-v1.0-show.reputation | downloads: 89
+v1.0-show.reputation | downloads: 91
 v1.0-real.fluff | downloads: 4
 v1.0-planet.map | downloads: 25
 v1.0-pirate.warlords | downloads: 2
@@ -129,7 +129,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 128
-# TOTAL DOWNLOADS: 3745
+# TOTAL DOWNLOADS: 3747
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -168,7 +168,7 @@ pirate.warlords 2
 planet.map 65
 quarg.farm 116
 real.fluff 93
-show.reputation 89
+show.reputation 91
 snowfeather.robotics 102
 space.fauna 95
 too.many.asteroids 111
