@@ -53,8 +53,8 @@
 		<td>66</td>
 		<td>68</td>
 		<td>68</td>
-		<td>68</td>
-		<td></td>
+		<td>70</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -163,8 +163,8 @@
 		<td>70</td>
 		<td>72</td>
 		<td>72</td>
-		<td>72</td>
-		<td></td>
+		<td>74</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -174,8 +174,8 @@
 		<td>137</td>
 		<td>142</td>
 		<td>148</td>
-		<td>148</td>
-		<td></td>
+		<td>150</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -317,8 +317,8 @@
 		<td>134</td>
 		<td>138</td>
 		<td>138</td>
-		<td>138</td>
-		<td></td>
+		<td>140</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -438,8 +438,8 @@
 		<td>105</td>
 		<td>107</td>
 		<td>109</td>
-		<td>109</td>
-		<td></td>
+		<td>111</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
