@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.4-landing.images | downloads: 2
 v1.0.3-landing.images | downloads: 2
-v1.0.2-quarg.farm | downloads: 0
+v1.0.2-quarg.farm | downloads: 1
 v1.0.2-landing.images.highres | downloads: 3
 v1.0.5-uniques | downloads: 13
 v1.0.3-too.many.asteroids | downloads: 19
@@ -133,7 +133,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 132
-# TOTAL DOWNLOADS: 3904
+# TOTAL DOWNLOADS: 3905
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -170,7 +170,7 @@ outfits.weapon.slot 50
 paint.your.ships 39
 pirate.warlords 2
 planet.map 69
-quarg.farm 121
+quarg.farm 122
 real.fluff 93
 show.reputation 97
 snowfeather.robotics 108
