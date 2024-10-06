@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.4-landing.images | downloads: 2
 v1.0.3-landing.images | downloads: 2
-v1.0.2-quarg.farm | downloads: 1
+v1.0.2-quarg.farm | downloads: 3
 v1.0.2-landing.images.highres | downloads: 3
 v1.0.5-uniques | downloads: 13
 v1.0.3-too.many.asteroids | downloads: 19
@@ -69,7 +69,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 101
-v1.0.1-automata.destruction.0percent | downloads: 90
+v1.0.1-automata.destruction.0percent | downloads: 92
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -133,13 +133,13 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 132
-# TOTAL DOWNLOADS: 3909
+# TOTAL DOWNLOADS: 3913
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 89
 additional.command.buttons.radial 145
-automata.destruction.0percent 91
+automata.destruction.0percent 93
 automata.in.human.space 74
 better.starts 105
 bunrodea.missions 121
@@ -170,7 +170,7 @@ outfits.weapon.slot 50
 paint.your.ships 39
 pirate.warlords 2
 planet.map 69
-quarg.farm 122
+quarg.farm 124
 real.fluff 93
 show.reputation 97
 snowfeather.robotics 108

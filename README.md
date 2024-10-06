@@ -42,8 +42,8 @@
 		<td>87</td>
 		<td>87</td>
 		<td>87</td>
-		<td>91</td>
-		<td>+ 4</td>
+		<td>93</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -383,8 +383,8 @@
 		<td>112</td>
 		<td>114</td>
 		<td>116</td>
-		<td>122</td>
-		<td>+ 6</td>
+		<td>124</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
