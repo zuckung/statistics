@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.4-landing.images | downloads: 3
+v1.0.4-landing.images | downloads: 5
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 1
 v1.0.2-quarg.farm | downloads: 4
@@ -13,7 +13,7 @@ v1.0.5-coalition.shopping | downloads: 29
 v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 28
-v1.0.6-additional.command.buttons.radial | downloads: 47
+v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 23
 v1.0.1-paint.your.ships | downloads: 36
 v1.0.0-paint.your.ships | downloads: 4
@@ -80,7 +80,7 @@ v1.0.0-quarg.farm | downloads: 1
 v1.0.1-control.station | downloads: 97
 v1.0.0-control.station | downloads: 1
 v1.0.0-additional.command.buttons.radial | downloads: 52
-v1.1.3-more.boarding.missions | downloads: 101
+v1.1.3-more.boarding.missions | downloads: 103
 v1.0.3-coalition.shopping | downloads: 97
 v1.0.2-coalition.shopping | downloads: 1
 v1.0.1-navy.licenses | downloads: 1
@@ -93,7 +93,7 @@ v1.0.2-bunrodea.missions | downloads: 1
 v1.1.2-more.boarding.missions | downloads: 1
 v1.0.1-coalition.shopping | downloads: 2
 v1.0.2-real.fluff | downloads: 1
-v1.0.1-gegno.pirates | downloads: 139
+v1.0.1-gegno.pirates | downloads: 141
 v1.1.2-hai.side.mission.unlocker | downloads: 1
 v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
@@ -134,12 +134,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 133
-# TOTAL DOWNLOADS: 3951
+# TOTAL DOWNLOADS: 3958
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 90
-additional.command.buttons.radial 146
+additional.command.buttons.radial 147
 automata.destruction.0percent 94
 automata.in.human.space 75
 better.starts 106
@@ -153,17 +153,17 @@ disable.spaceport.repeatables 83
 expert.crew.members 119
 free.worlds.5.years.later 79
 galactic.capital.investment 155
-gegno.pirates 140
+gegno.pirates 142
 hai.side.mission.unlocker 103
 human.labels 89
 jump.gates 107
 kestrel.unlocks 61
 kor.efret.shipyard 117
-landing.images 76
+landing.images 78
 landing.images.android 93
 landing.images.highres 72
 more.arfectas 135
-more.boarding.missions 108
+more.boarding.missions 110
 more.person.ships 116
 navy.licenses 147
 no.more.mereti.mines 79

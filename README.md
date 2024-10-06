@@ -31,8 +31,8 @@
 		<td>133</td>
 		<td>139</td>
 		<td>141</td>
-		<td>146</td>
-		<td>+ 5</td>
+		<td>147</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -185,8 +185,8 @@
 		<td>135</td>
 		<td>135</td>
 		<td>135</td>
-		<td>140</td>
-		<td>+ 5</td>
+		<td>142</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -251,8 +251,8 @@
 		<td>69</td>
 		<td>69</td>
 		<td>71</td>
-		<td>76</td>
-		<td>+ 5</td>
+		<td>78</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -295,8 +295,8 @@
 		<td>101</td>
 		<td>103</td>
 		<td>103</td>
-		<td>108</td>
-		<td>+ 5</td>
+		<td>110</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
