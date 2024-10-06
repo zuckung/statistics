@@ -8,7 +8,7 @@ v1.0.3-too.many.asteroids | downloads: 19
 v1.0.1-automata.in.human.space | downloads: 13
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
-v1.0.5-coalition.shopping | downloads: 26
+v1.0.5-coalition.shopping | downloads: 28
 v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 27
@@ -43,7 +43,7 @@ v1.0.1-no.more.mereti.mines | downloads: 1
 v1.0.8-real.fluff | downloads: 80
 v1.0.7-real.fluff | downloads: 1
 v1.0.6-real.fluff | downloads: 1
-v1.0.1-jump.gates | downloads: 103
+v1.0.1-jump.gates | downloads: 105
 v1.0.0-jump.gates | downloads: 1
 v1.1.4-captureable.person.ships | downloads: 92
 v1.1.3-galactic.capital.investment | downloads: 124
@@ -133,7 +133,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 132
-# TOTAL DOWNLOADS: 3905
+# TOTAL DOWNLOADS: 3909
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -144,7 +144,7 @@ automata.in.human.space 74
 better.starts 105
 bunrodea.missions 121
 captureable.person.ships 99
-coalition.shopping 128
+coalition.shopping 130
 control.station 97
 devil-run.unhidden 66
 disable.person.ships 69
@@ -155,7 +155,7 @@ galactic.capital.investment 154
 gegno.pirates 139
 hai.side.mission.unlocker 102
 human.labels 88
-jump.gates 104
+jump.gates 106
 kestrel.unlocks 60
 kor.efret.shipyard 116
 landing.images 75

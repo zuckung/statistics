@@ -97,8 +97,8 @@
 		<td>122</td>
 		<td>122</td>
 		<td>124</td>
-		<td>128</td>
-		<td>+ 4</td>
+		<td>130</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -218,8 +218,8 @@
 		<td>97</td>
 		<td>99</td>
 		<td>100</td>
-		<td>104</td>
-		<td>+ 4</td>
+		<td>106</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
