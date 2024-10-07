@@ -350,8 +350,8 @@
 		<td>33</td>
 		<td>35</td>
 		<td>40</td>
-		<td>40</td>
-		<td></td>
+		<td>41</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
