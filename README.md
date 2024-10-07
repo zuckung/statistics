@@ -306,8 +306,8 @@
 		<td>109</td>
 		<td>111</td>
 		<td>116</td>
-		<td>116</td>
-		<td></td>
+		<td>117</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>

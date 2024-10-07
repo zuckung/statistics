@@ -23,7 +23,7 @@ v1.0.4-additional.command.buttons.radial | downloads: 5
 v1.0.3-additional.command.buttons.radial | downloads: 10
 v1.0.2-additional.command.buttons.radial | downloads: 4
 v1.0.0-outfits.weapon.slot | downloads: 51
-v1.0.1-more.person.ships | downloads: 64
+v1.0.1-more.person.ships | downloads: 65
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 45
 v1.0.0-kestrel.unlocks | downloads: 61
@@ -134,7 +134,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 133
-# TOTAL DOWNLOADS: 3970
+# TOTAL DOWNLOADS: 3971
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -164,7 +164,7 @@ landing.images.android 93
 landing.images.highres 72
 more.arfectas 136
 more.boarding.missions 110
-more.person.ships 116
+more.person.ships 117
 navy.licenses 147
 no.more.mereti.mines 79
 outfits.weapon.slot 51
