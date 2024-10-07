@@ -152,8 +152,8 @@
 		<td>114</td>
 		<td>114</td>
 		<td>119</td>
-		<td>120</td>
-		<td>+ 1</td>
+		<td>122</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -185,8 +185,8 @@
 		<td>135</td>
 		<td>135</td>
 		<td>142</td>
-		<td>142</td>
-		<td></td>
+		<td>143</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -449,8 +449,8 @@
 		<td>57</td>
 		<td>57</td>
 		<td>62</td>
-		<td>62</td>
-		<td></td>
+		<td>64</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
