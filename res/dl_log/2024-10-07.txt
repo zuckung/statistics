@@ -54,7 +54,7 @@ v1.0.3-human.labels | downloads: 2
 v1.0.2-human.labels | downloads: 1
 v1.0.1-human.labels | downloads: 1
 v1.0.0-more.person.ships | downloads: 52
-v1.0.4-bunrodea.missions | downloads: 115
+v1.0.4-bunrodea.missions | downloads: 117
 v1.0.0-human.labels | downloads: 1
 v1.1.3-captureable.person.ships | downloads: 1
 v1.1.2-galactic.capital.investment | downloads: 1
@@ -118,7 +118,7 @@ v1.0-no.more.mereti.mines | downloads: 1
 v1.0-navy.licenses | downloads: 8
 v1.0-more.boarding.missions | downloads: 4
 v1.0-more.arfectas | downloads: 1
-v1.0-kor.efret.shipyard | downloads: 117
+v1.0-kor.efret.shipyard | downloads: 119
 v1.0-gegno.pirates | downloads: 1
 v1.0-free.worlds.5.years.later | downloads: 79
 v1.0-expert.crew.members | downloads: 4
@@ -134,7 +134,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 133
-# TOTAL DOWNLOADS: 3971
+# TOTAL DOWNLOADS: 3975
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -143,7 +143,7 @@ additional.command.buttons.radial 147
 automata.destruction.0percent 94
 automata.in.human.space 76
 better.starts 106
-bunrodea.missions 123
+bunrodea.missions 125
 captureable.person.ships 100
 coalition.shopping 132
 control.station 98
@@ -158,7 +158,7 @@ hai.side.mission.unlocker 103
 human.labels 89
 jump.gates 107
 kestrel.unlocks 61
-kor.efret.shipyard 117
+kor.efret.shipyard 119
 landing.images 78
 landing.images.android 93
 landing.images.highres 72

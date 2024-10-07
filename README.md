@@ -75,8 +75,8 @@
 		<td>115</td>
 		<td>117</td>
 		<td>122</td>
-		<td>123</td>
-		<td>+ 1</td>
+		<td>125</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -240,8 +240,8 @@
 		<td>112</td>
 		<td>112</td>
 		<td>117</td>
-		<td>117</td>
-		<td></td>
+		<td>119</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
