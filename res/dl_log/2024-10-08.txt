@@ -1,10 +1,10 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.4-landing.images | downloads: 5
 v1.0.3-landing.images | downloads: 2
-v1.0.3-expert.crew.members | downloads: 4
+v1.0.3-expert.crew.members | downloads: 5
 v1.0.2-quarg.farm | downloads: 5
 v1.0.2-landing.images.highres | downloads: 4
-v1.0.5-uniques | downloads: 14
+v1.0.5-uniques | downloads: 16
 v1.0.3-too.many.asteroids | downloads: 20
 v1.0.1-automata.in.human.space | downloads: 15
 v1.0.4-uniques | downloads: 12
@@ -26,7 +26,7 @@ v1.0.0-outfits.weapon.slot | downloads: 51
 v1.0.1-more.person.ships | downloads: 65
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 45
-v1.0.0-kestrel.unlocks | downloads: 61
+v1.0.0-kestrel.unlocks | downloads: 62
 v1.0.2-tribute.republic | downloads: 46
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
@@ -47,7 +47,7 @@ v1.0.6-real.fluff | downloads: 1
 v1.0.1-jump.gates | downloads: 106
 v1.0.0-jump.gates | downloads: 1
 v1.1.4-captureable.person.ships | downloads: 93
-v1.1.3-galactic.capital.investment | downloads: 126
+v1.1.3-galactic.capital.investment | downloads: 128
 v1.0.5-real.fluff | downloads: 1
 v1.0.4-human.labels | downloads: 84
 v1.0.3-human.labels | downloads: 2
@@ -134,7 +134,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 133
-# TOTAL DOWNLOADS: 3978
+# TOTAL DOWNLOADS: 3984
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -150,14 +150,14 @@ control.station 98
 devil-run.unhidden 66
 disable.person.ships 70
 disable.spaceport.repeatables 83
-expert.crew.members 122
+expert.crew.members 123
 free.worlds.5.years.later 79
-galactic.capital.investment 156
+galactic.capital.investment 158
 gegno.pirates 143
 hai.side.mission.unlocker 103
 human.labels 89
 jump.gates 107
-kestrel.unlocks 61
+kestrel.unlocks 62
 kor.efret.shipyard 119
 landing.images 78
 landing.images.android 93
@@ -179,4 +179,4 @@ space.fauna 100
 too.many.asteroids 116
 tribute.republic 64
 unique.fix 44
-uniques 64
+uniques 66

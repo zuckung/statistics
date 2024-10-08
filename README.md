@@ -152,8 +152,8 @@
 		<td>114</td>
 		<td>119</td>
 		<td>122</td>
-		<td>122</td>
-		<td></td>
+		<td>123</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -174,8 +174,8 @@
 		<td>150</td>
 		<td>155</td>
 		<td>156</td>
-		<td>156</td>
-		<td></td>
+		<td>158</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -229,8 +229,8 @@
 		<td>56</td>
 		<td>61</td>
 		<td>61</td>
-		<td>61</td>
-		<td></td>
+		<td>62</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -471,8 +471,8 @@
 		<td>59</td>
 		<td>64</td>
 		<td>64</td>
-		<td>64</td>
-		<td></td>
+		<td>66</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </h6>
