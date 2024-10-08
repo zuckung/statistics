@@ -31,8 +31,8 @@
 		<td>141</td>
 		<td>147</td>
 		<td>147</td>
-		<td>148</td>
-		<td>+ 1</td>
+		<td>150</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
