@@ -97,8 +97,8 @@
 		<td>124</td>
 		<td>131</td>
 		<td>132</td>
-		<td>132</td>
-		<td></td>
+		<td>134</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>

@@ -9,7 +9,7 @@ v1.0.3-too.many.asteroids | downloads: 20
 v1.0.1-automata.in.human.space | downloads: 15
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
-v1.0.5-coalition.shopping | downloads: 30
+v1.0.5-coalition.shopping | downloads: 32
 v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 28
@@ -134,7 +134,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 133
-# TOTAL DOWNLOADS: 3976
+# TOTAL DOWNLOADS: 3978
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -145,7 +145,7 @@ automata.in.human.space 76
 better.starts 106
 bunrodea.missions 125
 captureable.person.ships 100
-coalition.shopping 132
+coalition.shopping 134
 control.station 98
 devil-run.unhidden 66
 disable.person.ships 70
