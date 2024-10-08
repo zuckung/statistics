@@ -75,8 +75,8 @@
 		<td>117</td>
 		<td>122</td>
 		<td>125</td>
-		<td>127</td>
-		<td>+ 2</td>
+		<td>129</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
