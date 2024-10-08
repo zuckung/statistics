@@ -64,8 +64,8 @@
 		<td>101</td>
 		<td>106</td>
 		<td>106</td>
-		<td>107</td>
-		<td>+ 1</td>
+		<td>109</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
