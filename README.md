@@ -196,8 +196,8 @@
 		<td>103</td>
 		<td>103</td>
 		<td>105</td>
-		<td>105</td>
-		<td></td>
+		<td>107</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
