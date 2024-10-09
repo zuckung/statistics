@@ -56,7 +56,7 @@ v1.0.3-human.labels | downloads: 2
 v1.0.2-human.labels | downloads: 1
 v1.0.1-human.labels | downloads: 1
 v1.0.0-more.person.ships | downloads: 52
-v1.0.4-bunrodea.missions | downloads: 121
+v1.0.4-bunrodea.missions | downloads: 122
 v1.0.0-human.labels | downloads: 1
 v1.1.3-captureable.person.ships | downloads: 1
 v1.1.2-galactic.capital.investment | downloads: 1
@@ -95,7 +95,7 @@ v1.0.2-bunrodea.missions | downloads: 1
 v1.1.2-more.boarding.missions | downloads: 1
 v1.0.1-coalition.shopping | downloads: 2
 v1.0.2-real.fluff | downloads: 1
-v1.0.1-gegno.pirates | downloads: 146
+v1.0.1-gegno.pirates | downloads: 147
 v1.1.2-hai.side.mission.unlocker | downloads: 1
 v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
@@ -136,7 +136,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 135
-# TOTAL DOWNLOADS: 4078
+# TOTAL DOWNLOADS: 4080
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -145,7 +145,7 @@ additional.command.buttons.radial 151
 automata.destruction.0percent 96
 automata.in.human.space 78
 better.starts 110
-bunrodea.missions 129
+bunrodea.missions 130
 captureable.person.ships 104
 coalition.shopping 136
 control.station 100
@@ -155,7 +155,7 @@ disable.spaceport.repeatables 85
 expert.crew.members 127
 free.worlds.5.years.later 81
 galactic.capital.investment 160
-gegno.pirates 147
+gegno.pirates 148
 hai.side.mission.unlocker 107
 human.labels 91
 jump.gates 109

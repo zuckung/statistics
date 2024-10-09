@@ -76,8 +76,8 @@
 		<td>122</td>
 		<td>125</td>
 		<td>129</td>
-		<td>129</td>
-		<td></td>
+		<td>130</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -186,8 +186,8 @@
 		<td>142</td>
 		<td>143</td>
 		<td>147</td>
-		<td>147</td>
-		<td></td>
+		<td>148</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -531,8 +531,8 @@
 		<td>142</td>
 		<td>143</td>
 		<td>147</td>
-		<td>147</td>
-		<td></td>
+		<td>148</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -564,8 +564,8 @@
 		<td>122</td>
 		<td>125</td>
 		<td>129</td>
-		<td>129</td>
-		<td></td>
+		<td>130</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
