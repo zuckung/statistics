@@ -46,7 +46,23 @@ def write_readme():
 	# write the readme
 	with open('README.md', 'w') as target:
 		target.writelines('<h6>Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>\n<br>\n')
+		# get a nested list, sorted by latest download anount
+		rows7split = [[] for i in range(len(rows7) - 1)]
+		first = True
+		for row in rows7:
+			index = rows7.index(row)
+			if row == '':
+				continue
+			if first == True:
+				first = False
+				continue
+			splitted = row.split(' ')
+			rows7split[index-1].append(int(splitted[1]))
+			rows7split[index-1].append(splitted[0])
+		rows7split.sort(reverse=True)
+		# first table, sorted by name
 		# split the 7 variable contents to lists
+		target.writelines('<h6>Plugin download count, sorted by name<br>\n')
 		first = True
 		for row in rows7:
 			if row == '':
@@ -84,7 +100,50 @@ def write_readme():
 					difference = '+ ' + difference 
 				target.writelines('\t\t<td>' + difference + '</td>\n')
 				target.writelines('\t</tr>\n')
+		target.writelines('</table>\n</h6>\n')		
+		# second table, sorted by latest download counts		
+		# split the 7 variable contents to lists
+		target.writelines('<h6>Plugin download count, sorted by download count<br>\n')
+		first = True
+		index = 0
+		for row in rows7split:
+			if first == True:
+				# write the dates
+				target.writelines('<table>\n')
+				target.writelines('\t<tr>\n')
+				target.writelines('\t\t<td></td>\n')
+				target.writelines('\t\t<td>' + rows1[0].replace('.txt', '').replace('2024-', '') + '</td>\n')
+				target.writelines('\t\t<td>' + rows2[0].replace('.txt', '').replace('2024-', '') + '</td>\n')
+				target.writelines('\t\t<td>' + rows3[0].replace('.txt', '').replace('2024-', '') + '</td>\n')
+				target.writelines('\t\t<td>' + rows4[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
+				target.writelines('\t\t<td>' + rows5[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
+				target.writelines('\t\t<td>' + rows6[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
+				target.writelines('\t\t<td>' + rows7[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
+				target.writelines('\t\t<td>today +</td>\n')
+				target.writelines('\t</tr>\n')
+				first = False
+			else:
+				# write the numbers
+				target.writelines('\t<tr>\n')
+				target.writelines('\t\t<td>' + rows7split[index][1] + '</td>\n')
+				target.writelines('\t\t<td>' + findp(rows1, rows7split[index][1]) + '</td>\n')
+				target.writelines('\t\t<td>' + findp(rows2, rows7split[index][1]) + '</td>\n')
+				target.writelines('\t\t<td>' + findp(rows3, rows7split[index][1]) + '</td>\n')
+				target.writelines('\t\t<td>' + findp(rows4, rows7split[index][1]) + '</td>\n')
+				target.writelines('\t\t<td>' + findp(rows5, rows7split[index][1]) + '</td>\n')
+				target.writelines('\t\t<td>' + findp(rows6, rows7split[index][1]) + '</td>\n')
+				target.writelines('\t\t<td>' + findp(rows7, rows7split[index][1]) + '</td>\n')
+				difference = str(int(findp(rows7, rows7split[index][1])) - int(findp(rows6,rows7split[index][1])))
+				if difference == '0':
+					difference = ''
+				else:
+					difference = '+ ' + difference 
+				target.writelines('\t\t<td>' + difference + '</td>\n')
+				target.writelines('\t</tr>\n')
+				index += 1
 		target.writelines('</table>\n</h6>\n')
+		
+
 				
 		 
 		
