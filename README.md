@@ -76,8 +76,8 @@
 		<td>122</td>
 		<td>125</td>
 		<td>129</td>
-		<td>131</td>
-		<td>+ 2</td>
+		<td>133</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -186,8 +186,8 @@
 		<td>142</td>
 		<td>143</td>
 		<td>147</td>
-		<td>149</td>
-		<td>+ 2</td>
+		<td>151</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -241,8 +241,8 @@
 		<td>117</td>
 		<td>119</td>
 		<td>121</td>
-		<td>122</td>
-		<td>+ 1</td>
+		<td>124</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -318,8 +318,8 @@
 		<td>147</td>
 		<td>147</td>
 		<td>149</td>
-		<td>150</td>
-		<td>+ 1</td>
+		<td>152</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -351,8 +351,8 @@
 		<td>40</td>
 		<td>41</td>
 		<td>43</td>
-		<td>44</td>
-		<td>+ 1</td>
+		<td>46</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -502,6 +502,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>navy.licenses</td>
+		<td>138</td>
+		<td>138</td>
+		<td>142</td>
+		<td>147</td>
+		<td>147</td>
+		<td>149</td>
+		<td>152</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>additional.command.buttons.radial</td>
 		<td>133</td>
 		<td>139</td>
@@ -513,17 +524,6 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
-		<td>navy.licenses</td>
-		<td>138</td>
-		<td>138</td>
-		<td>142</td>
-		<td>147</td>
-		<td>147</td>
-		<td>149</td>
-		<td>150</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
 		<td>gegno.pirates</td>
 		<td>135</td>
 		<td>135</td>
@@ -531,8 +531,8 @@
 		<td>142</td>
 		<td>143</td>
 		<td>147</td>
-		<td>149</td>
-		<td>+ 2</td>
+		<td>151</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -564,8 +564,8 @@
 		<td>122</td>
 		<td>125</td>
 		<td>129</td>
-		<td>131</td>
-		<td>+ 2</td>
+		<td>133</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -597,8 +597,8 @@
 		<td>117</td>
 		<td>119</td>
 		<td>121</td>
-		<td>122</td>
-		<td>+ 1</td>
+		<td>124</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -920,6 +920,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>paint.your.ships</td>
+		<td>33</td>
+		<td>33</td>
+		<td>35</td>
+		<td>40</td>
+		<td>41</td>
+		<td>43</td>
+		<td>46</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>unique.fix</td>
 		<td>44</td>
 		<td>44</td>
@@ -929,17 +940,6 @@
 		<td>44</td>
 		<td>44</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>33</td>
-		<td>33</td>
-		<td>35</td>
-		<td>40</td>
-		<td>41</td>
-		<td>43</td>
-		<td>44</td>
-		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
