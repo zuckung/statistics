@@ -439,8 +439,8 @@
 		<td>116</td>
 		<td>118</td>
 		<td>119</td>
-		<td>124</td>
-		<td>+ 5</td>
+		<td>126</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -590,6 +590,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>too.many.asteroids</td>
+		<td>109</td>
+		<td>111</td>
+		<td>116</td>
+		<td>116</td>
+		<td>118</td>
+		<td>119</td>
+		<td>126</td>
+		<td>+ 7</td>
+	</tr>
+	<tr>
 		<td>kor.efret.shipyard</td>
 		<td>112</td>
 		<td>112</td>
@@ -599,17 +610,6 @@
 		<td>124</td>
 		<td>126</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>too.many.asteroids</td>
-		<td>109</td>
-		<td>111</td>
-		<td>116</td>
-		<td>116</td>
-		<td>118</td>
-		<td>119</td>
-		<td>124</td>
-		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>

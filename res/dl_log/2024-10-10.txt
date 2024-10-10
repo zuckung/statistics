@@ -8,7 +8,7 @@ v1.0.3-expert.crew.members | downloads: 15
 v1.0.2-quarg.farm | downloads: 9
 v1.0.2-landing.images.highres | downloads: 7
 v1.0.5-uniques | downloads: 25
-v1.0.3-too.many.asteroids | downloads: 28
+v1.0.3-too.many.asteroids | downloads: 30
 v1.0.1-automata.in.human.space | downloads: 18
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
@@ -137,7 +137,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 136
-# TOTAL DOWNLOADS: 4203
+# TOTAL DOWNLOADS: 4205
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -179,7 +179,7 @@ real.fluff 93
 show.reputation 103
 snowfeather.robotics 114
 space.fauna 107
-too.many.asteroids 124
+too.many.asteroids 126
 tribute.republic 69
 unique.fix 44
 uniques 75
