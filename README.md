@@ -109,8 +109,8 @@
 		<td>98</td>
 		<td>100</td>
 		<td>101</td>
-		<td>103</td>
-		<td>+ 2</td>
+		<td>105</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -700,6 +700,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>control.station</td>
+		<td>93</td>
+		<td>93</td>
+		<td>98</td>
+		<td>98</td>
+		<td>100</td>
+		<td>101</td>
+		<td>105</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>show.reputation</td>
 		<td>89</td>
 		<td>91</td>
@@ -709,17 +720,6 @@
 		<td>103</td>
 		<td>103</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>control.station</td>
-		<td>93</td>
-		<td>93</td>
-		<td>98</td>
-		<td>98</td>
-		<td>100</td>
-		<td>101</td>
-		<td>103</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
