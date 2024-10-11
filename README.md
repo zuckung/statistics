@@ -230,8 +230,8 @@
 		<td>64</td>
 		<td>65</td>
 		<td>65</td>
-		<td>66</td>
-		<td>+ 1</td>
+		<td>68</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -241,8 +241,8 @@
 		<td>121</td>
 		<td>124</td>
 		<td>126</td>
-		<td>129</td>
-		<td>+ 3</td>
+		<td>131</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -406,8 +406,8 @@
 		<td>102</td>
 		<td>103</td>
 		<td>103</td>
-		<td>106</td>
-		<td>+ 3</td>
+		<td>108</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -597,8 +597,8 @@
 		<td>121</td>
 		<td>124</td>
 		<td>126</td>
-		<td>129</td>
-		<td>+ 3</td>
+		<td>131</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -707,8 +707,8 @@
 		<td>102</td>
 		<td>103</td>
 		<td>103</td>
-		<td>106</td>
-		<td>+ 3</td>
+		<td>108</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -894,8 +894,8 @@
 		<td>64</td>
 		<td>65</td>
 		<td>65</td>
-		<td>66</td>
-		<td>+ 1</td>
+		<td>68</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
