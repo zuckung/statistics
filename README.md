@@ -186,8 +186,8 @@
 		<td>147</td>
 		<td>153</td>
 		<td>155</td>
-		<td>155</td>
-		<td></td>
+		<td>157</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -502,6 +502,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>gegno.pirates</td>
+		<td>135</td>
+		<td>142</td>
+		<td>143</td>
+		<td>147</td>
+		<td>153</td>
+		<td>155</td>
+		<td>157</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>additional.command.buttons.radial</td>
 		<td>141</td>
 		<td>147</td>
@@ -510,17 +521,6 @@
 		<td>152</td>
 		<td>156</td>
 		<td>156</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>gegno.pirates</td>
-		<td>135</td>
-		<td>142</td>
-		<td>143</td>
-		<td>147</td>
-		<td>153</td>
-		<td>155</td>
-		<td>155</td>
 		<td></td>
 	</tr>
 	<tr>

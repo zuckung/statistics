@@ -96,7 +96,7 @@ v1.0.2-bunrodea.missions | downloads: 1
 v1.1.2-more.boarding.missions | downloads: 1
 v1.0.1-coalition.shopping | downloads: 2
 v1.0.2-real.fluff | downloads: 1
-v1.0.1-gegno.pirates | downloads: 154
+v1.0.1-gegno.pirates | downloads: 156
 v1.1.2-hai.side.mission.unlocker | downloads: 1
 v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
@@ -137,7 +137,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 136
-# TOTAL DOWNLOADS: 4215
+# TOTAL DOWNLOADS: 4217
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -156,7 +156,7 @@ disable.spaceport.repeatables 91
 expert.crew.members 133
 free.worlds.5.years.later 82
 galactic.capital.investment 167
-gegno.pirates 155
+gegno.pirates 157
 hai.side.mission.unlocker 110
 human.labels 92
 jump.gates 112
