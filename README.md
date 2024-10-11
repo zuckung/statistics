@@ -32,8 +32,8 @@
 		<td>151</td>
 		<td>152</td>
 		<td>156</td>
-		<td>157</td>
-		<td>+ 1</td>
+		<td>159</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -502,6 +502,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>additional.command.buttons.radial</td>
+		<td>141</td>
+		<td>147</td>
+		<td>147</td>
+		<td>151</td>
+		<td>152</td>
+		<td>156</td>
+		<td>159</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>gegno.pirates</td>
 		<td>135</td>
 		<td>142</td>
@@ -511,17 +522,6 @@
 		<td>155</td>
 		<td>158</td>
 		<td>+ 3</td>
-	</tr>
-	<tr>
-		<td>additional.command.buttons.radial</td>
-		<td>141</td>
-		<td>147</td>
-		<td>147</td>
-		<td>151</td>
-		<td>152</td>
-		<td>156</td>
-		<td>157</td>
-		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>

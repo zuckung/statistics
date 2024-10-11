@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.8-additional.command.buttons.radial | downloads: 1
+v1.0.8-additional.command.buttons.radial | downloads: 3
 v1.0.2-better.starts | downloads: 2
 v1.1.5-captureable.person.ships | downloads: 7
 v1.0.7-additional.command.buttons.radial | downloads: 9
@@ -138,12 +138,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 137
-# TOTAL DOWNLOADS: 4262
+# TOTAL DOWNLOADS: 4264
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 92
-additional.command.buttons.radial 157
+additional.command.buttons.radial 159
 automata.destruction.0percent 100
 automata.in.human.space 80
 better.starts 112
