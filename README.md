@@ -208,8 +208,8 @@
 		<td>91</td>
 		<td>92</td>
 		<td>92</td>
-		<td>92</td>
-		<td></td>
+		<td>94</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -219,8 +219,8 @@
 		<td>109</td>
 		<td>110</td>
 		<td>110</td>
-		<td>112</td>
-		<td>+ 2</td>
+		<td>114</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -296,8 +296,8 @@
 		<td>112</td>
 		<td>115</td>
 		<td>117</td>
-		<td>117</td>
-		<td></td>
+		<td>119</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -406,8 +406,8 @@
 		<td>102</td>
 		<td>103</td>
 		<td>103</td>
-		<td>103</td>
-		<td></td>
+		<td>105</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -630,8 +630,8 @@
 		<td>112</td>
 		<td>115</td>
 		<td>117</td>
-		<td>117</td>
-		<td></td>
+		<td>119</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -652,8 +652,8 @@
 		<td>109</td>
 		<td>110</td>
 		<td>110</td>
-		<td>112</td>
-		<td>+ 2</td>
+		<td>114</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -700,6 +700,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>show.reputation</td>
+		<td>91</td>
+		<td>98</td>
+		<td>98</td>
+		<td>102</td>
+		<td>103</td>
+		<td>103</td>
+		<td>105</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>control.station</td>
 		<td>93</td>
 		<td>98</td>
@@ -708,17 +719,6 @@
 		<td>101</td>
 		<td>105</td>
 		<td>105</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>show.reputation</td>
-		<td>91</td>
-		<td>98</td>
-		<td>98</td>
-		<td>102</td>
-		<td>103</td>
-		<td>103</td>
-		<td>103</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -744,6 +744,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>human.labels</td>
+		<td>84</td>
+		<td>89</td>
+		<td>89</td>
+		<td>91</td>
+		<td>92</td>
+		<td>92</td>
+		<td>94</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>real.fluff</td>
 		<td>93</td>
 		<td>93</td>
@@ -752,17 +763,6 @@
 		<td>93</td>
 		<td>93</td>
 		<td>93</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>human.labels</td>
-		<td>84</td>
-		<td>89</td>
-		<td>89</td>
-		<td>91</td>
-		<td>92</td>
-		<td>92</td>
-		<td>92</td>
 		<td></td>
 	</tr>
 	<tr>
