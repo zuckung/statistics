@@ -252,8 +252,8 @@
 		<td>81</td>
 		<td>81</td>
 		<td>82</td>
-		<td>84</td>
-		<td>+ 2</td>
+		<td>86</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -263,8 +263,8 @@
 		<td>96</td>
 		<td>98</td>
 		<td>99</td>
-		<td>99</td>
-		<td></td>
+		<td>101</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -722,6 +722,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>landing.images.android</td>
+		<td>93</td>
+		<td>93</td>
+		<td>95</td>
+		<td>96</td>
+		<td>98</td>
+		<td>99</td>
+		<td>101</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>94</td>
 		<td>94</td>
@@ -730,17 +741,6 @@
 		<td>99</td>
 		<td>100</td>
 		<td>100</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>landing.images.android</td>
-		<td>93</td>
-		<td>93</td>
-		<td>95</td>
-		<td>96</td>
-		<td>98</td>
-		<td>99</td>
-		<td>99</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -795,8 +795,8 @@
 		<td>81</td>
 		<td>81</td>
 		<td>82</td>
-		<td>84</td>
-		<td>+ 2</td>
+		<td>86</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
