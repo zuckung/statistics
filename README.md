@@ -153,8 +153,8 @@
 		<td>130</td>
 		<td>133</td>
 		<td>134</td>
-		<td>134</td>
-		<td></td>
+		<td>136</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -351,8 +351,8 @@
 		<td>46</td>
 		<td>48</td>
 		<td>51</td>
-		<td>51</td>
-		<td></td>
+		<td>53</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -575,8 +575,8 @@
 		<td>130</td>
 		<td>133</td>
 		<td>134</td>
-		<td>134</td>
-		<td></td>
+		<td>136</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -927,8 +927,8 @@
 		<td>46</td>
 		<td>48</td>
 		<td>51</td>
-		<td>51</td>
-		<td></td>
+		<td>53</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>

@@ -5,7 +5,7 @@ v1.1.5-captureable.person.ships | downloads: 7
 v1.0.7-additional.command.buttons.radial | downloads: 9
 v1.0.4-landing.images | downloads: 9
 v1.0.3-landing.images | downloads: 2
-v1.0.3-expert.crew.members | downloads: 16
+v1.0.3-expert.crew.members | downloads: 18
 v1.0.2-quarg.farm | downloads: 10
 v1.0.2-landing.images.highres | downloads: 8
 v1.0.5-uniques | downloads: 26
@@ -19,7 +19,7 @@ v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 36
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 27
-v1.0.1-paint.your.ships | downloads: 47
+v1.0.1-paint.your.ships | downloads: 49
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
 v1.0.1-uniques | downloads: 14
@@ -138,7 +138,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 137
-# TOTAL DOWNLOADS: 4270
+# TOTAL DOWNLOADS: 4274
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -154,7 +154,7 @@ control.station 106
 devil-run.unhidden 66
 disable.person.ships 74
 disable.spaceport.repeatables 92
-expert.crew.members 134
+expert.crew.members 136
 free.worlds.5.years.later 83
 galactic.capital.investment 168
 gegno.pirates 158
@@ -172,7 +172,7 @@ more.person.ships 125
 navy.licenses 153
 no.more.mereti.mines 83
 outfits.weapon.slot 57
-paint.your.ships 51
+paint.your.ships 53
 pirate.warlords 2
 planet.map 74
 quarg.farm 131
