@@ -153,8 +153,8 @@
 		<td>130</td>
 		<td>133</td>
 		<td>134</td>
-		<td>136</td>
-		<td>+ 2</td>
+		<td>138</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -252,8 +252,8 @@
 		<td>81</td>
 		<td>81</td>
 		<td>82</td>
-		<td>82</td>
-		<td></td>
+		<td>84</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -274,8 +274,8 @@
 		<td>75</td>
 		<td>75</td>
 		<td>76</td>
-		<td>76</td>
-		<td></td>
+		<td>78</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -351,8 +351,8 @@
 		<td>46</td>
 		<td>48</td>
 		<td>51</td>
-		<td>53</td>
-		<td>+ 2</td>
+		<td>55</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -557,6 +557,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>expert.crew.members</td>
+		<td>119</td>
+		<td>122</td>
+		<td>127</td>
+		<td>130</td>
+		<td>133</td>
+		<td>134</td>
+		<td>138</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>coalition.shopping</td>
 		<td>131</td>
 		<td>132</td>
@@ -566,17 +577,6 @@
 		<td>138</td>
 		<td>138</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>expert.crew.members</td>
-		<td>119</td>
-		<td>122</td>
-		<td>127</td>
-		<td>130</td>
-		<td>133</td>
-		<td>134</td>
-		<td>136</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -788,6 +788,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>landing.images</td>
+		<td>78</td>
+		<td>78</td>
+		<td>80</td>
+		<td>81</td>
+		<td>81</td>
+		<td>82</td>
+		<td>84</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>no.more.mereti.mines</td>
 		<td>79</td>
 		<td>79</td>
@@ -810,17 +821,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>landing.images</td>
-		<td>78</td>
-		<td>78</td>
-		<td>80</td>
-		<td>81</td>
-		<td>81</td>
-		<td>82</td>
-		<td>82</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>automata.in.human.space</td>
 		<td>75</td>
 		<td>76</td>
@@ -832,22 +832,22 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>uniques</td>
-		<td>64</td>
-		<td>64</td>
-		<td>68</td>
-		<td>71</td>
-		<td>75</td>
-		<td>76</td>
-		<td>76</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>landing.images.highres</td>
 		<td>72</td>
 		<td>72</td>
 		<td>74</td>
 		<td>75</td>
+		<td>75</td>
+		<td>76</td>
+		<td>78</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>uniques</td>
+		<td>64</td>
+		<td>64</td>
+		<td>68</td>
+		<td>71</td>
 		<td>75</td>
 		<td>76</td>
 		<td>76</td>
@@ -927,8 +927,8 @@
 		<td>46</td>
 		<td>48</td>
 		<td>51</td>
-		<td>53</td>
-		<td>+ 2</td>
+		<td>55</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
