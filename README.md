@@ -131,8 +131,8 @@
 		<td>73</td>
 		<td>73</td>
 		<td>74</td>
-		<td>74</td>
-		<td></td>
+		<td>76</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -153,8 +153,8 @@
 		<td>130</td>
 		<td>133</td>
 		<td>134</td>
-		<td>138</td>
-		<td>+ 4</td>
+		<td>140</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -351,8 +351,8 @@
 		<td>46</td>
 		<td>48</td>
 		<td>51</td>
-		<td>55</td>
-		<td>+ 4</td>
+		<td>57</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -384,8 +384,8 @@
 		<td>129</td>
 		<td>130</td>
 		<td>131</td>
-		<td>131</td>
-		<td></td>
+		<td>133</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -564,8 +564,8 @@
 		<td>130</td>
 		<td>133</td>
 		<td>134</td>
-		<td>138</td>
-		<td>+ 4</td>
+		<td>140</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -586,8 +586,8 @@
 		<td>129</td>
 		<td>130</td>
 		<td>131</td>
-		<td>131</td>
-		<td></td>
+		<td>133</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -854,18 +854,18 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>planet.map</td>
+		<td>disable.person.ships</td>
 		<td>70</td>
 		<td>70</td>
 		<td>72</td>
 		<td>73</td>
 		<td>73</td>
 		<td>74</td>
-		<td>74</td>
-		<td></td>
+		<td>76</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
-		<td>disable.person.ships</td>
+		<td>planet.map</td>
 		<td>70</td>
 		<td>70</td>
 		<td>72</td>
@@ -909,6 +909,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>paint.your.ships</td>
+		<td>40</td>
+		<td>41</td>
+		<td>43</td>
+		<td>46</td>
+		<td>48</td>
+		<td>51</td>
+		<td>57</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
 		<td>outfits.weapon.slot</td>
 		<td>51</td>
 		<td>51</td>
@@ -918,17 +929,6 @@
 		<td>57</td>
 		<td>57</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>40</td>
-		<td>41</td>
-		<td>43</td>
-		<td>46</td>
-		<td>48</td>
-		<td>51</td>
-		<td>55</td>
-		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
