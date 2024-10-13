@@ -43,8 +43,8 @@
 		<td>99</td>
 		<td>100</td>
 		<td>100</td>
-		<td>100</td>
-		<td></td>
+		<td>103</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -175,8 +175,8 @@
 		<td>167</td>
 		<td>168</td>
 		<td>168</td>
-		<td>168</td>
-		<td></td>
+		<td>171</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -498,8 +498,8 @@
 		<td>167</td>
 		<td>168</td>
 		<td>168</td>
-		<td>168</td>
-		<td></td>
+		<td>171</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -722,6 +722,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>94</td>
+		<td>96</td>
+		<td>99</td>
+		<td>99</td>
+		<td>100</td>
+		<td>100</td>
+		<td>103</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>landing.images.android</td>
 		<td>93</td>
 		<td>95</td>
@@ -730,17 +741,6 @@
 		<td>99</td>
 		<td>101</td>
 		<td>101</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>94</td>
-		<td>96</td>
-		<td>99</td>
-		<td>99</td>
-		<td>100</td>
-		<td>100</td>
-		<td>100</td>
 		<td></td>
 	</tr>
 	<tr>
