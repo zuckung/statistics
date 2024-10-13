@@ -27,7 +27,7 @@ v1.0.4-additional.command.buttons.radial | downloads: 5
 v1.0.3-additional.command.buttons.radial | downloads: 10
 v1.0.2-additional.command.buttons.radial | downloads: 4
 v1.0.0-outfits.weapon.slot | downloads: 59
-v1.0.1-more.person.ships | downloads: 73
+v1.0.1-more.person.ships | downloads: 75
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 49
 v1.0.0-kestrel.unlocks | downloads: 68
@@ -89,7 +89,7 @@ v1.0.3-coalition.shopping | downloads: 97
 v1.0.2-coalition.shopping | downloads: 1
 v1.0.1-navy.licenses | downloads: 1
 v1.1.2-space.fauna | downloads: 108
-v1.0.3-snowfeather.robotics | downloads: 108
+v1.0.3-snowfeather.robotics | downloads: 110
 v1.0.2-snowfeather.robotics | downloads: 1
 v1.1.1-space.fauna | downloads: 1
 v1.0-space.fauna | downloads: 1
@@ -138,7 +138,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 137
-# TOTAL DOWNLOADS: 4341
+# TOTAL DOWNLOADS: 4345
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -168,7 +168,7 @@ landing.images.android 101
 landing.images.highres 78
 more.arfectas 142
 more.boarding.missions 120
-more.person.ships 125
+more.person.ships 127
 navy.licenses 153
 no.more.mereti.mines 83
 outfits.weapon.slot 59
@@ -178,7 +178,7 @@ planet.map 74
 quarg.farm 135
 real.fluff 93
 show.reputation 112
-snowfeather.robotics 115
+snowfeather.robotics 117
 space.fauna 110
 too.many.asteroids 131
 tribute.republic 70

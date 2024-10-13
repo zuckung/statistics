@@ -307,8 +307,8 @@
 		<td>124</td>
 		<td>125</td>
 		<td>125</td>
-		<td>125</td>
-		<td></td>
+		<td>127</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -417,8 +417,8 @@
 		<td>114</td>
 		<td>115</td>
 		<td>115</td>
-		<td>115</td>
-		<td></td>
+		<td>117</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -619,8 +619,8 @@
 		<td>124</td>
 		<td>125</td>
 		<td>125</td>
-		<td>125</td>
-		<td></td>
+		<td>127</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -641,8 +641,8 @@
 		<td>114</td>
 		<td>115</td>
 		<td>115</td>
-		<td>115</td>
-		<td></td>
+		<td>117</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
