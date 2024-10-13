@@ -32,8 +32,8 @@
 		<td>156</td>
 		<td>159</td>
 		<td>159</td>
-		<td>159</td>
-		<td></td>
+		<td>160</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -65,8 +65,8 @@
 		<td>111</td>
 		<td>112</td>
 		<td>112</td>
-		<td>112</td>
-		<td></td>
+		<td>114</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -109,8 +109,8 @@
 		<td>105</td>
 		<td>106</td>
 		<td>106</td>
-		<td>106</td>
-		<td></td>
+		<td>108</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -175,8 +175,8 @@
 		<td>167</td>
 		<td>168</td>
 		<td>168</td>
-		<td>171</td>
-		<td>+ 3</td>
+		<td>173</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -208,8 +208,8 @@
 		<td>92</td>
 		<td>95</td>
 		<td>95</td>
-		<td>95</td>
-		<td></td>
+		<td>97</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -252,8 +252,8 @@
 		<td>81</td>
 		<td>82</td>
 		<td>86</td>
-		<td>88</td>
-		<td>+ 2</td>
+		<td>90</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -340,8 +340,8 @@
 		<td>56</td>
 		<td>57</td>
 		<td>57</td>
-		<td>57</td>
-		<td></td>
+		<td>59</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -351,8 +351,8 @@
 		<td>48</td>
 		<td>51</td>
 		<td>57</td>
-		<td>59</td>
-		<td>+ 2</td>
+		<td>61</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -406,8 +406,8 @@
 		<td>103</td>
 		<td>108</td>
 		<td>108</td>
-		<td>110</td>
-		<td>+ 2</td>
+		<td>112</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -428,8 +428,8 @@
 		<td>107</td>
 		<td>108</td>
 		<td>108</td>
-		<td>108</td>
-		<td></td>
+		<td>110</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -439,8 +439,8 @@
 		<td>126</td>
 		<td>127</td>
 		<td>127</td>
-		<td>129</td>
-		<td>+ 2</td>
+		<td>131</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -498,8 +498,8 @@
 		<td>167</td>
 		<td>168</td>
 		<td>168</td>
-		<td>171</td>
-		<td>+ 3</td>
+		<td>173</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -509,8 +509,8 @@
 		<td>156</td>
 		<td>159</td>
 		<td>159</td>
-		<td>159</td>
-		<td></td>
+		<td>160</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -608,8 +608,8 @@
 		<td>126</td>
 		<td>127</td>
 		<td>127</td>
-		<td>129</td>
-		<td>+ 2</td>
+		<td>131</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -663,8 +663,19 @@
 		<td>111</td>
 		<td>112</td>
 		<td>112</td>
+		<td>114</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>show.reputation</td>
+		<td>98</td>
+		<td>102</td>
+		<td>103</td>
+		<td>103</td>
+		<td>108</td>
+		<td>108</td>
 		<td>112</td>
-		<td></td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -678,11 +689,11 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>show.reputation</td>
-		<td>98</td>
+		<td>space.fauna</td>
+		<td>100</td>
 		<td>102</td>
 		<td>103</td>
-		<td>103</td>
+		<td>107</td>
 		<td>108</td>
 		<td>108</td>
 		<td>110</td>
@@ -700,17 +711,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>space.fauna</td>
-		<td>100</td>
-		<td>102</td>
-		<td>103</td>
-		<td>107</td>
-		<td>108</td>
-		<td>108</td>
-		<td>108</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>control.station</td>
 		<td>98</td>
 		<td>100</td>
@@ -718,8 +718,8 @@
 		<td>105</td>
 		<td>106</td>
 		<td>106</td>
-		<td>106</td>
-		<td></td>
+		<td>108</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -751,8 +751,8 @@
 		<td>92</td>
 		<td>95</td>
 		<td>95</td>
-		<td>95</td>
-		<td></td>
+		<td>97</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -795,8 +795,8 @@
 		<td>81</td>
 		<td>82</td>
 		<td>86</td>
-		<td>88</td>
-		<td>+ 2</td>
+		<td>90</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -916,8 +916,8 @@
 		<td>48</td>
 		<td>51</td>
 		<td>57</td>
-		<td>59</td>
-		<td>+ 2</td>
+		<td>61</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -927,8 +927,8 @@
 		<td>56</td>
 		<td>57</td>
 		<td>57</td>
-		<td>57</td>
-		<td></td>
+		<td>59</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
