@@ -384,8 +384,8 @@
 		<td>131</td>
 		<td>133</td>
 		<td>137</td>
-		<td>139</td>
-		<td>+ 2</td>
+		<td>141</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -568,6 +568,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>quarg.farm</td>
+		<td>128</td>
+		<td>129</td>
+		<td>130</td>
+		<td>131</td>
+		<td>133</td>
+		<td>137</td>
+		<td>141</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>expert.crew.members</td>
 		<td>127</td>
 		<td>130</td>
@@ -577,17 +588,6 @@
 		<td>140</td>
 		<td>141</td>
 		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>quarg.farm</td>
-		<td>128</td>
-		<td>129</td>
-		<td>130</td>
-		<td>131</td>
-		<td>133</td>
-		<td>137</td>
-		<td>139</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
