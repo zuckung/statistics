@@ -241,8 +241,8 @@
 		<td>131</td>
 		<td>131</td>
 		<td>133</td>
-		<td>133</td>
-		<td></td>
+		<td>135</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -597,8 +597,8 @@
 		<td>131</td>
 		<td>131</td>
 		<td>133</td>
-		<td>133</td>
-		<td></td>
+		<td>135</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
