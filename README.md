@@ -241,8 +241,8 @@
 		<td>131</td>
 		<td>131</td>
 		<td>133</td>
-		<td>135</td>
-		<td>+ 2</td>
+		<td>137</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -318,8 +318,8 @@
 		<td>153</td>
 		<td>153</td>
 		<td>153</td>
-		<td>154</td>
-		<td>+ 1</td>
+		<td>156</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -531,8 +531,8 @@
 		<td>153</td>
 		<td>153</td>
 		<td>153</td>
-		<td>154</td>
-		<td>+ 1</td>
+		<td>156</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -597,8 +597,8 @@
 		<td>131</td>
 		<td>131</td>
 		<td>133</td>
-		<td>135</td>
-		<td>+ 2</td>
+		<td>137</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
