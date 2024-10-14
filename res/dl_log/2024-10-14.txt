@@ -30,7 +30,7 @@ v1.0.0-outfits.weapon.slot | downloads: 61
 v1.0.1-more.person.ships | downloads: 78
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 51
-v1.0.0-kestrel.unlocks | downloads: 73
+v1.0.0-kestrel.unlocks | downloads: 75
 v1.0.2-tribute.republic | downloads: 52
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
@@ -138,7 +138,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 137
-# TOTAL DOWNLOADS: 4416
+# TOTAL DOWNLOADS: 4418
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -161,7 +161,7 @@ gegno.pirates 161
 hai.side.mission.unlocker 111
 human.labels 97
 jump.gates 117
-kestrel.unlocks 73
+kestrel.unlocks 75
 kor.efret.shipyard 137
 landing.images 90
 landing.images.android 101

@@ -230,8 +230,8 @@
 		<td>68</td>
 		<td>68</td>
 		<td>70</td>
-		<td>73</td>
-		<td>+ 3</td>
+		<td>75</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -883,8 +883,8 @@
 		<td>68</td>
 		<td>68</td>
 		<td>70</td>
-		<td>73</td>
-		<td>+ 3</td>
+		<td>75</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
