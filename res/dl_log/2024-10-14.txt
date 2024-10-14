@@ -7,8 +7,8 @@ v1.0.4-landing.images | downloads: 17
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 23
 v1.0.2-quarg.farm | downloads: 20
-v1.0.2-landing.images.highres | downloads: 10
-v1.0.5-uniques | downloads: 31
+v1.0.2-landing.images.highres | downloads: 12
+v1.0.5-uniques | downloads: 33
 v1.0.3-too.many.asteroids | downloads: 35
 v1.0.1-automata.in.human.space | downloads: 23
 v1.0.4-uniques | downloads: 12
@@ -35,7 +35,7 @@ v1.0.2-tribute.republic | downloads: 52
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
 v1.0.0-tribute.republic | downloads: 2
-v1.0.3-landing.images.android | downloads: 73
+v1.0.3-landing.images.android | downloads: 75
 v1.0.2-landing.images.android | downloads: 2
 v1.0.1-landing.images.android | downloads: 21
 v1.0.2-no.more.mereti.mines | downloads: 54
@@ -48,7 +48,7 @@ v1.0.1-no.more.mereti.mines | downloads: 1
 v1.0.8-real.fluff | downloads: 80
 v1.0.7-real.fluff | downloads: 1
 v1.0.6-real.fluff | downloads: 1
-v1.0.1-jump.gates | downloads: 116
+v1.0.1-jump.gates | downloads: 118
 v1.0.0-jump.gates | downloads: 1
 v1.1.4-captureable.person.ships | downloads: 96
 v1.1.3-galactic.capital.investment | downloads: 146
@@ -84,7 +84,7 @@ v1.0.0-quarg.farm | downloads: 1
 v1.0.1-control.station | downloads: 109
 v1.0.0-control.station | downloads: 1
 v1.0.0-additional.command.buttons.radial | downloads: 52
-v1.1.3-more.boarding.missions | downloads: 116
+v1.1.3-more.boarding.missions | downloads: 118
 v1.0.3-coalition.shopping | downloads: 97
 v1.0.2-coalition.shopping | downloads: 1
 v1.0.1-navy.licenses | downloads: 1
@@ -138,7 +138,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 137
-# TOTAL DOWNLOADS: 4418
+# TOTAL DOWNLOADS: 4428
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -160,14 +160,14 @@ galactic.capital.investment 176
 gegno.pirates 161
 hai.side.mission.unlocker 111
 human.labels 97
-jump.gates 117
+jump.gates 119
 kestrel.unlocks 75
 kor.efret.shipyard 137
 landing.images 90
-landing.images.android 101
-landing.images.highres 78
+landing.images.android 103
+landing.images.highres 80
 more.arfectas 144
-more.boarding.missions 123
+more.boarding.missions 125
 more.person.ships 130
 navy.licenses 156
 no.more.mereti.mines 83
@@ -183,4 +183,4 @@ space.fauna 112
 too.many.asteroids 131
 tribute.republic 70
 unique.fix 44
-uniques 81
+uniques 83

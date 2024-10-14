@@ -219,8 +219,8 @@
 		<td>115</td>
 		<td>115</td>
 		<td>117</td>
-		<td>117</td>
-		<td></td>
+		<td>119</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -263,8 +263,8 @@
 		<td>99</td>
 		<td>101</td>
 		<td>101</td>
-		<td>101</td>
-		<td></td>
+		<td>103</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -274,8 +274,8 @@
 		<td>76</td>
 		<td>78</td>
 		<td>78</td>
-		<td>78</td>
-		<td></td>
+		<td>80</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -296,8 +296,8 @@
 		<td>120</td>
 		<td>120</td>
 		<td>122</td>
-		<td>123</td>
-		<td>+ 1</td>
+		<td>125</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -472,8 +472,8 @@
 		<td>76</td>
 		<td>76</td>
 		<td>78</td>
-		<td>81</td>
-		<td>+ 3</td>
+		<td>83</td>
+		<td>+ 5</td>
 	</tr>
 </table>
 </h6>
@@ -630,8 +630,19 @@
 		<td>120</td>
 		<td>120</td>
 		<td>122</td>
-		<td>123</td>
-		<td>+ 1</td>
+		<td>125</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
+		<td>jump.gates</td>
+		<td>109</td>
+		<td>110</td>
+		<td>110</td>
+		<td>115</td>
+		<td>115</td>
+		<td>117</td>
+		<td>119</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -643,17 +654,6 @@
 		<td>117</td>
 		<td>118</td>
 		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>jump.gates</td>
-		<td>109</td>
-		<td>110</td>
-		<td>110</td>
-		<td>115</td>
-		<td>115</td>
-		<td>117</td>
-		<td>117</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -740,8 +740,8 @@
 		<td>99</td>
 		<td>101</td>
 		<td>101</td>
-		<td>101</td>
-		<td></td>
+		<td>103</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -821,6 +821,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>uniques</td>
+		<td>68</td>
+		<td>71</td>
+		<td>75</td>
+		<td>76</td>
+		<td>76</td>
+		<td>78</td>
+		<td>83</td>
+		<td>+ 5</td>
+	</tr>
+	<tr>
 		<td>no.more.mereti.mines</td>
 		<td>81</td>
 		<td>82</td>
@@ -832,17 +843,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>uniques</td>
-		<td>68</td>
-		<td>71</td>
-		<td>75</td>
-		<td>76</td>
-		<td>76</td>
-		<td>78</td>
-		<td>81</td>
-		<td>+ 3</td>
-	</tr>
-	<tr>
 		<td>landing.images.highres</td>
 		<td>74</td>
 		<td>75</td>
@@ -850,8 +850,8 @@
 		<td>76</td>
 		<td>78</td>
 		<td>78</td>
-		<td>78</td>
-		<td></td>
+		<td>80</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
