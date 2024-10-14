@@ -26,11 +26,11 @@ v1.0.1-uniques | downloads: 14
 v1.0.4-additional.command.buttons.radial | downloads: 5
 v1.0.3-additional.command.buttons.radial | downloads: 10
 v1.0.2-additional.command.buttons.radial | downloads: 4
-v1.0.0-outfits.weapon.slot | downloads: 60
+v1.0.0-outfits.weapon.slot | downloads: 61
 v1.0.1-more.person.ships | downloads: 78
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 51
-v1.0.0-kestrel.unlocks | downloads: 71
+v1.0.0-kestrel.unlocks | downloads: 73
 v1.0.2-tribute.republic | downloads: 52
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
@@ -114,7 +114,7 @@ v1.1-captureable.person.ships | downloads: 4
 v1.0-unique.fix | downloads: 44
 v1.0-too.many.asteroids | downloads: 2
 v1.0-snowfeather.robotics | downloads: 4
-v1.0-show.reputation | downloads: 112
+v1.0-show.reputation | downloads: 114
 v1.0-real.fluff | downloads: 4
 v1.0-planet.map | downloads: 25
 v1.0-pirate.warlords | downloads: 3
@@ -138,7 +138,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 137
-# TOTAL DOWNLOADS: 4409
+# TOTAL DOWNLOADS: 4414
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -161,7 +161,7 @@ gegno.pirates 161
 hai.side.mission.unlocker 111
 human.labels 97
 jump.gates 117
-kestrel.unlocks 71
+kestrel.unlocks 73
 kor.efret.shipyard 137
 landing.images 90
 landing.images.android 101
@@ -171,13 +171,13 @@ more.boarding.missions 123
 more.person.ships 130
 navy.licenses 156
 no.more.mereti.mines 83
-outfits.weapon.slot 60
+outfits.weapon.slot 61
 paint.your.ships 62
 pirate.warlords 3
 planet.map 76
 quarg.farm 139
 real.fluff 93
-show.reputation 112
+show.reputation 114
 snowfeather.robotics 118
 space.fauna 112
 too.many.asteroids 131

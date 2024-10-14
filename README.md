@@ -230,8 +230,8 @@
 		<td>68</td>
 		<td>68</td>
 		<td>70</td>
-		<td>71</td>
-		<td>+ 1</td>
+		<td>73</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -340,8 +340,8 @@
 		<td>57</td>
 		<td>57</td>
 		<td>59</td>
-		<td>60</td>
-		<td>+ 1</td>
+		<td>61</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -406,8 +406,8 @@
 		<td>108</td>
 		<td>108</td>
 		<td>112</td>
-		<td>112</td>
-		<td></td>
+		<td>114</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -667,6 +667,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>show.reputation</td>
+		<td>102</td>
+		<td>103</td>
+		<td>103</td>
+		<td>108</td>
+		<td>108</td>
+		<td>112</td>
+		<td>114</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>space.fauna</td>
 		<td>102</td>
 		<td>103</td>
@@ -676,17 +687,6 @@
 		<td>110</td>
 		<td>112</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>show.reputation</td>
-		<td>102</td>
-		<td>103</td>
-		<td>103</td>
-		<td>108</td>
-		<td>108</td>
-		<td>112</td>
-		<td>112</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -883,8 +883,8 @@
 		<td>68</td>
 		<td>68</td>
 		<td>70</td>
-		<td>71</td>
-		<td>+ 1</td>
+		<td>73</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -927,8 +927,8 @@
 		<td>57</td>
 		<td>57</td>
 		<td>59</td>
-		<td>60</td>
-		<td>+ 1</td>
+		<td>61</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
