@@ -439,8 +439,8 @@
 		<td>127</td>
 		<td>131</td>
 		<td>131</td>
-		<td>131</td>
-		<td></td>
+		<td>133</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -619,8 +619,8 @@
 		<td>127</td>
 		<td>131</td>
 		<td>131</td>
-		<td>131</td>
-		<td></td>
+		<td>133</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
