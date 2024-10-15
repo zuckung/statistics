@@ -65,8 +65,8 @@
 		<td>112</td>
 		<td>114</td>
 		<td>116</td>
-		<td>116</td>
-		<td></td>
+		<td>117</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -98,8 +98,8 @@
 		<td>138</td>
 		<td>142</td>
 		<td>143</td>
-		<td>143</td>
-		<td></td>
+		<td>145</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -109,8 +109,8 @@
 		<td>106</td>
 		<td>110</td>
 		<td>110</td>
-		<td>110</td>
-		<td></td>
+		<td>112</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -439,8 +439,8 @@
 		<td>127</td>
 		<td>131</td>
 		<td>131</td>
-		<td>133</td>
-		<td>+ 2</td>
+		<td>134</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -450,8 +450,8 @@
 		<td>70</td>
 		<td>70</td>
 		<td>70</td>
-		<td>71</td>
-		<td>+ 1</td>
+		<td>73</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
@@ -546,6 +546,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>coalition.shopping</td>
+		<td>137</td>
+		<td>137</td>
+		<td>138</td>
+		<td>138</td>
+		<td>142</td>
+		<td>143</td>
+		<td>145</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>more.arfectas</td>
 		<td>141</td>
 		<td>141</td>
@@ -554,17 +565,6 @@
 		<td>144</td>
 		<td>144</td>
 		<td>144</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>coalition.shopping</td>
-		<td>137</td>
-		<td>137</td>
-		<td>138</td>
-		<td>138</td>
-		<td>142</td>
-		<td>143</td>
-		<td>143</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -619,8 +619,8 @@
 		<td>127</td>
 		<td>131</td>
 		<td>131</td>
-		<td>133</td>
-		<td>+ 2</td>
+		<td>134</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -656,6 +656,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>better.starts</td>
+		<td>111</td>
+		<td>111</td>
+		<td>112</td>
+		<td>112</td>
+		<td>114</td>
+		<td>116</td>
+		<td>117</td>
+		<td>+ 1</td>
+	</tr>
+	<tr>
 		<td>show.reputation</td>
 		<td>103</td>
 		<td>103</td>
@@ -667,17 +678,6 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
-		<td>better.starts</td>
-		<td>111</td>
-		<td>111</td>
-		<td>112</td>
-		<td>112</td>
-		<td>114</td>
-		<td>116</td>
-		<td>116</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>space.fauna</td>
 		<td>103</td>
 		<td>107</td>
@@ -687,6 +687,17 @@
 		<td>112</td>
 		<td>112</td>
 		<td></td>
+	</tr>
+	<tr>
+		<td>control.station</td>
+		<td>101</td>
+		<td>105</td>
+		<td>106</td>
+		<td>106</td>
+		<td>110</td>
+		<td>110</td>
+		<td>112</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -708,17 +719,6 @@
 		<td>111</td>
 		<td>111</td>
 		<td>111</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>control.station</td>
-		<td>101</td>
-		<td>105</td>
-		<td>106</td>
-		<td>106</td>
-		<td>110</td>
-		<td>110</td>
-		<td>110</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -894,8 +894,8 @@
 		<td>70</td>
 		<td>70</td>
 		<td>70</td>
-		<td>71</td>
-		<td>+ 1</td>
+		<td>73</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
