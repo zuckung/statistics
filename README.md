@@ -76,8 +76,8 @@
 		<td>142</td>
 		<td>144</td>
 		<td>144</td>
-		<td>147</td>
-		<td>+ 3</td>
+		<td>151</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -87,8 +87,8 @@
 		<td>110</td>
 		<td>112</td>
 		<td>112</td>
-		<td>113</td>
-		<td>+ 1</td>
+		<td>115</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -153,8 +153,8 @@
 		<td>140</td>
 		<td>140</td>
 		<td>141</td>
-		<td>143</td>
-		<td>+ 2</td>
+		<td>145</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -285,8 +285,8 @@
 		<td>142</td>
 		<td>144</td>
 		<td>144</td>
-		<td>145</td>
-		<td>+ 1</td>
+		<td>147</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -351,8 +351,8 @@
 		<td>57</td>
 		<td>61</td>
 		<td>62</td>
-		<td>63</td>
-		<td>+ 1</td>
+		<td>65</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -542,6 +542,17 @@
 		<td>142</td>
 		<td>144</td>
 		<td>144</td>
+		<td>151</td>
+		<td>+ 7</td>
+	</tr>
+	<tr>
+		<td>more.arfectas</td>
+		<td>141</td>
+		<td>141</td>
+		<td>142</td>
+		<td>142</td>
+		<td>144</td>
+		<td>144</td>
 		<td>147</td>
 		<td>+ 3</td>
 	</tr>
@@ -557,17 +568,6 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
-		<td>more.arfectas</td>
-		<td>141</td>
-		<td>141</td>
-		<td>142</td>
-		<td>142</td>
-		<td>144</td>
-		<td>144</td>
-		<td>145</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
 		<td>expert.crew.members</td>
 		<td>130</td>
 		<td>133</td>
@@ -575,8 +575,8 @@
 		<td>140</td>
 		<td>140</td>
 		<td>141</td>
-		<td>143</td>
-		<td>+ 2</td>
+		<td>145</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -678,6 +678,17 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
+		<td>captureable.person.ships</td>
+		<td>107</td>
+		<td>109</td>
+		<td>110</td>
+		<td>110</td>
+		<td>112</td>
+		<td>112</td>
+		<td>115</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>hai.side.mission.unlocker</td>
 		<td>108</td>
 		<td>108</td>
@@ -709,17 +720,6 @@
 		<td>110</td>
 		<td>113</td>
 		<td>+ 3</td>
-	</tr>
-	<tr>
-		<td>captureable.person.ships</td>
-		<td>107</td>
-		<td>109</td>
-		<td>110</td>
-		<td>110</td>
-		<td>112</td>
-		<td>112</td>
-		<td>113</td>
-		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -916,8 +916,8 @@
 		<td>57</td>
 		<td>61</td>
 		<td>62</td>
-		<td>63</td>
-		<td>+ 1</td>
+		<td>65</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
