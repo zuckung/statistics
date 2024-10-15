@@ -76,8 +76,8 @@
 		<td>142</td>
 		<td>144</td>
 		<td>144</td>
-		<td>144</td>
-		<td></td>
+		<td>146</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -164,8 +164,8 @@
 		<td>83</td>
 		<td>83</td>
 		<td>84</td>
-		<td>84</td>
-		<td></td>
+		<td>86</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -186,8 +186,8 @@
 		<td>158</td>
 		<td>160</td>
 		<td>161</td>
-		<td>161</td>
-		<td></td>
+		<td>163</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -241,8 +241,8 @@
 		<td>131</td>
 		<td>133</td>
 		<td>137</td>
-		<td>137</td>
-		<td></td>
+		<td>139</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -307,8 +307,8 @@
 		<td>125</td>
 		<td>129</td>
 		<td>131</td>
-		<td>133</td>
-		<td>+ 2</td>
+		<td>135</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -318,8 +318,8 @@
 		<td>153</td>
 		<td>153</td>
 		<td>156</td>
-		<td>156</td>
-		<td></td>
+		<td>158</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -329,8 +329,8 @@
 		<td>83</td>
 		<td>83</td>
 		<td>83</td>
-		<td>83</td>
-		<td></td>
+		<td>85</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -520,8 +520,8 @@
 		<td>158</td>
 		<td>160</td>
 		<td>161</td>
-		<td>161</td>
-		<td></td>
+		<td>163</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -531,24 +531,24 @@
 		<td>153</td>
 		<td>153</td>
 		<td>156</td>
-		<td>156</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>more.arfectas</td>
-		<td>141</td>
-		<td>141</td>
-		<td>142</td>
-		<td>142</td>
-		<td>144</td>
-		<td>144</td>
-		<td>144</td>
-		<td></td>
+		<td>158</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
 		<td>135</td>
 		<td>139</td>
+		<td>142</td>
+		<td>142</td>
+		<td>144</td>
+		<td>144</td>
+		<td>146</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>more.arfectas</td>
+		<td>141</td>
+		<td>141</td>
 		<td>142</td>
 		<td>142</td>
 		<td>144</td>
@@ -597,8 +597,8 @@
 		<td>131</td>
 		<td>133</td>
 		<td>137</td>
-		<td>137</td>
-		<td></td>
+		<td>139</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -608,8 +608,8 @@
 		<td>125</td>
 		<td>129</td>
 		<td>131</td>
-		<td>133</td>
-		<td>+ 2</td>
+		<td>135</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -806,8 +806,19 @@
 		<td>83</td>
 		<td>83</td>
 		<td>84</td>
-		<td>84</td>
-		<td></td>
+		<td>86</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>no.more.mereti.mines</td>
+		<td>82</td>
+		<td>82</td>
+		<td>83</td>
+		<td>83</td>
+		<td>83</td>
+		<td>83</td>
+		<td>85</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -827,17 +838,6 @@
 		<td>76</td>
 		<td>76</td>
 		<td>78</td>
-		<td>83</td>
-		<td>83</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>no.more.mereti.mines</td>
-		<td>82</td>
-		<td>82</td>
-		<td>83</td>
-		<td>83</td>
-		<td>83</td>
 		<td>83</td>
 		<td>83</td>
 		<td></td>
