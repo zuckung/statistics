@@ -307,8 +307,8 @@
 		<td>125</td>
 		<td>129</td>
 		<td>131</td>
-		<td>131</td>
-		<td></td>
+		<td>133</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -601,23 +601,23 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>too.many.asteroids</td>
-		<td>119</td>
-		<td>126</td>
-		<td>127</td>
-		<td>127</td>
-		<td>131</td>
-		<td>131</td>
-		<td>131</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>more.person.ships</td>
 		<td>120</td>
 		<td>124</td>
 		<td>125</td>
 		<td>125</td>
 		<td>129</td>
+		<td>131</td>
+		<td>133</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>too.many.asteroids</td>
+		<td>119</td>
+		<td>126</td>
+		<td>127</td>
+		<td>127</td>
+		<td>131</td>
 		<td>131</td>
 		<td>131</td>
 		<td></td>
