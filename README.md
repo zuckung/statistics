@@ -197,8 +197,8 @@
 		<td>111</td>
 		<td>111</td>
 		<td>111</td>
-		<td>112</td>
-		<td>+ 1</td>
+		<td>114</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -678,6 +678,17 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
+		<td>hai.side.mission.unlocker</td>
+		<td>108</td>
+		<td>108</td>
+		<td>111</td>
+		<td>111</td>
+		<td>111</td>
+		<td>111</td>
+		<td>114</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>space.fauna</td>
 		<td>103</td>
 		<td>107</td>
@@ -708,17 +719,6 @@
 		<td>112</td>
 		<td>112</td>
 		<td>113</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>hai.side.mission.unlocker</td>
-		<td>108</td>
-		<td>108</td>
-		<td>111</td>
-		<td>111</td>
-		<td>111</td>
-		<td>111</td>
-		<td>112</td>
 		<td>+ 1</td>
 	</tr>
 	<tr>
