@@ -43,8 +43,8 @@
 		<td>105</td>
 		<td>105</td>
 		<td>106</td>
-		<td>108</td>
-		<td>+ 2</td>
+		<td>110</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -729,8 +729,8 @@
 		<td>105</td>
 		<td>105</td>
 		<td>106</td>
-		<td>108</td>
-		<td>+ 2</td>
+		<td>110</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
