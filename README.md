@@ -65,8 +65,8 @@
 		<td>114</td>
 		<td>116</td>
 		<td>118</td>
-		<td>118</td>
-		<td></td>
+		<td>120</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>144</td>
 		<td>144</td>
 		<td>151</td>
-		<td>151</td>
-		<td></td>
+		<td>153</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -109,8 +109,8 @@
 		<td>110</td>
 		<td>110</td>
 		<td>113</td>
-		<td>113</td>
-		<td></td>
+		<td>115</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -208,8 +208,8 @@
 		<td>97</td>
 		<td>97</td>
 		<td>98</td>
-		<td>98</td>
-		<td></td>
+		<td>100</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -406,8 +406,8 @@
 		<td>112</td>
 		<td>114</td>
 		<td>117</td>
-		<td>117</td>
-		<td></td>
+		<td>119</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -542,8 +542,8 @@
 		<td>144</td>
 		<td>144</td>
 		<td>151</td>
-		<td>151</td>
-		<td></td>
+		<td>153</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -645,6 +645,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>better.starts</td>
+		<td>111</td>
+		<td>112</td>
+		<td>112</td>
+		<td>114</td>
+		<td>116</td>
+		<td>118</td>
+		<td>120</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>snowfeather.robotics</td>
 		<td>114</td>
 		<td>115</td>
@@ -656,17 +667,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>better.starts</td>
-		<td>111</td>
-		<td>112</td>
-		<td>112</td>
-		<td>114</td>
-		<td>116</td>
-		<td>118</td>
-		<td>118</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>show.reputation</td>
 		<td>103</td>
 		<td>108</td>
@@ -674,8 +674,19 @@
 		<td>112</td>
 		<td>114</td>
 		<td>117</td>
-		<td>117</td>
-		<td></td>
+		<td>119</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>control.station</td>
+		<td>105</td>
+		<td>106</td>
+		<td>106</td>
+		<td>110</td>
+		<td>110</td>
+		<td>113</td>
+		<td>115</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -711,17 +722,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>control.station</td>
-		<td>105</td>
-		<td>106</td>
-		<td>106</td>
-		<td>110</td>
-		<td>110</td>
-		<td>113</td>
-		<td>113</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>99</td>
 		<td>100</td>
@@ -751,8 +751,8 @@
 		<td>97</td>
 		<td>97</td>
 		<td>98</td>
-		<td>98</td>
-		<td></td>
+		<td>100</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
