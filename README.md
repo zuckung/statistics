@@ -54,8 +54,8 @@
 		<td>84</td>
 		<td>85</td>
 		<td>85</td>
-		<td>85</td>
-		<td></td>
+		<td>87</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -285,8 +285,8 @@
 		<td>144</td>
 		<td>147</td>
 		<td>147</td>
-		<td>147</td>
-		<td></td>
+		<td>149</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -307,8 +307,8 @@
 		<td>131</td>
 		<td>138</td>
 		<td>138</td>
-		<td>138</td>
-		<td></td>
+		<td>140</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -384,8 +384,8 @@
 		<td>141</td>
 		<td>142</td>
 		<td>142</td>
-		<td>142</td>
-		<td></td>
+		<td>144</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -472,8 +472,8 @@
 		<td>83</td>
 		<td>84</td>
 		<td>84</td>
-		<td>84</td>
-		<td></td>
+		<td>86</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </h6>
@@ -553,8 +553,8 @@
 		<td>144</td>
 		<td>147</td>
 		<td>147</td>
-		<td>147</td>
-		<td></td>
+		<td>149</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -586,8 +586,19 @@
 		<td>141</td>
 		<td>142</td>
 		<td>142</td>
-		<td>142</td>
-		<td></td>
+		<td>144</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>more.person.ships</td>
+		<td>125</td>
+		<td>125</td>
+		<td>129</td>
+		<td>131</td>
+		<td>138</td>
+		<td>138</td>
+		<td>140</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -598,17 +609,6 @@
 		<td>140</td>
 		<td>140</td>
 		<td>140</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>more.person.ships</td>
-		<td>125</td>
-		<td>125</td>
-		<td>129</td>
-		<td>131</td>
-		<td>138</td>
-		<td>138</td>
-		<td>138</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -810,17 +810,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>no.more.mereti.mines</td>
-		<td>83</td>
-		<td>83</td>
-		<td>83</td>
-		<td>83</td>
-		<td>86</td>
-		<td>86</td>
-		<td>86</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>automata.in.human.space</td>
 		<td>80</td>
 		<td>80</td>
@@ -828,8 +817,8 @@
 		<td>84</td>
 		<td>85</td>
 		<td>85</td>
-		<td>85</td>
-		<td></td>
+		<td>87</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -839,7 +828,18 @@
 		<td>83</td>
 		<td>84</td>
 		<td>84</td>
-		<td>84</td>
+		<td>86</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>no.more.mereti.mines</td>
+		<td>83</td>
+		<td>83</td>
+		<td>83</td>
+		<td>83</td>
+		<td>86</td>
+		<td>86</td>
+		<td>86</td>
 		<td></td>
 	</tr>
 	<tr>
