@@ -329,8 +329,8 @@
 		<td>83</td>
 		<td>86</td>
 		<td>86</td>
-		<td>86</td>
-		<td></td>
+		<td>88</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -799,6 +799,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>no.more.mereti.mines</td>
+		<td>83</td>
+		<td>83</td>
+		<td>83</td>
+		<td>83</td>
+		<td>86</td>
+		<td>86</td>
+		<td>88</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>free.worlds.5.years.later</td>
 		<td>83</td>
 		<td>83</td>
@@ -830,17 +841,6 @@
 		<td>84</td>
 		<td>86</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>no.more.mereti.mines</td>
-		<td>83</td>
-		<td>83</td>
-		<td>83</td>
-		<td>83</td>
-		<td>86</td>
-		<td>86</td>
-		<td>86</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
