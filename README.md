@@ -340,8 +340,8 @@
 		<td>61</td>
 		<td>62</td>
 		<td>62</td>
-		<td>62</td>
-		<td></td>
+		<td>64</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -927,8 +927,8 @@
 		<td>61</td>
 		<td>62</td>
 		<td>62</td>
-		<td>62</td>
-		<td></td>
+		<td>64</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
