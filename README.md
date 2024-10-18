@@ -384,8 +384,8 @@
 		<td>142</td>
 		<td>142</td>
 		<td>144</td>
-		<td>144</td>
-		<td></td>
+		<td>146</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -439,8 +439,8 @@
 		<td>135</td>
 		<td>135</td>
 		<td>137</td>
-		<td>137</td>
-		<td></td>
+		<td>139</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -557,6 +557,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>quarg.farm</td>
+		<td>133</td>
+		<td>137</td>
+		<td>141</td>
+		<td>142</td>
+		<td>142</td>
+		<td>144</td>
+		<td>146</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>coalition.shopping</td>
 		<td>138</td>
 		<td>142</td>
@@ -576,17 +587,6 @@
 		<td>145</td>
 		<td>145</td>
 		<td>145</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>quarg.farm</td>
-		<td>133</td>
-		<td>137</td>
-		<td>141</td>
-		<td>142</td>
-		<td>142</td>
-		<td>144</td>
-		<td>144</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -619,8 +619,8 @@
 		<td>135</td>
 		<td>135</td>
 		<td>137</td>
-		<td>137</td>
-		<td></td>
+		<td>139</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
