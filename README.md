@@ -43,8 +43,8 @@
 		<td>106</td>
 		<td>110</td>
 		<td>110</td>
-		<td>112</td>
-		<td>+ 2</td>
+		<td>114</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -76,8 +76,8 @@
 		<td>151</td>
 		<td>153</td>
 		<td>153</td>
-		<td>155</td>
-		<td>+ 2</td>
+		<td>157</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -542,8 +542,8 @@
 		<td>151</td>
 		<td>153</td>
 		<td>153</td>
-		<td>155</td>
-		<td>+ 2</td>
+		<td>157</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -711,6 +711,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>100</td>
+		<td>105</td>
+		<td>105</td>
+		<td>106</td>
+		<td>110</td>
+		<td>110</td>
+		<td>114</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>space.fauna</td>
 		<td>108</td>
 		<td>110</td>
@@ -720,17 +731,6 @@
 		<td>113</td>
 		<td>113</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>100</td>
-		<td>105</td>
-		<td>105</td>
-		<td>106</td>
-		<td>110</td>
-		<td>110</td>
-		<td>112</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
