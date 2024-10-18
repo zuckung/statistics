@@ -43,8 +43,8 @@
 		<td>106</td>
 		<td>110</td>
 		<td>110</td>
-		<td>110</td>
-		<td></td>
+		<td>112</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -54,8 +54,8 @@
 		<td>85</td>
 		<td>85</td>
 		<td>87</td>
-		<td>87</td>
-		<td></td>
+		<td>89</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -76,8 +76,8 @@
 		<td>151</td>
 		<td>153</td>
 		<td>153</td>
-		<td>153</td>
-		<td></td>
+		<td>155</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -87,8 +87,8 @@
 		<td>115</td>
 		<td>115</td>
 		<td>115</td>
-		<td>115</td>
-		<td></td>
+		<td>117</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -142,8 +142,8 @@
 		<td>97</td>
 		<td>97</td>
 		<td>99</td>
-		<td>99</td>
-		<td></td>
+		<td>101</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -230,8 +230,8 @@
 		<td>76</td>
 		<td>76</td>
 		<td>76</td>
-		<td>76</td>
-		<td></td>
+		<td>78</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -542,8 +542,8 @@
 		<td>151</td>
 		<td>153</td>
 		<td>153</td>
-		<td>153</td>
-		<td></td>
+		<td>155</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -678,22 +678,22 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>control.station</td>
-		<td>106</td>
-		<td>110</td>
-		<td>110</td>
-		<td>113</td>
-		<td>115</td>
-		<td>115</td>
-		<td>115</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>captureable.person.ships</td>
 		<td>110</td>
 		<td>112</td>
 		<td>112</td>
 		<td>115</td>
+		<td>115</td>
+		<td>115</td>
+		<td>117</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>control.station</td>
+		<td>106</td>
+		<td>110</td>
+		<td>110</td>
+		<td>113</td>
 		<td>115</td>
 		<td>115</td>
 		<td>115</td>
@@ -729,8 +729,8 @@
 		<td>106</td>
 		<td>110</td>
 		<td>110</td>
-		<td>110</td>
-		<td></td>
+		<td>112</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -744,6 +744,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>disable.spaceport.repeatables</td>
+		<td>92</td>
+		<td>96</td>
+		<td>96</td>
+		<td>97</td>
+		<td>97</td>
+		<td>99</td>
+		<td>101</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>human.labels</td>
 		<td>95</td>
 		<td>97</td>
@@ -752,17 +763,6 @@
 		<td>100</td>
 		<td>100</td>
 		<td>100</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>disable.spaceport.repeatables</td>
-		<td>92</td>
-		<td>96</td>
-		<td>96</td>
-		<td>97</td>
-		<td>97</td>
-		<td>99</td>
-		<td>99</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -799,6 +799,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>automata.in.human.space</td>
+		<td>80</td>
+		<td>84</td>
+		<td>84</td>
+		<td>85</td>
+		<td>85</td>
+		<td>87</td>
+		<td>89</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>no.more.mereti.mines</td>
 		<td>83</td>
 		<td>83</td>
@@ -816,17 +827,6 @@
 		<td>84</td>
 		<td>87</td>
 		<td>87</td>
-		<td>87</td>
-		<td>87</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>automata.in.human.space</td>
-		<td>80</td>
-		<td>84</td>
-		<td>84</td>
-		<td>85</td>
-		<td>85</td>
 		<td>87</td>
 		<td>87</td>
 		<td></td>
@@ -854,6 +854,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>kestrel.unlocks</td>
+		<td>68</td>
+		<td>70</td>
+		<td>75</td>
+		<td>76</td>
+		<td>76</td>
+		<td>76</td>
+		<td>78</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>planet.map</td>
 		<td>74</td>
 		<td>76</td>
@@ -873,17 +884,6 @@
 		<td>77</td>
 		<td>77</td>
 		<td>77</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>kestrel.unlocks</td>
-		<td>68</td>
-		<td>70</td>
-		<td>75</td>
-		<td>76</td>
-		<td>76</td>
-		<td>76</td>
-		<td>76</td>
 		<td></td>
 	</tr>
 	<tr>
