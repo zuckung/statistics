@@ -472,8 +472,8 @@
 		<td>84</td>
 		<td>84</td>
 		<td>86</td>
-		<td>86</td>
-		<td></td>
+		<td>88</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </h6>
@@ -810,6 +810,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>uniques</td>
+		<td>76</td>
+		<td>78</td>
+		<td>83</td>
+		<td>84</td>
+		<td>84</td>
+		<td>86</td>
+		<td>88</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>no.more.mereti.mines</td>
 		<td>83</td>
 		<td>83</td>
@@ -829,17 +840,6 @@
 		<td>87</td>
 		<td>87</td>
 		<td>87</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>uniques</td>
-		<td>76</td>
-		<td>78</td>
-		<td>83</td>
-		<td>84</td>
-		<td>84</td>
-		<td>86</td>
-		<td>86</td>
 		<td></td>
 	</tr>
 	<tr>
