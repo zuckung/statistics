@@ -241,8 +241,8 @@
 		<td>140</td>
 		<td>140</td>
 		<td>142</td>
-		<td>144</td>
-		<td>+ 2</td>
+		<td>146</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -597,8 +597,8 @@
 		<td>140</td>
 		<td>140</td>
 		<td>142</td>
-		<td>144</td>
-		<td>+ 2</td>
+		<td>146</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
