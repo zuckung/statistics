@@ -384,8 +384,8 @@
 		<td>144</td>
 		<td>146</td>
 		<td>148</td>
-		<td>151</td>
-		<td>+ 3</td>
+		<td>153</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -553,8 +553,8 @@
 		<td>144</td>
 		<td>146</td>
 		<td>148</td>
-		<td>151</td>
-		<td>+ 3</td>
+		<td>153</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
