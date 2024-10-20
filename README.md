@@ -32,8 +32,8 @@
 		<td>165</td>
 		<td>165</td>
 		<td>165</td>
-		<td>165</td>
-		<td></td>
+		<td>167</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -43,8 +43,8 @@
 		<td>110</td>
 		<td>114</td>
 		<td>114</td>
-		<td>116</td>
-		<td>+ 2</td>
+		<td>118</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -54,8 +54,8 @@
 		<td>87</td>
 		<td>91</td>
 		<td>91</td>
-		<td>91</td>
-		<td></td>
+		<td>93</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -65,8 +65,8 @@
 		<td>120</td>
 		<td>120</td>
 		<td>120</td>
-		<td>120</td>
-		<td></td>
+		<td>122</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -175,8 +175,8 @@
 		<td>179</td>
 		<td>179</td>
 		<td>181</td>
-		<td>181</td>
-		<td></td>
+		<td>183</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -219,8 +219,8 @@
 		<td>120</td>
 		<td>120</td>
 		<td>122</td>
-		<td>122</td>
-		<td></td>
+		<td>124</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -318,8 +318,8 @@
 		<td>159</td>
 		<td>159</td>
 		<td>161</td>
-		<td>161</td>
-		<td></td>
+		<td>163</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -340,8 +340,8 @@
 		<td>64</td>
 		<td>64</td>
 		<td>66</td>
-		<td>66</td>
-		<td></td>
+		<td>68</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -498,8 +498,8 @@
 		<td>179</td>
 		<td>179</td>
 		<td>181</td>
-		<td>181</td>
-		<td></td>
+		<td>183</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -509,8 +509,8 @@
 		<td>165</td>
 		<td>165</td>
 		<td>165</td>
-		<td>165</td>
-		<td></td>
+		<td>167</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -531,8 +531,8 @@
 		<td>159</td>
 		<td>159</td>
 		<td>161</td>
-		<td>161</td>
-		<td></td>
+		<td>163</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -641,8 +641,19 @@
 		<td>120</td>
 		<td>120</td>
 		<td>122</td>
+		<td>124</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>better.starts</td>
+		<td>116</td>
+		<td>118</td>
+		<td>120</td>
+		<td>120</td>
+		<td>120</td>
+		<td>120</td>
 		<td>122</td>
-		<td></td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -656,17 +667,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>better.starts</td>
-		<td>116</td>
-		<td>118</td>
-		<td>120</td>
-		<td>120</td>
-		<td>120</td>
-		<td>120</td>
-		<td>120</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>show.reputation</td>
 		<td>114</td>
 		<td>117</td>
@@ -676,6 +676,17 @@
 		<td>119</td>
 		<td>119</td>
 		<td></td>
+	</tr>
+	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>105</td>
+		<td>106</td>
+		<td>110</td>
+		<td>110</td>
+		<td>114</td>
+		<td>114</td>
+		<td>118</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -698,17 +709,6 @@
 		<td>117</td>
 		<td>117</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>105</td>
-		<td>106</td>
-		<td>110</td>
-		<td>110</td>
-		<td>114</td>
-		<td>114</td>
-		<td>116</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -777,6 +777,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>automata.in.human.space</td>
+		<td>84</td>
+		<td>85</td>
+		<td>85</td>
+		<td>87</td>
+		<td>91</td>
+		<td>91</td>
+		<td>93</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>additional.command.buttons</td>
 		<td>92</td>
 		<td>92</td>
@@ -793,17 +804,6 @@
 		<td>91</td>
 		<td>91</td>
 		<td>91</td>
-		<td>91</td>
-		<td>91</td>
-		<td>91</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>automata.in.human.space</td>
-		<td>84</td>
-		<td>85</td>
-		<td>85</td>
-		<td>87</td>
 		<td>91</td>
 		<td>91</td>
 		<td>91</td>
@@ -916,8 +916,8 @@
 		<td>64</td>
 		<td>64</td>
 		<td>66</td>
-		<td>66</td>
-		<td></td>
+		<td>68</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
