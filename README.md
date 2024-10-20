@@ -439,8 +439,8 @@
 		<td>137</td>
 		<td>139</td>
 		<td>141</td>
-		<td>141</td>
-		<td></td>
+		<td>143</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td>86</td>
 		<td>88</td>
 		<td>88</td>
-		<td>88</td>
-		<td></td>
+		<td>90</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </h6>
@@ -601,6 +601,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>too.many.asteroids</td>
+		<td>131</td>
+		<td>135</td>
+		<td>135</td>
+		<td>137</td>
+		<td>139</td>
+		<td>141</td>
+		<td>143</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>more.person.ships</td>
 		<td>131</td>
 		<td>138</td>
@@ -609,17 +620,6 @@
 		<td>140</td>
 		<td>142</td>
 		<td>142</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>too.many.asteroids</td>
-		<td>131</td>
-		<td>135</td>
-		<td>135</td>
-		<td>137</td>
-		<td>139</td>
-		<td>141</td>
-		<td>141</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -810,6 +810,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>uniques</td>
+		<td>83</td>
+		<td>84</td>
+		<td>84</td>
+		<td>86</td>
+		<td>88</td>
+		<td>88</td>
+		<td>90</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>no.more.mereti.mines</td>
 		<td>83</td>
 		<td>86</td>
@@ -830,17 +841,6 @@
 		<td>87</td>
 		<td>89</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>uniques</td>
-		<td>83</td>
-		<td>84</td>
-		<td>84</td>
-		<td>86</td>
-		<td>88</td>
-		<td>88</td>
-		<td>88</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
