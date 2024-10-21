@@ -296,8 +296,8 @@
 		<td>127</td>
 		<td>129</td>
 		<td>129</td>
-		<td>129</td>
-		<td></td>
+		<td>131</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -630,8 +630,8 @@
 		<td>127</td>
 		<td>129</td>
 		<td>129</td>
-		<td>129</td>
-		<td></td>
+		<td>131</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
