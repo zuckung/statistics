@@ -153,8 +153,8 @@
 		<td>145</td>
 		<td>147</td>
 		<td>147</td>
-		<td>147</td>
-		<td></td>
+		<td>149</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -285,8 +285,8 @@
 		<td>149</td>
 		<td>149</td>
 		<td>151</td>
-		<td>151</td>
-		<td></td>
+		<td>153</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -318,8 +318,8 @@
 		<td>159</td>
 		<td>161</td>
 		<td>163</td>
-		<td>163</td>
-		<td></td>
+		<td>165</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -340,8 +340,8 @@
 		<td>64</td>
 		<td>66</td>
 		<td>68</td>
-		<td>70</td>
-		<td>+ 2</td>
+		<td>72</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -513,6 +513,17 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
+		<td>navy.licenses</td>
+		<td>159</td>
+		<td>159</td>
+		<td>159</td>
+		<td>159</td>
+		<td>161</td>
+		<td>163</td>
+		<td>165</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>gegno.pirates</td>
 		<td>164</td>
 		<td>164</td>
@@ -521,17 +532,6 @@
 		<td>164</td>
 		<td>164</td>
 		<td>164</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>navy.licenses</td>
-		<td>159</td>
-		<td>159</td>
-		<td>159</td>
-		<td>159</td>
-		<td>161</td>
-		<td>163</td>
-		<td>163</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -564,8 +564,8 @@
 		<td>149</td>
 		<td>149</td>
 		<td>151</td>
-		<td>151</td>
-		<td></td>
+		<td>153</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -575,8 +575,8 @@
 		<td>145</td>
 		<td>147</td>
 		<td>147</td>
-		<td>147</td>
-		<td></td>
+		<td>149</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -905,8 +905,8 @@
 		<td>64</td>
 		<td>66</td>
 		<td>68</td>
-		<td>70</td>
-		<td>+ 2</td>
+		<td>72</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
