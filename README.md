@@ -340,8 +340,8 @@
 		<td>64</td>
 		<td>66</td>
 		<td>68</td>
-		<td>68</td>
-		<td></td>
+		<td>70</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -898,6 +898,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>outfits.weapon.slot</td>
+		<td>62</td>
+		<td>62</td>
+		<td>64</td>
+		<td>64</td>
+		<td>66</td>
+		<td>68</td>
+		<td>70</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>paint.your.ships</td>
 		<td>65</td>
 		<td>65</td>
@@ -906,17 +917,6 @@
 		<td>67</td>
 		<td>69</td>
 		<td>69</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>outfits.weapon.slot</td>
-		<td>62</td>
-		<td>62</td>
-		<td>64</td>
-		<td>64</td>
-		<td>66</td>
-		<td>68</td>
-		<td>68</td>
 		<td></td>
 	</tr>
 	<tr>
