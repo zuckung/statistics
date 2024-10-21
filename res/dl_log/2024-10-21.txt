@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.2-more.person.ships | downloads: 7
-v1.0.8-additional.command.buttons.radial | downloads: 13
+v1.0.2-more.person.ships | downloads: 9
+v1.0.8-additional.command.buttons.radial | downloads: 15
 v1.0.2-better.starts | downloads: 11
 v1.1.5-captureable.person.ships | downloads: 14
 v1.0.7-additional.command.buttons.radial | downloads: 9
@@ -30,7 +30,7 @@ v1.0.2-additional.command.buttons.radial | downloads: 4
 v1.0.0-outfits.weapon.slot | downloads: 70
 v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
-v1.0.1-planet.map | downloads: 54
+v1.0.1-planet.map | downloads: 56
 v1.0.0-kestrel.unlocks | downloads: 78
 v1.0.2-tribute.republic | downloads: 56
 v1.0.1-tribute.republic | downloads: 16
@@ -89,7 +89,7 @@ v1.1.3-more.boarding.missions | downloads: 124
 v1.0.3-coalition.shopping | downloads: 97
 v1.0.2-coalition.shopping | downloads: 1
 v1.0.1-navy.licenses | downloads: 1
-v1.1.2-space.fauna | downloads: 113
+v1.1.2-space.fauna | downloads: 115
 v1.0.3-snowfeather.robotics | downloads: 114
 v1.0.2-snowfeather.robotics | downloads: 1
 v1.1.1-space.fauna | downloads: 1
@@ -139,12 +139,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 138
-# TOTAL DOWNLOADS: 4651
+# TOTAL DOWNLOADS: 4659
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 92
-additional.command.buttons.radial 169
+additional.command.buttons.radial 171
 automata.destruction.0percent 118
 automata.in.human.space 93
 better.starts 122
@@ -169,18 +169,18 @@ landing.images.android 104
 landing.images.highres 81
 more.arfectas 151
 more.boarding.missions 131
-more.person.ships 142
+more.person.ships 144
 navy.licenses 163
 no.more.mereti.mines 90
 outfits.weapon.slot 70
 paint.your.ships 69
 pirate.warlords 3
-planet.map 79
+planet.map 81
 quarg.farm 153
 real.fluff 93
 show.reputation 121
 snowfeather.robotics 121
-space.fauna 115
+space.fauna 117
 too.many.asteroids 143
 tribute.republic 74
 unique.fix 44

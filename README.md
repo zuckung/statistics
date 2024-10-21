@@ -32,8 +32,8 @@
 		<td>165</td>
 		<td>165</td>
 		<td>167</td>
-		<td>169</td>
-		<td>+ 2</td>
+		<td>171</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -307,8 +307,8 @@
 		<td>140</td>
 		<td>142</td>
 		<td>142</td>
-		<td>142</td>
-		<td></td>
+		<td>144</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -373,8 +373,8 @@
 		<td>77</td>
 		<td>79</td>
 		<td>79</td>
-		<td>79</td>
-		<td></td>
+		<td>81</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -428,8 +428,8 @@
 		<td>113</td>
 		<td>115</td>
 		<td>115</td>
-		<td>115</td>
-		<td></td>
+		<td>117</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -509,8 +509,8 @@
 		<td>165</td>
 		<td>165</td>
 		<td>167</td>
-		<td>169</td>
-		<td>+ 2</td>
+		<td>171</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -601,6 +601,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>more.person.ships</td>
+		<td>138</td>
+		<td>138</td>
+		<td>140</td>
+		<td>140</td>
+		<td>142</td>
+		<td>142</td>
+		<td>144</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>too.many.asteroids</td>
 		<td>135</td>
 		<td>135</td>
@@ -609,17 +620,6 @@
 		<td>141</td>
 		<td>143</td>
 		<td>143</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>more.person.ships</td>
-		<td>138</td>
-		<td>138</td>
-		<td>140</td>
-		<td>140</td>
-		<td>142</td>
-		<td>142</td>
-		<td>142</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -689,6 +689,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>space.fauna</td>
+		<td>113</td>
+		<td>113</td>
+		<td>113</td>
+		<td>113</td>
+		<td>115</td>
+		<td>115</td>
+		<td>117</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>control.station</td>
 		<td>113</td>
 		<td>115</td>
@@ -708,17 +719,6 @@
 		<td>117</td>
 		<td>117</td>
 		<td>117</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>space.fauna</td>
-		<td>113</td>
-		<td>113</td>
-		<td>113</td>
-		<td>113</td>
-		<td>115</td>
-		<td>115</td>
-		<td>115</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -843,6 +843,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>planet.map</td>
+		<td>77</td>
+		<td>77</td>
+		<td>77</td>
+		<td>77</td>
+		<td>79</td>
+		<td>79</td>
+		<td>81</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>landing.images.highres</td>
 		<td>81</td>
 		<td>81</td>
@@ -851,17 +862,6 @@
 		<td>81</td>
 		<td>81</td>
 		<td>81</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>planet.map</td>
-		<td>77</td>
-		<td>77</td>
-		<td>77</td>
-		<td>77</td>
-		<td>79</td>
-		<td>79</td>
-		<td>79</td>
 		<td></td>
 	</tr>
 	<tr>
