@@ -76,8 +76,8 @@
 		<td>159</td>
 		<td>159</td>
 		<td>161</td>
-		<td>161</td>
-		<td></td>
+		<td>163</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -153,8 +153,8 @@
 		<td>147</td>
 		<td>147</td>
 		<td>151</td>
-		<td>151</td>
-		<td></td>
+		<td>153</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -296,8 +296,8 @@
 		<td>129</td>
 		<td>129</td>
 		<td>131</td>
-		<td>131</td>
-		<td></td>
+		<td>133</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -307,8 +307,8 @@
 		<td>142</td>
 		<td>142</td>
 		<td>144</td>
-		<td>145</td>
-		<td>+ 1</td>
+		<td>147</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -329,8 +329,8 @@
 		<td>90</td>
 		<td>90</td>
 		<td>90</td>
-		<td>90</td>
-		<td></td>
+		<td>92</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -542,8 +542,8 @@
 		<td>159</td>
 		<td>159</td>
 		<td>161</td>
-		<td>161</td>
-		<td></td>
+		<td>163</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -575,8 +575,8 @@
 		<td>147</td>
 		<td>147</td>
 		<td>151</td>
-		<td>151</td>
-		<td></td>
+		<td>153</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -588,6 +588,17 @@
 		<td>149</td>
 		<td>149</td>
 		<td></td>
+	</tr>
+	<tr>
+		<td>more.person.ships</td>
+		<td>138</td>
+		<td>140</td>
+		<td>140</td>
+		<td>142</td>
+		<td>142</td>
+		<td>144</td>
+		<td>147</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -612,17 +623,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>more.person.ships</td>
-		<td>138</td>
-		<td>140</td>
-		<td>140</td>
-		<td>142</td>
-		<td>142</td>
-		<td>144</td>
-		<td>145</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
 		<td>more.boarding.missions</td>
 		<td>127</td>
 		<td>127</td>
@@ -630,8 +630,8 @@
 		<td>129</td>
 		<td>129</td>
 		<td>131</td>
-		<td>131</td>
-		<td></td>
+		<td>133</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -799,6 +799,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>no.more.mereti.mines</td>
+		<td>86</td>
+		<td>88</td>
+		<td>88</td>
+		<td>90</td>
+		<td>90</td>
+		<td>90</td>
+		<td>92</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>additional.command.buttons</td>
 		<td>92</td>
 		<td>92</td>
@@ -829,17 +840,6 @@
 		<td>89</td>
 		<td>91</td>
 		<td>91</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>no.more.mereti.mines</td>
-		<td>86</td>
-		<td>88</td>
-		<td>88</td>
-		<td>90</td>
-		<td>90</td>
-		<td>90</td>
-		<td>90</td>
 		<td></td>
 	</tr>
 	<tr>
