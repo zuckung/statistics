@@ -43,8 +43,8 @@
 		<td>114</td>
 		<td>118</td>
 		<td>118</td>
-		<td>118</td>
-		<td></td>
+		<td>120</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -241,8 +241,8 @@
 		<td>146</td>
 		<td>146</td>
 		<td>146</td>
-		<td>146</td>
-		<td></td>
+		<td>147</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -307,8 +307,8 @@
 		<td>142</td>
 		<td>142</td>
 		<td>144</td>
-		<td>144</td>
-		<td></td>
+		<td>145</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -597,8 +597,8 @@
 		<td>146</td>
 		<td>146</td>
 		<td>146</td>
-		<td>146</td>
-		<td></td>
+		<td>147</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -619,8 +619,8 @@
 		<td>142</td>
 		<td>142</td>
 		<td>144</td>
-		<td>144</td>
-		<td></td>
+		<td>145</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -678,6 +678,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>110</td>
+		<td>110</td>
+		<td>114</td>
+		<td>114</td>
+		<td>118</td>
+		<td>118</td>
+		<td>120</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>space.fauna</td>
 		<td>113</td>
 		<td>113</td>
@@ -686,17 +697,6 @@
 		<td>115</td>
 		<td>119</td>
 		<td>119</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>110</td>
-		<td>110</td>
-		<td>114</td>
-		<td>114</td>
-		<td>118</td>
-		<td>118</td>
-		<td>118</td>
 		<td></td>
 	</tr>
 	<tr>
