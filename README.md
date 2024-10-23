@@ -197,8 +197,8 @@
 		<td>114</td>
 		<td>114</td>
 		<td>114</td>
-		<td>114</td>
-		<td></td>
+		<td>116</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -729,8 +729,8 @@
 		<td>114</td>
 		<td>114</td>
 		<td>114</td>
-		<td>114</td>
-		<td></td>
+		<td>116</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
