@@ -197,8 +197,8 @@
 		<td>114</td>
 		<td>114</td>
 		<td>116</td>
-		<td>116</td>
-		<td></td>
+		<td>118</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -230,8 +230,8 @@
 		<td>78</td>
 		<td>78</td>
 		<td>78</td>
-		<td>78</td>
-		<td></td>
+		<td>80</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -700,6 +700,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>hai.side.mission.unlocker</td>
+		<td>114</td>
+		<td>114</td>
+		<td>114</td>
+		<td>114</td>
+		<td>114</td>
+		<td>116</td>
+		<td>118</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>control.station</td>
 		<td>115</td>
 		<td>115</td>
@@ -719,17 +730,6 @@
 		<td>117</td>
 		<td>117</td>
 		<td>117</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>hai.side.mission.unlocker</td>
-		<td>114</td>
-		<td>114</td>
-		<td>114</td>
-		<td>114</td>
-		<td>114</td>
-		<td>116</td>
-		<td>116</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -872,8 +872,8 @@
 		<td>78</td>
 		<td>78</td>
 		<td>78</td>
-		<td>78</td>
-		<td></td>
+		<td>80</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
