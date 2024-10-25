@@ -54,8 +54,8 @@
 		<td>95</td>
 		<td>95</td>
 		<td>97</td>
-		<td>97</td>
-		<td></td>
+		<td>99</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -76,8 +76,8 @@
 		<td>163</td>
 		<td>163</td>
 		<td>165</td>
-		<td>165</td>
-		<td></td>
+		<td>167</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -153,8 +153,8 @@
 		<td>153</td>
 		<td>153</td>
 		<td>154</td>
-		<td>154</td>
-		<td></td>
+		<td>156</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -197,8 +197,8 @@
 		<td>114</td>
 		<td>116</td>
 		<td>120</td>
-		<td>120</td>
-		<td></td>
+		<td>122</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -524,6 +524,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>bunrodea.missions</td>
+		<td>159</td>
+		<td>159</td>
+		<td>161</td>
+		<td>163</td>
+		<td>163</td>
+		<td>165</td>
+		<td>167</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>gegno.pirates</td>
 		<td>164</td>
 		<td>164</td>
@@ -533,17 +544,6 @@
 		<td>164</td>
 		<td>166</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>bunrodea.missions</td>
-		<td>159</td>
-		<td>159</td>
-		<td>161</td>
-		<td>163</td>
-		<td>163</td>
-		<td>165</td>
-		<td>165</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -557,6 +557,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>expert.crew.members</td>
+		<td>147</td>
+		<td>147</td>
+		<td>151</td>
+		<td>153</td>
+		<td>153</td>
+		<td>154</td>
+		<td>156</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>more.arfectas</td>
 		<td>149</td>
 		<td>151</td>
@@ -565,17 +576,6 @@
 		<td>153</td>
 		<td>155</td>
 		<td>155</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>expert.crew.members</td>
-		<td>147</td>
-		<td>147</td>
-		<td>151</td>
-		<td>153</td>
-		<td>153</td>
-		<td>154</td>
-		<td>154</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -689,6 +689,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>hai.side.mission.unlocker</td>
+		<td>114</td>
+		<td>114</td>
+		<td>114</td>
+		<td>114</td>
+		<td>116</td>
+		<td>120</td>
+		<td>122</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>114</td>
 		<td>118</td>
@@ -697,17 +708,6 @@
 		<td>120</td>
 		<td>122</td>
 		<td>122</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>hai.side.mission.unlocker</td>
-		<td>114</td>
-		<td>114</td>
-		<td>114</td>
-		<td>114</td>
-		<td>116</td>
-		<td>120</td>
-		<td>120</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -773,8 +773,8 @@
 		<td>95</td>
 		<td>95</td>
 		<td>97</td>
-		<td>97</td>
-		<td></td>
+		<td>99</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
