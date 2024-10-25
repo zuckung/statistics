@@ -428,8 +428,8 @@
 		<td>119</td>
 		<td>119</td>
 		<td>121</td>
-		<td>121</td>
-		<td></td>
+		<td>122</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -678,6 +678,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>space.fauna</td>
+		<td>115</td>
+		<td>115</td>
+		<td>119</td>
+		<td>119</td>
+		<td>119</td>
+		<td>121</td>
+		<td>122</td>
+		<td>+ 1</td>
+	</tr>
+	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>114</td>
 		<td>118</td>
@@ -686,17 +697,6 @@
 		<td>120</td>
 		<td>122</td>
 		<td>122</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>space.fauna</td>
-		<td>115</td>
-		<td>115</td>
-		<td>119</td>
-		<td>119</td>
-		<td>119</td>
-		<td>121</td>
-		<td>121</td>
 		<td></td>
 	</tr>
 	<tr>
