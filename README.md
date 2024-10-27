@@ -65,8 +65,8 @@
 		<td>126</td>
 		<td>127</td>
 		<td>127</td>
-		<td>129</td>
-		<td>+ 2</td>
+		<td>131</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -175,8 +175,8 @@
 		<td>187</td>
 		<td>187</td>
 		<td>187</td>
-		<td>189</td>
-		<td>+ 2</td>
+		<td>191</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -498,8 +498,8 @@
 		<td>187</td>
 		<td>187</td>
 		<td>187</td>
-		<td>189</td>
-		<td>+ 2</td>
+		<td>191</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -641,8 +641,8 @@
 		<td>126</td>
 		<td>127</td>
 		<td>127</td>
-		<td>129</td>
-		<td>+ 2</td>
+		<td>131</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
