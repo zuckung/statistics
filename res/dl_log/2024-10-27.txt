@@ -20,7 +20,7 @@ v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 50
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 38
-v1.0.1-paint.your.ships | downloads: 66
+v1.0.1-paint.your.ships | downloads: 68
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
 v1.0.1-uniques | downloads: 14
@@ -75,7 +75,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 121
+v1.0.1-automata.destruction.0percent | downloads: 123
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -139,13 +139,13 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 138
-# TOTAL DOWNLOADS: 4827
+# TOTAL DOWNLOADS: 4831
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 92
 additional.command.buttons.radial 173
-automata.destruction.0percent 122
+automata.destruction.0percent 124
 automata.in.human.space 99
 better.starts 131
 bunrodea.missions 169
@@ -173,7 +173,7 @@ more.person.ships 149
 navy.licenses 167
 no.more.mereti.mines 94
 outfits.weapon.slot 77
-paint.your.ships 70
+paint.your.ships 72
 pirate.warlords 3
 planet.map 83
 quarg.farm 157

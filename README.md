@@ -43,8 +43,8 @@
 		<td>122</td>
 		<td>122</td>
 		<td>122</td>
-		<td>122</td>
-		<td></td>
+		<td>124</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -351,8 +351,8 @@
 		<td>69</td>
 		<td>70</td>
 		<td>70</td>
-		<td>70</td>
-		<td></td>
+		<td>72</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -689,22 +689,22 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
-		<td>space.fauna</td>
-		<td>119</td>
-		<td>119</td>
-		<td>119</td>
-		<td>121</td>
-		<td>122</td>
-		<td>122</td>
-		<td>122</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>118</td>
 		<td>120</td>
 		<td>120</td>
 		<td>122</td>
+		<td>122</td>
+		<td>122</td>
+		<td>124</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>space.fauna</td>
+		<td>119</td>
+		<td>119</td>
+		<td>119</td>
+		<td>121</td>
 		<td>122</td>
 		<td>122</td>
 		<td>122</td>
@@ -916,8 +916,8 @@
 		<td>69</td>
 		<td>70</td>
 		<td>70</td>
-		<td>70</td>
-		<td></td>
+		<td>72</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
