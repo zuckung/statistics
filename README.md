@@ -340,8 +340,8 @@
 		<td>74</td>
 		<td>75</td>
 		<td>75</td>
-		<td>77</td>
-		<td>+ 2</td>
+		<td>78</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -406,8 +406,8 @@
 		<td>123</td>
 		<td>125</td>
 		<td>125</td>
-		<td>127</td>
-		<td>+ 2</td>
+		<td>129</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -439,8 +439,8 @@
 		<td>147</td>
 		<td>149</td>
 		<td>149</td>
-		<td>149</td>
-		<td></td>
+		<td>151</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -450,8 +450,8 @@
 		<td>76</td>
 		<td>76</td>
 		<td>76</td>
-		<td>76</td>
-		<td></td>
+		<td>78</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
@@ -590,6 +590,17 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
+		<td>too.many.asteroids</td>
+		<td>145</td>
+		<td>145</td>
+		<td>145</td>
+		<td>147</td>
+		<td>149</td>
+		<td>149</td>
+		<td>151</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>coalition.shopping</td>
 		<td>149</td>
 		<td>149</td>
@@ -598,17 +609,6 @@
 		<td>151</td>
 		<td>151</td>
 		<td>151</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>too.many.asteroids</td>
-		<td>145</td>
-		<td>145</td>
-		<td>145</td>
-		<td>147</td>
-		<td>149</td>
-		<td>149</td>
-		<td>149</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -652,8 +652,8 @@
 		<td>123</td>
 		<td>125</td>
 		<td>125</td>
-		<td>127</td>
-		<td>+ 2</td>
+		<td>129</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -876,6 +876,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>tribute.republic</td>
+		<td>76</td>
+		<td>76</td>
+		<td>76</td>
+		<td>76</td>
+		<td>76</td>
+		<td>76</td>
+		<td>78</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>outfits.weapon.slot</td>
 		<td>72</td>
 		<td>72</td>
@@ -883,8 +894,8 @@
 		<td>74</td>
 		<td>75</td>
 		<td>75</td>
-		<td>77</td>
-		<td>+ 2</td>
+		<td>78</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -895,17 +906,6 @@
 		<td>77</td>
 		<td>77</td>
 		<td>77</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>tribute.republic</td>
-		<td>76</td>
-		<td>76</td>
-		<td>76</td>
-		<td>76</td>
-		<td>76</td>
-		<td>76</td>
-		<td>76</td>
 		<td></td>
 	</tr>
 	<tr>
