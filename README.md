@@ -252,8 +252,8 @@
 		<td>91</td>
 		<td>91</td>
 		<td>91</td>
-		<td>93</td>
-		<td>+ 2</td>
+		<td>95</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -777,6 +777,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>landing.images</td>
+		<td>91</td>
+		<td>91</td>
+		<td>91</td>
+		<td>91</td>
+		<td>91</td>
+		<td>91</td>
+		<td>95</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>free.worlds.5.years.later</td>
 		<td>91</td>
 		<td>91</td>
@@ -819,17 +830,6 @@
 		<td>93</td>
 		<td>93</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>landing.images</td>
-		<td>91</td>
-		<td>91</td>
-		<td>91</td>
-		<td>91</td>
-		<td>91</td>
-		<td>91</td>
-		<td>93</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons</td>
