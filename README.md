@@ -340,8 +340,8 @@
 		<td>74</td>
 		<td>75</td>
 		<td>75</td>
-		<td>75</td>
-		<td></td>
+		<td>77</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -876,6 +876,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>outfits.weapon.slot</td>
+		<td>72</td>
+		<td>72</td>
+		<td>72</td>
+		<td>74</td>
+		<td>75</td>
+		<td>75</td>
+		<td>77</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>disable.person.ships</td>
 		<td>77</td>
 		<td>77</td>
@@ -895,17 +906,6 @@
 		<td>76</td>
 		<td>76</td>
 		<td>76</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>outfits.weapon.slot</td>
-		<td>72</td>
-		<td>72</td>
-		<td>72</td>
-		<td>74</td>
-		<td>75</td>
-		<td>75</td>
-		<td>75</td>
 		<td></td>
 	</tr>
 	<tr>
