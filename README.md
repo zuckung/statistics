@@ -329,8 +329,8 @@
 		<td>94</td>
 		<td>94</td>
 		<td>94</td>
-		<td>96</td>
-		<td>+ 2</td>
+		<td>98</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -340,8 +340,8 @@
 		<td>75</td>
 		<td>75</td>
 		<td>78</td>
-		<td>78</td>
-		<td></td>
+		<td>80</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -777,6 +777,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>no.more.mereti.mines</td>
+		<td>92</td>
+		<td>92</td>
+		<td>94</td>
+		<td>94</td>
+		<td>94</td>
+		<td>94</td>
+		<td>98</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>landing.images</td>
 		<td>91</td>
 		<td>91</td>
@@ -785,17 +796,6 @@
 		<td>91</td>
 		<td>95</td>
 		<td>97</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>no.more.mereti.mines</td>
-		<td>92</td>
-		<td>92</td>
-		<td>94</td>
-		<td>94</td>
-		<td>94</td>
-		<td>94</td>
-		<td>96</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -876,23 +876,23 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>tribute.republic</td>
-		<td>76</td>
-		<td>76</td>
-		<td>76</td>
-		<td>76</td>
-		<td>76</td>
-		<td>78</td>
-		<td>78</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>outfits.weapon.slot</td>
 		<td>72</td>
 		<td>72</td>
 		<td>74</td>
 		<td>75</td>
 		<td>75</td>
+		<td>78</td>
+		<td>80</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>tribute.republic</td>
+		<td>76</td>
+		<td>76</td>
+		<td>76</td>
+		<td>76</td>
+		<td>76</td>
 		<td>78</td>
 		<td>78</td>
 		<td></td>
