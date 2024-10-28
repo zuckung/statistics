@@ -76,8 +76,8 @@
 		<td>167</td>
 		<td>167</td>
 		<td>169</td>
-		<td>169</td>
-		<td></td>
+		<td>171</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -87,8 +87,8 @@
 		<td>119</td>
 		<td>119</td>
 		<td>119</td>
-		<td>119</td>
-		<td></td>
+		<td>121</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -142,8 +142,8 @@
 		<td>103</td>
 		<td>103</td>
 		<td>103</td>
-		<td>105</td>
-		<td>+ 2</td>
+		<td>107</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -153,8 +153,8 @@
 		<td>156</td>
 		<td>156</td>
 		<td>158</td>
-		<td>158</td>
-		<td></td>
+		<td>160</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -175,8 +175,8 @@
 		<td>187</td>
 		<td>187</td>
 		<td>191</td>
-		<td>191</td>
-		<td></td>
+		<td>193</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -186,8 +186,8 @@
 		<td>166</td>
 		<td>166</td>
 		<td>168</td>
-		<td>168</td>
-		<td></td>
+		<td>170</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -208,8 +208,8 @@
 		<td>102</td>
 		<td>102</td>
 		<td>104</td>
-		<td>104</td>
-		<td></td>
+		<td>106</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -498,8 +498,8 @@
 		<td>187</td>
 		<td>187</td>
 		<td>191</td>
-		<td>191</td>
-		<td></td>
+		<td>193</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -520,8 +520,8 @@
 		<td>167</td>
 		<td>167</td>
 		<td>169</td>
-		<td>169</td>
-		<td></td>
+		<td>171</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -531,8 +531,8 @@
 		<td>166</td>
 		<td>166</td>
 		<td>168</td>
-		<td>168</td>
-		<td></td>
+		<td>170</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -553,8 +553,8 @@
 		<td>156</td>
 		<td>156</td>
 		<td>158</td>
-		<td>158</td>
-		<td></td>
+		<td>160</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -729,8 +729,19 @@
 		<td>119</td>
 		<td>119</td>
 		<td>119</td>
-		<td>119</td>
-		<td></td>
+		<td>121</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>disable.spaceport.repeatables</td>
+		<td>101</td>
+		<td>101</td>
+		<td>103</td>
+		<td>103</td>
+		<td>103</td>
+		<td>103</td>
+		<td>107</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -744,17 +755,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>disable.spaceport.repeatables</td>
-		<td>101</td>
-		<td>101</td>
-		<td>103</td>
-		<td>103</td>
-		<td>103</td>
-		<td>103</td>
-		<td>105</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
 		<td>human.labels</td>
 		<td>100</td>
 		<td>100</td>
@@ -762,8 +762,8 @@
 		<td>102</td>
 		<td>102</td>
 		<td>104</td>
-		<td>104</td>
-		<td></td>
+		<td>106</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
