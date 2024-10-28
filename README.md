@@ -32,8 +32,8 @@
 		<td>171</td>
 		<td>171</td>
 		<td>173</td>
-		<td>173</td>
-		<td></td>
+		<td>175</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -109,8 +109,8 @@
 		<td>119</td>
 		<td>119</td>
 		<td>119</td>
-		<td>119</td>
-		<td></td>
+		<td>121</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -142,8 +142,8 @@
 		<td>103</td>
 		<td>103</td>
 		<td>103</td>
-		<td>103</td>
-		<td></td>
+		<td>105</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -241,8 +241,8 @@
 		<td>149</td>
 		<td>149</td>
 		<td>153</td>
-		<td>153</td>
-		<td></td>
+		<td>155</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -329,8 +329,8 @@
 		<td>94</td>
 		<td>94</td>
 		<td>94</td>
-		<td>94</td>
-		<td></td>
+		<td>96</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -439,8 +439,8 @@
 		<td>149</td>
 		<td>149</td>
 		<td>151</td>
-		<td>151</td>
-		<td></td>
+		<td>153</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -509,8 +509,8 @@
 		<td>171</td>
 		<td>171</td>
 		<td>173</td>
-		<td>173</td>
-		<td></td>
+		<td>175</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -586,8 +586,8 @@
 		<td>149</td>
 		<td>149</td>
 		<td>153</td>
-		<td>153</td>
-		<td></td>
+		<td>155</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -597,8 +597,8 @@
 		<td>149</td>
 		<td>149</td>
 		<td>151</td>
-		<td>151</td>
-		<td></td>
+		<td>153</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -718,8 +718,8 @@
 		<td>119</td>
 		<td>119</td>
 		<td>119</td>
-		<td>119</td>
-		<td></td>
+		<td>121</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -744,6 +744,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>disable.spaceport.repeatables</td>
+		<td>101</td>
+		<td>101</td>
+		<td>103</td>
+		<td>103</td>
+		<td>103</td>
+		<td>103</td>
+		<td>105</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>human.labels</td>
 		<td>100</td>
 		<td>100</td>
@@ -752,17 +763,6 @@
 		<td>102</td>
 		<td>104</td>
 		<td>104</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>disable.spaceport.repeatables</td>
-		<td>101</td>
-		<td>101</td>
-		<td>103</td>
-		<td>103</td>
-		<td>103</td>
-		<td>103</td>
-		<td>103</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -775,6 +775,17 @@
 		<td>99</td>
 		<td>99</td>
 		<td></td>
+	</tr>
+	<tr>
+		<td>no.more.mereti.mines</td>
+		<td>92</td>
+		<td>92</td>
+		<td>94</td>
+		<td>94</td>
+		<td>94</td>
+		<td>94</td>
+		<td>96</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -805,17 +816,6 @@
 		<td>92</td>
 		<td>92</td>
 		<td>92</td>
-		<td>94</td>
-		<td>94</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>no.more.mereti.mines</td>
-		<td>92</td>
-		<td>92</td>
-		<td>94</td>
-		<td>94</td>
-		<td>94</td>
 		<td>94</td>
 		<td>94</td>
 		<td></td>
