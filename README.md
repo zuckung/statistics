@@ -384,8 +384,8 @@
 		<td>157</td>
 		<td>157</td>
 		<td>157</td>
-		<td>159</td>
-		<td>+ 2</td>
+		<td>161</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -546,6 +546,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>quarg.farm</td>
+		<td>155</td>
+		<td>155</td>
+		<td>157</td>
+		<td>157</td>
+		<td>157</td>
+		<td>157</td>
+		<td>161</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>expert.crew.members</td>
 		<td>153</td>
 		<td>153</td>
@@ -554,17 +565,6 @@
 		<td>156</td>
 		<td>158</td>
 		<td>160</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>quarg.farm</td>
-		<td>155</td>
-		<td>155</td>
-		<td>157</td>
-		<td>157</td>
-		<td>157</td>
-		<td>157</td>
-		<td>159</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
