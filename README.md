@@ -197,8 +197,8 @@
 		<td>122</td>
 		<td>123</td>
 		<td>125</td>
-		<td>125</td>
-		<td></td>
+		<td>126</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -667,22 +667,22 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>snowfeather.robotics</td>
-		<td>123</td>
-		<td>123</td>
-		<td>123</td>
-		<td>123</td>
-		<td>123</td>
-		<td>125</td>
-		<td>125</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>hai.side.mission.unlocker</td>
 		<td>114</td>
 		<td>116</td>
 		<td>120</td>
 		<td>122</td>
+		<td>123</td>
+		<td>125</td>
+		<td>126</td>
+		<td>+ 1</td>
+	</tr>
+	<tr>
+		<td>snowfeather.robotics</td>
+		<td>123</td>
+		<td>123</td>
+		<td>123</td>
+		<td>123</td>
 		<td>123</td>
 		<td>125</td>
 		<td>125</td>
