@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.2-more.person.ships | downloads: 14
+v1.0.2-more.person.ships | downloads: 16
 v1.0.8-additional.command.buttons.radial | downloads: 19
 v1.0.2-better.starts | downloads: 20
 v1.1.5-captureable.person.ships | downloads: 20
@@ -139,7 +139,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 138
-# TOTAL DOWNLOADS: 4877
+# TOTAL DOWNLOADS: 4879
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -169,7 +169,7 @@ landing.images.android 106
 landing.images.highres 81
 more.arfectas 157
 more.boarding.missions 135
-more.person.ships 149
+more.person.ships 151
 navy.licenses 167
 no.more.mereti.mines 96
 outfits.weapon.slot 78
