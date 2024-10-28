@@ -76,8 +76,8 @@
 		<td>167</td>
 		<td>167</td>
 		<td>169</td>
-		<td>171</td>
-		<td>+ 2</td>
+		<td>173</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -520,8 +520,8 @@
 		<td>167</td>
 		<td>167</td>
 		<td>169</td>
-		<td>171</td>
-		<td>+ 2</td>
+		<td>173</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
