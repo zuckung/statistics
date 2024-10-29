@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.1.4-galactic.capital.investment | downloads: 1
-v1.0.9-additional.command.buttons.radial | downloads: 3
+v1.0.9-additional.command.buttons.radial | downloads: 5
 v1.0.2-gegno.pirates | downloads: 2
 v1.0.1-kor.efret.shipyard | downloads: 4
 v1.0.2-more.person.ships | downloads: 20
@@ -10,7 +10,7 @@ v1.1.5-captureable.person.ships | downloads: 24
 v1.0.7-additional.command.buttons.radial | downloads: 9
 v1.0.4-landing.images | downloads: 28
 v1.0.3-landing.images | downloads: 2
-v1.0.3-expert.crew.members | downloads: 48
+v1.0.3-expert.crew.members | downloads: 49
 v1.0.2-quarg.farm | downloads: 48
 v1.0.2-landing.images.highres | downloads: 17
 v1.0.5-uniques | downloads: 50
@@ -143,12 +143,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 142
-# TOTAL DOWNLOADS: 5055
+# TOTAL DOWNLOADS: 5058
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 92
-additional.command.buttons.radial 179
+additional.command.buttons.radial 181
 automata.destruction.0percent 128
 automata.in.human.space 103
 better.starts 135
@@ -159,7 +159,7 @@ control.station 125
 devil-run.unhidden 66
 disable.person.ships 81
 disable.spaceport.repeatables 111
-expert.crew.members 166
+expert.crew.members 167
 free.worlds.5.years.later 99
 galactic.capital.investment 199
 gegno.pirates 174

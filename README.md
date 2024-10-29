@@ -32,8 +32,8 @@
 		<td>171</td>
 		<td>173</td>
 		<td>175</td>
-		<td>179</td>
-		<td>+ 4</td>
+		<td>181</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -153,8 +153,8 @@
 		<td>156</td>
 		<td>158</td>
 		<td>160</td>
-		<td>166</td>
-		<td>+ 6</td>
+		<td>167</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -509,8 +509,8 @@
 		<td>171</td>
 		<td>173</td>
 		<td>175</td>
-		<td>179</td>
-		<td>+ 4</td>
+		<td>181</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -564,8 +564,8 @@
 		<td>156</td>
 		<td>158</td>
 		<td>160</td>
-		<td>166</td>
-		<td>+ 6</td>
+		<td>167</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
