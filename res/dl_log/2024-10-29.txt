@@ -53,7 +53,7 @@ v1.0.1-no.more.mereti.mines | downloads: 1
 v1.0.8-real.fluff | downloads: 80
 v1.0.7-real.fluff | downloads: 1
 v1.0.6-real.fluff | downloads: 1
-v1.0.1-jump.gates | downloads: 129
+v1.0.1-jump.gates | downloads: 131
 v1.0.0-jump.gates | downloads: 1
 v1.1.4-captureable.person.ships | downloads: 96
 v1.1.3-galactic.capital.investment | downloads: 168
@@ -143,7 +143,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 142
-# TOTAL DOWNLOADS: 5058
+# TOTAL DOWNLOADS: 5060
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -165,7 +165,7 @@ galactic.capital.investment 199
 gegno.pirates 174
 hai.side.mission.unlocker 132
 human.labels 110
-jump.gates 130
+jump.gates 132
 kestrel.unlocks 88
 kor.efret.shipyard 159
 landing.images 101

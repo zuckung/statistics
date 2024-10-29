@@ -219,8 +219,8 @@
 		<td>126</td>
 		<td>126</td>
 		<td>126</td>
-		<td>130</td>
-		<td>+ 4</td>
+		<td>132</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -656,6 +656,17 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
+		<td>jump.gates</td>
+		<td>124</td>
+		<td>126</td>
+		<td>126</td>
+		<td>126</td>
+		<td>126</td>
+		<td>126</td>
+		<td>132</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
 		<td>hai.side.mission.unlocker</td>
 		<td>116</td>
 		<td>120</td>
@@ -664,17 +675,6 @@
 		<td>125</td>
 		<td>128</td>
 		<td>132</td>
-		<td>+ 4</td>
-	</tr>
-	<tr>
-		<td>jump.gates</td>
-		<td>124</td>
-		<td>126</td>
-		<td>126</td>
-		<td>126</td>
-		<td>126</td>
-		<td>126</td>
-		<td>130</td>
 		<td>+ 4</td>
 	</tr>
 	<tr>
