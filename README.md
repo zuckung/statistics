@@ -351,8 +351,8 @@
 		<td>72</td>
 		<td>72</td>
 		<td>76</td>
-		<td>78</td>
-		<td>+ 2</td>
+		<td>80</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -406,8 +406,8 @@
 		<td>129</td>
 		<td>129</td>
 		<td>133</td>
-		<td>135</td>
-		<td>+ 2</td>
+		<td>137</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -652,8 +652,8 @@
 		<td>129</td>
 		<td>129</td>
 		<td>133</td>
-		<td>135</td>
-		<td>+ 2</td>
+		<td>137</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -916,8 +916,8 @@
 		<td>72</td>
 		<td>72</td>
 		<td>76</td>
-		<td>78</td>
-		<td>+ 2</td>
+		<td>80</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
