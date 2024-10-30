@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.1.4-galactic.capital.investment | downloads: 1
-v1.0.9-additional.command.buttons.radial | downloads: 9
+v1.0.9-additional.command.buttons.radial | downloads: 11
 v1.0.2-gegno.pirates | downloads: 4
 v1.0.1-kor.efret.shipyard | downloads: 4
 v1.0.2-more.person.ships | downloads: 20
@@ -74,7 +74,7 @@ v1.0.3-bunrodea.missions | downloads: 2
 v1.0.2-too.many.asteroids | downloads: 92
 v1.0.2-navy.licenses | downloads: 164
 v1.0.2-expert.crew.members | downloads: 111
-v1.0.2-additional.command.buttons | downloads: 90
+v1.0.2-additional.command.buttons | downloads: 91
 v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
@@ -143,12 +143,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 142
-# TOTAL DOWNLOADS: 5084
+# TOTAL DOWNLOADS: 5087
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-additional.command.buttons 92
-additional.command.buttons.radial 185
+additional.command.buttons 93
+additional.command.buttons.radial 187
 automata.destruction.0percent 128
 automata.in.human.space 103
 better.starts 137

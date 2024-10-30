@@ -21,8 +21,8 @@
 		<td>92</td>
 		<td>92</td>
 		<td>92</td>
-		<td>92</td>
-		<td></td>
+		<td>93</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -32,8 +32,8 @@
 		<td>173</td>
 		<td>175</td>
 		<td>181</td>
-		<td>185</td>
-		<td>+ 4</td>
+		<td>187</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -509,8 +509,8 @@
 		<td>173</td>
 		<td>175</td>
 		<td>181</td>
-		<td>185</td>
-		<td>+ 4</td>
+		<td>187</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -839,8 +839,8 @@
 		<td>92</td>
 		<td>92</td>
 		<td>92</td>
-		<td>92</td>
-		<td></td>
+		<td>93</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
