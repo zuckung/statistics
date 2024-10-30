@@ -5,7 +5,7 @@ v1.0.2-gegno.pirates | downloads: 4
 v1.0.1-kor.efret.shipyard | downloads: 4
 v1.0.2-more.person.ships | downloads: 20
 v1.0.8-additional.command.buttons.radial | downloads: 20
-v1.0.2-better.starts | downloads: 26
+v1.0.2-better.starts | downloads: 29
 v1.1.5-captureable.person.ships | downloads: 24
 v1.0.7-additional.command.buttons.radial | downloads: 9
 v1.0.4-landing.images | downloads: 28
@@ -143,7 +143,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 142
-# TOTAL DOWNLOADS: 5087
+# TOTAL DOWNLOADS: 5090
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -151,7 +151,7 @@ additional.command.buttons 93
 additional.command.buttons.radial 187
 automata.destruction.0percent 128
 automata.in.human.space 103
-better.starts 137
+better.starts 140
 bunrodea.missions 180
 captureable.person.ships 127
 coalition.shopping 157

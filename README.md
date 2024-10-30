@@ -65,8 +65,8 @@
 		<td>131</td>
 		<td>131</td>
 		<td>135</td>
-		<td>137</td>
-		<td>+ 2</td>
+		<td>140</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -641,8 +641,8 @@
 		<td>131</td>
 		<td>131</td>
 		<td>135</td>
-		<td>137</td>
-		<td>+ 2</td>
+		<td>140</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
