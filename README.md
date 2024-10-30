@@ -43,8 +43,8 @@
 		<td>124</td>
 		<td>124</td>
 		<td>128</td>
-		<td>128</td>
-		<td></td>
+		<td>130</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -65,8 +65,8 @@
 		<td>131</td>
 		<td>131</td>
 		<td>135</td>
-		<td>140</td>
-		<td>+ 5</td>
+		<td>142</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -87,8 +87,8 @@
 		<td>119</td>
 		<td>123</td>
 		<td>127</td>
-		<td>127</td>
-		<td></td>
+		<td>129</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -98,8 +98,8 @@
 		<td>151</td>
 		<td>153</td>
 		<td>157</td>
-		<td>157</td>
-		<td></td>
+		<td>159</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -153,8 +153,8 @@
 		<td>158</td>
 		<td>160</td>
 		<td>167</td>
-		<td>167</td>
-		<td></td>
+		<td>169</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -230,8 +230,8 @@
 		<td>84</td>
 		<td>84</td>
 		<td>88</td>
-		<td>88</td>
-		<td></td>
+		<td>90</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -296,8 +296,8 @@
 		<td>135</td>
 		<td>135</td>
 		<td>141</td>
-		<td>141</td>
-		<td></td>
+		<td>143</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -307,8 +307,8 @@
 		<td>149</td>
 		<td>151</td>
 		<td>155</td>
-		<td>155</td>
-		<td></td>
+		<td>157</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -318,8 +318,8 @@
 		<td>167</td>
 		<td>167</td>
 		<td>173</td>
-		<td>173</td>
-		<td></td>
+		<td>175</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -351,8 +351,8 @@
 		<td>72</td>
 		<td>72</td>
 		<td>76</td>
-		<td>80</td>
-		<td>+ 4</td>
+		<td>82</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -542,8 +542,8 @@
 		<td>167</td>
 		<td>167</td>
 		<td>173</td>
-		<td>173</td>
-		<td></td>
+		<td>175</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -564,8 +564,8 @@
 		<td>158</td>
 		<td>160</td>
 		<td>167</td>
-		<td>167</td>
-		<td></td>
+		<td>169</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -608,8 +608,8 @@
 		<td>151</td>
 		<td>153</td>
 		<td>157</td>
-		<td>157</td>
-		<td></td>
+		<td>159</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -619,8 +619,8 @@
 		<td>149</td>
 		<td>151</td>
 		<td>155</td>
-		<td>155</td>
-		<td></td>
+		<td>157</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -630,8 +630,8 @@
 		<td>135</td>
 		<td>135</td>
 		<td>141</td>
-		<td>141</td>
-		<td></td>
+		<td>143</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -641,8 +641,8 @@
 		<td>131</td>
 		<td>131</td>
 		<td>135</td>
-		<td>140</td>
-		<td>+ 5</td>
+		<td>142</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -689,6 +689,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>122</td>
+		<td>122</td>
+		<td>122</td>
+		<td>124</td>
+		<td>124</td>
+		<td>128</td>
+		<td>130</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>snowfeather.robotics</td>
 		<td>123</td>
 		<td>123</td>
@@ -700,17 +711,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>122</td>
-		<td>122</td>
-		<td>122</td>
-		<td>124</td>
-		<td>124</td>
-		<td>128</td>
-		<td>128</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>captureable.person.ships</td>
 		<td>119</td>
 		<td>119</td>
@@ -718,8 +718,8 @@
 		<td>119</td>
 		<td>123</td>
 		<td>127</td>
-		<td>127</td>
-		<td></td>
+		<td>129</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -850,8 +850,8 @@
 		<td>84</td>
 		<td>84</td>
 		<td>88</td>
-		<td>88</td>
-		<td></td>
+		<td>90</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -898,6 +898,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>paint.your.ships</td>
+		<td>69</td>
+		<td>70</td>
+		<td>70</td>
+		<td>72</td>
+		<td>72</td>
+		<td>76</td>
+		<td>82</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
 		<td>disable.person.ships</td>
 		<td>77</td>
 		<td>77</td>
@@ -907,17 +918,6 @@
 		<td>81</td>
 		<td>81</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>69</td>
-		<td>70</td>
-		<td>70</td>
-		<td>72</td>
-		<td>72</td>
-		<td>76</td>
-		<td>80</td>
-		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
