@@ -32,8 +32,8 @@
 		<td>175</td>
 		<td>181</td>
 		<td>189</td>
-		<td>191</td>
-		<td>+ 2</td>
+		<td>197</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -65,8 +65,8 @@
 		<td>131</td>
 		<td>135</td>
 		<td>142</td>
-		<td>144</td>
-		<td>+ 2</td>
+		<td>145</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -175,8 +175,8 @@
 		<td>193</td>
 		<td>199</td>
 		<td>199</td>
-		<td>199</td>
-		<td></td>
+		<td>202</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -186,8 +186,8 @@
 		<td>170</td>
 		<td>174</td>
 		<td>176</td>
-		<td>178</td>
-		<td>+ 2</td>
+		<td>182</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -340,8 +340,8 @@
 		<td>80</td>
 		<td>86</td>
 		<td>86</td>
-		<td>86</td>
-		<td></td>
+		<td>88</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -351,8 +351,8 @@
 		<td>72</td>
 		<td>76</td>
 		<td>82</td>
-		<td>84</td>
-		<td>+ 2</td>
+		<td>86</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -498,8 +498,8 @@
 		<td>193</td>
 		<td>199</td>
 		<td>199</td>
-		<td>199</td>
-		<td></td>
+		<td>202</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -509,8 +509,19 @@
 		<td>175</td>
 		<td>181</td>
 		<td>189</td>
-		<td>191</td>
-		<td>+ 2</td>
+		<td>197</td>
+		<td>+ 8</td>
+	</tr>
+	<tr>
+		<td>gegno.pirates</td>
+		<td>166</td>
+		<td>166</td>
+		<td>168</td>
+		<td>170</td>
+		<td>174</td>
+		<td>176</td>
+		<td>182</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -521,17 +532,6 @@
 		<td>178</td>
 		<td>180</td>
 		<td>182</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>gegno.pirates</td>
-		<td>166</td>
-		<td>166</td>
-		<td>168</td>
-		<td>170</td>
-		<td>174</td>
-		<td>176</td>
-		<td>178</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -630,8 +630,8 @@
 		<td>131</td>
 		<td>135</td>
 		<td>142</td>
-		<td>144</td>
-		<td>+ 2</td>
+		<td>145</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -854,6 +854,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>outfits.weapon.slot</td>
+		<td>75</td>
+		<td>75</td>
+		<td>78</td>
+		<td>80</td>
+		<td>86</td>
+		<td>86</td>
+		<td>88</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>planet.map</td>
 		<td>81</td>
 		<td>81</td>
@@ -865,15 +876,15 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>outfits.weapon.slot</td>
-		<td>75</td>
-		<td>75</td>
-		<td>78</td>
-		<td>80</td>
+		<td>paint.your.ships</td>
+		<td>70</td>
+		<td>70</td>
+		<td>72</td>
+		<td>72</td>
+		<td>76</td>
+		<td>82</td>
 		<td>86</td>
-		<td>86</td>
-		<td>86</td>
-		<td></td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -885,17 +896,6 @@
 		<td>85</td>
 		<td>85</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>70</td>
-		<td>70</td>
-		<td>72</td>
-		<td>72</td>
-		<td>76</td>
-		<td>82</td>
-		<td>84</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
