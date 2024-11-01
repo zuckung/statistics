@@ -11,7 +11,7 @@ v1.0.7-additional.command.buttons.radial | downloads: 9
 v1.0.4-landing.images | downloads: 28
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 53
-v1.0.2-quarg.farm | downloads: 48
+v1.0.2-quarg.farm | downloads: 50
 v1.0.2-landing.images.highres | downloads: 17
 v1.0.5-uniques | downloads: 50
 v1.0.3-too.many.asteroids | downloads: 65
@@ -108,7 +108,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 162
+v1.0.2-more.arfectas | downloads: 164
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -143,7 +143,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 142
-# TOTAL DOWNLOADS: 5168
+# TOTAL DOWNLOADS: 5172
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -171,7 +171,7 @@ kor.efret.shipyard 161
 landing.images 101
 landing.images.android 112
 landing.images.highres 85
-more.arfectas 164
+more.arfectas 166
 more.boarding.missions 143
 more.person.ships 157
 navy.licenses 175
@@ -180,7 +180,7 @@ outfits.weapon.slot 88
 paint.your.ships 86
 pirate.warlords 3
 planet.map 87
-quarg.farm 169
+quarg.farm 171
 real.fluff 93
 show.reputation 139
 snowfeather.robotics 129

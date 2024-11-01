@@ -285,8 +285,8 @@
 		<td>162</td>
 		<td>162</td>
 		<td>162</td>
-		<td>164</td>
-		<td>+ 2</td>
+		<td>166</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -384,8 +384,8 @@
 		<td>169</td>
 		<td>169</td>
 		<td>169</td>
-		<td>169</td>
-		<td></td>
+		<td>171</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -546,6 +546,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>quarg.farm</td>
+		<td>157</td>
+		<td>157</td>
+		<td>161</td>
+		<td>169</td>
+		<td>169</td>
+		<td>169</td>
+		<td>171</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>expert.crew.members</td>
 		<td>156</td>
 		<td>158</td>
@@ -557,17 +568,6 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
-		<td>quarg.farm</td>
-		<td>157</td>
-		<td>157</td>
-		<td>161</td>
-		<td>169</td>
-		<td>169</td>
-		<td>169</td>
-		<td>169</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>more.arfectas</td>
 		<td>155</td>
 		<td>155</td>
@@ -575,8 +575,8 @@
 		<td>162</td>
 		<td>162</td>
 		<td>162</td>
-		<td>164</td>
-		<td>+ 2</td>
+		<td>166</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
