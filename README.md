@@ -285,8 +285,8 @@
 		<td>162</td>
 		<td>162</td>
 		<td>162</td>
-		<td>162</td>
-		<td></td>
+		<td>164</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -575,8 +575,8 @@
 		<td>162</td>
 		<td>162</td>
 		<td>162</td>
-		<td>162</td>
-		<td></td>
+		<td>164</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
