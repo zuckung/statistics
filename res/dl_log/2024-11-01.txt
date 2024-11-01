@@ -8,11 +8,11 @@ v1.0.8-additional.command.buttons.radial | downloads: 20
 v1.0.2-better.starts | downloads: 34
 v1.1.5-captureable.person.ships | downloads: 26
 v1.0.7-additional.command.buttons.radial | downloads: 9
-v1.0.4-landing.images | downloads: 28
+v1.0.4-landing.images | downloads: 30
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 53
 v1.0.2-quarg.farm | downloads: 50
-v1.0.2-landing.images.highres | downloads: 17
+v1.0.2-landing.images.highres | downloads: 19
 v1.0.5-uniques | downloads: 50
 v1.0.3-too.many.asteroids | downloads: 65
 v1.0.1-automata.in.human.space | downloads: 42
@@ -58,7 +58,7 @@ v1.0.0-jump.gates | downloads: 1
 v1.1.4-captureable.person.ships | downloads: 96
 v1.1.3-galactic.capital.investment | downloads: 168
 v1.0.5-real.fluff | downloads: 1
-v1.0.4-human.labels | downloads: 105
+v1.0.4-human.labels | downloads: 107
 v1.0.3-human.labels | downloads: 2
 v1.0.2-human.labels | downloads: 1
 v1.0.1-human.labels | downloads: 1
@@ -143,7 +143,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 142
-# TOTAL DOWNLOADS: 5172
+# TOTAL DOWNLOADS: 5178
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -164,13 +164,13 @@ free.worlds.5.years.later 101
 galactic.capital.investment 202
 gegno.pirates 184
 hai.side.mission.unlocker 132
-human.labels 110
+human.labels 112
 jump.gates 136
 kestrel.unlocks 90
 kor.efret.shipyard 161
-landing.images 101
+landing.images 103
 landing.images.android 112
-landing.images.highres 85
+landing.images.highres 87
 more.arfectas 166
 more.boarding.missions 143
 more.person.ships 157

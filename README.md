@@ -208,8 +208,8 @@
 		<td>110</td>
 		<td>110</td>
 		<td>110</td>
-		<td>110</td>
-		<td></td>
+		<td>112</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -252,8 +252,8 @@
 		<td>101</td>
 		<td>101</td>
 		<td>101</td>
-		<td>101</td>
-		<td></td>
+		<td>103</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -274,8 +274,8 @@
 		<td>85</td>
 		<td>85</td>
 		<td>85</td>
-		<td>85</td>
-		<td></td>
+		<td>87</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -744,6 +744,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>human.labels</td>
+		<td>102</td>
+		<td>104</td>
+		<td>106</td>
+		<td>110</td>
+		<td>110</td>
+		<td>110</td>
+		<td>112</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>103</td>
 		<td>103</td>
@@ -755,15 +766,15 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>human.labels</td>
-		<td>102</td>
-		<td>104</td>
-		<td>106</td>
-		<td>110</td>
-		<td>110</td>
-		<td>110</td>
-		<td>110</td>
-		<td></td>
+		<td>landing.images</td>
+		<td>91</td>
+		<td>95</td>
+		<td>97</td>
+		<td>101</td>
+		<td>101</td>
+		<td>101</td>
+		<td>103</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -785,17 +796,6 @@
 		<td>102</td>
 		<td>102</td>
 		<td>102</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>landing.images</td>
-		<td>91</td>
-		<td>95</td>
-		<td>97</td>
-		<td>101</td>
-		<td>101</td>
-		<td>101</td>
-		<td>101</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -876,6 +876,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>landing.images.highres</td>
+		<td>81</td>
+		<td>81</td>
+		<td>81</td>
+		<td>85</td>
+		<td>85</td>
+		<td>85</td>
+		<td>87</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>paint.your.ships</td>
 		<td>70</td>
 		<td>72</td>
@@ -884,17 +895,6 @@
 		<td>82</td>
 		<td>86</td>
 		<td>86</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>landing.images.highres</td>
-		<td>81</td>
-		<td>81</td>
-		<td>81</td>
-		<td>85</td>
-		<td>85</td>
-		<td>85</td>
-		<td>85</td>
 		<td></td>
 	</tr>
 	<tr>
