@@ -186,8 +186,8 @@
 		<td>174</td>
 		<td>176</td>
 		<td>182</td>
-		<td>182</td>
-		<td></td>
+		<td>184</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -520,8 +520,8 @@
 		<td>174</td>
 		<td>176</td>
 		<td>182</td>
-		<td>182</td>
-		<td></td>
+		<td>184</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
