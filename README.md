@@ -43,8 +43,8 @@
 		<td>128</td>
 		<td>130</td>
 		<td>130</td>
-		<td>130</td>
-		<td></td>
+		<td>132</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -696,8 +696,8 @@
 		<td>128</td>
 		<td>130</td>
 		<td>130</td>
-		<td>130</td>
-		<td></td>
+		<td>132</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
