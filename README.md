@@ -351,8 +351,8 @@
 		<td>82</td>
 		<td>86</td>
 		<td>87</td>
-		<td>91</td>
-		<td>+ 4</td>
+		<td>95</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -821,6 +821,17 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
+		<td>paint.your.ships</td>
+		<td>72</td>
+		<td>72</td>
+		<td>76</td>
+		<td>82</td>
+		<td>86</td>
+		<td>87</td>
+		<td>95</td>
+		<td>+ 8</td>
+	</tr>
+	<tr>
 		<td>kestrel.unlocks</td>
 		<td>84</td>
 		<td>84</td>
@@ -884,17 +895,6 @@
 		<td>85</td>
 		<td>88</td>
 		<td>92</td>
-		<td>+ 4</td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>72</td>
-		<td>72</td>
-		<td>76</td>
-		<td>82</td>
-		<td>86</td>
-		<td>87</td>
-		<td>91</td>
 		<td>+ 4</td>
 	</tr>
 	<tr>
