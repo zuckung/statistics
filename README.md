@@ -131,8 +131,8 @@
 		<td>81</td>
 		<td>81</td>
 		<td>82</td>
-		<td>86</td>
-		<td>+ 4</td>
+		<td>88</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -142,8 +142,8 @@
 		<td>111</td>
 		<td>111</td>
 		<td>112</td>
-		<td>116</td>
-		<td>+ 4</td>
+		<td>118</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -733,6 +733,17 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
+		<td>disable.spaceport.repeatables</td>
+		<td>103</td>
+		<td>107</td>
+		<td>111</td>
+		<td>111</td>
+		<td>111</td>
+		<td>112</td>
+		<td>118</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
 		<td>landing.images.android</td>
 		<td>106</td>
 		<td>106</td>
@@ -752,17 +763,6 @@
 		<td>110</td>
 		<td>113</td>
 		<td>117</td>
-		<td>+ 4</td>
-	</tr>
-	<tr>
-		<td>disable.spaceport.repeatables</td>
-		<td>103</td>
-		<td>107</td>
-		<td>111</td>
-		<td>111</td>
-		<td>111</td>
-		<td>112</td>
-		<td>116</td>
 		<td>+ 4</td>
 	</tr>
 	<tr>
@@ -898,6 +898,17 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
+		<td>disable.person.ships</td>
+		<td>77</td>
+		<td>77</td>
+		<td>81</td>
+		<td>81</td>
+		<td>81</td>
+		<td>82</td>
+		<td>88</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
 		<td>tribute.republic</td>
 		<td>78</td>
 		<td>78</td>
@@ -906,17 +917,6 @@
 		<td>82</td>
 		<td>83</td>
 		<td>87</td>
-		<td>+ 4</td>
-	</tr>
-	<tr>
-		<td>disable.person.ships</td>
-		<td>77</td>
-		<td>77</td>
-		<td>81</td>
-		<td>81</td>
-		<td>81</td>
-		<td>82</td>
-		<td>86</td>
 		<td>+ 4</td>
 	</tr>
 	<tr>
