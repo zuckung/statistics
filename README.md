@@ -252,8 +252,8 @@
 		<td>101</td>
 		<td>104</td>
 		<td>108</td>
-		<td>109</td>
-		<td>+ 1</td>
+		<td>112</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -384,8 +384,8 @@
 		<td>169</td>
 		<td>172</td>
 		<td>176</td>
-		<td>177</td>
-		<td>+ 1</td>
+		<td>178</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -564,8 +564,8 @@
 		<td>169</td>
 		<td>172</td>
 		<td>176</td>
-		<td>177</td>
-		<td>+ 1</td>
+		<td>178</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -773,8 +773,8 @@
 		<td>101</td>
 		<td>104</td>
 		<td>108</td>
-		<td>109</td>
-		<td>+ 1</td>
+		<td>112</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>

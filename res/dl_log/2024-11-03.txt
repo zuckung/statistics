@@ -12,10 +12,10 @@ v1.0.8-additional.command.buttons.radial | downloads: 20
 v1.0.2-better.starts | downloads: 35
 v1.1.5-captureable.person.ships | downloads: 32
 v1.0.7-additional.command.buttons.radial | downloads: 9
-v1.0.4-landing.images | downloads: 36
+v1.0.4-landing.images | downloads: 39
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 62
-v1.0.2-quarg.farm | downloads: 56
+v1.0.2-quarg.farm | downloads: 57
 v1.0.2-landing.images.highres | downloads: 24
 v1.0.5-uniques | downloads: 57
 v1.0.3-too.many.asteroids | downloads: 71
@@ -147,7 +147,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 146
-# TOTAL DOWNLOADS: 5405
+# TOTAL DOWNLOADS: 5409
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -172,7 +172,7 @@ human.labels 117
 jump.gates 142
 kestrel.unlocks 96
 kor.efret.shipyard 166
-landing.images 109
+landing.images 112
 landing.images.android 118
 landing.images.highres 92
 more.arfectas 172
@@ -184,7 +184,7 @@ outfits.weapon.slot 94
 paint.your.ships 95
 pirate.warlords 3
 planet.map 92
-quarg.farm 177
+quarg.farm 178
 real.fluff 93
 show.reputation 146
 snowfeather.robotics 135
