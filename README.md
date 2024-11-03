@@ -241,8 +241,8 @@
 		<td>161</td>
 		<td>162</td>
 		<td>166</td>
-		<td>168</td>
-		<td>+ 2</td>
+		<td>170</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -579,6 +579,17 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
+		<td>kor.efret.shipyard</td>
+		<td>155</td>
+		<td>159</td>
+		<td>159</td>
+		<td>161</td>
+		<td>162</td>
+		<td>166</td>
+		<td>170</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>too.many.asteroids</td>
 		<td>153</td>
 		<td>157</td>
@@ -588,17 +599,6 @@
 		<td>166</td>
 		<td>169</td>
 		<td>+ 3</td>
-	</tr>
-	<tr>
-		<td>kor.efret.shipyard</td>
-		<td>155</td>
-		<td>159</td>
-		<td>159</td>
-		<td>161</td>
-		<td>162</td>
-		<td>166</td>
-		<td>168</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>

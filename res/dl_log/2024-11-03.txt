@@ -6,7 +6,7 @@ v1.0.1-show.reputation | downloads: 1
 v1.1.4-galactic.capital.investment | downloads: 12
 v1.0.9-additional.command.buttons.radial | downloads: 27
 v1.0.2-gegno.pirates | downloads: 20
-v1.0.1-kor.efret.shipyard | downloads: 13
+v1.0.1-kor.efret.shipyard | downloads: 15
 v1.0.2-more.person.ships | downloads: 29
 v1.0.8-additional.command.buttons.radial | downloads: 20
 v1.0.2-better.starts | downloads: 35
@@ -147,7 +147,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 146
-# TOTAL DOWNLOADS: 5457
+# TOTAL DOWNLOADS: 5459
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -171,7 +171,7 @@ hai.side.mission.unlocker 139
 human.labels 117
 jump.gates 144
 kestrel.unlocks 98
-kor.efret.shipyard 168
+kor.efret.shipyard 170
 landing.images 112
 landing.images.android 118
 landing.images.highres 92
