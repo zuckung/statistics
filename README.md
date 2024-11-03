@@ -32,8 +32,8 @@
 		<td>197</td>
 		<td>200</td>
 		<td>204</td>
-		<td>205</td>
-		<td>+ 1</td>
+		<td>207</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -509,8 +509,8 @@
 		<td>197</td>
 		<td>200</td>
 		<td>204</td>
-		<td>205</td>
-		<td>+ 1</td>
+		<td>207</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
