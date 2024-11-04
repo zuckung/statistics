@@ -14,7 +14,7 @@ v1.1.5-captureable.person.ships | downloads: 34
 v1.0.7-additional.command.buttons.radial | downloads: 9
 v1.0.4-landing.images | downloads: 39
 v1.0.3-landing.images | downloads: 2
-v1.0.3-expert.crew.members | downloads: 62
+v1.0.3-expert.crew.members | downloads: 64
 v1.0.2-quarg.farm | downloads: 59
 v1.0.2-landing.images.highres | downloads: 24
 v1.0.5-uniques | downloads: 57
@@ -147,7 +147,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 146
-# TOTAL DOWNLOADS: 5459
+# TOTAL DOWNLOADS: 5461
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -163,7 +163,7 @@ control.station 134
 devil-run.unhidden 66
 disable.person.ships 88
 disable.spaceport.repeatables 120
-expert.crew.members 180
+expert.crew.members 182
 free.worlds.5.years.later 109
 galactic.capital.investment 210
 gegno.pirates 192

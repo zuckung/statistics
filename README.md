@@ -153,8 +153,8 @@
 		<td>172</td>
 		<td>176</td>
 		<td>180</td>
-		<td>180</td>
-		<td></td>
+		<td>182</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -546,19 +546,19 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>quarg.farm</td>
-		<td>169</td>
+		<td>expert.crew.members</td>
+		<td>167</td>
 		<td>169</td>
 		<td>169</td>
 		<td>172</td>
 		<td>176</td>
 		<td>180</td>
-		<td>180</td>
-		<td></td>
+		<td>182</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
-		<td>expert.crew.members</td>
-		<td>167</td>
+		<td>quarg.farm</td>
+		<td>169</td>
 		<td>169</td>
 		<td>169</td>
 		<td>172</td>
