@@ -43,8 +43,8 @@
 		<td>133</td>
 		<td>137</td>
 		<td>139</td>
-		<td>141</td>
-		<td>+ 2</td>
+		<td>143</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -54,8 +54,8 @@
 		<td>104</td>
 		<td>108</td>
 		<td>110</td>
-		<td>112</td>
-		<td>+ 2</td>
+		<td>114</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -175,8 +175,8 @@
 		<td>203</td>
 		<td>207</td>
 		<td>210</td>
-		<td>211</td>
-		<td>+ 1</td>
+		<td>213</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -439,8 +439,8 @@
 		<td>162</td>
 		<td>166</td>
 		<td>169</td>
-		<td>176</td>
-		<td>+ 7</td>
+		<td>178</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -498,8 +498,8 @@
 		<td>203</td>
 		<td>207</td>
 		<td>210</td>
-		<td>211</td>
-		<td>+ 1</td>
+		<td>213</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -575,8 +575,8 @@
 		<td>162</td>
 		<td>166</td>
 		<td>169</td>
-		<td>176</td>
-		<td>+ 7</td>
+		<td>178</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -667,6 +667,17 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>128</td>
+		<td>130</td>
+		<td>130</td>
+		<td>133</td>
+		<td>137</td>
+		<td>139</td>
+		<td>143</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>space.fauna</td>
 		<td>128</td>
 		<td>130</td>
@@ -676,17 +687,6 @@
 		<td>138</td>
 		<td>141</td>
 		<td>+ 3</td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>128</td>
-		<td>130</td>
-		<td>130</td>
-		<td>133</td>
-		<td>137</td>
-		<td>139</td>
-		<td>141</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -784,8 +784,8 @@
 		<td>104</td>
 		<td>108</td>
 		<td>110</td>
-		<td>112</td>
-		<td>+ 2</td>
+		<td>114</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
