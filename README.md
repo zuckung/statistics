@@ -406,8 +406,8 @@
 		<td>144</td>
 		<td>146</td>
 		<td>149</td>
-		<td>149</td>
-		<td></td>
+		<td>151</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -417,8 +417,8 @@
 		<td>134</td>
 		<td>137</td>
 		<td>140</td>
-		<td>140</td>
-		<td></td>
+		<td>142</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -472,8 +472,8 @@
 		<td>105</td>
 		<td>107</td>
 		<td>110</td>
-		<td>112</td>
-		<td>+ 2</td>
+		<td>114</td>
+		<td>+ 4</td>
 	</tr>
 </table>
 </h6>
@@ -652,8 +652,8 @@
 		<td>144</td>
 		<td>146</td>
 		<td>149</td>
-		<td>149</td>
-		<td></td>
+		<td>151</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -678,6 +678,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>snowfeather.robotics</td>
+		<td>129</td>
+		<td>129</td>
+		<td>130</td>
+		<td>134</td>
+		<td>137</td>
+		<td>140</td>
+		<td>142</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>space.fauna</td>
 		<td>130</td>
 		<td>132</td>
@@ -686,17 +697,6 @@
 		<td>138</td>
 		<td>141</td>
 		<td>141</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>snowfeather.robotics</td>
-		<td>129</td>
-		<td>129</td>
-		<td>130</td>
-		<td>134</td>
-		<td>137</td>
-		<td>140</td>
-		<td>140</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -795,8 +795,8 @@
 		<td>105</td>
 		<td>107</td>
 		<td>110</td>
-		<td>112</td>
-		<td>+ 2</td>
+		<td>114</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
