@@ -263,8 +263,8 @@
 		<td>117</td>
 		<td>118</td>
 		<td>119</td>
-		<td>119</td>
-		<td></td>
+		<td>122</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -274,8 +274,8 @@
 		<td>92</td>
 		<td>92</td>
 		<td>93</td>
-		<td>93</td>
-		<td></td>
+		<td>95</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -285,8 +285,8 @@
 		<td>171</td>
 		<td>174</td>
 		<td>175</td>
-		<td>177</td>
-		<td>+ 2</td>
+		<td>181</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -296,8 +296,8 @@
 		<td>148</td>
 		<td>151</td>
 		<td>154</td>
-		<td>154</td>
-		<td></td>
+		<td>156</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -307,8 +307,8 @@
 		<td>162</td>
 		<td>164</td>
 		<td>165</td>
-		<td>167</td>
-		<td>+ 2</td>
+		<td>169</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -318,8 +318,8 @@
 		<td>180</td>
 		<td>183</td>
 		<td>184</td>
-		<td>184</td>
-		<td></td>
+		<td>186</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -340,8 +340,8 @@
 		<td>93</td>
 		<td>96</td>
 		<td>99</td>
-		<td>99</td>
-		<td></td>
+		<td>101</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -351,8 +351,8 @@
 		<td>95</td>
 		<td>95</td>
 		<td>98</td>
-		<td>98</td>
-		<td></td>
+		<td>100</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -546,6 +546,17 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
+		<td>navy.licenses</td>
+		<td>175</td>
+		<td>175</td>
+		<td>176</td>
+		<td>180</td>
+		<td>183</td>
+		<td>184</td>
+		<td>186</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>expert.crew.members</td>
 		<td>169</td>
 		<td>169</td>
@@ -557,15 +568,15 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>navy.licenses</td>
+		<td>more.arfectas</td>
+		<td>162</td>
+		<td>162</td>
+		<td>167</td>
+		<td>171</td>
+		<td>174</td>
 		<td>175</td>
-		<td>175</td>
-		<td>176</td>
-		<td>180</td>
-		<td>183</td>
-		<td>184</td>
-		<td>184</td>
-		<td></td>
+		<td>181</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -576,17 +587,6 @@
 		<td>169</td>
 		<td>178</td>
 		<td>180</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>more.arfectas</td>
-		<td>162</td>
-		<td>162</td>
-		<td>167</td>
-		<td>171</td>
-		<td>174</td>
-		<td>175</td>
-		<td>177</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -619,7 +619,18 @@
 		<td>162</td>
 		<td>164</td>
 		<td>165</td>
-		<td>167</td>
+		<td>169</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
+		<td>more.boarding.missions</td>
+		<td>143</td>
+		<td>143</td>
+		<td>144</td>
+		<td>148</td>
+		<td>151</td>
+		<td>154</td>
+		<td>156</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -631,17 +642,6 @@
 		<td>153</td>
 		<td>156</td>
 		<td>156</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>more.boarding.missions</td>
-		<td>143</td>
-		<td>143</td>
-		<td>144</td>
-		<td>148</td>
-		<td>151</td>
-		<td>154</td>
-		<td>154</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -733,6 +733,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>landing.images.android</td>
+		<td>112</td>
+		<td>112</td>
+		<td>113</td>
+		<td>117</td>
+		<td>118</td>
+		<td>119</td>
+		<td>122</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>111</td>
 		<td>111</td>
@@ -741,17 +752,6 @@
 		<td>120</td>
 		<td>121</td>
 		<td>121</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>landing.images.android</td>
-		<td>112</td>
-		<td>112</td>
-		<td>113</td>
-		<td>117</td>
-		<td>118</td>
-		<td>119</td>
-		<td>119</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -821,6 +821,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>outfits.weapon.slot</td>
+		<td>86</td>
+		<td>88</td>
+		<td>89</td>
+		<td>93</td>
+		<td>96</td>
+		<td>99</td>
+		<td>101</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>kestrel.unlocks</td>
 		<td>90</td>
 		<td>90</td>
@@ -832,17 +843,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>outfits.weapon.slot</td>
-		<td>86</td>
-		<td>88</td>
-		<td>89</td>
-		<td>93</td>
-		<td>96</td>
-		<td>99</td>
-		<td>99</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>paint.your.ships</td>
 		<td>82</td>
 		<td>86</td>
@@ -850,8 +850,8 @@
 		<td>95</td>
 		<td>95</td>
 		<td>98</td>
-		<td>98</td>
-		<td></td>
+		<td>100</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -865,23 +865,23 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>real.fluff</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>landing.images.highres</td>
 		<td>85</td>
 		<td>85</td>
 		<td>88</td>
 		<td>92</td>
 		<td>92</td>
+		<td>93</td>
+		<td>95</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>real.fluff</td>
+		<td>93</td>
+		<td>93</td>
+		<td>93</td>
+		<td>93</td>
+		<td>93</td>
 		<td>93</td>
 		<td>93</td>
 		<td></td>
