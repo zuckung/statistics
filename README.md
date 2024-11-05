@@ -197,8 +197,8 @@
 		<td>137</td>
 		<td>139</td>
 		<td>140</td>
-		<td>140</td>
-		<td></td>
+		<td>142</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -263,8 +263,8 @@
 		<td>117</td>
 		<td>118</td>
 		<td>119</td>
-		<td>122</td>
-		<td>+ 3</td>
+		<td>124</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -689,6 +689,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>hai.side.mission.unlocker</td>
+		<td>132</td>
+		<td>132</td>
+		<td>133</td>
+		<td>137</td>
+		<td>139</td>
+		<td>140</td>
+		<td>142</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>space.fauna</td>
 		<td>130</td>
 		<td>132</td>
@@ -697,17 +708,6 @@
 		<td>138</td>
 		<td>141</td>
 		<td>141</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>hai.side.mission.unlocker</td>
-		<td>132</td>
-		<td>132</td>
-		<td>133</td>
-		<td>137</td>
-		<td>139</td>
-		<td>140</td>
-		<td>140</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -740,8 +740,8 @@
 		<td>117</td>
 		<td>118</td>
 		<td>119</td>
-		<td>122</td>
-		<td>+ 3</td>
+		<td>124</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
