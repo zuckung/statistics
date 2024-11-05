@@ -373,8 +373,8 @@
 		<td>92</td>
 		<td>94</td>
 		<td>95</td>
-		<td>95</td>
-		<td></td>
+		<td>97</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -861,8 +861,8 @@
 		<td>92</td>
 		<td>94</td>
 		<td>95</td>
-		<td>95</td>
-		<td></td>
+		<td>97</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
