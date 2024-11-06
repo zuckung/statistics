@@ -439,8 +439,8 @@
 		<td>169</td>
 		<td>178</td>
 		<td>181</td>
-		<td>183</td>
-		<td>+ 2</td>
+		<td>185</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -568,6 +568,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>too.many.asteroids</td>
+		<td>161</td>
+		<td>162</td>
+		<td>166</td>
+		<td>169</td>
+		<td>178</td>
+		<td>181</td>
+		<td>185</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>more.arfectas</td>
 		<td>162</td>
 		<td>167</td>
@@ -577,17 +588,6 @@
 		<td>182</td>
 		<td>185</td>
 		<td>+ 3</td>
-	</tr>
-	<tr>
-		<td>too.many.asteroids</td>
-		<td>161</td>
-		<td>162</td>
-		<td>166</td>
-		<td>169</td>
-		<td>178</td>
-		<td>181</td>
-		<td>183</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
