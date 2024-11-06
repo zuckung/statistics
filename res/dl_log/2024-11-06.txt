@@ -1,17 +1,17 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.2-kor.efret.shipyard | downloads: 6
+v1.0.2-kor.efret.shipyard | downloads: 7
 v1.0.10-additional.command.buttons.radial | downloads: 8
-v1.0.3-better.starts | downloads: 11
-v1.0.2-show.reputation | downloads: 10
+v1.0.3-better.starts | downloads: 13
+v1.0.2-show.reputation | downloads: 11
 v1.0.1-show.reputation | downloads: 1
 v1.1.4-galactic.capital.investment | downloads: 16
 v1.0.9-additional.command.buttons.radial | downloads: 27
-v1.0.2-gegno.pirates | downloads: 26
+v1.0.2-gegno.pirates | downloads: 27
 v1.0.1-kor.efret.shipyard | downloads: 15
-v1.0.2-more.person.ships | downloads: 35
+v1.0.2-more.person.ships | downloads: 37
 v1.0.8-additional.command.buttons.radial | downloads: 20
 v1.0.2-better.starts | downloads: 35
-v1.1.5-captureable.person.ships | downloads: 36
+v1.1.5-captureable.person.ships | downloads: 38
 v1.0.7-additional.command.buttons.radial | downloads: 9
 v1.0.4-landing.images | downloads: 43
 v1.0.3-landing.images | downloads: 2
@@ -148,7 +148,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 147
-# TOTAL DOWNLOADS: 5666
+# TOTAL DOWNLOADS: 5675
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -156,9 +156,9 @@ additional.command.buttons 93
 additional.command.buttons.radial 211
 automata.destruction.0percent 144
 automata.in.human.space 117
-better.starts 157
+better.starts 159
 bunrodea.missions 196
-captureable.person.ships 139
+captureable.person.ships 141
 coalition.shopping 175
 control.station 140
 devil-run.unhidden 66
@@ -167,18 +167,18 @@ disable.spaceport.repeatables 122
 expert.crew.members 186
 free.worlds.5.years.later 111
 galactic.capital.investment 214
-gegno.pirates 198
+gegno.pirates 199
 hai.side.mission.unlocker 145
 human.labels 119
 jump.gates 148
 kestrel.unlocks 102
-kor.efret.shipyard 176
+kor.efret.shipyard 177
 landing.images 116
 landing.images.android 125
 landing.images.highres 96
 more.arfectas 185
 more.boarding.missions 157
-more.person.ships 170
+more.person.ships 172
 navy.licenses 190
 no.more.mereti.mines 114
 outfits.weapon.slot 102
@@ -187,7 +187,7 @@ pirate.warlords 3
 planet.map 98
 quarg.farm 190
 real.fluff 93
-show.reputation 152
+show.reputation 153
 snowfeather.robotics 145
 space.fauna 142
 too.many.asteroids 185

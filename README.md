@@ -65,8 +65,8 @@
 		<td>153</td>
 		<td>156</td>
 		<td>157</td>
-		<td>157</td>
-		<td></td>
+		<td>159</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -87,8 +87,8 @@
 		<td>137</td>
 		<td>138</td>
 		<td>139</td>
-		<td>139</td>
-		<td></td>
+		<td>141</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -186,8 +186,8 @@
 		<td>192</td>
 		<td>195</td>
 		<td>196</td>
-		<td>198</td>
-		<td>+ 2</td>
+		<td>199</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -241,8 +241,8 @@
 		<td>170</td>
 		<td>173</td>
 		<td>174</td>
-		<td>176</td>
-		<td>+ 2</td>
+		<td>177</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -307,8 +307,8 @@
 		<td>164</td>
 		<td>165</td>
 		<td>170</td>
-		<td>170</td>
-		<td></td>
+		<td>172</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -406,8 +406,8 @@
 		<td>146</td>
 		<td>149</td>
 		<td>152</td>
-		<td>152</td>
-		<td></td>
+		<td>153</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -520,8 +520,8 @@
 		<td>192</td>
 		<td>195</td>
 		<td>196</td>
-		<td>198</td>
-		<td>+ 2</td>
+		<td>199</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -597,8 +597,8 @@
 		<td>170</td>
 		<td>173</td>
 		<td>174</td>
-		<td>176</td>
-		<td>+ 2</td>
+		<td>177</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -619,8 +619,19 @@
 		<td>164</td>
 		<td>165</td>
 		<td>170</td>
-		<td>170</td>
-		<td></td>
+		<td>172</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>better.starts</td>
+		<td>145</td>
+		<td>146</td>
+		<td>150</td>
+		<td>153</td>
+		<td>156</td>
+		<td>157</td>
+		<td>159</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -634,17 +645,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>better.starts</td>
-		<td>145</td>
-		<td>146</td>
-		<td>150</td>
-		<td>153</td>
-		<td>156</td>
-		<td>157</td>
-		<td>157</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>show.reputation</td>
 		<td>139</td>
 		<td>140</td>
@@ -652,8 +652,8 @@
 		<td>146</td>
 		<td>149</td>
 		<td>152</td>
-		<td>152</td>
-		<td></td>
+		<td>153</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -711,6 +711,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>captureable.person.ships</td>
+		<td>129</td>
+		<td>130</td>
+		<td>134</td>
+		<td>137</td>
+		<td>138</td>
+		<td>139</td>
+		<td>141</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>control.station</td>
 		<td>127</td>
 		<td>128</td>
@@ -720,17 +731,6 @@
 		<td>138</td>
 		<td>140</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>captureable.person.ships</td>
-		<td>129</td>
-		<td>130</td>
-		<td>134</td>
-		<td>137</td>
-		<td>138</td>
-		<td>139</td>
-		<td>139</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
