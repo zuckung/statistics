@@ -77,7 +77,7 @@ v1.0.4-real.fluff | downloads: 1
 v1.0.3-real.fluff | downloads: 2
 v1.0.3-bunrodea.missions | downloads: 2
 v1.0.2-too.many.asteroids | downloads: 92
-v1.0.2-navy.licenses | downloads: 178
+v1.0.2-navy.licenses | downloads: 180
 v1.0.2-expert.crew.members | downloads: 111
 v1.0.2-additional.command.buttons | downloads: 91
 v1.0.1-too.many.asteroids | downloads: 2
@@ -148,7 +148,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 147
-# TOTAL DOWNLOADS: 5654
+# TOTAL DOWNLOADS: 5656
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -179,7 +179,7 @@ landing.images.highres 96
 more.arfectas 182
 more.boarding.missions 157
 more.person.ships 170
-navy.licenses 187
+navy.licenses 189
 no.more.mereti.mines 114
 outfits.weapon.slot 102
 paint.your.ships 101
