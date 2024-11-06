@@ -76,8 +76,8 @@
 		<td>191</td>
 		<td>193</td>
 		<td>194</td>
-		<td>194</td>
-		<td></td>
+		<td>196</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -98,8 +98,8 @@
 		<td>168</td>
 		<td>170</td>
 		<td>173</td>
-		<td>173</td>
-		<td></td>
+		<td>175</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -186,8 +186,8 @@
 		<td>192</td>
 		<td>195</td>
 		<td>196</td>
-		<td>196</td>
-		<td></td>
+		<td>198</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -197,8 +197,8 @@
 		<td>139</td>
 		<td>140</td>
 		<td>143</td>
-		<td>143</td>
-		<td></td>
+		<td>145</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -241,8 +241,8 @@
 		<td>170</td>
 		<td>173</td>
 		<td>174</td>
-		<td>174</td>
-		<td></td>
+		<td>176</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -329,8 +329,8 @@
 		<td>108</td>
 		<td>111</td>
 		<td>112</td>
-		<td>112</td>
-		<td></td>
+		<td>114</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -417,8 +417,8 @@
 		<td>137</td>
 		<td>140</td>
 		<td>143</td>
-		<td>143</td>
-		<td></td>
+		<td>145</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -439,8 +439,8 @@
 		<td>169</td>
 		<td>178</td>
 		<td>181</td>
-		<td>181</td>
-		<td></td>
+		<td>183</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -450,8 +450,8 @@
 		<td>88</td>
 		<td>91</td>
 		<td>92</td>
-		<td>92</td>
-		<td></td>
+		<td>94</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
@@ -520,8 +520,8 @@
 		<td>192</td>
 		<td>195</td>
 		<td>196</td>
-		<td>196</td>
-		<td></td>
+		<td>198</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -531,8 +531,8 @@
 		<td>191</td>
 		<td>193</td>
 		<td>194</td>
-		<td>194</td>
-		<td></td>
+		<td>196</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -568,6 +568,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>too.many.asteroids</td>
+		<td>161</td>
+		<td>162</td>
+		<td>166</td>
+		<td>169</td>
+		<td>178</td>
+		<td>181</td>
+		<td>183</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>more.arfectas</td>
 		<td>162</td>
 		<td>167</td>
@@ -579,17 +590,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>too.many.asteroids</td>
-		<td>161</td>
-		<td>162</td>
-		<td>166</td>
-		<td>169</td>
-		<td>178</td>
-		<td>181</td>
-		<td>181</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>kor.efret.shipyard</td>
 		<td>161</td>
 		<td>162</td>
@@ -597,8 +597,8 @@
 		<td>170</td>
 		<td>173</td>
 		<td>174</td>
-		<td>174</td>
-		<td></td>
+		<td>176</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -608,8 +608,8 @@
 		<td>168</td>
 		<td>170</td>
 		<td>173</td>
-		<td>173</td>
-		<td></td>
+		<td>175</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -667,17 +667,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>130</td>
-		<td>133</td>
-		<td>137</td>
-		<td>139</td>
-		<td>143</td>
-		<td>144</td>
-		<td>144</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>snowfeather.robotics</td>
 		<td>129</td>
 		<td>130</td>
@@ -685,8 +674,8 @@
 		<td>137</td>
 		<td>140</td>
 		<td>143</td>
-		<td>143</td>
-		<td></td>
+		<td>145</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -696,7 +685,18 @@
 		<td>139</td>
 		<td>140</td>
 		<td>143</td>
+		<td>145</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>130</td>
+		<td>133</td>
+		<td>137</td>
+		<td>139</td>
 		<td>143</td>
+		<td>144</td>
+		<td>144</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -806,8 +806,8 @@
 		<td>108</td>
 		<td>111</td>
 		<td>112</td>
-		<td>112</td>
-		<td></td>
+		<td>114</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -876,6 +876,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>tribute.republic</td>
+		<td>82</td>
+		<td>83</td>
+		<td>87</td>
+		<td>88</td>
+		<td>91</td>
+		<td>92</td>
+		<td>94</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>real.fluff</td>
 		<td>93</td>
 		<td>93</td>
@@ -895,17 +906,6 @@
 		<td>93</td>
 		<td>93</td>
 		<td>93</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>tribute.republic</td>
-		<td>82</td>
-		<td>83</td>
-		<td>87</td>
-		<td>88</td>
-		<td>91</td>
-		<td>92</td>
-		<td>92</td>
 		<td></td>
 	</tr>
 	<tr>

@@ -1,12 +1,12 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.2-kor.efret.shipyard | downloads: 4
+v1.0.2-kor.efret.shipyard | downloads: 6
 v1.0.10-additional.command.buttons.radial | downloads: 8
 v1.0.3-better.starts | downloads: 11
 v1.0.2-show.reputation | downloads: 10
 v1.0.1-show.reputation | downloads: 1
 v1.1.4-galactic.capital.investment | downloads: 16
 v1.0.9-additional.command.buttons.radial | downloads: 27
-v1.0.2-gegno.pirates | downloads: 24
+v1.0.2-gegno.pirates | downloads: 26
 v1.0.1-kor.efret.shipyard | downloads: 15
 v1.0.2-more.person.ships | downloads: 35
 v1.0.8-additional.command.buttons.radial | downloads: 20
@@ -19,16 +19,16 @@ v1.0.3-expert.crew.members | downloads: 68
 v1.0.2-quarg.farm | downloads: 67
 v1.0.2-landing.images.highres | downloads: 28
 v1.0.5-uniques | downloads: 65
-v1.0.3-too.many.asteroids | downloads: 85
+v1.0.3-too.many.asteroids | downloads: 87
 v1.0.1-automata.in.human.space | downloads: 56
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
-v1.0.5-coalition.shopping | downloads: 71
+v1.0.5-coalition.shopping | downloads: 73
 v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
-v1.1.4-hai.side.mission.unlocker | downloads: 68
+v1.1.4-hai.side.mission.unlocker | downloads: 70
 v1.0.6-additional.command.buttons.radial | downloads: 48
-v1.0.3-no.more.mereti.mines | downloads: 56
+v1.0.3-no.more.mereti.mines | downloads: 58
 v1.0.1-paint.your.ships | downloads: 97
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
@@ -41,7 +41,7 @@ v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 73
 v1.0.0-kestrel.unlocks | downloads: 102
-v1.0.2-tribute.republic | downloads: 74
+v1.0.2-tribute.republic | downloads: 76
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
 v1.0.0-tribute.republic | downloads: 2
@@ -68,7 +68,7 @@ v1.0.3-human.labels | downloads: 2
 v1.0.2-human.labels | downloads: 1
 v1.0.1-human.labels | downloads: 1
 v1.0.0-more.person.ships | downloads: 52
-v1.0.4-bunrodea.missions | downloads: 186
+v1.0.4-bunrodea.missions | downloads: 188
 v1.0.0-human.labels | downloads: 1
 v1.1.3-captureable.person.ships | downloads: 1
 v1.1.2-galactic.capital.investment | downloads: 1
@@ -99,7 +99,7 @@ v1.0.3-coalition.shopping | downloads: 97
 v1.0.2-coalition.shopping | downloads: 1
 v1.0.1-navy.licenses | downloads: 1
 v1.1.2-space.fauna | downloads: 140
-v1.0.3-snowfeather.robotics | downloads: 136
+v1.0.3-snowfeather.robotics | downloads: 138
 v1.0.2-snowfeather.robotics | downloads: 1
 v1.1.1-space.fauna | downloads: 1
 v1.0-space.fauna | downloads: 1
@@ -148,7 +148,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 147
-# TOTAL DOWNLOADS: 5636
+# TOTAL DOWNLOADS: 5654
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -157,9 +157,9 @@ additional.command.buttons.radial 211
 automata.destruction.0percent 144
 automata.in.human.space 117
 better.starts 157
-bunrodea.missions 194
+bunrodea.missions 196
 captureable.person.ships 139
-coalition.shopping 173
+coalition.shopping 175
 control.station 138
 devil-run.unhidden 66
 disable.person.ships 90
@@ -167,12 +167,12 @@ disable.spaceport.repeatables 122
 expert.crew.members 186
 free.worlds.5.years.later 111
 galactic.capital.investment 214
-gegno.pirates 196
-hai.side.mission.unlocker 143
+gegno.pirates 198
+hai.side.mission.unlocker 145
 human.labels 119
 jump.gates 148
 kestrel.unlocks 102
-kor.efret.shipyard 174
+kor.efret.shipyard 176
 landing.images 116
 landing.images.android 125
 landing.images.highres 96
@@ -180,7 +180,7 @@ more.arfectas 182
 more.boarding.missions 157
 more.person.ships 170
 navy.licenses 187
-no.more.mereti.mines 112
+no.more.mereti.mines 114
 outfits.weapon.slot 102
 paint.your.ships 101
 pirate.warlords 3
@@ -188,9 +188,9 @@ planet.map 98
 quarg.farm 188
 real.fluff 93
 show.reputation 152
-snowfeather.robotics 143
+snowfeather.robotics 145
 space.fauna 142
-too.many.asteroids 181
-tribute.republic 92
+too.many.asteroids 183
+tribute.republic 94
 unique.fix 44
 uniques 115
