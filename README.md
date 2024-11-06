@@ -109,8 +109,8 @@
 		<td>134</td>
 		<td>137</td>
 		<td>138</td>
-		<td>138</td>
-		<td></td>
+		<td>140</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -711,6 +711,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>control.station</td>
+		<td>127</td>
+		<td>128</td>
+		<td>132</td>
+		<td>134</td>
+		<td>137</td>
+		<td>138</td>
+		<td>140</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>captureable.person.ships</td>
 		<td>129</td>
 		<td>130</td>
@@ -719,17 +730,6 @@
 		<td>138</td>
 		<td>139</td>
 		<td>139</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>control.station</td>
-		<td>127</td>
-		<td>128</td>
-		<td>132</td>
-		<td>134</td>
-		<td>137</td>
-		<td>138</td>
-		<td>138</td>
 		<td></td>
 	</tr>
 	<tr>
