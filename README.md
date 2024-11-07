@@ -164,8 +164,8 @@
 		<td>110</td>
 		<td>111</td>
 		<td>111</td>
-		<td>113</td>
-		<td>+ 2</td>
+		<td>115</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -799,6 +799,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>free.worlds.5.years.later</td>
+		<td>102</td>
+		<td>106</td>
+		<td>109</td>
+		<td>110</td>
+		<td>111</td>
+		<td>111</td>
+		<td>115</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>no.more.mereti.mines</td>
 		<td>103</td>
 		<td>107</td>
@@ -808,17 +819,6 @@
 		<td>114</td>
 		<td>114</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>free.worlds.5.years.later</td>
-		<td>102</td>
-		<td>106</td>
-		<td>109</td>
-		<td>110</td>
-		<td>111</td>
-		<td>111</td>
-		<td>113</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
