@@ -32,8 +32,8 @@
 		<td>210</td>
 		<td>211</td>
 		<td>211</td>
-		<td>214</td>
-		<td>+ 3</td>
+		<td>216</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -208,8 +208,8 @@
 		<td>118</td>
 		<td>119</td>
 		<td>119</td>
-		<td>119</td>
-		<td></td>
+		<td>121</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -219,8 +219,8 @@
 		<td>147</td>
 		<td>148</td>
 		<td>148</td>
-		<td>150</td>
-		<td>+ 2</td>
+		<td>152</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -263,8 +263,8 @@
 		<td>119</td>
 		<td>125</td>
 		<td>125</td>
-		<td>126</td>
-		<td>+ 1</td>
+		<td>128</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -417,8 +417,8 @@
 		<td>140</td>
 		<td>143</td>
 		<td>145</td>
-		<td>145</td>
-		<td></td>
+		<td>147</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -509,8 +509,8 @@
 		<td>210</td>
 		<td>211</td>
 		<td>211</td>
-		<td>214</td>
-		<td>+ 3</td>
+		<td>216</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -663,7 +663,18 @@
 		<td>147</td>
 		<td>148</td>
 		<td>148</td>
-		<td>150</td>
+		<td>152</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
+		<td>snowfeather.robotics</td>
+		<td>130</td>
+		<td>134</td>
+		<td>137</td>
+		<td>140</td>
+		<td>143</td>
+		<td>145</td>
+		<td>147</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -687,17 +698,6 @@
 		<td>144</td>
 		<td>146</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>snowfeather.robotics</td>
-		<td>130</td>
-		<td>134</td>
-		<td>137</td>
-		<td>140</td>
-		<td>143</td>
-		<td>145</td>
-		<td>145</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -740,8 +740,8 @@
 		<td>119</td>
 		<td>125</td>
 		<td>125</td>
-		<td>126</td>
-		<td>+ 1</td>
+		<td>128</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -762,8 +762,8 @@
 		<td>118</td>
 		<td>119</td>
 		<td>119</td>
-		<td>119</td>
-		<td></td>
+		<td>121</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
