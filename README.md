@@ -274,8 +274,8 @@
 		<td>93</td>
 		<td>96</td>
 		<td>96</td>
-		<td>96</td>
-		<td></td>
+		<td>98</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -384,8 +384,8 @@
 		<td>183</td>
 		<td>188</td>
 		<td>190</td>
-		<td>192</td>
-		<td>+ 2</td>
+		<td>194</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -428,8 +428,8 @@
 		<td>141</td>
 		<td>142</td>
 		<td>142</td>
-		<td>142</td>
-		<td></td>
+		<td>144</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -542,8 +542,8 @@
 		<td>183</td>
 		<td>188</td>
 		<td>190</td>
-		<td>192</td>
-		<td>+ 2</td>
+		<td>194</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -700,6 +700,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>space.fauna</td>
+		<td>133</td>
+		<td>137</td>
+		<td>138</td>
+		<td>141</td>
+		<td>142</td>
+		<td>142</td>
+		<td>144</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>captureable.person.ships</td>
 		<td>130</td>
 		<td>134</td>
@@ -709,17 +720,6 @@
 		<td>141</td>
 		<td>143</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>space.fauna</td>
-		<td>133</td>
-		<td>137</td>
-		<td>138</td>
-		<td>141</td>
-		<td>142</td>
-		<td>142</td>
-		<td>142</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -865,6 +865,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>landing.images.highres</td>
+		<td>88</td>
+		<td>92</td>
+		<td>92</td>
+		<td>93</td>
+		<td>96</td>
+		<td>96</td>
+		<td>98</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>tribute.republic</td>
 		<td>83</td>
 		<td>87</td>
@@ -874,17 +885,6 @@
 		<td>94</td>
 		<td>96</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>landing.images.highres</td>
-		<td>88</td>
-		<td>92</td>
-		<td>92</td>
-		<td>93</td>
-		<td>96</td>
-		<td>96</td>
-		<td>96</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
