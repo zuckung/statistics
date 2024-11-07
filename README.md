@@ -32,8 +32,8 @@
 		<td>210</td>
 		<td>211</td>
 		<td>211</td>
-		<td>211</td>
-		<td></td>
+		<td>212</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -263,8 +263,8 @@
 		<td>119</td>
 		<td>125</td>
 		<td>125</td>
-		<td>125</td>
-		<td></td>
+		<td>126</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -296,8 +296,8 @@
 		<td>154</td>
 		<td>157</td>
 		<td>157</td>
-		<td>157</td>
-		<td></td>
+		<td>158</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -509,8 +509,8 @@
 		<td>210</td>
 		<td>211</td>
 		<td>211</td>
-		<td>211</td>
-		<td></td>
+		<td>212</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -641,8 +641,8 @@
 		<td>154</td>
 		<td>157</td>
 		<td>157</td>
-		<td>157</td>
-		<td></td>
+		<td>158</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -740,8 +740,8 @@
 		<td>119</td>
 		<td>125</td>
 		<td>125</td>
-		<td>125</td>
-		<td></td>
+		<td>126</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
