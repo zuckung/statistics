@@ -32,8 +32,8 @@
 		<td>211</td>
 		<td>211</td>
 		<td>216</td>
-		<td>220</td>
-		<td>+ 4</td>
+		<td>221</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -98,8 +98,8 @@
 		<td>173</td>
 		<td>175</td>
 		<td>177</td>
-		<td>180</td>
-		<td>+ 3</td>
+		<td>181</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -175,8 +175,8 @@
 		<td>214</td>
 		<td>214</td>
 		<td>218</td>
-		<td>220</td>
-		<td>+ 2</td>
+		<td>221</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -318,8 +318,8 @@
 		<td>187</td>
 		<td>190</td>
 		<td>192</td>
-		<td>196</td>
-		<td>+ 4</td>
+		<td>197</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -351,8 +351,8 @@
 		<td>101</td>
 		<td>101</td>
 		<td>101</td>
-		<td>105</td>
-		<td>+ 4</td>
+		<td>106</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -498,8 +498,8 @@
 		<td>214</td>
 		<td>214</td>
 		<td>218</td>
-		<td>220</td>
-		<td>+ 2</td>
+		<td>221</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -509,8 +509,8 @@
 		<td>211</td>
 		<td>211</td>
 		<td>216</td>
-		<td>220</td>
-		<td>+ 4</td>
+		<td>221</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -542,8 +542,8 @@
 		<td>187</td>
 		<td>190</td>
 		<td>192</td>
-		<td>196</td>
-		<td>+ 4</td>
+		<td>197</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -597,8 +597,8 @@
 		<td>173</td>
 		<td>175</td>
 		<td>177</td>
-		<td>180</td>
-		<td>+ 3</td>
+		<td>181</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -821,6 +821,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>paint.your.ships</td>
+		<td>95</td>
+		<td>95</td>
+		<td>98</td>
+		<td>101</td>
+		<td>101</td>
+		<td>101</td>
+		<td>106</td>
+		<td>+ 5</td>
+	</tr>
+	<tr>
 		<td>kestrel.unlocks</td>
 		<td>95</td>
 		<td>98</td>
@@ -830,17 +841,6 @@
 		<td>104</td>
 		<td>106</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>95</td>
-		<td>95</td>
-		<td>98</td>
-		<td>101</td>
-		<td>101</td>
-		<td>101</td>
-		<td>105</td>
-		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
