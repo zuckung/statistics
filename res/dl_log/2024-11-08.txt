@@ -18,7 +18,7 @@ v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 71
 v1.0.2-quarg.farm | downloads: 73
 v1.0.2-landing.images.highres | downloads: 30
-v1.0.5-uniques | downloads: 65
+v1.0.5-uniques | downloads: 67
 v1.0.3-too.many.asteroids | downloads: 89
 v1.0.1-automata.in.human.space | downloads: 58
 v1.0.4-uniques | downloads: 12
@@ -99,7 +99,7 @@ v1.0.3-coalition.shopping | downloads: 97
 v1.0.2-coalition.shopping | downloads: 1
 v1.0.1-navy.licenses | downloads: 1
 v1.1.2-space.fauna | downloads: 142
-v1.0.3-snowfeather.robotics | downloads: 140
+v1.0.3-snowfeather.robotics | downloads: 142
 v1.0.2-snowfeather.robotics | downloads: 1
 v1.1.1-space.fauna | downloads: 1
 v1.0-space.fauna | downloads: 1
@@ -148,7 +148,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 147
-# TOTAL DOWNLOADS: 5757
+# TOTAL DOWNLOADS: 5761
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -188,9 +188,9 @@ planet.map 100
 quarg.farm 194
 real.fluff 93
 show.reputation 157
-snowfeather.robotics 147
+snowfeather.robotics 149
 space.fauna 144
 too.many.asteroids 185
 tribute.republic 96
 unique.fix 44
-uniques 115
+uniques 117
