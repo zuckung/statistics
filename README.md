@@ -318,8 +318,8 @@
 		<td>192</td>
 		<td>201</td>
 		<td>205</td>
-		<td>213</td>
-		<td>+ 8</td>
+		<td>215</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -513,6 +513,17 @@
 		<td>+ 6</td>
 	</tr>
 	<tr>
+		<td>navy.licenses</td>
+		<td>184</td>
+		<td>187</td>
+		<td>190</td>
+		<td>192</td>
+		<td>201</td>
+		<td>205</td>
+		<td>215</td>
+		<td>+ 10</td>
+	</tr>
+	<tr>
 		<td>gegno.pirates</td>
 		<td>195</td>
 		<td>196</td>
@@ -521,17 +532,6 @@
 		<td>202</td>
 		<td>206</td>
 		<td>214</td>
-		<td>+ 8</td>
-	</tr>
-	<tr>
-		<td>navy.licenses</td>
-		<td>184</td>
-		<td>187</td>
-		<td>190</td>
-		<td>192</td>
-		<td>201</td>
-		<td>205</td>
-		<td>213</td>
 		<td>+ 8</td>
 	</tr>
 	<tr>

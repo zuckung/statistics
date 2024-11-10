@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.3-navy.licenses | downloads: 1
+v1.0.3-navy.licenses | downloads: 3
 v1.0.6-coalition.shopping | downloads: 3
 v1.0.5-snowfeather.robotics | downloads: 4
 v1.0.4-snowfeather.robotics | downloads: 3
@@ -152,7 +152,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 151
-# TOTAL DOWNLOADS: 6271
+# TOTAL DOWNLOADS: 6273
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -183,7 +183,7 @@ landing.images.highres 110
 more.arfectas 199
 more.boarding.missions 174
 more.person.ships 188
-navy.licenses 213
+navy.licenses 215
 no.more.mereti.mines 128
 outfits.weapon.slot 116
 paint.your.ships 120
