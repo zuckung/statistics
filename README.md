@@ -307,8 +307,8 @@
 		<td>174</td>
 		<td>176</td>
 		<td>180</td>
-		<td>188</td>
-		<td>+ 8</td>
+		<td>190</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -428,8 +428,8 @@
 		<td>144</td>
 		<td>146</td>
 		<td>150</td>
-		<td>156</td>
-		<td>+ 6</td>
+		<td>158</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -601,6 +601,17 @@
 		<td>+ 6</td>
 	</tr>
 	<tr>
+		<td>more.person.ships</td>
+		<td>165</td>
+		<td>170</td>
+		<td>172</td>
+		<td>174</td>
+		<td>176</td>
+		<td>180</td>
+		<td>190</td>
+		<td>+ 10</td>
+	</tr>
+	<tr>
 		<td>kor.efret.shipyard</td>
 		<td>173</td>
 		<td>174</td>
@@ -610,17 +621,6 @@
 		<td>184</td>
 		<td>190</td>
 		<td>+ 6</td>
-	</tr>
-	<tr>
-		<td>more.person.ships</td>
-		<td>165</td>
-		<td>170</td>
-		<td>172</td>
-		<td>174</td>
-		<td>176</td>
-		<td>180</td>
-		<td>188</td>
-		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -689,6 +689,17 @@
 		<td>+ 8</td>
 	</tr>
 	<tr>
+		<td>space.fauna</td>
+		<td>141</td>
+		<td>142</td>
+		<td>142</td>
+		<td>144</td>
+		<td>146</td>
+		<td>150</td>
+		<td>158</td>
+		<td>+ 8</td>
+	</tr>
+	<tr>
 		<td>control.station</td>
 		<td>137</td>
 		<td>138</td>
@@ -708,17 +719,6 @@
 		<td>148</td>
 		<td>152</td>
 		<td>158</td>
-		<td>+ 6</td>
-	</tr>
-	<tr>
-		<td>space.fauna</td>
-		<td>141</td>
-		<td>142</td>
-		<td>142</td>
-		<td>144</td>
-		<td>146</td>
-		<td>150</td>
-		<td>156</td>
 		<td>+ 6</td>
 	</tr>
 	<tr>
