@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.3-navy.licenses | downloads: 5
+v1.0.3-navy.licenses | downloads: 6
 v1.0.6-coalition.shopping | downloads: 5
 v1.0.5-snowfeather.robotics | downloads: 6
 v1.0.4-snowfeather.robotics | downloads: 3
@@ -9,7 +9,7 @@ v1.0.3-better.starts | downloads: 25
 v1.0.2-show.reputation | downloads: 27
 v1.0.1-show.reputation | downloads: 1
 v1.1.4-galactic.capital.investment | downloads: 41
-v1.0.9-additional.command.buttons.radial | downloads: 27
+v1.0.9-additional.command.buttons.radial | downloads: 28
 v1.0.2-gegno.pirates | downloads: 44
 v1.0.1-kor.efret.shipyard | downloads: 15
 v1.0.2-more.person.ships | downloads: 59
@@ -152,12 +152,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 151
-# TOTAL DOWNLOADS: 6345
+# TOTAL DOWNLOADS: 6347
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 237
+additional.command.buttons.radial 238
 automata.destruction.0percent 160
 automata.in.human.space 135
 better.starts 171
@@ -183,7 +183,7 @@ landing.images.highres 110
 more.arfectas 201
 more.boarding.missions 176
 more.person.ships 194
-navy.licenses 217
+navy.licenses 218
 no.more.mereti.mines 128
 outfits.weapon.slot 118
 paint.your.ships 122
