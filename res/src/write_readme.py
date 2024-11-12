@@ -45,7 +45,7 @@ def write_readme():
 	rows7 = relevant[6].split('\n')
 	# write the readme
 	with open('README.md', 'w') as target:
-		target.writelines('<h6>Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>\n<br>\n')
+		target.writelines('<h6>Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>\n<small><small><br>\n')
 		# get a nested list, sorted by latest download anount
 		rows7split = [[] for i in range(len(rows7) - 1)]
 		first = True
@@ -62,7 +62,7 @@ def write_readme():
 		rows7split.sort(reverse=True)
 		# first table, sorted by name
 		# split the 7 variable contents to lists
-		target.writelines('<h6>Plugin download count, sorted by name<br>\n')
+		target.writelines('<h6>Plugin download count, sorted by name<small><small><br>\n')
 		first = True
 		for row in rows7:
 			if row == '':
@@ -103,7 +103,7 @@ def write_readme():
 		target.writelines('</table>\n</h6>\n')		
 		# second table, sorted by latest download counts		
 		# split the 7 variable contents to lists
-		target.writelines('<h6>Plugin download count, sorted by download count<br>\n')
+		target.writelines('<h6>Plugin download count, sorted by download count<small><small><br>\n')
 		first = True
 		index = 0
 		for row in rows7split:
@@ -141,7 +141,7 @@ def write_readme():
 				target.writelines('\t\t<td>' + difference + '</td>\n')
 				target.writelines('\t</tr>\n')
 				index += 1
-		target.writelines('</table>\n</h6>\n')
+		target.writelines('</table>\n</small></small></h6>\n')
 		
 
 				
