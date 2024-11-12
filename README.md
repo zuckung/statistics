@@ -1,6 +1,6 @@
 <h6>Plugin download count for https://github.com/zuckung/endless-sky-plugins<br>
-<br>
-<h6>Plugin download count, sorted by name<br>
+<small><small><br>
+<h6>Plugin download count, sorted by name<small><small><br>
 <table>
 	<tr>
 		<td></td>
@@ -477,7 +477,7 @@
 	</tr>
 </table>
 </h6>
-<h6>Plugin download count, sorted by download count<br>
+<h6>Plugin download count, sorted by download count<small><small><br>
 <table>
 	<tr>
 		<td></td>
@@ -953,4 +953,4 @@
 		<td></td>
 	</tr>
 </table>
-</h6>
+</small></small></h6>
