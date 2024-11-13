@@ -74,7 +74,7 @@ v1.0.3-human.labels | downloads: 2
 v1.0.2-human.labels | downloads: 1
 v1.0.1-human.labels | downloads: 1
 v1.0.0-more.person.ships | downloads: 52
-v1.0.4-bunrodea.missions | downloads: 210
+v1.0.4-bunrodea.missions | downloads: 212
 v1.0.0-human.labels | downloads: 1
 v1.1.3-captureable.person.ships | downloads: 1
 v1.1.2-galactic.capital.investment | downloads: 1
@@ -154,7 +154,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 153
-# TOTAL DOWNLOADS: 6498
+# TOTAL DOWNLOADS: 6500
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -163,7 +163,7 @@ additional.command.buttons.radial 241
 automata.destruction.0percent 163
 automata.in.human.space 138
 better.starts 174
-bunrodea.missions 218
+bunrodea.missions 220
 captureable.person.ships 160
 coalition.shopping 202
 control.station 163

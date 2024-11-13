@@ -76,8 +76,8 @@
 		<td>215</td>
 		<td>216</td>
 		<td>218</td>
-		<td>218</td>
-		<td></td>
+		<td>220</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -524,6 +524,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>bunrodea.missions</td>
+		<td>198</td>
+		<td>203</td>
+		<td>207</td>
+		<td>215</td>
+		<td>216</td>
+		<td>218</td>
+		<td>220</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>gegno.pirates</td>
 		<td>199</td>
 		<td>202</td>
@@ -532,17 +543,6 @@
 		<td>217</td>
 		<td>219</td>
 		<td>219</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>bunrodea.missions</td>
-		<td>198</td>
-		<td>203</td>
-		<td>207</td>
-		<td>215</td>
-		<td>216</td>
-		<td>218</td>
-		<td>218</td>
 		<td></td>
 	</tr>
 	<tr>
