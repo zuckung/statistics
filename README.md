@@ -417,8 +417,8 @@
 		<td>166</td>
 		<td>170</td>
 		<td>171</td>
-		<td>171</td>
-		<td></td>
+		<td>172</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -667,6 +667,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>snowfeather.robotics</td>
+		<td>151</td>
+		<td>155</td>
+		<td>165</td>
+		<td>166</td>
+		<td>170</td>
+		<td>171</td>
+		<td>172</td>
+		<td>+ 1</td>
+	</tr>
+	<tr>
 		<td>jump.gates</td>
 		<td>156</td>
 		<td>160</td>
@@ -675,17 +686,6 @@
 		<td>171</td>
 		<td>172</td>
 		<td>172</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>snowfeather.robotics</td>
-		<td>151</td>
-		<td>155</td>
-		<td>165</td>
-		<td>166</td>
-		<td>170</td>
-		<td>171</td>
-		<td>171</td>
 		<td></td>
 	</tr>
 	<tr>
