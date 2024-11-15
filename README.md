@@ -54,8 +54,8 @@
 		<td>138</td>
 		<td>139</td>
 		<td>139</td>
-		<td>139</td>
-		<td></td>
+		<td>141</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -65,8 +65,8 @@
 		<td>174</td>
 		<td>175</td>
 		<td>175</td>
-		<td>175</td>
-		<td></td>
+		<td>177</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -87,8 +87,8 @@
 		<td>160</td>
 		<td>161</td>
 		<td>161</td>
-		<td>161</td>
-		<td></td>
+		<td>163</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -98,8 +98,8 @@
 		<td>200</td>
 		<td>203</td>
 		<td>203</td>
-		<td>203</td>
-		<td></td>
+		<td>205</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -307,8 +307,8 @@
 		<td>199</td>
 		<td>200</td>
 		<td>200</td>
-		<td>200</td>
-		<td></td>
+		<td>202</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -384,8 +384,8 @@
 		<td>209</td>
 		<td>210</td>
 		<td>210</td>
-		<td>210</td>
-		<td></td>
+		<td>212</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -564,8 +564,8 @@
 		<td>209</td>
 		<td>210</td>
 		<td>210</td>
-		<td>210</td>
-		<td></td>
+		<td>212</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -597,8 +597,8 @@
 		<td>200</td>
 		<td>203</td>
 		<td>203</td>
-		<td>203</td>
-		<td></td>
+		<td>205</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -608,8 +608,8 @@
 		<td>199</td>
 		<td>200</td>
 		<td>200</td>
-		<td>200</td>
-		<td></td>
+		<td>202</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -634,21 +634,21 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>show.reputation</td>
-		<td>163</td>
-		<td>169</td>
-		<td>170</td>
-		<td>174</td>
-		<td>175</td>
-		<td>175</td>
-		<td>175</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>better.starts</td>
 		<td>165</td>
 		<td>171</td>
 		<td>172</td>
+		<td>174</td>
+		<td>175</td>
+		<td>175</td>
+		<td>177</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>show.reputation</td>
+		<td>163</td>
+		<td>169</td>
+		<td>170</td>
 		<td>174</td>
 		<td>175</td>
 		<td>175</td>
@@ -711,6 +711,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>captureable.person.ships</td>
+		<td>149</td>
+		<td>157</td>
+		<td>158</td>
+		<td>160</td>
+		<td>161</td>
+		<td>161</td>
+		<td>163</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>space.fauna</td>
 		<td>150</td>
 		<td>158</td>
@@ -719,17 +730,6 @@
 		<td>162</td>
 		<td>162</td>
 		<td>162</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>captureable.person.ships</td>
-		<td>149</td>
-		<td>157</td>
-		<td>158</td>
-		<td>160</td>
-		<td>161</td>
-		<td>161</td>
-		<td>161</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -766,6 +766,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>automata.in.human.space</td>
+		<td>125</td>
+		<td>133</td>
+		<td>136</td>
+		<td>138</td>
+		<td>139</td>
+		<td>139</td>
+		<td>141</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>uniques</td>
 		<td>123</td>
 		<td>131</td>
@@ -774,17 +785,6 @@
 		<td>140</td>
 		<td>140</td>
 		<td>140</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>automata.in.human.space</td>
-		<td>125</td>
-		<td>133</td>
-		<td>136</td>
-		<td>138</td>
-		<td>139</td>
-		<td>139</td>
-		<td>139</td>
 		<td></td>
 	</tr>
 	<tr>
