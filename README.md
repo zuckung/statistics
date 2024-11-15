@@ -65,8 +65,8 @@
 		<td>174</td>
 		<td>175</td>
 		<td>175</td>
-		<td>178</td>
-		<td>+ 3</td>
+		<td>179</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -175,8 +175,8 @@
 		<td>242</td>
 		<td>247</td>
 		<td>247</td>
-		<td>247</td>
-		<td></td>
+		<td>248</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -186,8 +186,8 @@
 		<td>219</td>
 		<td>220</td>
 		<td>220</td>
-		<td>220</td>
-		<td></td>
+		<td>221</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -241,8 +241,8 @@
 		<td>197</td>
 		<td>198</td>
 		<td>198</td>
-		<td>198</td>
-		<td></td>
+		<td>199</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -406,8 +406,8 @@
 		<td>174</td>
 		<td>175</td>
 		<td>175</td>
-		<td>175</td>
-		<td></td>
+		<td>176</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -417,8 +417,8 @@
 		<td>170</td>
 		<td>171</td>
 		<td>172</td>
-		<td>172</td>
-		<td></td>
+		<td>173</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -472,8 +472,8 @@
 		<td>137</td>
 		<td>140</td>
 		<td>140</td>
-		<td>140</td>
-		<td></td>
+		<td>141</td>
+		<td>+ 1</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>242</td>
 		<td>247</td>
 		<td>247</td>
-		<td>247</td>
-		<td></td>
+		<td>248</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -524,6 +524,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>gegno.pirates</td>
+		<td>206</td>
+		<td>216</td>
+		<td>217</td>
+		<td>219</td>
+		<td>220</td>
+		<td>220</td>
+		<td>221</td>
+		<td>+ 1</td>
+	</tr>
+	<tr>
 		<td>bunrodea.missions</td>
 		<td>207</td>
 		<td>215</td>
@@ -532,17 +543,6 @@
 		<td>221</td>
 		<td>221</td>
 		<td>221</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>gegno.pirates</td>
-		<td>206</td>
-		<td>216</td>
-		<td>217</td>
-		<td>219</td>
-		<td>220</td>
-		<td>220</td>
-		<td>220</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -619,8 +619,8 @@
 		<td>197</td>
 		<td>198</td>
 		<td>198</td>
-		<td>198</td>
-		<td></td>
+		<td>199</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -641,8 +641,8 @@
 		<td>174</td>
 		<td>175</td>
 		<td>175</td>
-		<td>178</td>
-		<td>+ 3</td>
+		<td>179</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -652,8 +652,8 @@
 		<td>174</td>
 		<td>175</td>
 		<td>175</td>
-		<td>175</td>
-		<td></td>
+		<td>176</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -674,8 +674,8 @@
 		<td>170</td>
 		<td>171</td>
 		<td>172</td>
-		<td>172</td>
-		<td></td>
+		<td>173</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -766,6 +766,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>uniques</td>
+		<td>123</td>
+		<td>131</td>
+		<td>133</td>
+		<td>137</td>
+		<td>140</td>
+		<td>140</td>
+		<td>141</td>
+		<td>+ 1</td>
+	</tr>
+	<tr>
 		<td>automata.in.human.space</td>
 		<td>125</td>
 		<td>133</td>
@@ -775,17 +786,6 @@
 		<td>139</td>
 		<td>141</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>uniques</td>
-		<td>123</td>
-		<td>131</td>
-		<td>133</td>
-		<td>137</td>
-		<td>140</td>
-		<td>140</td>
-		<td>140</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>landing.images</td>

@@ -1,18 +1,18 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.1.6-captureable.person.ships | downloads: 6
-v1.0.6-uniques | downloads: 8
+v1.0.6-uniques | downloads: 9
 v1.0.3-navy.licenses | downloads: 12
 v1.0.6-coalition.shopping | downloads: 13
-v1.0.5-snowfeather.robotics | downloads: 13
+v1.0.5-snowfeather.robotics | downloads: 14
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 28
+v1.0.2-kor.efret.shipyard | downloads: 29
 v1.0.10-additional.command.buttons.radial | downloads: 38
-v1.0.3-better.starts | downloads: 32
-v1.0.2-show.reputation | downloads: 33
+v1.0.3-better.starts | downloads: 33
+v1.0.2-show.reputation | downloads: 34
 v1.0.1-show.reputation | downloads: 1
-v1.1.4-galactic.capital.investment | downloads: 49
+v1.1.4-galactic.capital.investment | downloads: 50
 v1.0.9-additional.command.buttons.radial | downloads: 28
-v1.0.2-gegno.pirates | downloads: 48
+v1.0.2-gegno.pirates | downloads: 49
 v1.0.1-kor.efret.shipyard | downloads: 15
 v1.0.2-more.person.ships | downloads: 67
 v1.0.8-additional.command.buttons.radial | downloads: 20
@@ -154,7 +154,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 153
-# TOTAL DOWNLOADS: 6556
+# TOTAL DOWNLOADS: 6563
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -162,7 +162,7 @@ additional.command.buttons 93
 additional.command.buttons.radial 242
 automata.destruction.0percent 164
 automata.in.human.space 141
-better.starts 178
+better.starts 179
 bunrodea.missions 221
 captureable.person.ships 163
 coalition.shopping 205
@@ -172,13 +172,13 @@ disable.person.ships 106
 disable.spaceport.repeatables 146
 expert.crew.members 213
 free.worlds.5.years.later 136
-galactic.capital.investment 247
-gegno.pirates 220
+galactic.capital.investment 248
+gegno.pirates 221
 hai.side.mission.unlocker 174
 human.labels 146
 jump.gates 172
 kestrel.unlocks 126
-kor.efret.shipyard 198
+kor.efret.shipyard 199
 landing.images 136
 landing.images.android 145
 landing.images.highres 116
@@ -193,10 +193,10 @@ pirate.warlords 3
 planet.map 116
 quarg.farm 212
 real.fluff 93
-show.reputation 175
-snowfeather.robotics 172
+show.reputation 176
+snowfeather.robotics 173
 space.fauna 162
 too.many.asteroids 208
 tribute.republic 118
 unique.fix 44
-uniques 140
+uniques 141
