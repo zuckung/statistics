@@ -7,7 +7,7 @@ v1.0.5-snowfeather.robotics | downloads: 13
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 28
 v1.0.10-additional.command.buttons.radial | downloads: 38
-v1.0.3-better.starts | downloads: 31
+v1.0.3-better.starts | downloads: 32
 v1.0.2-show.reputation | downloads: 33
 v1.0.1-show.reputation | downloads: 1
 v1.1.4-galactic.capital.investment | downloads: 49
@@ -154,7 +154,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 153
-# TOTAL DOWNLOADS: 6555
+# TOTAL DOWNLOADS: 6556
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -162,7 +162,7 @@ additional.command.buttons 93
 additional.command.buttons.radial 242
 automata.destruction.0percent 164
 automata.in.human.space 141
-better.starts 177
+better.starts 178
 bunrodea.missions 221
 captureable.person.ships 163
 coalition.shopping 205
