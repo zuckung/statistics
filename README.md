@@ -450,8 +450,8 @@
 		<td>118</td>
 		<td>118</td>
 		<td>118</td>
-		<td>118</td>
-		<td></td>
+		<td>120</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
@@ -861,8 +861,8 @@
 		<td>118</td>
 		<td>118</td>
 		<td>118</td>
-		<td>118</td>
-		<td></td>
+		<td>120</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
