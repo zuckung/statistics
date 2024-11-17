@@ -65,8 +65,8 @@
 		<td>175</td>
 		<td>179</td>
 		<td>179</td>
-		<td>181</td>
-		<td>+ 2</td>
+		<td>183</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -307,8 +307,8 @@
 		<td>200</td>
 		<td>202</td>
 		<td>202</td>
-		<td>202</td>
-		<td></td>
+		<td>204</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -608,8 +608,8 @@
 		<td>200</td>
 		<td>202</td>
 		<td>202</td>
-		<td>202</td>
-		<td></td>
+		<td>204</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -641,8 +641,8 @@
 		<td>175</td>
 		<td>179</td>
 		<td>179</td>
-		<td>181</td>
-		<td>+ 2</td>
+		<td>183</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
