@@ -22,7 +22,7 @@ v1.0.7-additional.command.buttons.radial | downloads: 9
 v1.0.4-landing.images | downloads: 65
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 97
-v1.0.2-quarg.farm | downloads: 91
+v1.0.2-quarg.farm | downloads: 93
 v1.0.2-landing.images.highres | downloads: 48
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 114
@@ -154,7 +154,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 153
-# TOTAL DOWNLOADS: 6604
+# TOTAL DOWNLOADS: 6606
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -191,7 +191,7 @@ outfits.weapon.slot 122
 paint.your.ships 126
 pirate.warlords 3
 planet.map 116
-quarg.farm 212
+quarg.farm 214
 real.fluff 93
 show.reputation 176
 snowfeather.robotics 175
