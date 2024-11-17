@@ -109,8 +109,8 @@
 		<td>164</td>
 		<td>164</td>
 		<td>164</td>
-		<td>166</td>
-		<td>+ 2</td>
+		<td>168</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -696,8 +696,8 @@
 		<td>164</td>
 		<td>164</td>
 		<td>164</td>
-		<td>166</td>
-		<td>+ 2</td>
+		<td>168</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
