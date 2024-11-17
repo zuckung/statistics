@@ -32,8 +32,8 @@
 		<td>242</td>
 		<td>242</td>
 		<td>242</td>
-		<td>242</td>
-		<td></td>
+		<td>244</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -175,8 +175,8 @@
 		<td>247</td>
 		<td>248</td>
 		<td>248</td>
-		<td>250</td>
-		<td>+ 2</td>
+		<td>252</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -498,8 +498,8 @@
 		<td>247</td>
 		<td>248</td>
 		<td>248</td>
-		<td>250</td>
-		<td>+ 2</td>
+		<td>252</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -509,8 +509,8 @@
 		<td>242</td>
 		<td>242</td>
 		<td>242</td>
-		<td>242</td>
-		<td></td>
+		<td>244</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>

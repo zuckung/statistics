@@ -6,11 +6,11 @@ v1.0.6-coalition.shopping | downloads: 15
 v1.0.5-snowfeather.robotics | downloads: 16
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 31
-v1.0.10-additional.command.buttons.radial | downloads: 38
+v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 35
 v1.0.2-show.reputation | downloads: 34
 v1.0.1-show.reputation | downloads: 1
-v1.1.4-galactic.capital.investment | downloads: 52
+v1.1.4-galactic.capital.investment | downloads: 54
 v1.0.9-additional.command.buttons.radial | downloads: 28
 v1.0.2-gegno.pirates | downloads: 53
 v1.0.1-kor.efret.shipyard | downloads: 15
@@ -154,12 +154,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 153
-# TOTAL DOWNLOADS: 6608
+# TOTAL DOWNLOADS: 6612
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 242
+additional.command.buttons.radial 244
 automata.destruction.0percent 164
 automata.in.human.space 143
 better.starts 181
@@ -172,7 +172,7 @@ disable.person.ships 106
 disable.spaceport.repeatables 148
 expert.crew.members 215
 free.worlds.5.years.later 136
-galactic.capital.investment 250
+galactic.capital.investment 252
 gegno.pirates 225
 hai.side.mission.unlocker 176
 human.labels 146
