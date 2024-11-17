@@ -241,8 +241,8 @@
 		<td>198</td>
 		<td>199</td>
 		<td>199</td>
-		<td>201</td>
-		<td>+ 2</td>
+		<td>203</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -252,8 +252,8 @@
 		<td>136</td>
 		<td>136</td>
 		<td>136</td>
-		<td>138</td>
-		<td>+ 2</td>
+		<td>139</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -619,8 +619,8 @@
 		<td>198</td>
 		<td>199</td>
 		<td>199</td>
-		<td>201</td>
-		<td>+ 2</td>
+		<td>203</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -795,8 +795,8 @@
 		<td>136</td>
 		<td>136</td>
 		<td>136</td>
-		<td>138</td>
-		<td>+ 2</td>
+		<td>139</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
