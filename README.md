@@ -65,8 +65,8 @@
 		<td>179</td>
 		<td>179</td>
 		<td>183</td>
-		<td>183</td>
-		<td></td>
+		<td>185</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -153,8 +153,8 @@
 		<td>213</td>
 		<td>213</td>
 		<td>215</td>
-		<td>215</td>
-		<td></td>
+		<td>217</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -219,8 +219,8 @@
 		<td>172</td>
 		<td>172</td>
 		<td>172</td>
-		<td>172</td>
-		<td></td>
+		<td>174</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -230,8 +230,8 @@
 		<td>126</td>
 		<td>126</td>
 		<td>126</td>
-		<td>126</td>
-		<td></td>
+		<td>128</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -406,8 +406,8 @@
 		<td>176</td>
 		<td>176</td>
 		<td>176</td>
-		<td>176</td>
-		<td></td>
+		<td>178</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -472,8 +472,8 @@
 		<td>141</td>
 		<td>141</td>
 		<td>143</td>
-		<td>143</td>
-		<td></td>
+		<td>145</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>213</td>
 		<td>213</td>
 		<td>215</td>
-		<td>215</td>
-		<td></td>
+		<td>217</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -623,6 +623,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>better.starts</td>
+		<td>174</td>
+		<td>175</td>
+		<td>175</td>
+		<td>179</td>
+		<td>179</td>
+		<td>183</td>
+		<td>185</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>more.boarding.missions</td>
 		<td>179</td>
 		<td>182</td>
@@ -634,17 +645,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>better.starts</td>
-		<td>174</td>
-		<td>175</td>
-		<td>175</td>
-		<td>179</td>
-		<td>179</td>
-		<td>183</td>
-		<td>183</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>show.reputation</td>
 		<td>174</td>
 		<td>175</td>
@@ -652,8 +652,8 @@
 		<td>176</td>
 		<td>176</td>
 		<td>176</td>
-		<td>176</td>
-		<td></td>
+		<td>178</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -685,8 +685,8 @@
 		<td>172</td>
 		<td>172</td>
 		<td>172</td>
-		<td>172</td>
-		<td></td>
+		<td>174</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -773,8 +773,8 @@
 		<td>141</td>
 		<td>141</td>
 		<td>143</td>
-		<td>143</td>
-		<td></td>
+		<td>145</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -839,8 +839,8 @@
 		<td>126</td>
 		<td>126</td>
 		<td>126</td>
-		<td>126</td>
-		<td></td>
+		<td>128</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
