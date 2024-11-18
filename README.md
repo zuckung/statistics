@@ -142,8 +142,8 @@
 		<td>146</td>
 		<td>146</td>
 		<td>148</td>
-		<td>148</td>
-		<td></td>
+		<td>150</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -351,8 +351,8 @@
 		<td>126</td>
 		<td>126</td>
 		<td>126</td>
-		<td>128</td>
-		<td>+ 2</td>
+		<td>130</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -733,6 +733,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>disable.spaceport.repeatables</td>
+		<td>145</td>
+		<td>146</td>
+		<td>146</td>
+		<td>146</td>
+		<td>146</td>
+		<td>148</td>
+		<td>150</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>landing.images.android</td>
 		<td>144</td>
 		<td>145</td>
@@ -742,17 +753,6 @@
 		<td>147</td>
 		<td>149</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>disable.spaceport.repeatables</td>
-		<td>145</td>
-		<td>146</td>
-		<td>146</td>
-		<td>146</td>
-		<td>146</td>
-		<td>148</td>
-		<td>148</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -828,8 +828,8 @@
 		<td>126</td>
 		<td>126</td>
 		<td>126</td>
-		<td>128</td>
-		<td>+ 2</td>
+		<td>130</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
