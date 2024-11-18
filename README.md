@@ -351,8 +351,8 @@
 		<td>126</td>
 		<td>126</td>
 		<td>126</td>
-		<td>126</td>
-		<td></td>
+		<td>128</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -439,8 +439,8 @@
 		<td>208</td>
 		<td>208</td>
 		<td>210</td>
-		<td>210</td>
-		<td></td>
+		<td>212</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -575,8 +575,8 @@
 		<td>208</td>
 		<td>208</td>
 		<td>210</td>
-		<td>210</td>
-		<td></td>
+		<td>212</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -828,8 +828,8 @@
 		<td>126</td>
 		<td>126</td>
 		<td>126</td>
-		<td>126</td>
-		<td></td>
+		<td>128</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
