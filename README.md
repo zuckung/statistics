@@ -98,8 +98,8 @@
 		<td>205</td>
 		<td>205</td>
 		<td>207</td>
-		<td>207</td>
-		<td></td>
+		<td>209</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -252,8 +252,8 @@
 		<td>136</td>
 		<td>136</td>
 		<td>139</td>
-		<td>139</td>
-		<td></td>
+		<td>141</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -274,8 +274,8 @@
 		<td>116</td>
 		<td>116</td>
 		<td>116</td>
-		<td>116</td>
-		<td></td>
+		<td>118</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -586,8 +586,8 @@
 		<td>205</td>
 		<td>205</td>
 		<td>207</td>
-		<td>207</td>
-		<td></td>
+		<td>209</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -795,8 +795,8 @@
 		<td>136</td>
 		<td>136</td>
 		<td>139</td>
-		<td>139</td>
-		<td></td>
+		<td>141</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -865,19 +865,19 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>planet.map</td>
-		<td>115</td>
-		<td>116</td>
-		<td>116</td>
-		<td>116</td>
-		<td>116</td>
-		<td>116</td>
-		<td>116</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>landing.images.highres</td>
 		<td>113</td>
+		<td>116</td>
+		<td>116</td>
+		<td>116</td>
+		<td>116</td>
+		<td>116</td>
+		<td>118</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>planet.map</td>
+		<td>115</td>
 		<td>116</td>
 		<td>116</td>
 		<td>116</td>

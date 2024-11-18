@@ -2,7 +2,7 @@
 v1.1.6-captureable.person.ships | downloads: 8
 v1.0.6-uniques | downloads: 13
 v1.0.3-navy.licenses | downloads: 14
-v1.0.6-coalition.shopping | downloads: 15
+v1.0.6-coalition.shopping | downloads: 17
 v1.0.5-snowfeather.robotics | downloads: 16
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 33
@@ -19,11 +19,11 @@ v1.0.8-additional.command.buttons.radial | downloads: 20
 v1.0.2-better.starts | downloads: 35
 v1.1.5-captureable.person.ships | downloads: 54
 v1.0.7-additional.command.buttons.radial | downloads: 9
-v1.0.4-landing.images | downloads: 66
+v1.0.4-landing.images | downloads: 68
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 99
 v1.0.2-quarg.farm | downloads: 93
-v1.0.2-landing.images.highres | downloads: 48
+v1.0.2-landing.images.highres | downloads: 50
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 116
 v1.0.1-automata.in.human.space | downloads: 82
@@ -154,7 +154,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 153
-# TOTAL DOWNLOADS: 6635
+# TOTAL DOWNLOADS: 6641
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -165,7 +165,7 @@ automata.in.human.space 143
 better.starts 185
 bunrodea.missions 224
 captureable.person.ships 165
-coalition.shopping 207
+coalition.shopping 209
 control.station 168
 devil-run.unhidden 66
 disable.person.ships 106
@@ -179,9 +179,9 @@ human.labels 146
 jump.gates 174
 kestrel.unlocks 128
 kor.efret.shipyard 203
-landing.images 139
+landing.images 141
 landing.images.android 147
-landing.images.highres 116
+landing.images.highres 118
 more.arfectas 205
 more.boarding.missions 184
 more.person.ships 204
