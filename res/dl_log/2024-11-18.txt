@@ -8,7 +8,7 @@ v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 33
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 39
-v1.0.2-show.reputation | downloads: 36
+v1.0.2-show.reputation | downloads: 38
 v1.0.1-show.reputation | downloads: 1
 v1.1.4-galactic.capital.investment | downloads: 54
 v1.0.9-additional.command.buttons.radial | downloads: 28
@@ -51,7 +51,7 @@ v1.0.2-tribute.republic | downloads: 102
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
 v1.0.0-tribute.republic | downloads: 2
-v1.0.3-landing.images.android | downloads: 119
+v1.0.3-landing.images.android | downloads: 121
 v1.0.2-landing.images.android | downloads: 2
 v1.0.1-landing.images.android | downloads: 21
 v1.0.2-no.more.mereti.mines | downloads: 54
@@ -119,7 +119,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 203
+v1.0.2-more.arfectas | downloads: 205
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -154,7 +154,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 153
-# TOTAL DOWNLOADS: 6641
+# TOTAL DOWNLOADS: 6647
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -180,9 +180,9 @@ jump.gates 174
 kestrel.unlocks 128
 kor.efret.shipyard 203
 landing.images 141
-landing.images.android 147
+landing.images.android 149
 landing.images.highres 118
-more.arfectas 205
+more.arfectas 207
 more.boarding.missions 184
 more.person.ships 204
 navy.licenses 226
@@ -193,7 +193,7 @@ pirate.warlords 3
 planet.map 116
 quarg.farm 214
 real.fluff 93
-show.reputation 178
+show.reputation 180
 snowfeather.robotics 175
 space.fauna 162
 too.many.asteroids 212

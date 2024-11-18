@@ -263,8 +263,8 @@
 		<td>145</td>
 		<td>145</td>
 		<td>147</td>
-		<td>147</td>
-		<td></td>
+		<td>149</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -285,8 +285,8 @@
 		<td>205</td>
 		<td>205</td>
 		<td>205</td>
-		<td>205</td>
-		<td></td>
+		<td>207</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -406,8 +406,8 @@
 		<td>176</td>
 		<td>176</td>
 		<td>176</td>
-		<td>178</td>
-		<td>+ 2</td>
+		<td>180</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -597,8 +597,8 @@
 		<td>205</td>
 		<td>205</td>
 		<td>205</td>
-		<td>205</td>
-		<td></td>
+		<td>207</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -652,8 +652,8 @@
 		<td>176</td>
 		<td>176</td>
 		<td>176</td>
-		<td>178</td>
-		<td>+ 2</td>
+		<td>180</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -733,6 +733,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>landing.images.android</td>
+		<td>144</td>
+		<td>145</td>
+		<td>145</td>
+		<td>145</td>
+		<td>145</td>
+		<td>147</td>
+		<td>149</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>145</td>
 		<td>146</td>
@@ -741,17 +752,6 @@
 		<td>146</td>
 		<td>148</td>
 		<td>148</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>landing.images.android</td>
-		<td>144</td>
-		<td>145</td>
-		<td>145</td>
-		<td>145</td>
-		<td>145</td>
-		<td>147</td>
-		<td>147</td>
 		<td></td>
 	</tr>
 	<tr>
