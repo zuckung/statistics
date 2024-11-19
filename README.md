@@ -230,8 +230,8 @@
 		<td>126</td>
 		<td>126</td>
 		<td>128</td>
-		<td>128</td>
-		<td></td>
+		<td>130</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -285,8 +285,8 @@
 		<td>205</td>
 		<td>205</td>
 		<td>207</td>
-		<td>207</td>
-		<td></td>
+		<td>209</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -296,8 +296,8 @@
 		<td>184</td>
 		<td>184</td>
 		<td>184</td>
-		<td>184</td>
-		<td></td>
+		<td>186</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -384,8 +384,8 @@
 		<td>212</td>
 		<td>214</td>
 		<td>214</td>
-		<td>214</td>
-		<td></td>
+		<td>216</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -557,6 +557,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>quarg.farm</td>
+		<td>210</td>
+		<td>210</td>
+		<td>212</td>
+		<td>212</td>
+		<td>214</td>
+		<td>214</td>
+		<td>216</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>too.many.asteroids</td>
 		<td>208</td>
 		<td>208</td>
@@ -568,15 +579,15 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
-		<td>quarg.farm</td>
-		<td>210</td>
-		<td>210</td>
-		<td>212</td>
-		<td>212</td>
-		<td>214</td>
-		<td>214</td>
-		<td>214</td>
-		<td></td>
+		<td>more.arfectas</td>
+		<td>205</td>
+		<td>205</td>
+		<td>205</td>
+		<td>205</td>
+		<td>205</td>
+		<td>207</td>
+		<td>209</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -587,17 +598,6 @@
 		<td>207</td>
 		<td>209</td>
 		<td>209</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>more.arfectas</td>
-		<td>205</td>
-		<td>205</td>
-		<td>205</td>
-		<td>205</td>
-		<td>205</td>
-		<td>207</td>
-		<td>207</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -623,6 +623,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>more.boarding.missions</td>
+		<td>182</td>
+		<td>184</td>
+		<td>184</td>
+		<td>184</td>
+		<td>184</td>
+		<td>184</td>
+		<td>186</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>better.starts</td>
 		<td>175</td>
 		<td>175</td>
@@ -631,17 +642,6 @@
 		<td>183</td>
 		<td>185</td>
 		<td>185</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>more.boarding.missions</td>
-		<td>182</td>
-		<td>184</td>
-		<td>184</td>
-		<td>184</td>
-		<td>184</td>
-		<td>184</td>
-		<td>184</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -839,8 +839,8 @@
 		<td>126</td>
 		<td>126</td>
 		<td>128</td>
-		<td>128</td>
-		<td></td>
+		<td>130</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
