@@ -175,8 +175,8 @@
 		<td>248</td>
 		<td>252</td>
 		<td>252</td>
-		<td>252</td>
-		<td></td>
+		<td>254</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -428,8 +428,8 @@
 		<td>162</td>
 		<td>162</td>
 		<td>162</td>
-		<td>162</td>
-		<td></td>
+		<td>164</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -439,8 +439,8 @@
 		<td>208</td>
 		<td>210</td>
 		<td>212</td>
-		<td>212</td>
-		<td></td>
+		<td>214</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -498,8 +498,8 @@
 		<td>248</td>
 		<td>252</td>
 		<td>252</td>
-		<td>252</td>
-		<td></td>
+		<td>254</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -557,6 +557,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>too.many.asteroids</td>
+		<td>208</td>
+		<td>208</td>
+		<td>208</td>
+		<td>208</td>
+		<td>210</td>
+		<td>212</td>
+		<td>214</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>quarg.farm</td>
 		<td>210</td>
 		<td>210</td>
@@ -565,17 +576,6 @@
 		<td>214</td>
 		<td>214</td>
 		<td>214</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>too.many.asteroids</td>
-		<td>208</td>
-		<td>208</td>
-		<td>208</td>
-		<td>208</td>
-		<td>210</td>
-		<td>212</td>
-		<td>212</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -729,8 +729,8 @@
 		<td>162</td>
 		<td>162</td>
 		<td>162</td>
-		<td>162</td>
-		<td></td>
+		<td>164</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
