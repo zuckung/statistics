@@ -142,8 +142,8 @@
 		<td>146</td>
 		<td>148</td>
 		<td>150</td>
-		<td>150</td>
-		<td></td>
+		<td>152</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -153,8 +153,8 @@
 		<td>213</td>
 		<td>215</td>
 		<td>217</td>
-		<td>218</td>
-		<td>+ 1</td>
+		<td>220</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -164,8 +164,8 @@
 		<td>136</td>
 		<td>136</td>
 		<td>136</td>
-		<td>136</td>
-		<td></td>
+		<td>138</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -197,8 +197,8 @@
 		<td>174</td>
 		<td>176</td>
 		<td>176</td>
-		<td>176</td>
-		<td></td>
+		<td>178</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -406,8 +406,8 @@
 		<td>176</td>
 		<td>176</td>
 		<td>180</td>
-		<td>180</td>
-		<td></td>
+		<td>182</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -472,8 +472,8 @@
 		<td>141</td>
 		<td>143</td>
 		<td>145</td>
-		<td>145</td>
-		<td></td>
+		<td>147</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>213</td>
 		<td>215</td>
 		<td>217</td>
-		<td>218</td>
-		<td>+ 1</td>
+		<td>220</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -652,8 +652,8 @@
 		<td>176</td>
 		<td>176</td>
 		<td>180</td>
-		<td>180</td>
-		<td></td>
+		<td>182</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -663,8 +663,8 @@
 		<td>174</td>
 		<td>176</td>
 		<td>176</td>
-		<td>176</td>
-		<td></td>
+		<td>178</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -740,8 +740,8 @@
 		<td>146</td>
 		<td>148</td>
 		<td>150</td>
-		<td>150</td>
-		<td></td>
+		<td>152</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -755,6 +755,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>uniques</td>
+		<td>140</td>
+		<td>140</td>
+		<td>141</td>
+		<td>141</td>
+		<td>143</td>
+		<td>145</td>
+		<td>147</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>human.labels</td>
 		<td>146</td>
 		<td>146</td>
@@ -763,17 +774,6 @@
 		<td>146</td>
 		<td>146</td>
 		<td>146</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>uniques</td>
-		<td>140</td>
-		<td>140</td>
-		<td>141</td>
-		<td>141</td>
-		<td>143</td>
-		<td>145</td>
-		<td>145</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -806,8 +806,8 @@
 		<td>136</td>
 		<td>136</td>
 		<td>136</td>
-		<td>136</td>
-		<td></td>
+		<td>138</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
