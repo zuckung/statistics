@@ -32,8 +32,8 @@
 		<td>244</td>
 		<td>246</td>
 		<td>248</td>
-		<td>248</td>
-		<td></td>
+		<td>249</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -54,8 +54,8 @@
 		<td>143</td>
 		<td>145</td>
 		<td>145</td>
-		<td>146</td>
-		<td>+ 1</td>
+		<td>147</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -406,8 +406,8 @@
 		<td>182</td>
 		<td>184</td>
 		<td>184</td>
-		<td>184</td>
-		<td></td>
+		<td>185</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -509,8 +509,8 @@
 		<td>244</td>
 		<td>246</td>
 		<td>248</td>
-		<td>248</td>
-		<td></td>
+		<td>249</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -652,8 +652,8 @@
 		<td>182</td>
 		<td>184</td>
 		<td>184</td>
-		<td>184</td>
-		<td></td>
+		<td>185</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -784,8 +784,8 @@
 		<td>143</td>
 		<td>145</td>
 		<td>145</td>
-		<td>146</td>
-		<td>+ 1</td>
+		<td>147</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
