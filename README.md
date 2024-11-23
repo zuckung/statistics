@@ -76,8 +76,8 @@
 		<td>226</td>
 		<td>226</td>
 		<td>227</td>
-		<td>227</td>
-		<td></td>
+		<td>229</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -98,8 +98,8 @@
 		<td>211</td>
 		<td>211</td>
 		<td>211</td>
-		<td>211</td>
-		<td></td>
+		<td>213</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -142,8 +142,8 @@
 		<td>154</td>
 		<td>156</td>
 		<td>156</td>
-		<td>156</td>
-		<td></td>
+		<td>158</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -186,8 +186,8 @@
 		<td>227</td>
 		<td>227</td>
 		<td>228</td>
-		<td>228</td>
-		<td></td>
+		<td>230</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -241,8 +241,8 @@
 		<td>207</td>
 		<td>207</td>
 		<td>208</td>
-		<td>208</td>
-		<td></td>
+		<td>210</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -531,8 +531,8 @@
 		<td>227</td>
 		<td>227</td>
 		<td>228</td>
-		<td>228</td>
-		<td></td>
+		<td>230</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -542,8 +542,8 @@
 		<td>226</td>
 		<td>226</td>
 		<td>227</td>
-		<td>227</td>
-		<td></td>
+		<td>229</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -579,20 +579,20 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
-		<td>more.arfectas</td>
-		<td>205</td>
-		<td>207</td>
-		<td>209</td>
-		<td>211</td>
-		<td>211</td>
-		<td>211</td>
-		<td>211</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>coalition.shopping</td>
 		<td>207</td>
 		<td>209</td>
+		<td>209</td>
+		<td>211</td>
+		<td>211</td>
+		<td>211</td>
+		<td>213</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>more.arfectas</td>
+		<td>205</td>
+		<td>207</td>
 		<td>209</td>
 		<td>211</td>
 		<td>211</td>
@@ -608,8 +608,8 @@
 		<td>207</td>
 		<td>207</td>
 		<td>208</td>
-		<td>208</td>
-		<td></td>
+		<td>210</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -740,8 +740,8 @@
 		<td>154</td>
 		<td>156</td>
 		<td>156</td>
-		<td>156</td>
-		<td></td>
+		<td>158</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
