@@ -252,8 +252,8 @@
 		<td>143</td>
 		<td>143</td>
 		<td>145</td>
-		<td>145</td>
-		<td></td>
+		<td>149</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -766,6 +766,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>landing.images</td>
+		<td>141</td>
+		<td>141</td>
+		<td>143</td>
+		<td>143</td>
+		<td>143</td>
+		<td>145</td>
+		<td>149</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>human.labels</td>
 		<td>146</td>
 		<td>146</td>
@@ -785,17 +796,6 @@
 		<td>147</td>
 		<td>147</td>
 		<td>147</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>landing.images</td>
-		<td>141</td>
-		<td>141</td>
-		<td>143</td>
-		<td>143</td>
-		<td>143</td>
-		<td>145</td>
-		<td>145</td>
 		<td></td>
 	</tr>
 	<tr>
