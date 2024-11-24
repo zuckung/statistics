@@ -32,8 +32,8 @@
 		<td>248</td>
 		<td>249</td>
 		<td>249</td>
-		<td>249</td>
-		<td></td>
+		<td>251</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -43,8 +43,8 @@
 		<td>167</td>
 		<td>167</td>
 		<td>167</td>
-		<td>167</td>
-		<td></td>
+		<td>168</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -285,8 +285,8 @@
 		<td>211</td>
 		<td>211</td>
 		<td>212</td>
-		<td>212</td>
-		<td></td>
+		<td>214</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -351,8 +351,8 @@
 		<td>132</td>
 		<td>134</td>
 		<td>134</td>
-		<td>134</td>
-		<td></td>
+		<td>136</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -384,8 +384,8 @@
 		<td>218</td>
 		<td>218</td>
 		<td>218</td>
-		<td>218</td>
-		<td></td>
+		<td>220</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -509,8 +509,8 @@
 		<td>248</td>
 		<td>249</td>
 		<td>249</td>
-		<td>249</td>
-		<td></td>
+		<td>251</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -557,6 +557,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>quarg.farm</td>
+		<td>214</td>
+		<td>216</td>
+		<td>218</td>
+		<td>218</td>
+		<td>218</td>
+		<td>218</td>
+		<td>220</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>too.many.asteroids</td>
 		<td>212</td>
 		<td>214</td>
@@ -568,15 +579,15 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>quarg.farm</td>
+		<td>more.arfectas</td>
+		<td>207</td>
+		<td>209</td>
+		<td>211</td>
+		<td>211</td>
+		<td>211</td>
+		<td>212</td>
 		<td>214</td>
-		<td>216</td>
-		<td>218</td>
-		<td>218</td>
-		<td>218</td>
-		<td>218</td>
-		<td>218</td>
-		<td></td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -587,17 +598,6 @@
 		<td>211</td>
 		<td>213</td>
 		<td>213</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>more.arfectas</td>
-		<td>207</td>
-		<td>209</td>
-		<td>211</td>
-		<td>211</td>
-		<td>211</td>
-		<td>212</td>
-		<td>212</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -700,6 +700,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>164</td>
+		<td>165</td>
+		<td>167</td>
+		<td>167</td>
+		<td>167</td>
+		<td>167</td>
+		<td>168</td>
+		<td>+ 1</td>
+	</tr>
+	<tr>
 		<td>space.fauna</td>
 		<td>162</td>
 		<td>164</td>
@@ -713,17 +724,6 @@
 	<tr>
 		<td>captureable.person.ships</td>
 		<td>165</td>
-		<td>165</td>
-		<td>167</td>
-		<td>167</td>
-		<td>167</td>
-		<td>167</td>
-		<td>167</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>164</td>
 		<td>165</td>
 		<td>167</td>
 		<td>167</td>
@@ -810,6 +810,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>paint.your.ships</td>
+		<td>130</td>
+		<td>130</td>
+		<td>132</td>
+		<td>132</td>
+		<td>134</td>
+		<td>134</td>
+		<td>136</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>kestrel.unlocks</td>
 		<td>128</td>
 		<td>130</td>
@@ -818,17 +829,6 @@
 		<td>133</td>
 		<td>135</td>
 		<td>135</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>130</td>
-		<td>130</td>
-		<td>132</td>
-		<td>132</td>
-		<td>134</td>
-		<td>134</td>
-		<td>134</td>
 		<td></td>
 	</tr>
 	<tr>

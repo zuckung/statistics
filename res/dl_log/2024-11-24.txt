@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.12-additional.command.buttons.radial | downloads: 4
+v1.0.12-additional.command.buttons.radial | downloads: 6
 v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 10
 v1.0.6-uniques | downloads: 18
@@ -24,7 +24,7 @@ v1.0.7-additional.command.buttons.radial | downloads: 9
 v1.0.4-landing.images | downloads: 76
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 108
-v1.0.2-quarg.farm | downloads: 97
+v1.0.2-quarg.farm | downloads: 99
 v1.0.2-landing.images.highres | downloads: 56
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 122
@@ -37,7 +37,7 @@ v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 106
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 78
-v1.0.1-paint.your.ships | downloads: 130
+v1.0.1-paint.your.ships | downloads: 132
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
 v1.0.1-uniques | downloads: 14
@@ -92,7 +92,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 166
+v1.0.1-automata.destruction.0percent | downloads: 167
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -121,7 +121,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 210
+v1.0.2-more.arfectas | downloads: 212
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -156,13 +156,13 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 155
-# TOTAL DOWNLOADS: 6822
+# TOTAL DOWNLOADS: 6831
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 249
-automata.destruction.0percent 167
+additional.command.buttons.radial 251
+automata.destruction.0percent 168
 automata.in.human.space 147
 better.starts 188
 bunrodea.missions 230
@@ -184,16 +184,16 @@ kor.efret.shipyard 210
 landing.images 149
 landing.images.android 151
 landing.images.highres 124
-more.arfectas 212
+more.arfectas 214
 more.boarding.missions 190
 more.person.ships 207
 navy.licenses 231
 no.more.mereti.mines 134
 outfits.weapon.slot 125
-paint.your.ships 134
+paint.your.ships 136
 pirate.warlords 3
 planet.map 118
-quarg.farm 218
+quarg.farm 220
 real.fluff 93
 show.reputation 185
 snowfeather.robotics 178
