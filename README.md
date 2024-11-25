@@ -98,8 +98,8 @@
 		<td>211</td>
 		<td>213</td>
 		<td>213</td>
-		<td>213</td>
-		<td></td>
+		<td>215</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -579,6 +579,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>coalition.shopping</td>
+		<td>209</td>
+		<td>211</td>
+		<td>211</td>
+		<td>211</td>
+		<td>213</td>
+		<td>213</td>
+		<td>215</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>more.arfectas</td>
 		<td>209</td>
 		<td>211</td>
@@ -587,17 +598,6 @@
 		<td>212</td>
 		<td>214</td>
 		<td>214</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>coalition.shopping</td>
-		<td>209</td>
-		<td>211</td>
-		<td>211</td>
-		<td>211</td>
-		<td>213</td>
-		<td>213</td>
-		<td>213</td>
 		<td></td>
 	</tr>
 	<tr>
