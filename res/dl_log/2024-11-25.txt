@@ -7,7 +7,7 @@ v1.0.3-navy.licenses | downloads: 19
 v1.0.6-coalition.shopping | downloads: 23
 v1.0.5-snowfeather.robotics | downloads: 19
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 40
+v1.0.2-kor.efret.shipyard | downloads: 42
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 42
 v1.0.2-show.reputation | downloads: 43
@@ -156,7 +156,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 155
-# TOTAL DOWNLOADS: 6835
+# TOTAL DOWNLOADS: 6837
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -180,7 +180,7 @@ hai.side.mission.unlocker 181
 human.labels 149
 jump.gates 178
 kestrel.unlocks 135
-kor.efret.shipyard 210
+kor.efret.shipyard 212
 landing.images 149
 landing.images.android 151
 landing.images.highres 124
