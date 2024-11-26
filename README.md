@@ -461,8 +461,8 @@
 		<td>124</td>
 		<td>124</td>
 		<td>124</td>
-		<td>126</td>
-		<td>+ 2</td>
+		<td>128</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
@@ -854,6 +854,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>tribute.republic</td>
+		<td>122</td>
+		<td>122</td>
+		<td>122</td>
+		<td>124</td>
+		<td>124</td>
+		<td>124</td>
+		<td>128</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>outfits.weapon.slot</td>
 		<td>124</td>
 		<td>124</td>
@@ -862,17 +873,6 @@
 		<td>125</td>
 		<td>125</td>
 		<td>127</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>tribute.republic</td>
-		<td>122</td>
-		<td>122</td>
-		<td>122</td>
-		<td>124</td>
-		<td>124</td>
-		<td>124</td>
-		<td>126</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
