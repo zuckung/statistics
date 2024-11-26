@@ -36,7 +36,7 @@ def write_readme():
 				continue
 			if started == True:
 				relevant[i] += line
-	rows1 = relevant[0].split('\n')
+	rows1 = relevant[0].split('\n') # these are the plugin lists for all dayy
 	rows2 = relevant[1].split('\n')
 	rows3 = relevant[2].split('\n')
 	rows4 = relevant[3].split('\n')
@@ -93,10 +93,7 @@ def write_readme():
 				target.writelines('\t\t<td>' + findp(rows5, row.split(' ')[0]) + '</td>\n')
 				target.writelines('\t\t<td>' + findp(rows6, row.split(' ')[0]) + '</td>\n')
 				target.writelines('\t\t<td>' + findp(rows7, row.split(' ')[0]) + '</td>\n')
-				if len(rows7) > len(rows6):
-					difference = '0'
-				else:
-					difference = str(int(findp(rows7, row.split(' ')[0])) - int(findp(rows6, row.split(' ')[0])))
+				difference = str(int(findp(rows7, row.split(' ')[0])) - int(findp(rows6, row.split(' ')[0])))
 				if difference == '0':
 					difference = ''
 				else:
@@ -136,10 +133,7 @@ def write_readme():
 				target.writelines('\t\t<td>' + findp(rows5, rows7split[index][1]) + '</td>\n')
 				target.writelines('\t\t<td>' + findp(rows6, rows7split[index][1]) + '</td>\n')
 				target.writelines('\t\t<td>' + findp(rows7, rows7split[index][1]) + '</td>\n')
-				if len(rows7) > len(rows6):
-					difference = '0'
-				else:
-					difference = str(int(findp(rows7, rows7split[index][1])) - int(findp(rows6,rows7split[index][1])))
+				difference = str(int(findp(rows7, rows7split[index][1])) - int(findp(rows6,rows7split[index][1])))
 				if difference == '0':
 					difference = ''
 				else:
