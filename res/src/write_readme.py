@@ -4,13 +4,13 @@ import os
 
 def local_check():
 	# for local testing
-	if os.getcwd() == '/storage/emulated/0/Download/mgit/statistics/res/src':
+	if os.getcwd() == '/storage/emulated/0/Download/pytests/test/res/src':
 		os.chdir('../../')
 
 
 def findp(list, p):
 	# search for the plugin return the number
-	count = ''
+	count = '0'
 	for check in list:
 		if check.startswith(p + ' '):
 			count = check.split(' ')[1]
@@ -93,7 +93,10 @@ def write_readme():
 				target.writelines('\t\t<td>' + findp(rows5, row.split(' ')[0]) + '</td>\n')
 				target.writelines('\t\t<td>' + findp(rows6, row.split(' ')[0]) + '</td>\n')
 				target.writelines('\t\t<td>' + findp(rows7, row.split(' ')[0]) + '</td>\n')
-				difference = str(int(findp(rows7, row.split(' ')[0])) - int(findp(rows6, row.split(' ')[0])))
+				if len(rows7) > len(rows6):
+					difference = 0
+				else:
+					difference = str(int(findp(rows7, row.split(' ')[0])) - int(findp(rows6, row.split(' ')[0])))
 				if difference == '0':
 					difference = ''
 				else:
