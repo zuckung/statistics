@@ -136,7 +136,10 @@ def write_readme():
 				target.writelines('\t\t<td>' + findp(rows5, rows7split[index][1]) + '</td>\n')
 				target.writelines('\t\t<td>' + findp(rows6, rows7split[index][1]) + '</td>\n')
 				target.writelines('\t\t<td>' + findp(rows7, rows7split[index][1]) + '</td>\n')
-				difference = str(int(findp(rows7, rows7split[index][1])) - int(findp(rows6,rows7split[index][1])))
+				if len(rows7) > len(rows6):
+					difference = '0'
+				else:
+					difference = str(int(findp(rows7, rows7split[index][1])) - int(findp(rows6,rows7split[index][1])))
 				if difference == '0':
 					difference = ''
 				else:
