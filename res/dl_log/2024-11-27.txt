@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.1-planet.pluto | downloads: 5
+v1.0.1-planet.pluto | downloads: 6
 v1.0.0-planet.pluto | downloads: 1
 v1.0.12-additional.command.buttons.radial | downloads: 8
 v1.0.11-additional.command.buttons.radial | downloads: 1
@@ -158,7 +158,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 157
-# TOTAL DOWNLOADS: 6957
+# TOTAL DOWNLOADS: 6958
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -195,7 +195,7 @@ outfits.weapon.slot 129
 paint.your.ships 139
 pirate.warlords 3
 planet.map 120
-planet.pluto 6
+planet.pluto 7
 quarg.farm 223
 real.fluff 93
 show.reputation 187
