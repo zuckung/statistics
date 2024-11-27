@@ -98,8 +98,8 @@
 		<td>213</td>
 		<td>215</td>
 		<td>218</td>
-		<td>218</td>
-		<td></td>
+		<td>220</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -597,8 +597,8 @@
 		<td>213</td>
 		<td>215</td>
 		<td>218</td>
-		<td>218</td>
-		<td></td>
+		<td>220</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
