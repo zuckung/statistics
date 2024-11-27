@@ -384,8 +384,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>2</td>
-		<td>2</td>
-		<td></td>
+		<td>4</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -953,6 +953,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>planet.pluto</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>2</td>
+		<td>4</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>pirate.warlords</td>
 		<td>3</td>
 		<td>3</td>
@@ -961,17 +972,6 @@
 		<td>3</td>
 		<td>3</td>
 		<td>3</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>planet.pluto</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>2</td>
-		<td>2</td>
 		<td></td>
 	</tr>
 </table>
