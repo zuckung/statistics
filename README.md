@@ -252,8 +252,8 @@
 		<td>149</td>
 		<td>151</td>
 		<td>153</td>
-		<td>154</td>
-		<td>+ 1</td>
+		<td>156</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -351,8 +351,8 @@
 		<td>136</td>
 		<td>139</td>
 		<td>139</td>
-		<td>140</td>
-		<td>+ 1</td>
+		<td>142</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -461,8 +461,8 @@
 		<td>124</td>
 		<td>128</td>
 		<td>128</td>
-		<td>129</td>
-		<td>+ 1</td>
+		<td>131</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
@@ -755,23 +755,23 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
-		<td>landing.images.android</td>
-		<td>151</td>
-		<td>151</td>
-		<td>151</td>
-		<td>151</td>
-		<td>153</td>
-		<td>153</td>
-		<td>154</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
 		<td>landing.images</td>
 		<td>143</td>
 		<td>145</td>
 		<td>149</td>
 		<td>149</td>
 		<td>151</td>
+		<td>153</td>
+		<td>156</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
+		<td>landing.images.android</td>
+		<td>151</td>
+		<td>151</td>
+		<td>151</td>
+		<td>151</td>
+		<td>153</td>
 		<td>153</td>
 		<td>154</td>
 		<td>+ 1</td>
@@ -828,8 +828,8 @@
 		<td>136</td>
 		<td>139</td>
 		<td>139</td>
-		<td>140</td>
-		<td>+ 1</td>
+		<td>142</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -854,6 +854,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>tribute.republic</td>
+		<td>122</td>
+		<td>124</td>
+		<td>124</td>
+		<td>124</td>
+		<td>128</td>
+		<td>128</td>
+		<td>131</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>outfits.weapon.slot</td>
 		<td>125</td>
 		<td>125</td>
@@ -862,17 +873,6 @@
 		<td>127</td>
 		<td>129</td>
 		<td>130</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>tribute.republic</td>
-		<td>122</td>
-		<td>124</td>
-		<td>124</td>
-		<td>124</td>
-		<td>128</td>
-		<td>128</td>
-		<td>129</td>
 		<td>+ 1</td>
 	</tr>
 	<tr>
