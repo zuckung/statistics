@@ -87,8 +87,8 @@
 		<td>170</td>
 		<td>170</td>
 		<td>171</td>
-		<td>172</td>
-		<td>+ 1</td>
+		<td>174</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -153,8 +153,8 @@
 		<td>228</td>
 		<td>230</td>
 		<td>233</td>
-		<td>237</td>
-		<td>+ 4</td>
+		<td>239</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -252,8 +252,8 @@
 		<td>151</td>
 		<td>153</td>
 		<td>156</td>
-		<td>157</td>
-		<td>+ 1</td>
+		<td>159</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -263,8 +263,8 @@
 		<td>153</td>
 		<td>153</td>
 		<td>154</td>
-		<td>155</td>
-		<td>+ 1</td>
+		<td>157</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -524,6 +524,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>expert.crew.members</td>
+		<td>226</td>
+		<td>226</td>
+		<td>226</td>
+		<td>228</td>
+		<td>230</td>
+		<td>233</td>
+		<td>239</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
 		<td>navy.licenses</td>
 		<td>231</td>
 		<td>231</td>
@@ -533,17 +544,6 @@
 		<td>234</td>
 		<td>237</td>
 		<td>+ 3</td>
-	</tr>
-	<tr>
-		<td>expert.crew.members</td>
-		<td>226</td>
-		<td>226</td>
-		<td>226</td>
-		<td>228</td>
-		<td>230</td>
-		<td>233</td>
-		<td>237</td>
-		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -722,6 +722,17 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
+		<td>captureable.person.ships</td>
+		<td>167</td>
+		<td>167</td>
+		<td>167</td>
+		<td>170</td>
+		<td>170</td>
+		<td>171</td>
+		<td>174</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>167</td>
 		<td>168</td>
@@ -730,17 +741,6 @@
 		<td>172</td>
 		<td>173</td>
 		<td>174</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>captureable.person.ships</td>
-		<td>167</td>
-		<td>167</td>
-		<td>167</td>
-		<td>170</td>
-		<td>170</td>
-		<td>171</td>
-		<td>172</td>
 		<td>+ 1</td>
 	</tr>
 	<tr>
@@ -762,8 +762,8 @@
 		<td>151</td>
 		<td>153</td>
 		<td>156</td>
-		<td>157</td>
-		<td>+ 1</td>
+		<td>159</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -773,8 +773,8 @@
 		<td>153</td>
 		<td>153</td>
 		<td>154</td>
-		<td>155</td>
-		<td>+ 1</td>
+		<td>157</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
