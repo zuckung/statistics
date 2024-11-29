@@ -65,8 +65,8 @@
 		<td>191</td>
 		<td>193</td>
 		<td>194</td>
-		<td>194</td>
-		<td></td>
+		<td>196</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -153,8 +153,8 @@
 		<td>228</td>
 		<td>230</td>
 		<td>233</td>
-		<td>233</td>
-		<td></td>
+		<td>236</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -186,8 +186,8 @@
 		<td>233</td>
 		<td>233</td>
 		<td>234</td>
-		<td>234</td>
-		<td></td>
+		<td>235</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -197,8 +197,8 @@
 		<td>183</td>
 		<td>183</td>
 		<td>184</td>
-		<td>184</td>
-		<td></td>
+		<td>185</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -296,8 +296,8 @@
 		<td>194</td>
 		<td>194</td>
 		<td>195</td>
-		<td>195</td>
-		<td></td>
+		<td>197</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -318,8 +318,8 @@
 		<td>233</td>
 		<td>233</td>
 		<td>234</td>
-		<td>234</td>
-		<td></td>
+		<td>236</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -340,8 +340,8 @@
 		<td>127</td>
 		<td>129</td>
 		<td>130</td>
-		<td>130</td>
-		<td></td>
+		<td>132</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -428,8 +428,8 @@
 		<td>180</td>
 		<td>180</td>
 		<td>181</td>
-		<td>181</td>
-		<td></td>
+		<td>183</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -439,8 +439,8 @@
 		<td>169</td>
 		<td>171</td>
 		<td>172</td>
-		<td>172</td>
-		<td></td>
+		<td>174</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -531,8 +531,19 @@
 		<td>233</td>
 		<td>233</td>
 		<td>234</td>
-		<td>234</td>
-		<td></td>
+		<td>236</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>expert.crew.members</td>
+		<td>226</td>
+		<td>226</td>
+		<td>226</td>
+		<td>228</td>
+		<td>230</td>
+		<td>233</td>
+		<td>236</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -542,8 +553,8 @@
 		<td>233</td>
 		<td>233</td>
 		<td>234</td>
-		<td>234</td>
-		<td></td>
+		<td>235</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -554,17 +565,6 @@
 		<td>233</td>
 		<td>234</td>
 		<td>234</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>expert.crew.members</td>
-		<td>226</td>
-		<td>226</td>
-		<td>226</td>
-		<td>228</td>
-		<td>230</td>
-		<td>233</td>
-		<td>233</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -641,8 +641,8 @@
 		<td>194</td>
 		<td>194</td>
 		<td>195</td>
-		<td>195</td>
-		<td></td>
+		<td>197</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -652,8 +652,8 @@
 		<td>191</td>
 		<td>193</td>
 		<td>194</td>
-		<td>194</td>
-		<td></td>
+		<td>196</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -685,8 +685,8 @@
 		<td>183</td>
 		<td>183</td>
 		<td>184</td>
-		<td>184</td>
-		<td></td>
+		<td>185</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -696,8 +696,8 @@
 		<td>180</td>
 		<td>180</td>
 		<td>181</td>
-		<td>181</td>
-		<td></td>
+		<td>183</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -711,6 +711,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>space.fauna</td>
+		<td>167</td>
+		<td>167</td>
+		<td>167</td>
+		<td>169</td>
+		<td>171</td>
+		<td>172</td>
+		<td>174</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>167</td>
 		<td>168</td>
@@ -719,17 +730,6 @@
 		<td>172</td>
 		<td>173</td>
 		<td>173</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>space.fauna</td>
-		<td>167</td>
-		<td>167</td>
-		<td>167</td>
-		<td>169</td>
-		<td>171</td>
-		<td>172</td>
-		<td>172</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -854,6 +854,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>outfits.weapon.slot</td>
+		<td>125</td>
+		<td>125</td>
+		<td>125</td>
+		<td>127</td>
+		<td>129</td>
+		<td>130</td>
+		<td>132</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>tribute.republic</td>
 		<td>124</td>
 		<td>124</td>
@@ -862,17 +873,6 @@
 		<td>128</td>
 		<td>131</td>
 		<td>131</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>outfits.weapon.slot</td>
-		<td>125</td>
-		<td>125</td>
-		<td>125</td>
-		<td>127</td>
-		<td>129</td>
-		<td>130</td>
-		<td>130</td>
 		<td></td>
 	</tr>
 	<tr>
