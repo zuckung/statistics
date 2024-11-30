@@ -1,23 +1,23 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.4-expert.crew.members | downloads: 4
+v1.0.4-expert.crew.members | downloads: 6
 v1.0.1-planet.pluto | downloads: 10
 v1.0.0-planet.pluto | downloads: 1
 v1.0.12-additional.command.buttons.radial | downloads: 11
 v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 18
-v1.0.6-uniques | downloads: 23
-v1.0.3-navy.licenses | downloads: 26
-v1.0.6-coalition.shopping | downloads: 29
-v1.0.5-snowfeather.robotics | downloads: 26
+v1.0.6-uniques | downloads: 25
+v1.0.3-navy.licenses | downloads: 28
+v1.0.6-coalition.shopping | downloads: 31
+v1.0.5-snowfeather.robotics | downloads: 28
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 47
+v1.0.2-kor.efret.shipyard | downloads: 49
 v1.0.10-additional.command.buttons.radial | downloads: 40
-v1.0.3-better.starts | downloads: 52
-v1.0.2-show.reputation | downloads: 48
+v1.0.3-better.starts | downloads: 53
+v1.0.2-show.reputation | downloads: 50
 v1.0.1-show.reputation | downloads: 1
-v1.1.4-galactic.capital.investment | downloads: 72
+v1.1.4-galactic.capital.investment | downloads: 74
 v1.0.9-additional.command.buttons.radial | downloads: 28
-v1.0.2-gegno.pirates | downloads: 65
+v1.0.2-gegno.pirates | downloads: 67
 v1.0.1-kor.efret.shipyard | downloads: 15
 v1.0.2-more.person.ships | downloads: 76
 v1.0.8-additional.command.buttons.radial | downloads: 20
@@ -159,7 +159,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 158
-# TOTAL DOWNLOADS: 7108
+# TOTAL DOWNLOADS: 7127
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -167,30 +167,30 @@ additional.command.buttons 93
 additional.command.buttons.radial 256
 automata.destruction.0percent 175
 automata.in.human.space 152
-better.starts 198
+better.starts 199
 bunrodea.missions 236
 captureable.person.ships 175
-coalition.shopping 223
+coalition.shopping 225
 control.station 178
 devil-run.unhidden 66
 disable.person.ships 115
 disable.spaceport.repeatables 165
-expert.crew.members 240
+expert.crew.members 242
 free.worlds.5.years.later 147
-galactic.capital.investment 270
-gegno.pirates 237
+galactic.capital.investment 272
+gegno.pirates 239
 hai.side.mission.unlocker 187
 human.labels 154
 jump.gates 187
 kestrel.unlocks 141
-kor.efret.shipyard 217
+kor.efret.shipyard 219
 landing.images 160
 landing.images.android 157
 landing.images.highres 129
 more.arfectas 220
 more.boarding.missions 199
 more.person.ships 211
-navy.licenses 238
+navy.licenses 240
 no.more.mereti.mines 139
 outfits.weapon.slot 134
 paint.your.ships 144
@@ -199,10 +199,10 @@ planet.map 123
 planet.pluto 11
 quarg.farm 226
 real.fluff 93
-show.reputation 190
-snowfeather.robotics 185
+show.reputation 192
+snowfeather.robotics 187
 space.fauna 176
 too.many.asteroids 226
 tribute.republic 133
 unique.fix 44
-uniques 155
+uniques 157
