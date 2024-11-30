@@ -65,8 +65,8 @@
 		<td>193</td>
 		<td>194</td>
 		<td>198</td>
-		<td>198</td>
-		<td></td>
+		<td>199</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -98,8 +98,8 @@
 		<td>220</td>
 		<td>221</td>
 		<td>223</td>
-		<td>223</td>
-		<td></td>
+		<td>225</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -153,8 +153,8 @@
 		<td>230</td>
 		<td>233</td>
 		<td>240</td>
-		<td>240</td>
-		<td></td>
+		<td>242</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -175,8 +175,8 @@
 		<td>265</td>
 		<td>268</td>
 		<td>270</td>
-		<td>270</td>
-		<td></td>
+		<td>272</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -186,8 +186,8 @@
 		<td>233</td>
 		<td>234</td>
 		<td>237</td>
-		<td>237</td>
-		<td></td>
+		<td>239</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -241,8 +241,8 @@
 		<td>214</td>
 		<td>215</td>
 		<td>217</td>
-		<td>217</td>
-		<td></td>
+		<td>219</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -318,8 +318,8 @@
 		<td>233</td>
 		<td>234</td>
 		<td>238</td>
-		<td>238</td>
-		<td></td>
+		<td>240</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -417,8 +417,8 @@
 		<td>187</td>
 		<td>188</td>
 		<td>190</td>
-		<td>190</td>
-		<td></td>
+		<td>192</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -428,8 +428,8 @@
 		<td>180</td>
 		<td>181</td>
 		<td>185</td>
-		<td>185</td>
-		<td></td>
+		<td>187</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -483,8 +483,8 @@
 		<td>152</td>
 		<td>153</td>
 		<td>155</td>
-		<td>155</td>
-		<td></td>
+		<td>157</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>265</td>
 		<td>268</td>
 		<td>270</td>
-		<td>270</td>
-		<td></td>
+		<td>272</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -531,8 +531,8 @@
 		<td>230</td>
 		<td>233</td>
 		<td>240</td>
-		<td>240</td>
-		<td></td>
+		<td>242</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -542,8 +542,8 @@
 		<td>233</td>
 		<td>234</td>
 		<td>238</td>
-		<td>238</td>
-		<td></td>
+		<td>240</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -553,8 +553,8 @@
 		<td>233</td>
 		<td>234</td>
 		<td>237</td>
-		<td>237</td>
-		<td></td>
+		<td>239</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -597,8 +597,8 @@
 		<td>220</td>
 		<td>221</td>
 		<td>223</td>
-		<td>223</td>
-		<td></td>
+		<td>225</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -619,8 +619,8 @@
 		<td>214</td>
 		<td>215</td>
 		<td>217</td>
-		<td>217</td>
-		<td></td>
+		<td>219</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -652,8 +652,8 @@
 		<td>193</td>
 		<td>194</td>
 		<td>198</td>
-		<td>198</td>
-		<td></td>
+		<td>199</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -663,8 +663,19 @@
 		<td>187</td>
 		<td>188</td>
 		<td>190</td>
-		<td>190</td>
-		<td></td>
+		<td>192</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>snowfeather.robotics</td>
+		<td>178</td>
+		<td>178</td>
+		<td>180</td>
+		<td>180</td>
+		<td>181</td>
+		<td>185</td>
+		<td>187</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -686,17 +697,6 @@
 		<td>184</td>
 		<td>187</td>
 		<td>187</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>snowfeather.robotics</td>
-		<td>178</td>
-		<td>178</td>
-		<td>180</td>
-		<td>180</td>
-		<td>181</td>
-		<td>185</td>
-		<td>185</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -766,6 +766,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>uniques</td>
+		<td>150</td>
+		<td>150</td>
+		<td>152</td>
+		<td>152</td>
+		<td>153</td>
+		<td>155</td>
+		<td>157</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>landing.images.android</td>
 		<td>151</td>
 		<td>151</td>
@@ -774,17 +785,6 @@
 		<td>154</td>
 		<td>157</td>
 		<td>157</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>uniques</td>
-		<td>150</td>
-		<td>150</td>
-		<td>152</td>
-		<td>152</td>
-		<td>153</td>
-		<td>155</td>
-		<td>155</td>
 		<td></td>
 	</tr>
 	<tr>
