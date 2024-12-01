@@ -197,8 +197,8 @@
 		<td>184</td>
 		<td>187</td>
 		<td>187</td>
-		<td>187</td>
-		<td></td>
+		<td>189</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -667,6 +667,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>hai.side.mission.unlocker</td>
+		<td>181</td>
+		<td>183</td>
+		<td>183</td>
+		<td>184</td>
+		<td>187</td>
+		<td>187</td>
+		<td>189</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>snowfeather.robotics</td>
 		<td>178</td>
 		<td>180</td>
@@ -683,17 +694,6 @@
 		<td>180</td>
 		<td>184</td>
 		<td>185</td>
-		<td>187</td>
-		<td>187</td>
-		<td>187</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>hai.side.mission.unlocker</td>
-		<td>181</td>
-		<td>183</td>
-		<td>183</td>
-		<td>184</td>
 		<td>187</td>
 		<td>187</td>
 		<td>187</td>
