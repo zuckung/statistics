@@ -43,8 +43,8 @@
 		<td>173</td>
 		<td>175</td>
 		<td>175</td>
-		<td>175</td>
-		<td></td>
+		<td>177</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -711,6 +711,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>170</td>
+		<td>172</td>
+		<td>172</td>
+		<td>173</td>
+		<td>175</td>
+		<td>175</td>
+		<td>177</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>space.fauna</td>
 		<td>167</td>
 		<td>169</td>
@@ -727,17 +738,6 @@
 		<td>170</td>
 		<td>170</td>
 		<td>171</td>
-		<td>175</td>
-		<td>175</td>
-		<td>175</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>170</td>
-		<td>172</td>
-		<td>172</td>
-		<td>173</td>
 		<td>175</td>
 		<td>175</td>
 		<td>175</td>
