@@ -384,8 +384,8 @@
 		<td>11</td>
 		<td>11</td>
 		<td>11</td>
-		<td>11</td>
-		<td></td>
+		<td>13</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -960,8 +960,8 @@
 		<td>11</td>
 		<td>11</td>
 		<td>11</td>
-		<td>11</td>
-		<td></td>
+		<td>13</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
