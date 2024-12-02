@@ -32,8 +32,8 @@
 		<td>256</td>
 		<td>256</td>
 		<td>256</td>
-		<td>256</td>
-		<td></td>
+		<td>258</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -109,8 +109,8 @@
 		<td>178</td>
 		<td>178</td>
 		<td>178</td>
-		<td>178</td>
-		<td></td>
+		<td>180</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -520,8 +520,8 @@
 		<td>256</td>
 		<td>256</td>
 		<td>256</td>
-		<td>256</td>
-		<td></td>
+		<td>258</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -707,8 +707,8 @@
 		<td>178</td>
 		<td>178</td>
 		<td>178</td>
-		<td>178</td>
-		<td></td>
+		<td>180</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
