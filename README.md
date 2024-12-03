@@ -98,8 +98,8 @@
 		<td>225</td>
 		<td>225</td>
 		<td>225</td>
-		<td>225</td>
-		<td></td>
+		<td>226</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -109,8 +109,8 @@
 		<td>178</td>
 		<td>178</td>
 		<td>180</td>
-		<td>180</td>
-		<td></td>
+		<td>181</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -142,8 +142,8 @@
 		<td>165</td>
 		<td>165</td>
 		<td>165</td>
-		<td>165</td>
-		<td></td>
+		<td>166</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -153,8 +153,8 @@
 		<td>242</td>
 		<td>242</td>
 		<td>242</td>
-		<td>242</td>
-		<td></td>
+		<td>243</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -175,8 +175,8 @@
 		<td>272</td>
 		<td>274</td>
 		<td>274</td>
-		<td>274</td>
-		<td></td>
+		<td>276</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -186,8 +186,8 @@
 		<td>239</td>
 		<td>239</td>
 		<td>239</td>
-		<td>239</td>
-		<td></td>
+		<td>241</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -208,8 +208,8 @@
 		<td>154</td>
 		<td>154</td>
 		<td>154</td>
-		<td>154</td>
-		<td></td>
+		<td>155</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -241,8 +241,8 @@
 		<td>219</td>
 		<td>219</td>
 		<td>219</td>
-		<td>221</td>
-		<td>+ 2</td>
+		<td>222</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -252,8 +252,8 @@
 		<td>160</td>
 		<td>160</td>
 		<td>160</td>
-		<td>160</td>
-		<td></td>
+		<td>161</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -274,8 +274,8 @@
 		<td>129</td>
 		<td>129</td>
 		<td>129</td>
-		<td>129</td>
-		<td></td>
+		<td>130</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -296,8 +296,8 @@
 		<td>199</td>
 		<td>199</td>
 		<td>199</td>
-		<td>199</td>
-		<td></td>
+		<td>200</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -318,8 +318,8 @@
 		<td>240</td>
 		<td>240</td>
 		<td>240</td>
-		<td>242</td>
-		<td>+ 2</td>
+		<td>243</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -483,8 +483,8 @@
 		<td>157</td>
 		<td>157</td>
 		<td>157</td>
-		<td>157</td>
-		<td></td>
+		<td>159</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>272</td>
 		<td>274</td>
 		<td>274</td>
-		<td>274</td>
-		<td></td>
+		<td>276</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -531,8 +531,8 @@
 		<td>240</td>
 		<td>240</td>
 		<td>240</td>
-		<td>242</td>
-		<td>+ 2</td>
+		<td>243</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -542,8 +542,8 @@
 		<td>242</td>
 		<td>242</td>
 		<td>242</td>
-		<td>242</td>
-		<td></td>
+		<td>243</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -553,8 +553,8 @@
 		<td>239</td>
 		<td>239</td>
 		<td>239</td>
-		<td>239</td>
-		<td></td>
+		<td>241</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -597,8 +597,8 @@
 		<td>225</td>
 		<td>225</td>
 		<td>225</td>
-		<td>225</td>
-		<td></td>
+		<td>226</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -608,8 +608,8 @@
 		<td>219</td>
 		<td>219</td>
 		<td>219</td>
-		<td>221</td>
-		<td>+ 2</td>
+		<td>222</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -652,8 +652,8 @@
 		<td>199</td>
 		<td>199</td>
 		<td>199</td>
-		<td>199</td>
-		<td></td>
+		<td>200</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -707,8 +707,8 @@
 		<td>178</td>
 		<td>178</td>
 		<td>180</td>
-		<td>180</td>
-		<td></td>
+		<td>181</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -751,8 +751,8 @@
 		<td>165</td>
 		<td>165</td>
 		<td>165</td>
-		<td>165</td>
-		<td></td>
+		<td>166</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -762,8 +762,8 @@
 		<td>160</td>
 		<td>160</td>
 		<td>160</td>
-		<td>160</td>
-		<td></td>
+		<td>161</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -773,8 +773,8 @@
 		<td>157</td>
 		<td>157</td>
 		<td>157</td>
-		<td>157</td>
-		<td></td>
+		<td>159</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -795,8 +795,8 @@
 		<td>154</td>
 		<td>154</td>
 		<td>154</td>
-		<td>154</td>
-		<td></td>
+		<td>155</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -883,8 +883,8 @@
 		<td>129</td>
 		<td>129</td>
 		<td>129</td>
-		<td>129</td>
-		<td></td>
+		<td>130</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
