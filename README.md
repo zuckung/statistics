@@ -65,8 +65,8 @@
 		<td>199</td>
 		<td>199</td>
 		<td>199</td>
-		<td>199</td>
-		<td></td>
+		<td>201</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -219,8 +219,8 @@
 		<td>187</td>
 		<td>187</td>
 		<td>187</td>
-		<td>187</td>
-		<td></td>
+		<td>189</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -230,8 +230,8 @@
 		<td>141</td>
 		<td>141</td>
 		<td>141</td>
-		<td>141</td>
-		<td></td>
+		<td>143</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -450,8 +450,8 @@
 		<td>226</td>
 		<td>226</td>
 		<td>226</td>
-		<td>226</td>
-		<td></td>
+		<td>228</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -575,8 +575,8 @@
 		<td>226</td>
 		<td>226</td>
 		<td>226</td>
-		<td>226</td>
-		<td></td>
+		<td>228</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -634,21 +634,21 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>more.boarding.missions</td>
-		<td>194</td>
-		<td>195</td>
-		<td>199</td>
-		<td>199</td>
-		<td>199</td>
-		<td>199</td>
-		<td>199</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>better.starts</td>
 		<td>193</td>
 		<td>194</td>
 		<td>198</td>
+		<td>199</td>
+		<td>199</td>
+		<td>199</td>
+		<td>201</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>more.boarding.missions</td>
+		<td>194</td>
+		<td>195</td>
+		<td>199</td>
 		<td>199</td>
 		<td>199</td>
 		<td>199</td>
@@ -667,6 +667,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>jump.gates</td>
+		<td>184</td>
+		<td>185</td>
+		<td>187</td>
+		<td>187</td>
+		<td>187</td>
+		<td>187</td>
+		<td>189</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>hai.side.mission.unlocker</td>
 		<td>183</td>
 		<td>184</td>
@@ -682,17 +693,6 @@
 		<td>180</td>
 		<td>181</td>
 		<td>185</td>
-		<td>187</td>
-		<td>187</td>
-		<td>187</td>
-		<td>187</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>jump.gates</td>
-		<td>184</td>
-		<td>185</td>
-		<td>187</td>
 		<td>187</td>
 		<td>187</td>
 		<td>187</td>
@@ -839,8 +839,8 @@
 		<td>141</td>
 		<td>141</td>
 		<td>141</td>
-		<td>141</td>
-		<td></td>
+		<td>143</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
