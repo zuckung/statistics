@@ -241,8 +241,8 @@
 		<td>219</td>
 		<td>219</td>
 		<td>219</td>
-		<td>219</td>
-		<td></td>
+		<td>221</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -601,6 +601,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>kor.efret.shipyard</td>
+		<td>214</td>
+		<td>215</td>
+		<td>217</td>
+		<td>219</td>
+		<td>219</td>
+		<td>219</td>
+		<td>221</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>more.arfectas</td>
 		<td>217</td>
 		<td>218</td>
@@ -609,17 +620,6 @@
 		<td>220</td>
 		<td>220</td>
 		<td>220</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>kor.efret.shipyard</td>
-		<td>214</td>
-		<td>215</td>
-		<td>217</td>
-		<td>219</td>
-		<td>219</td>
-		<td>219</td>
-		<td>219</td>
 		<td></td>
 	</tr>
 	<tr>
