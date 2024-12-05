@@ -43,8 +43,8 @@
 		<td>177</td>
 		<td>177</td>
 		<td>179</td>
-		<td>179</td>
-		<td></td>
+		<td>181</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -718,8 +718,8 @@
 		<td>177</td>
 		<td>177</td>
 		<td>179</td>
-		<td>179</td>
-		<td></td>
+		<td>181</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
