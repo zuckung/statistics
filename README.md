@@ -142,8 +142,8 @@
 		<td>165</td>
 		<td>166</td>
 		<td>166</td>
-		<td>166</td>
-		<td></td>
+		<td>168</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -197,8 +197,8 @@
 		<td>189</td>
 		<td>189</td>
 		<td>189</td>
-		<td>189</td>
-		<td></td>
+		<td>191</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -685,8 +685,8 @@
 		<td>189</td>
 		<td>189</td>
 		<td>189</td>
-		<td>189</td>
-		<td></td>
+		<td>191</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -751,8 +751,8 @@
 		<td>165</td>
 		<td>166</td>
 		<td>166</td>
-		<td>166</td>
-		<td></td>
+		<td>168</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
