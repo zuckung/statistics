@@ -76,8 +76,8 @@
 		<td>236</td>
 		<td>236</td>
 		<td>236</td>
-		<td>236</td>
-		<td></td>
+		<td>238</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -439,8 +439,8 @@
 		<td>176</td>
 		<td>176</td>
 		<td>176</td>
-		<td>176</td>
-		<td></td>
+		<td>178</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -564,8 +564,8 @@
 		<td>236</td>
 		<td>236</td>
 		<td>236</td>
-		<td>236</td>
-		<td></td>
+		<td>238</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -729,8 +729,8 @@
 		<td>176</td>
 		<td>176</td>
 		<td>176</td>
-		<td>176</td>
-		<td></td>
+		<td>178</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
