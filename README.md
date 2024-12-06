@@ -153,8 +153,8 @@
 		<td>243</td>
 		<td>243</td>
 		<td>243</td>
-		<td>243</td>
-		<td></td>
+		<td>245</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -524,6 +524,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>expert.crew.members</td>
+		<td>242</td>
+		<td>242</td>
+		<td>242</td>
+		<td>243</td>
+		<td>243</td>
+		<td>243</td>
+		<td>245</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>navy.licenses</td>
 		<td>240</td>
 		<td>240</td>
@@ -540,17 +551,6 @@
 		<td>239</td>
 		<td>239</td>
 		<td>241</td>
-		<td>243</td>
-		<td>243</td>
-		<td>243</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>expert.crew.members</td>
-		<td>242</td>
-		<td>242</td>
-		<td>242</td>
-		<td>243</td>
 		<td>243</td>
 		<td>243</td>
 		<td>243</td>
