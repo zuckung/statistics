@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.4-expert.crew.members | downloads: 7
+v1.0.4-expert.crew.members | downloads: 9
 v1.0.1-planet.pluto | downloads: 12
 v1.0.0-planet.pluto | downloads: 1
 v1.0.12-additional.command.buttons.radial | downloads: 15
@@ -159,7 +159,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 158
-# TOTAL DOWNLOADS: 7203
+# TOTAL DOWNLOADS: 7205
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -175,7 +175,7 @@ control.station 181
 devil-run.unhidden 66
 disable.person.ships 115
 disable.spaceport.repeatables 168
-expert.crew.members 243
+expert.crew.members 245
 free.worlds.5.years.later 147
 galactic.capital.investment 278
 gegno.pirates 243
