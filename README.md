@@ -32,8 +32,8 @@
 		<td>260</td>
 		<td>260</td>
 		<td>260</td>
-		<td>260</td>
-		<td></td>
+		<td>262</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -98,8 +98,8 @@
 		<td>226</td>
 		<td>228</td>
 		<td>228</td>
-		<td>228</td>
-		<td></td>
+		<td>230</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -142,8 +142,8 @@
 		<td>166</td>
 		<td>168</td>
 		<td>168</td>
-		<td>168</td>
-		<td></td>
+		<td>170</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -252,8 +252,8 @@
 		<td>161</td>
 		<td>161</td>
 		<td>161</td>
-		<td>161</td>
-		<td></td>
+		<td>163</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -263,8 +263,8 @@
 		<td>157</td>
 		<td>157</td>
 		<td>157</td>
-		<td>157</td>
-		<td></td>
+		<td>159</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -318,8 +318,8 @@
 		<td>243</td>
 		<td>243</td>
 		<td>243</td>
-		<td>245</td>
-		<td>+ 2</td>
+		<td>247</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -329,8 +329,8 @@
 		<td>141</td>
 		<td>141</td>
 		<td>141</td>
-		<td>141</td>
-		<td></td>
+		<td>143</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -450,8 +450,8 @@
 		<td>230</td>
 		<td>230</td>
 		<td>230</td>
-		<td>232</td>
-		<td>+ 2</td>
+		<td>234</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -520,8 +520,8 @@
 		<td>260</td>
 		<td>260</td>
 		<td>260</td>
-		<td>260</td>
-		<td></td>
+		<td>262</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -531,8 +531,8 @@
 		<td>243</td>
 		<td>243</td>
 		<td>243</td>
-		<td>245</td>
-		<td>+ 2</td>
+		<td>247</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -575,7 +575,18 @@
 		<td>230</td>
 		<td>230</td>
 		<td>230</td>
-		<td>232</td>
+		<td>234</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
+		<td>coalition.shopping</td>
+		<td>225</td>
+		<td>225</td>
+		<td>226</td>
+		<td>226</td>
+		<td>228</td>
+		<td>228</td>
+		<td>230</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -584,17 +595,6 @@
 		<td>226</td>
 		<td>226</td>
 		<td>228</td>
-		<td>228</td>
-		<td>228</td>
-		<td>228</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>coalition.shopping</td>
-		<td>225</td>
-		<td>225</td>
-		<td>226</td>
-		<td>226</td>
 		<td>228</td>
 		<td>228</td>
 		<td>228</td>
@@ -751,25 +751,25 @@
 		<td>166</td>
 		<td>168</td>
 		<td>168</td>
-		<td>168</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>uniques</td>
-		<td>157</td>
-		<td>157</td>
-		<td>159</td>
-		<td>161</td>
-		<td>161</td>
-		<td>161</td>
-		<td>161</td>
-		<td></td>
+		<td>170</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
 		<td>160</td>
 		<td>160</td>
 		<td>161</td>
+		<td>161</td>
+		<td>161</td>
+		<td>161</td>
+		<td>163</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>uniques</td>
+		<td>157</td>
+		<td>157</td>
+		<td>159</td>
 		<td>161</td>
 		<td>161</td>
 		<td>161</td>
@@ -784,8 +784,8 @@
 		<td>157</td>
 		<td>157</td>
 		<td>157</td>
-		<td>157</td>
-		<td></td>
+		<td>159</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -850,8 +850,8 @@
 		<td>141</td>
 		<td>141</td>
 		<td>141</td>
-		<td>141</td>
-		<td></td>
+		<td>143</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
