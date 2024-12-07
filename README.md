@@ -175,8 +175,8 @@
 		<td>278</td>
 		<td>278</td>
 		<td>278</td>
-		<td>278</td>
-		<td></td>
+		<td>280</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -318,8 +318,8 @@
 		<td>243</td>
 		<td>243</td>
 		<td>243</td>
-		<td>243</td>
-		<td></td>
+		<td>245</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -450,8 +450,8 @@
 		<td>230</td>
 		<td>230</td>
 		<td>230</td>
-		<td>230</td>
-		<td></td>
+		<td>232</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -509,8 +509,8 @@
 		<td>278</td>
 		<td>278</td>
 		<td>278</td>
-		<td>278</td>
-		<td></td>
+		<td>280</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -524,6 +524,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>navy.licenses</td>
+		<td>240</td>
+		<td>240</td>
+		<td>243</td>
+		<td>243</td>
+		<td>243</td>
+		<td>243</td>
+		<td>245</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>expert.crew.members</td>
 		<td>242</td>
 		<td>242</td>
@@ -532,17 +543,6 @@
 		<td>243</td>
 		<td>245</td>
 		<td>245</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>navy.licenses</td>
-		<td>240</td>
-		<td>240</td>
-		<td>243</td>
-		<td>243</td>
-		<td>243</td>
-		<td>243</td>
-		<td>243</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -575,8 +575,8 @@
 		<td>230</td>
 		<td>230</td>
 		<td>230</td>
-		<td>230</td>
-		<td></td>
+		<td>232</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
