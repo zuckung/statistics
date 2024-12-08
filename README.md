@@ -373,8 +373,8 @@
 		<td>123</td>
 		<td>123</td>
 		<td>123</td>
-		<td>123</td>
-		<td></td>
+		<td>125</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -894,8 +894,8 @@
 		<td>123</td>
 		<td>123</td>
 		<td>123</td>
-		<td>123</td>
-		<td></td>
+		<td>125</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
