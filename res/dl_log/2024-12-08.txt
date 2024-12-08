@@ -50,7 +50,7 @@ v1.0.2-additional.command.buttons.radial | downloads: 4
 v1.0.0-outfits.weapon.slot | downloads: 134
 v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
-v1.0.1-planet.map | downloads: 98
+v1.0.1-planet.map | downloads: 100
 v1.0.0-kestrel.unlocks | downloads: 145
 v1.0.2-tribute.republic | downloads: 115
 v1.0.1-tribute.republic | downloads: 16
@@ -159,7 +159,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 158
-# TOTAL DOWNLOADS: 7251
+# TOTAL DOWNLOADS: 7253
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -195,7 +195,7 @@ no.more.mereti.mines 143
 outfits.weapon.slot 134
 paint.your.ships 144
 pirate.warlords 3
-planet.map 123
+planet.map 125
 planet.pluto 13
 quarg.farm 228
 real.fluff 93
