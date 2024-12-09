@@ -43,8 +43,8 @@
 		<td>181</td>
 		<td>181</td>
 		<td>181</td>
-		<td>181</td>
-		<td></td>
+		<td>183</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -175,8 +175,8 @@
 		<td>278</td>
 		<td>280</td>
 		<td>282</td>
-		<td>284</td>
-		<td>+ 2</td>
+		<td>286</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -186,8 +186,8 @@
 		<td>243</td>
 		<td>243</td>
 		<td>245</td>
-		<td>245</td>
-		<td></td>
+		<td>247</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -219,8 +219,8 @@
 		<td>191</td>
 		<td>191</td>
 		<td>191</td>
-		<td>194</td>
-		<td>+ 3</td>
+		<td>196</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -285,8 +285,8 @@
 		<td>222</td>
 		<td>222</td>
 		<td>222</td>
-		<td>222</td>
-		<td></td>
+		<td>224</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -329,8 +329,8 @@
 		<td>141</td>
 		<td>143</td>
 		<td>143</td>
-		<td>143</td>
-		<td></td>
+		<td>145</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -395,8 +395,8 @@
 		<td>228</td>
 		<td>228</td>
 		<td>228</td>
-		<td>228</td>
-		<td></td>
+		<td>230</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -509,8 +509,8 @@
 		<td>278</td>
 		<td>280</td>
 		<td>282</td>
-		<td>284</td>
-		<td>+ 2</td>
+		<td>286</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -553,8 +553,8 @@
 		<td>243</td>
 		<td>243</td>
 		<td>245</td>
-		<td>245</td>
-		<td></td>
+		<td>247</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -597,8 +597,8 @@
 		<td>228</td>
 		<td>228</td>
 		<td>228</td>
-		<td>228</td>
-		<td></td>
+		<td>230</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -608,8 +608,8 @@
 		<td>222</td>
 		<td>222</td>
 		<td>222</td>
-		<td>222</td>
-		<td></td>
+		<td>224</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -674,8 +674,8 @@
 		<td>191</td>
 		<td>191</td>
 		<td>191</td>
-		<td>194</td>
-		<td>+ 3</td>
+		<td>196</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -711,6 +711,17 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>177</td>
+		<td>179</td>
+		<td>181</td>
+		<td>181</td>
+		<td>181</td>
+		<td>181</td>
+		<td>183</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>space.fauna</td>
 		<td>176</td>
 		<td>176</td>
@@ -720,17 +731,6 @@
 		<td>180</td>
 		<td>182</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>177</td>
-		<td>179</td>
-		<td>181</td>
-		<td>181</td>
-		<td>181</td>
-		<td>181</td>
-		<td>181</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -850,8 +850,8 @@
 		<td>141</td>
 		<td>143</td>
 		<td>143</td>
-		<td>143</td>
-		<td></td>
+		<td>145</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
