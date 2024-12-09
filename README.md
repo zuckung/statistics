@@ -65,8 +65,8 @@
 		<td>201</td>
 		<td>201</td>
 		<td>201</td>
-		<td>201</td>
-		<td></td>
+		<td>202</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -87,8 +87,8 @@
 		<td>175</td>
 		<td>175</td>
 		<td>175</td>
-		<td>175</td>
-		<td></td>
+		<td>176</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -98,8 +98,8 @@
 		<td>228</td>
 		<td>230</td>
 		<td>230</td>
-		<td>230</td>
-		<td></td>
+		<td>231</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -109,8 +109,8 @@
 		<td>181</td>
 		<td>181</td>
 		<td>183</td>
-		<td>183</td>
-		<td></td>
+		<td>184</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -153,8 +153,8 @@
 		<td>245</td>
 		<td>245</td>
 		<td>247</td>
-		<td>247</td>
-		<td></td>
+		<td>248</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -164,8 +164,8 @@
 		<td>147</td>
 		<td>147</td>
 		<td>147</td>
-		<td>147</td>
-		<td></td>
+		<td>148</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -219,8 +219,8 @@
 		<td>191</td>
 		<td>191</td>
 		<td>191</td>
-		<td>191</td>
-		<td></td>
+		<td>192</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -318,8 +318,8 @@
 		<td>243</td>
 		<td>247</td>
 		<td>247</td>
-		<td>247</td>
-		<td></td>
+		<td>248</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -340,8 +340,8 @@
 		<td>134</td>
 		<td>134</td>
 		<td>134</td>
-		<td>134</td>
-		<td></td>
+		<td>135</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -417,8 +417,8 @@
 		<td>194</td>
 		<td>194</td>
 		<td>196</td>
-		<td>196</td>
-		<td></td>
+		<td>197</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -450,8 +450,8 @@
 		<td>230</td>
 		<td>234</td>
 		<td>236</td>
-		<td>236</td>
-		<td></td>
+		<td>237</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -483,8 +483,8 @@
 		<td>161</td>
 		<td>161</td>
 		<td>163</td>
-		<td>163</td>
-		<td></td>
+		<td>164</td>
+		<td>+ 1</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>243</td>
 		<td>247</td>
 		<td>247</td>
-		<td>247</td>
-		<td></td>
+		<td>248</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -542,8 +542,8 @@
 		<td>245</td>
 		<td>245</td>
 		<td>247</td>
-		<td>247</td>
-		<td></td>
+		<td>248</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -575,8 +575,8 @@
 		<td>230</td>
 		<td>234</td>
 		<td>236</td>
-		<td>236</td>
-		<td></td>
+		<td>237</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -586,8 +586,8 @@
 		<td>228</td>
 		<td>230</td>
 		<td>230</td>
-		<td>230</td>
-		<td></td>
+		<td>231</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -652,8 +652,8 @@
 		<td>201</td>
 		<td>201</td>
 		<td>201</td>
-		<td>201</td>
-		<td></td>
+		<td>202</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -663,8 +663,8 @@
 		<td>194</td>
 		<td>194</td>
 		<td>196</td>
-		<td>196</td>
-		<td></td>
+		<td>197</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -674,8 +674,8 @@
 		<td>191</td>
 		<td>191</td>
 		<td>191</td>
-		<td>191</td>
-		<td></td>
+		<td>192</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -707,8 +707,8 @@
 		<td>181</td>
 		<td>181</td>
 		<td>183</td>
-		<td>183</td>
-		<td></td>
+		<td>184</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -740,8 +740,8 @@
 		<td>175</td>
 		<td>175</td>
 		<td>175</td>
-		<td>175</td>
-		<td></td>
+		<td>176</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -762,8 +762,8 @@
 		<td>161</td>
 		<td>161</td>
 		<td>163</td>
-		<td>163</td>
-		<td></td>
+		<td>164</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -817,8 +817,8 @@
 		<td>147</td>
 		<td>147</td>
 		<td>147</td>
-		<td>147</td>
-		<td></td>
+		<td>148</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -861,8 +861,8 @@
 		<td>134</td>
 		<td>134</td>
 		<td>134</td>
-		<td>134</td>
-		<td></td>
+		<td>135</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
