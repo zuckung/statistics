@@ -32,8 +32,8 @@
 		<td>260</td>
 		<td>262</td>
 		<td>262</td>
-		<td>264</td>
-		<td>+ 2</td>
+		<td>266</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -520,8 +520,8 @@
 		<td>260</td>
 		<td>262</td>
 		<td>262</td>
-		<td>264</td>
-		<td>+ 2</td>
+		<td>266</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
