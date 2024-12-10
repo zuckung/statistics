@@ -5,10 +5,10 @@ v1.0.0-planet.pluto | downloads: 1
 v1.0.12-additional.command.buttons.radial | downloads: 21
 v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 21
-v1.0.6-uniques | downloads: 32
+v1.0.6-uniques | downloads: 34
 v1.0.3-navy.licenses | downloads: 38
 v1.0.6-coalition.shopping | downloads: 37
-v1.0.5-snowfeather.robotics | downloads: 28
+v1.0.5-snowfeather.robotics | downloads: 30
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 52
 v1.0.10-additional.command.buttons.radial | downloads: 40
@@ -30,7 +30,7 @@ v1.0.3-expert.crew.members | downloads: 120
 v1.0.2-quarg.farm | downloads: 109
 v1.0.2-landing.images.highres | downloads: 62
 v1.0.5-uniques | downloads: 82
-v1.0.3-too.many.asteroids | downloads: 143
+v1.0.3-too.many.asteroids | downloads: 145
 v1.0.1-automata.in.human.space | downloads: 91
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
@@ -52,7 +52,7 @@ v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 102
 v1.0.0-kestrel.unlocks | downloads: 147
-v1.0.2-tribute.republic | downloads: 115
+v1.0.2-tribute.republic | downloads: 117
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
 v1.0.0-tribute.republic | downloads: 2
@@ -159,7 +159,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 158
-# TOTAL DOWNLOADS: 7319
+# TOTAL DOWNLOADS: 7327
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -200,9 +200,9 @@ planet.pluto 15
 quarg.farm 230
 real.fluff 93
 show.reputation 199
-snowfeather.robotics 187
+snowfeather.robotics 189
 space.fauna 182
-too.many.asteroids 239
-tribute.republic 133
+too.many.asteroids 241
+tribute.republic 135
 unique.fix 44
-uniques 164
+uniques 166
