@@ -428,8 +428,8 @@
 		<td>187</td>
 		<td>187</td>
 		<td>187</td>
-		<td>187</td>
-		<td></td>
+		<td>189</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -450,8 +450,8 @@
 		<td>234</td>
 		<td>236</td>
 		<td>239</td>
-		<td>239</td>
-		<td></td>
+		<td>241</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -461,8 +461,8 @@
 		<td>133</td>
 		<td>133</td>
 		<td>133</td>
-		<td>133</td>
-		<td></td>
+		<td>135</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
@@ -483,8 +483,8 @@
 		<td>161</td>
 		<td>163</td>
 		<td>164</td>
-		<td>164</td>
-		<td></td>
+		<td>166</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>234</td>
 		<td>236</td>
 		<td>239</td>
-		<td>239</td>
-		<td></td>
+		<td>241</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -696,8 +696,8 @@
 		<td>187</td>
 		<td>187</td>
 		<td>187</td>
-		<td>187</td>
-		<td></td>
+		<td>189</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -755,6 +755,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>uniques</td>
+		<td>161</td>
+		<td>161</td>
+		<td>161</td>
+		<td>161</td>
+		<td>163</td>
+		<td>164</td>
+		<td>166</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>landing.images</td>
 		<td>161</td>
 		<td>161</td>
@@ -763,17 +774,6 @@
 		<td>163</td>
 		<td>165</td>
 		<td>165</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>uniques</td>
-		<td>161</td>
-		<td>161</td>
-		<td>161</td>
-		<td>161</td>
-		<td>163</td>
-		<td>164</td>
-		<td>164</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -854,6 +854,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>tribute.republic</td>
+		<td>133</td>
+		<td>133</td>
+		<td>133</td>
+		<td>133</td>
+		<td>133</td>
+		<td>133</td>
+		<td>135</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>outfits.weapon.slot</td>
 		<td>134</td>
 		<td>134</td>
@@ -862,17 +873,6 @@
 		<td>134</td>
 		<td>135</td>
 		<td>135</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>tribute.republic</td>
-		<td>133</td>
-		<td>133</td>
-		<td>133</td>
-		<td>133</td>
-		<td>133</td>
-		<td>133</td>
-		<td>133</td>
 		<td></td>
 	</tr>
 	<tr>
