@@ -65,8 +65,8 @@
 		<td>201</td>
 		<td>201</td>
 		<td>204</td>
-		<td>204</td>
-		<td></td>
+		<td>206</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -153,8 +153,8 @@
 		<td>245</td>
 		<td>247</td>
 		<td>248</td>
-		<td>248</td>
-		<td></td>
+		<td>250</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -175,8 +175,8 @@
 		<td>280</td>
 		<td>282</td>
 		<td>286</td>
-		<td>286</td>
-		<td></td>
+		<td>290</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -241,8 +241,8 @@
 		<td>222</td>
 		<td>222</td>
 		<td>222</td>
-		<td>222</td>
-		<td></td>
+		<td>224</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -296,8 +296,8 @@
 		<td>200</td>
 		<td>202</td>
 		<td>204</td>
-		<td>204</td>
-		<td></td>
+		<td>206</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -318,8 +318,8 @@
 		<td>247</td>
 		<td>247</td>
 		<td>250</td>
-		<td>250</td>
-		<td></td>
+		<td>252</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -329,8 +329,8 @@
 		<td>143</td>
 		<td>143</td>
 		<td>145</td>
-		<td>145</td>
-		<td></td>
+		<td>147</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -340,8 +340,8 @@
 		<td>134</td>
 		<td>134</td>
 		<td>135</td>
-		<td>135</td>
-		<td></td>
+		<td>137</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -450,8 +450,8 @@
 		<td>234</td>
 		<td>236</td>
 		<td>239</td>
-		<td>241</td>
-		<td>+ 2</td>
+		<td>243</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -509,8 +509,8 @@
 		<td>280</td>
 		<td>282</td>
 		<td>286</td>
-		<td>286</td>
-		<td></td>
+		<td>290</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -531,8 +531,8 @@
 		<td>247</td>
 		<td>247</td>
 		<td>250</td>
-		<td>250</td>
-		<td></td>
+		<td>252</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -542,8 +542,8 @@
 		<td>245</td>
 		<td>247</td>
 		<td>248</td>
-		<td>248</td>
-		<td></td>
+		<td>250</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -557,6 +557,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>too.many.asteroids</td>
+		<td>230</td>
+		<td>230</td>
+		<td>230</td>
+		<td>234</td>
+		<td>236</td>
+		<td>239</td>
+		<td>243</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>bunrodea.missions</td>
 		<td>236</td>
 		<td>236</td>
@@ -566,17 +577,6 @@
 		<td>242</td>
 		<td>242</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>too.many.asteroids</td>
-		<td>230</td>
-		<td>230</td>
-		<td>230</td>
-		<td>234</td>
-		<td>236</td>
-		<td>239</td>
-		<td>241</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -619,8 +619,8 @@
 		<td>222</td>
 		<td>222</td>
 		<td>222</td>
-		<td>222</td>
-		<td></td>
+		<td>224</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -641,8 +641,8 @@
 		<td>200</td>
 		<td>202</td>
 		<td>204</td>
-		<td>204</td>
-		<td></td>
+		<td>206</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -652,8 +652,8 @@
 		<td>201</td>
 		<td>201</td>
 		<td>204</td>
-		<td>204</td>
-		<td></td>
+		<td>206</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -821,6 +821,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>no.more.mereti.mines</td>
+		<td>141</td>
+		<td>141</td>
+		<td>141</td>
+		<td>143</td>
+		<td>143</td>
+		<td>145</td>
+		<td>147</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>kestrel.unlocks</td>
 		<td>145</td>
 		<td>145</td>
@@ -843,15 +854,15 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>no.more.mereti.mines</td>
-		<td>141</td>
-		<td>141</td>
-		<td>141</td>
-		<td>143</td>
-		<td>143</td>
-		<td>145</td>
-		<td>145</td>
-		<td></td>
+		<td>outfits.weapon.slot</td>
+		<td>134</td>
+		<td>134</td>
+		<td>134</td>
+		<td>134</td>
+		<td>134</td>
+		<td>135</td>
+		<td>137</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -863,17 +874,6 @@
 		<td>133</td>
 		<td>135</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>outfits.weapon.slot</td>
-		<td>134</td>
-		<td>134</td>
-		<td>134</td>
-		<td>134</td>
-		<td>134</td>
-		<td>135</td>
-		<td>135</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
