@@ -219,8 +219,8 @@
 		<td>191</td>
 		<td>196</td>
 		<td>197</td>
-		<td>197</td>
-		<td></td>
+		<td>199</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -318,8 +318,8 @@
 		<td>247</td>
 		<td>250</td>
 		<td>252</td>
-		<td>252</td>
-		<td></td>
+		<td>254</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -340,8 +340,8 @@
 		<td>134</td>
 		<td>135</td>
 		<td>138</td>
-		<td>138</td>
-		<td></td>
+		<td>140</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -351,8 +351,8 @@
 		<td>144</td>
 		<td>146</td>
 		<td>146</td>
-		<td>146</td>
-		<td></td>
+		<td>148</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -531,8 +531,8 @@
 		<td>247</td>
 		<td>250</td>
 		<td>252</td>
-		<td>252</td>
-		<td></td>
+		<td>254</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -674,8 +674,8 @@
 		<td>191</td>
 		<td>196</td>
 		<td>197</td>
-		<td>197</td>
-		<td></td>
+		<td>199</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -821,6 +821,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>paint.your.ships</td>
+		<td>144</td>
+		<td>144</td>
+		<td>144</td>
+		<td>144</td>
+		<td>146</td>
+		<td>146</td>
+		<td>148</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>no.more.mereti.mines</td>
 		<td>141</td>
 		<td>141</td>
@@ -843,17 +854,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>paint.your.ships</td>
-		<td>144</td>
-		<td>144</td>
-		<td>144</td>
-		<td>144</td>
-		<td>146</td>
-		<td>146</td>
-		<td>146</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>outfits.weapon.slot</td>
 		<td>134</td>
 		<td>134</td>
@@ -861,8 +861,8 @@
 		<td>134</td>
 		<td>135</td>
 		<td>138</td>
-		<td>138</td>
-		<td></td>
+		<td>140</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
