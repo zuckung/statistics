@@ -6,7 +6,7 @@ v1.0.12-additional.command.buttons.radial | downloads: 21
 v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 21
 v1.0.6-uniques | downloads: 34
-v1.0.3-navy.licenses | downloads: 40
+v1.0.3-navy.licenses | downloads: 42
 v1.0.6-coalition.shopping | downloads: 39
 v1.0.5-snowfeather.robotics | downloads: 31
 v1.0.4-snowfeather.robotics | downloads: 3
@@ -40,14 +40,14 @@ v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 116
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 91
-v1.0.1-paint.your.ships | downloads: 142
+v1.0.1-paint.your.ships | downloads: 144
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
 v1.0.1-uniques | downloads: 14
 v1.0.4-additional.command.buttons.radial | downloads: 5
 v1.0.3-additional.command.buttons.radial | downloads: 10
 v1.0.2-additional.command.buttons.radial | downloads: 4
-v1.0.0-outfits.weapon.slot | downloads: 138
+v1.0.0-outfits.weapon.slot | downloads: 140
 v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 103
@@ -69,7 +69,7 @@ v1.0.1-no.more.mereti.mines | downloads: 1
 v1.0.8-real.fluff | downloads: 80
 v1.0.7-real.fluff | downloads: 1
 v1.0.6-real.fluff | downloads: 1
-v1.0.1-jump.gates | downloads: 196
+v1.0.1-jump.gates | downloads: 198
 v1.0.0-jump.gates | downloads: 1
 v1.1.4-captureable.person.ships | downloads: 96
 v1.1.3-galactic.capital.investment | downloads: 168
@@ -159,7 +159,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 158
-# TOTAL DOWNLOADS: 7370
+# TOTAL DOWNLOADS: 7378
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -181,7 +181,7 @@ galactic.capital.investment 290
 gegno.pirates 248
 hai.side.mission.unlocker 191
 human.labels 155
-jump.gates 197
+jump.gates 199
 kestrel.unlocks 147
 kor.efret.shipyard 225
 landing.images 166
@@ -190,10 +190,10 @@ landing.images.highres 131
 more.arfectas 225
 more.boarding.missions 207
 more.person.ships 213
-navy.licenses 252
+navy.licenses 254
 no.more.mereti.mines 147
-outfits.weapon.slot 138
-paint.your.ships 146
+outfits.weapon.slot 140
+paint.your.ships 148
 pirate.warlords 3
 planet.map 128
 planet.pluto 18
