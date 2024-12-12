@@ -87,8 +87,8 @@
 		<td>178</td>
 		<td>178</td>
 		<td>178</td>
-		<td>178</td>
-		<td></td>
+		<td>180</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -208,8 +208,8 @@
 		<td>155</td>
 		<td>155</td>
 		<td>157</td>
-		<td>157</td>
-		<td></td>
+		<td>159</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -296,8 +296,8 @@
 		<td>204</td>
 		<td>207</td>
 		<td>207</td>
-		<td>209</td>
-		<td>+ 2</td>
+		<td>211</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -461,8 +461,8 @@
 		<td>133</td>
 		<td>135</td>
 		<td>135</td>
-		<td>135</td>
-		<td></td>
+		<td>137</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
@@ -483,8 +483,8 @@
 		<td>164</td>
 		<td>166</td>
 		<td>166</td>
-		<td>168</td>
-		<td>+ 2</td>
+		<td>170</td>
+		<td>+ 4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>204</td>
 		<td>207</td>
 		<td>207</td>
-		<td>209</td>
-		<td>+ 2</td>
+		<td>211</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -740,8 +740,8 @@
 		<td>178</td>
 		<td>178</td>
 		<td>178</td>
-		<td>178</td>
-		<td></td>
+		<td>180</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -762,8 +762,8 @@
 		<td>164</td>
 		<td>166</td>
 		<td>166</td>
-		<td>168</td>
-		<td>+ 2</td>
+		<td>170</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -795,8 +795,8 @@
 		<td>155</td>
 		<td>155</td>
 		<td>157</td>
-		<td>157</td>
-		<td></td>
+		<td>159</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -872,8 +872,8 @@
 		<td>133</td>
 		<td>135</td>
 		<td>135</td>
-		<td>135</td>
-		<td></td>
+		<td>137</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
