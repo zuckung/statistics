@@ -4,8 +4,8 @@ v1.0.1-planet.pluto | downloads: 17
 v1.0.0-planet.pluto | downloads: 1
 v1.0.12-additional.command.buttons.radial | downloads: 21
 v1.0.11-additional.command.buttons.radial | downloads: 1
-v1.1.6-captureable.person.ships | downloads: 21
-v1.0.6-uniques | downloads: 36
+v1.1.6-captureable.person.ships | downloads: 23
+v1.0.6-uniques | downloads: 38
 v1.0.3-navy.licenses | downloads: 46
 v1.0.6-coalition.shopping | downloads: 39
 v1.0.5-snowfeather.robotics | downloads: 31
@@ -52,7 +52,7 @@ v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 103
 v1.0.0-kestrel.unlocks | downloads: 147
-v1.0.2-tribute.republic | downloads: 117
+v1.0.2-tribute.republic | downloads: 119
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
 v1.0.0-tribute.republic | downloads: 2
@@ -74,7 +74,7 @@ v1.0.0-jump.gates | downloads: 1
 v1.1.4-captureable.person.ships | downloads: 96
 v1.1.3-galactic.capital.investment | downloads: 168
 v1.0.5-real.fluff | downloads: 1
-v1.0.4-human.labels | downloads: 152
+v1.0.4-human.labels | downloads: 154
 v1.0.3-human.labels | downloads: 2
 v1.0.2-human.labels | downloads: 1
 v1.0.1-human.labels | downloads: 1
@@ -105,7 +105,7 @@ v1.0.0-quarg.farm | downloads: 1
 v1.0.1-control.station | downloads: 187
 v1.0.0-control.station | downloads: 1
 v1.0.0-additional.command.buttons.radial | downloads: 52
-v1.1.3-more.boarding.missions | downloads: 202
+v1.1.3-more.boarding.missions | downloads: 204
 v1.0.3-coalition.shopping | downloads: 97
 v1.0.2-coalition.shopping | downloads: 1
 v1.0.1-navy.licenses | downloads: 1
@@ -159,7 +159,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 158
-# TOTAL DOWNLOADS: 7413
+# TOTAL DOWNLOADS: 7423
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -169,7 +169,7 @@ automata.destruction.0percent 183
 automata.in.human.space 152
 better.starts 209
 bunrodea.missions 246
-captureable.person.ships 178
+captureable.person.ships 180
 coalition.shopping 233
 control.station 188
 devil-run.unhidden 66
@@ -180,7 +180,7 @@ free.worlds.5.years.later 152
 galactic.capital.investment 290
 gegno.pirates 254
 hai.side.mission.unlocker 193
-human.labels 157
+human.labels 159
 jump.gates 199
 kestrel.unlocks 147
 kor.efret.shipyard 225
@@ -188,7 +188,7 @@ landing.images 168
 landing.images.android 161
 landing.images.highres 131
 more.arfectas 227
-more.boarding.missions 209
+more.boarding.missions 211
 more.person.ships 213
 navy.licenses 258
 no.more.mereti.mines 147
@@ -203,6 +203,6 @@ show.reputation 199
 snowfeather.robotics 190
 space.fauna 183
 too.many.asteroids 243
-tribute.republic 135
+tribute.republic 137
 unique.fix 44
-uniques 168
+uniques 170
