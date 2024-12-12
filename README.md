@@ -153,8 +153,8 @@
 		<td>248</td>
 		<td>250</td>
 		<td>252</td>
-		<td>254</td>
-		<td>+ 2</td>
+		<td>256</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -186,8 +186,8 @@
 		<td>247</td>
 		<td>248</td>
 		<td>250</td>
-		<td>252</td>
-		<td>+ 2</td>
+		<td>254</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -318,8 +318,8 @@
 		<td>250</td>
 		<td>252</td>
 		<td>256</td>
-		<td>256</td>
-		<td></td>
+		<td>258</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -531,8 +531,8 @@
 		<td>250</td>
 		<td>252</td>
 		<td>256</td>
-		<td>256</td>
-		<td></td>
+		<td>258</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -542,8 +542,8 @@
 		<td>248</td>
 		<td>250</td>
 		<td>252</td>
-		<td>254</td>
-		<td>+ 2</td>
+		<td>256</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -553,8 +553,8 @@
 		<td>247</td>
 		<td>248</td>
 		<td>250</td>
-		<td>252</td>
-		<td>+ 2</td>
+		<td>254</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
