@@ -32,8 +32,8 @@
 		<td>266</td>
 		<td>266</td>
 		<td>270</td>
-		<td>270</td>
-		<td></td>
+		<td>272</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -142,8 +142,8 @@
 		<td>172</td>
 		<td>172</td>
 		<td>176</td>
-		<td>176</td>
-		<td></td>
+		<td>178</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -219,8 +219,8 @@
 		<td>197</td>
 		<td>199</td>
 		<td>203</td>
-		<td>203</td>
-		<td></td>
+		<td>205</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -252,8 +252,8 @@
 		<td>165</td>
 		<td>166</td>
 		<td>172</td>
-		<td>172</td>
-		<td></td>
+		<td>174</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -263,8 +263,8 @@
 		<td>161</td>
 		<td>161</td>
 		<td>165</td>
-		<td>165</td>
-		<td></td>
+		<td>167</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -318,8 +318,8 @@
 		<td>252</td>
 		<td>256</td>
 		<td>262</td>
-		<td>262</td>
-		<td></td>
+		<td>264</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -329,8 +329,8 @@
 		<td>147</td>
 		<td>147</td>
 		<td>151</td>
-		<td>151</td>
-		<td></td>
+		<td>153</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -395,8 +395,8 @@
 		<td>231</td>
 		<td>231</td>
 		<td>235</td>
-		<td>235</td>
-		<td></td>
+		<td>237</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -450,8 +450,8 @@
 		<td>243</td>
 		<td>243</td>
 		<td>247</td>
-		<td>247</td>
-		<td></td>
+		<td>249</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -520,8 +520,8 @@
 		<td>266</td>
 		<td>266</td>
 		<td>270</td>
-		<td>270</td>
-		<td></td>
+		<td>272</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -531,8 +531,8 @@
 		<td>252</td>
 		<td>256</td>
 		<td>262</td>
-		<td>262</td>
-		<td></td>
+		<td>264</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -575,8 +575,19 @@
 		<td>243</td>
 		<td>243</td>
 		<td>247</td>
-		<td>247</td>
-		<td></td>
+		<td>249</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>quarg.farm</td>
+		<td>228</td>
+		<td>228</td>
+		<td>230</td>
+		<td>231</td>
+		<td>231</td>
+		<td>235</td>
+		<td>237</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -587,17 +598,6 @@
 		<td>233</td>
 		<td>237</td>
 		<td>237</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>quarg.farm</td>
-		<td>228</td>
-		<td>228</td>
-		<td>230</td>
-		<td>231</td>
-		<td>231</td>
-		<td>235</td>
-		<td>235</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -656,22 +656,22 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>show.reputation</td>
-		<td>194</td>
-		<td>196</td>
-		<td>199</td>
-		<td>199</td>
-		<td>199</td>
-		<td>203</td>
-		<td>203</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>jump.gates</td>
 		<td>191</td>
 		<td>191</td>
 		<td>196</td>
 		<td>197</td>
+		<td>199</td>
+		<td>203</td>
+		<td>205</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>show.reputation</td>
+		<td>194</td>
+		<td>196</td>
+		<td>199</td>
+		<td>199</td>
 		<td>199</td>
 		<td>203</td>
 		<td>203</td>
@@ -751,8 +751,8 @@
 		<td>172</td>
 		<td>172</td>
 		<td>176</td>
-		<td>176</td>
-		<td></td>
+		<td>178</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -773,8 +773,8 @@
 		<td>165</td>
 		<td>166</td>
 		<td>172</td>
-		<td>172</td>
-		<td></td>
+		<td>174</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -784,8 +784,8 @@
 		<td>161</td>
 		<td>161</td>
 		<td>165</td>
-		<td>165</td>
-		<td></td>
+		<td>167</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -839,8 +839,8 @@
 		<td>147</td>
 		<td>147</td>
 		<td>151</td>
-		<td>151</td>
-		<td></td>
+		<td>153</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
