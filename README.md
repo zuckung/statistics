@@ -76,8 +76,8 @@
 		<td>244</td>
 		<td>250</td>
 		<td>250</td>
-		<td>250</td>
-		<td></td>
+		<td>252</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -142,8 +142,8 @@
 		<td>172</td>
 		<td>176</td>
 		<td>178</td>
-		<td>178</td>
-		<td></td>
+		<td>180</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -153,8 +153,8 @@
 		<td>252</td>
 		<td>260</td>
 		<td>260</td>
-		<td>260</td>
-		<td></td>
+		<td>261</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -175,8 +175,8 @@
 		<td>290</td>
 		<td>294</td>
 		<td>294</td>
-		<td>294</td>
-		<td></td>
+		<td>296</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -186,8 +186,8 @@
 		<td>250</td>
 		<td>258</td>
 		<td>258</td>
-		<td>258</td>
-		<td></td>
+		<td>260</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -296,8 +296,8 @@
 		<td>207</td>
 		<td>215</td>
 		<td>215</td>
-		<td>215</td>
-		<td></td>
+		<td>217</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -428,8 +428,8 @@
 		<td>190</td>
 		<td>194</td>
 		<td>194</td>
-		<td>194</td>
-		<td></td>
+		<td>196</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -509,8 +509,8 @@
 		<td>290</td>
 		<td>294</td>
 		<td>294</td>
-		<td>294</td>
-		<td></td>
+		<td>296</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -542,8 +542,8 @@
 		<td>252</td>
 		<td>260</td>
 		<td>260</td>
-		<td>260</td>
-		<td></td>
+		<td>261</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -553,8 +553,8 @@
 		<td>250</td>
 		<td>258</td>
 		<td>258</td>
-		<td>258</td>
-		<td></td>
+		<td>260</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -564,8 +564,8 @@
 		<td>244</td>
 		<td>250</td>
 		<td>250</td>
-		<td>250</td>
-		<td></td>
+		<td>252</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -641,8 +641,8 @@
 		<td>207</td>
 		<td>215</td>
 		<td>215</td>
-		<td>215</td>
-		<td></td>
+		<td>217</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -696,8 +696,8 @@
 		<td>190</td>
 		<td>194</td>
 		<td>194</td>
-		<td>194</td>
-		<td></td>
+		<td>196</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -751,8 +751,8 @@
 		<td>172</td>
 		<td>176</td>
 		<td>178</td>
-		<td>178</td>
-		<td></td>
+		<td>180</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
