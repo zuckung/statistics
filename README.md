@@ -65,8 +65,8 @@
 		<td>213</td>
 		<td>213</td>
 		<td>213</td>
-		<td>213</td>
-		<td></td>
+		<td>215</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -142,8 +142,8 @@
 		<td>176</td>
 		<td>178</td>
 		<td>180</td>
-		<td>180</td>
-		<td></td>
+		<td>182</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -164,8 +164,8 @@
 		<td>156</td>
 		<td>156</td>
 		<td>156</td>
-		<td>156</td>
-		<td></td>
+		<td>158</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -175,8 +175,8 @@
 		<td>294</td>
 		<td>294</td>
 		<td>296</td>
-		<td>296</td>
-		<td></td>
+		<td>298</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -219,8 +219,8 @@
 		<td>203</td>
 		<td>205</td>
 		<td>205</td>
-		<td>205</td>
-		<td></td>
+		<td>207</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -509,8 +509,8 @@
 		<td>294</td>
 		<td>294</td>
 		<td>296</td>
-		<td>296</td>
-		<td></td>
+		<td>298</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -652,8 +652,8 @@
 		<td>213</td>
 		<td>213</td>
 		<td>213</td>
-		<td>213</td>
-		<td></td>
+		<td>215</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -663,8 +663,8 @@
 		<td>203</td>
 		<td>205</td>
 		<td>205</td>
-		<td>205</td>
-		<td></td>
+		<td>207</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -751,8 +751,8 @@
 		<td>176</td>
 		<td>178</td>
 		<td>180</td>
-		<td>180</td>
-		<td></td>
+		<td>182</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -806,8 +806,8 @@
 		<td>156</td>
 		<td>156</td>
 		<td>156</td>
-		<td>156</td>
-		<td></td>
+		<td>158</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
