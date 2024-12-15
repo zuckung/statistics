@@ -32,8 +32,8 @@
 		<td>270</td>
 		<td>272</td>
 		<td>274</td>
-		<td>276</td>
-		<td>+ 2</td>
+		<td>279</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -76,8 +76,8 @@
 		<td>250</td>
 		<td>250</td>
 		<td>252</td>
-		<td>252</td>
-		<td></td>
+		<td>254</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -87,8 +87,8 @@
 		<td>184</td>
 		<td>184</td>
 		<td>184</td>
-		<td>184</td>
-		<td></td>
+		<td>186</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -186,8 +186,8 @@
 		<td>258</td>
 		<td>258</td>
 		<td>260</td>
-		<td>262</td>
-		<td>+ 2</td>
+		<td>264</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -285,8 +285,8 @@
 		<td>231</td>
 		<td>231</td>
 		<td>231</td>
-		<td>233</td>
-		<td>+ 2</td>
+		<td>235</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -296,8 +296,8 @@
 		<td>215</td>
 		<td>215</td>
 		<td>217</td>
-		<td>217</td>
-		<td></td>
+		<td>219</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -307,8 +307,8 @@
 		<td>217</td>
 		<td>217</td>
 		<td>217</td>
-		<td>217</td>
-		<td></td>
+		<td>218</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -340,8 +340,8 @@
 		<td>144</td>
 		<td>144</td>
 		<td>144</td>
-		<td>146</td>
-		<td>+ 2</td>
+		<td>147</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -439,8 +439,8 @@
 		<td>187</td>
 		<td>187</td>
 		<td>187</td>
-		<td>187</td>
-		<td></td>
+		<td>188</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -520,8 +520,8 @@
 		<td>270</td>
 		<td>272</td>
 		<td>274</td>
-		<td>276</td>
-		<td>+ 2</td>
+		<td>279</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -542,8 +542,8 @@
 		<td>258</td>
 		<td>258</td>
 		<td>260</td>
-		<td>262</td>
-		<td>+ 2</td>
+		<td>264</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -564,8 +564,8 @@
 		<td>250</td>
 		<td>250</td>
 		<td>252</td>
-		<td>252</td>
-		<td></td>
+		<td>254</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -608,8 +608,8 @@
 		<td>231</td>
 		<td>231</td>
 		<td>231</td>
-		<td>233</td>
-		<td>+ 2</td>
+		<td>235</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -623,17 +623,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>more.person.ships</td>
-		<td>213</td>
-		<td>213</td>
-		<td>213</td>
-		<td>217</td>
-		<td>217</td>
-		<td>217</td>
-		<td>217</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>more.boarding.missions</td>
 		<td>204</td>
 		<td>207</td>
@@ -641,8 +630,19 @@
 		<td>215</td>
 		<td>215</td>
 		<td>217</td>
+		<td>219</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>more.person.ships</td>
+		<td>213</td>
+		<td>213</td>
+		<td>213</td>
 		<td>217</td>
-		<td></td>
+		<td>217</td>
+		<td>217</td>
+		<td>218</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -718,8 +718,8 @@
 		<td>187</td>
 		<td>187</td>
 		<td>187</td>
-		<td>187</td>
-		<td></td>
+		<td>188</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -740,8 +740,8 @@
 		<td>184</td>
 		<td>184</td>
 		<td>184</td>
-		<td>184</td>
-		<td></td>
+		<td>186</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -861,8 +861,8 @@
 		<td>144</td>
 		<td>144</td>
 		<td>144</td>
-		<td>146</td>
-		<td>+ 2</td>
+		<td>147</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
