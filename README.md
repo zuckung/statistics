@@ -164,8 +164,8 @@
 		<td>156</td>
 		<td>156</td>
 		<td>156</td>
-		<td>160</td>
-		<td>+ 4</td>
+		<td>162</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -241,8 +241,8 @@
 		<td>229</td>
 		<td>231</td>
 		<td>231</td>
-		<td>231</td>
-		<td></td>
+		<td>233</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -428,8 +428,8 @@
 		<td>194</td>
 		<td>194</td>
 		<td>196</td>
-		<td>196</td>
-		<td></td>
+		<td>198</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -450,8 +450,8 @@
 		<td>247</td>
 		<td>249</td>
 		<td>249</td>
-		<td>249</td>
-		<td></td>
+		<td>251</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -575,8 +575,8 @@
 		<td>247</td>
 		<td>249</td>
 		<td>249</td>
-		<td>249</td>
-		<td></td>
+		<td>251</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -619,8 +619,8 @@
 		<td>229</td>
 		<td>231</td>
 		<td>231</td>
-		<td>231</td>
-		<td></td>
+		<td>233</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -678,6 +678,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>snowfeather.robotics</td>
+		<td>187</td>
+		<td>190</td>
+		<td>190</td>
+		<td>194</td>
+		<td>194</td>
+		<td>196</td>
+		<td>198</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>hai.side.mission.unlocker</td>
 		<td>191</td>
 		<td>191</td>
@@ -686,17 +697,6 @@
 		<td>197</td>
 		<td>197</td>
 		<td>197</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>snowfeather.robotics</td>
-		<td>187</td>
-		<td>190</td>
-		<td>190</td>
-		<td>194</td>
-		<td>194</td>
-		<td>196</td>
-		<td>196</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -806,8 +806,8 @@
 		<td>156</td>
 		<td>156</td>
 		<td>156</td>
-		<td>160</td>
-		<td>+ 4</td>
+		<td>162</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
