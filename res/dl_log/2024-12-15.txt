@@ -9,7 +9,7 @@ v1.0.0-planet.pluto | downloads: 1
 v1.0.12-additional.command.buttons.radial | downloads: 31
 v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 27
-v1.0.6-uniques | downloads: 42
+v1.0.6-uniques | downloads: 44
 v1.0.3-navy.licenses | downloads: 52
 v1.0.6-coalition.shopping | downloads: 43
 v1.0.5-snowfeather.robotics | downloads: 37
@@ -163,7 +163,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 162
-# TOTAL DOWNLOADS: 7624
+# TOTAL DOWNLOADS: 7626
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -209,4 +209,4 @@ space.fauna 187
 too.many.asteroids 249
 tribute.republic 141
 unique.fix 44
-uniques 174
+uniques 176
