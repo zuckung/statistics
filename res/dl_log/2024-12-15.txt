@@ -6,7 +6,7 @@ v1.0.2-jump.gates | downloads: 6
 v1.0.4-expert.crew.members | downloads: 23
 v1.0.1-planet.pluto | downloads: 19
 v1.0.0-planet.pluto | downloads: 1
-v1.0.12-additional.command.buttons.radial | downloads: 29
+v1.0.12-additional.command.buttons.radial | downloads: 31
 v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 27
 v1.0.6-uniques | downloads: 42
@@ -60,7 +60,7 @@ v1.0.2-tribute.republic | downloads: 123
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
 v1.0.0-tribute.republic | downloads: 2
-v1.0.3-landing.images.android | downloads: 139
+v1.0.3-landing.images.android | downloads: 141
 v1.0.2-landing.images.android | downloads: 2
 v1.0.1-landing.images.android | downloads: 21
 v1.0.2-no.more.mereti.mines | downloads: 54
@@ -163,12 +163,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 162
-# TOTAL DOWNLOADS: 7610
+# TOTAL DOWNLOADS: 7614
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 274
+additional.command.buttons.radial 276
 automata.destruction.0percent 187
 automata.in.human.space 156
 better.starts 213
@@ -189,7 +189,7 @@ jump.gates 205
 kestrel.unlocks 151
 kor.efret.shipyard 231
 landing.images 174
-landing.images.android 167
+landing.images.android 169
 landing.images.highres 135
 more.arfectas 231
 more.boarding.missions 217
