@@ -109,8 +109,8 @@
 		<td>192</td>
 		<td>192</td>
 		<td>192</td>
-		<td>192</td>
-		<td></td>
+		<td>194</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -483,8 +483,8 @@
 		<td>174</td>
 		<td>174</td>
 		<td>174</td>
-		<td>176</td>
-		<td>+ 2</td>
+		<td>178</td>
+		<td>+ 4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -707,8 +707,8 @@
 		<td>192</td>
 		<td>192</td>
 		<td>192</td>
-		<td>192</td>
-		<td></td>
+		<td>194</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -762,8 +762,8 @@
 		<td>174</td>
 		<td>174</td>
 		<td>174</td>
-		<td>176</td>
-		<td>+ 2</td>
+		<td>178</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
