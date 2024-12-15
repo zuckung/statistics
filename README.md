@@ -32,8 +32,8 @@
 		<td>270</td>
 		<td>272</td>
 		<td>274</td>
-		<td>274</td>
-		<td></td>
+		<td>276</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -263,8 +263,8 @@
 		<td>165</td>
 		<td>167</td>
 		<td>167</td>
-		<td>167</td>
-		<td></td>
+		<td>169</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -520,8 +520,8 @@
 		<td>270</td>
 		<td>272</td>
 		<td>274</td>
-		<td>274</td>
-		<td></td>
+		<td>276</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -784,8 +784,8 @@
 		<td>165</td>
 		<td>167</td>
 		<td>167</td>
-		<td>167</td>
-		<td></td>
+		<td>169</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
