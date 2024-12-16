@@ -483,8 +483,8 @@
 		<td>174</td>
 		<td>174</td>
 		<td>178</td>
-		<td>178</td>
-		<td></td>
+		<td>180</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -762,8 +762,8 @@
 		<td>174</td>
 		<td>174</td>
 		<td>178</td>
-		<td>178</td>
-		<td></td>
+		<td>180</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
