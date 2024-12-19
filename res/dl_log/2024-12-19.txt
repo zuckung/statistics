@@ -6,15 +6,15 @@ v1.0.2-jump.gates | downloads: 10
 v1.0.4-expert.crew.members | downloads: 23
 v1.0.1-planet.pluto | downloads: 19
 v1.0.0-planet.pluto | downloads: 1
-v1.0.12-additional.command.buttons.radial | downloads: 34
+v1.0.12-additional.command.buttons.radial | downloads: 36
 v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 31
 v1.0.6-uniques | downloads: 48
-v1.0.3-navy.licenses | downloads: 52
+v1.0.3-navy.licenses | downloads: 54
 v1.0.6-coalition.shopping | downloads: 45
 v1.0.5-snowfeather.robotics | downloads: 41
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 63
+v1.0.2-kor.efret.shipyard | downloads: 65
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 64
@@ -128,7 +128,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 234
+v1.0.2-more.arfectas | downloads: 236
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -163,12 +163,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 162
-# TOTAL DOWNLOADS: 7697
+# TOTAL DOWNLOADS: 7705
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 279
+additional.command.buttons.radial 281
 automata.destruction.0percent 187
 automata.in.human.space 156
 better.starts 215
@@ -187,14 +187,14 @@ hai.side.mission.unlocker 197
 human.labels 163
 jump.gates 209
 kestrel.unlocks 153
-kor.efret.shipyard 233
+kor.efret.shipyard 235
 landing.images 174
 landing.images.android 169
 landing.images.highres 137
-more.arfectas 236
+more.arfectas 238
 more.boarding.missions 221
 more.person.ships 218
-navy.licenses 264
+navy.licenses 266
 no.more.mereti.mines 153
 outfits.weapon.slot 148
 paint.your.ships 156
