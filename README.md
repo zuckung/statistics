@@ -32,8 +32,8 @@
 		<td>279</td>
 		<td>279</td>
 		<td>279</td>
-		<td>281</td>
-		<td>+ 2</td>
+		<td>283</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -76,8 +76,8 @@
 		<td>254</td>
 		<td>254</td>
 		<td>256</td>
-		<td>258</td>
-		<td>+ 2</td>
+		<td>260</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -142,8 +142,8 @@
 		<td>182</td>
 		<td>182</td>
 		<td>183</td>
-		<td>183</td>
-		<td></td>
+		<td>185</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -153,8 +153,8 @@
 		<td>261</td>
 		<td>261</td>
 		<td>261</td>
-		<td>261</td>
-		<td></td>
+		<td>263</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -186,8 +186,8 @@
 		<td>264</td>
 		<td>264</td>
 		<td>264</td>
-		<td>264</td>
-		<td></td>
+		<td>266</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -208,8 +208,8 @@
 		<td>163</td>
 		<td>163</td>
 		<td>163</td>
-		<td>163</td>
-		<td></td>
+		<td>165</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -296,8 +296,8 @@
 		<td>219</td>
 		<td>219</td>
 		<td>219</td>
-		<td>221</td>
-		<td>+ 2</td>
+		<td>223</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -318,8 +318,8 @@
 		<td>264</td>
 		<td>264</td>
 		<td>264</td>
-		<td>266</td>
-		<td>+ 2</td>
+		<td>268</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -450,8 +450,8 @@
 		<td>251</td>
 		<td>251</td>
 		<td>252</td>
-		<td>252</td>
-		<td></td>
+		<td>254</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -520,8 +520,8 @@
 		<td>279</td>
 		<td>279</td>
 		<td>279</td>
-		<td>281</td>
-		<td>+ 2</td>
+		<td>283</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -531,8 +531,8 @@
 		<td>264</td>
 		<td>264</td>
 		<td>264</td>
-		<td>266</td>
-		<td>+ 2</td>
+		<td>268</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -542,8 +542,8 @@
 		<td>264</td>
 		<td>264</td>
 		<td>264</td>
-		<td>264</td>
-		<td></td>
+		<td>266</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -553,8 +553,8 @@
 		<td>261</td>
 		<td>261</td>
 		<td>261</td>
-		<td>261</td>
-		<td></td>
+		<td>263</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -564,8 +564,8 @@
 		<td>254</td>
 		<td>254</td>
 		<td>256</td>
-		<td>258</td>
-		<td>+ 2</td>
+		<td>260</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -575,8 +575,8 @@
 		<td>251</td>
 		<td>251</td>
 		<td>252</td>
-		<td>252</td>
-		<td></td>
+		<td>254</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -630,8 +630,8 @@
 		<td>219</td>
 		<td>219</td>
 		<td>219</td>
-		<td>221</td>
-		<td>+ 2</td>
+		<td>223</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -751,8 +751,8 @@
 		<td>182</td>
 		<td>182</td>
 		<td>183</td>
-		<td>183</td>
-		<td></td>
+		<td>185</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -795,8 +795,8 @@
 		<td>163</td>
 		<td>163</td>
 		<td>163</td>
-		<td>163</td>
-		<td></td>
+		<td>165</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
