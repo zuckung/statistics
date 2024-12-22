@@ -9,7 +9,7 @@ v1.0.1-planet.pluto | downloads: 19
 v1.0.0-planet.pluto | downloads: 1
 v1.0.12-additional.command.buttons.radial | downloads: 39
 v1.0.11-additional.command.buttons.radial | downloads: 1
-v1.1.6-captureable.person.ships | downloads: 32
+v1.1.6-captureable.person.ships | downloads: 34
 v1.0.6-uniques | downloads: 49
 v1.0.3-navy.licenses | downloads: 57
 v1.0.6-coalition.shopping | downloads: 50
@@ -32,7 +32,7 @@ v1.0.7-additional.command.buttons.radial | downloads: 9
 v1.0.4-landing.images | downloads: 104
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 120
-v1.0.2-quarg.farm | downloads: 122
+v1.0.2-quarg.farm | downloads: 124
 v1.0.2-landing.images.highres | downloads: 72
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 161
@@ -45,7 +45,7 @@ v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 127
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 98
-v1.0.1-paint.your.ships | downloads: 155
+v1.0.1-paint.your.ships | downloads: 157
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
 v1.0.1-uniques | downloads: 14
@@ -61,7 +61,7 @@ v1.0.2-tribute.republic | downloads: 124
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
 v1.0.0-tribute.republic | downloads: 2
-v1.0.3-landing.images.android | downloads: 142
+v1.0.3-landing.images.android | downloads: 144
 v1.0.2-landing.images.android | downloads: 2
 v1.0.1-landing.images.android | downloads: 21
 v1.0.2-no.more.mereti.mines | downloads: 54
@@ -164,7 +164,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 163
-# TOTAL DOWNLOADS: 7815
+# TOTAL DOWNLOADS: 7823
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -174,7 +174,7 @@ automata.destruction.0percent 188
 automata.in.human.space 159
 better.starts 216
 bunrodea.missions 267
-captureable.person.ships 189
+captureable.person.ships 191
 coalition.shopping 244
 control.station 195
 devil-run.unhidden 66
@@ -190,7 +190,7 @@ jump.gates 210
 kestrel.unlocks 154
 kor.efret.shipyard 238
 landing.images 177
-landing.images.android 170
+landing.images.android 172
 landing.images.highres 140
 more.arfectas 241
 more.boarding.missions 226
@@ -198,11 +198,11 @@ more.person.ships 221
 navy.licenses 269
 no.more.mereti.mines 154
 outfits.weapon.slot 149
-paint.your.ships 159
+paint.your.ships 161
 pirate.warlords 3
 planet.map 133
 planet.pluto 27
-quarg.farm 243
+quarg.farm 245
 real.fluff 93
 show.reputation 209
 snowfeather.robotics 201
