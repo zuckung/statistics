@@ -417,8 +417,8 @@
 		<td>207</td>
 		<td>209</td>
 		<td>209</td>
-		<td>209</td>
-		<td></td>
+		<td>211</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -656,6 +656,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>show.reputation</td>
+		<td>205</td>
+		<td>205</td>
+		<td>206</td>
+		<td>207</td>
+		<td>209</td>
+		<td>209</td>
+		<td>211</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>jump.gates</td>
 		<td>207</td>
 		<td>207</td>
@@ -664,17 +675,6 @@
 		<td>210</td>
 		<td>210</td>
 		<td>210</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>show.reputation</td>
-		<td>205</td>
-		<td>205</td>
-		<td>206</td>
-		<td>207</td>
-		<td>209</td>
-		<td>209</td>
-		<td>209</td>
 		<td></td>
 	</tr>
 	<tr>
