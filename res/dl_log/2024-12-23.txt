@@ -22,7 +22,7 @@ v1.0.2-show.reputation | downloads: 69
 v1.0.1-show.reputation | downloads: 1
 v1.1.4-galactic.capital.investment | downloads: 108
 v1.0.9-additional.command.buttons.radial | downloads: 28
-v1.0.2-gegno.pirates | downloads: 99
+v1.0.2-gegno.pirates | downloads: 101
 v1.0.1-kor.efret.shipyard | downloads: 15
 v1.0.2-more.person.ships | downloads: 90
 v1.0.8-additional.command.buttons.radial | downloads: 20
@@ -164,7 +164,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 163
-# TOTAL DOWNLOADS: 7859
+# TOTAL DOWNLOADS: 7861
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -183,7 +183,7 @@ disable.spaceport.repeatables 190
 expert.crew.members 266
 free.worlds.5.years.later 163
 galactic.capital.investment 306
-gegno.pirates 271
+gegno.pirates 273
 hai.side.mission.unlocker 204
 human.labels 166
 jump.gates 210
