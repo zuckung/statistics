@@ -230,8 +230,8 @@
 		<td>154</td>
 		<td>154</td>
 		<td>154</td>
-		<td>154</td>
-		<td></td>
+		<td>156</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -340,8 +340,8 @@
 		<td>149</td>
 		<td>149</td>
 		<td>149</td>
-		<td>149</td>
-		<td></td>
+		<td>151</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -832,18 +832,18 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>no.more.mereti.mines</td>
+		<td>kestrel.unlocks</td>
 		<td>153</td>
 		<td>153</td>
 		<td>154</td>
 		<td>154</td>
 		<td>154</td>
 		<td>154</td>
-		<td>154</td>
-		<td></td>
+		<td>156</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
-		<td>kestrel.unlocks</td>
+		<td>no.more.mereti.mines</td>
 		<td>153</td>
 		<td>153</td>
 		<td>154</td>
@@ -861,8 +861,8 @@
 		<td>149</td>
 		<td>149</td>
 		<td>149</td>
-		<td>149</td>
-		<td></td>
+		<td>151</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
