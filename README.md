@@ -32,8 +32,8 @@
 		<td>284</td>
 		<td>284</td>
 		<td>284</td>
-		<td>284</td>
-		<td></td>
+		<td>286</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -307,8 +307,8 @@
 		<td>219</td>
 		<td>221</td>
 		<td>221</td>
-		<td>221</td>
-		<td></td>
+		<td>223</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -318,8 +318,8 @@
 		<td>269</td>
 		<td>269</td>
 		<td>269</td>
-		<td>269</td>
-		<td></td>
+		<td>271</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -520,8 +520,19 @@
 		<td>284</td>
 		<td>284</td>
 		<td>284</td>
-		<td>284</td>
-		<td></td>
+		<td>286</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>navy.licenses</td>
+		<td>264</td>
+		<td>264</td>
+		<td>269</td>
+		<td>269</td>
+		<td>269</td>
+		<td>269</td>
+		<td>271</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -532,17 +543,6 @@
 		<td>269</td>
 		<td>271</td>
 		<td>271</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>navy.licenses</td>
-		<td>264</td>
-		<td>264</td>
-		<td>269</td>
-		<td>269</td>
-		<td>269</td>
-		<td>269</td>
-		<td>269</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -641,8 +641,8 @@
 		<td>219</td>
 		<td>221</td>
 		<td>221</td>
-		<td>221</td>
-		<td></td>
+		<td>223</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
