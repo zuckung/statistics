@@ -87,8 +87,8 @@
 		<td>189</td>
 		<td>189</td>
 		<td>191</td>
-		<td>193</td>
-		<td>+ 2</td>
+		<td>195</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -711,23 +711,23 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>space.fauna</td>
-		<td>188</td>
-		<td>188</td>
-		<td>189</td>
-		<td>189</td>
-		<td>191</td>
-		<td>191</td>
-		<td>193</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
 		<td>captureable.person.ships</td>
 		<td>186</td>
 		<td>188</td>
 		<td>189</td>
 		<td>189</td>
 		<td>189</td>
+		<td>191</td>
+		<td>195</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
+		<td>space.fauna</td>
+		<td>188</td>
+		<td>188</td>
+		<td>189</td>
+		<td>189</td>
+		<td>191</td>
 		<td>191</td>
 		<td>193</td>
 		<td>+ 2</td>
