@@ -32,8 +32,8 @@
 		<td>284</td>
 		<td>284</td>
 		<td>284</td>
-		<td>286</td>
-		<td>+ 2</td>
+		<td>288</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -87,8 +87,8 @@
 		<td>189</td>
 		<td>189</td>
 		<td>191</td>
-		<td>191</td>
-		<td></td>
+		<td>193</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -142,8 +142,8 @@
 		<td>186</td>
 		<td>186</td>
 		<td>188</td>
-		<td>188</td>
-		<td></td>
+		<td>190</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -197,8 +197,8 @@
 		<td>198</td>
 		<td>200</td>
 		<td>202</td>
-		<td>202</td>
-		<td></td>
+		<td>204</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -263,8 +263,8 @@
 		<td>170</td>
 		<td>170</td>
 		<td>172</td>
-		<td>172</td>
-		<td></td>
+		<td>174</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -307,8 +307,8 @@
 		<td>219</td>
 		<td>221</td>
 		<td>221</td>
-		<td>223</td>
-		<td>+ 2</td>
+		<td>225</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -318,8 +318,8 @@
 		<td>269</td>
 		<td>269</td>
 		<td>269</td>
-		<td>271</td>
-		<td>+ 2</td>
+		<td>273</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -329,8 +329,8 @@
 		<td>154</td>
 		<td>154</td>
 		<td>154</td>
-		<td>154</td>
-		<td></td>
+		<td>156</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -450,8 +450,8 @@
 		<td>257</td>
 		<td>257</td>
 		<td>257</td>
-		<td>257</td>
-		<td></td>
+		<td>259</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -520,8 +520,8 @@
 		<td>284</td>
 		<td>284</td>
 		<td>284</td>
-		<td>286</td>
-		<td>+ 2</td>
+		<td>288</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -531,8 +531,8 @@
 		<td>269</td>
 		<td>269</td>
 		<td>269</td>
-		<td>271</td>
-		<td>+ 2</td>
+		<td>273</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -575,8 +575,8 @@
 		<td>257</td>
 		<td>257</td>
 		<td>257</td>
-		<td>257</td>
-		<td></td>
+		<td>259</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -641,8 +641,8 @@
 		<td>219</td>
 		<td>221</td>
 		<td>221</td>
-		<td>223</td>
-		<td>+ 2</td>
+		<td>225</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -685,8 +685,8 @@
 		<td>198</td>
 		<td>200</td>
 		<td>202</td>
-		<td>202</td>
-		<td></td>
+		<td>204</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -729,8 +729,8 @@
 		<td>189</td>
 		<td>189</td>
 		<td>191</td>
-		<td>191</td>
-		<td></td>
+		<td>193</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -740,8 +740,8 @@
 		<td>186</td>
 		<td>186</td>
 		<td>188</td>
-		<td>188</td>
-		<td></td>
+		<td>190</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -784,8 +784,8 @@
 		<td>170</td>
 		<td>170</td>
 		<td>172</td>
-		<td>172</td>
-		<td></td>
+		<td>174</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -832,7 +832,7 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>kestrel.unlocks</td>
+		<td>no.more.mereti.mines</td>
 		<td>153</td>
 		<td>153</td>
 		<td>154</td>
@@ -843,15 +843,15 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
-		<td>no.more.mereti.mines</td>
+		<td>kestrel.unlocks</td>
 		<td>153</td>
 		<td>153</td>
 		<td>154</td>
 		<td>154</td>
 		<td>154</td>
 		<td>154</td>
-		<td>154</td>
-		<td></td>
+		<td>156</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
