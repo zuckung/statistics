@@ -439,8 +439,8 @@
 		<td>189</td>
 		<td>191</td>
 		<td>191</td>
-		<td>191</td>
-		<td></td>
+		<td>193</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -483,8 +483,8 @@
 		<td>181</td>
 		<td>181</td>
 		<td>181</td>
-		<td>181</td>
-		<td></td>
+		<td>183</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -718,8 +718,8 @@
 		<td>189</td>
 		<td>191</td>
 		<td>191</td>
-		<td>191</td>
-		<td></td>
+		<td>193</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -762,8 +762,8 @@
 		<td>181</td>
 		<td>181</td>
 		<td>181</td>
-		<td>181</td>
-		<td></td>
+		<td>183</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
