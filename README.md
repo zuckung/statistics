@@ -252,8 +252,8 @@
 		<td>177</td>
 		<td>177</td>
 		<td>177</td>
-		<td>178</td>
-		<td>+ 1</td>
+		<td>179</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -773,8 +773,8 @@
 		<td>177</td>
 		<td>177</td>
 		<td>177</td>
-		<td>178</td>
-		<td>+ 1</td>
+		<td>179</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
