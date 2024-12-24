@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.4-better.starts | downloads: 3
-v1.0.5-bunrodea.missions | downloads: 16
+v1.0.5-bunrodea.missions | downloads: 18
 v1.0.2-planet.pluto | downloads: 7
 v1.0.2-planet.map | downloads: 4
 v1.0.2-jump.gates | downloads: 11
@@ -105,7 +105,7 @@ v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
 v1.1.3-hai.side.mission.unlocker | downloads: 71
-v1.1.1-disable.spaceport.repeatables | downloads: 189
+v1.1.1-disable.spaceport.repeatables | downloads: 191
 v1.0.0-quarg.farm | downloads: 1
 v1.0.1-control.station | downloads: 194
 v1.0.0-control.station | downloads: 1
@@ -164,7 +164,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 163
-# TOTAL DOWNLOADS: 7885
+# TOTAL DOWNLOADS: 7889
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -173,13 +173,13 @@ additional.command.buttons.radial 288
 automata.destruction.0percent 188
 automata.in.human.space 161
 better.starts 218
-bunrodea.missions 267
+bunrodea.missions 269
 captureable.person.ships 197
 coalition.shopping 246
 control.station 195
 devil-run.unhidden 66
 disable.person.ships 120
-disable.spaceport.repeatables 190
+disable.spaceport.repeatables 192
 expert.crew.members 266
 free.worlds.5.years.later 163
 galactic.capital.investment 308
