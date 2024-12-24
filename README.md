@@ -76,8 +76,8 @@
 		<td>265</td>
 		<td>267</td>
 		<td>267</td>
-		<td>267</td>
-		<td></td>
+		<td>269</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -142,8 +142,8 @@
 		<td>186</td>
 		<td>188</td>
 		<td>190</td>
-		<td>190</td>
-		<td></td>
+		<td>192</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -553,8 +553,8 @@
 		<td>265</td>
 		<td>267</td>
 		<td>267</td>
-		<td>267</td>
-		<td></td>
+		<td>269</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -740,8 +740,8 @@
 		<td>186</td>
 		<td>188</td>
 		<td>190</td>
-		<td>190</td>
-		<td></td>
+		<td>192</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
