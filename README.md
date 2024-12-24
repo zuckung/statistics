@@ -54,8 +54,8 @@
 		<td>159</td>
 		<td>159</td>
 		<td>159</td>
-		<td>161</td>
-		<td>+ 2</td>
+		<td>162</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -252,8 +252,8 @@
 		<td>177</td>
 		<td>177</td>
 		<td>177</td>
-		<td>177</td>
-		<td></td>
+		<td>178</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -274,8 +274,8 @@
 		<td>140</td>
 		<td>140</td>
 		<td>140</td>
-		<td>140</td>
-		<td></td>
+		<td>141</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -329,8 +329,8 @@
 		<td>154</td>
 		<td>154</td>
 		<td>156</td>
-		<td>158</td>
-		<td>+ 2</td>
+		<td>159</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -439,8 +439,8 @@
 		<td>191</td>
 		<td>191</td>
 		<td>193</td>
-		<td>193</td>
-		<td></td>
+		<td>194</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -450,8 +450,8 @@
 		<td>257</td>
 		<td>257</td>
 		<td>259</td>
-		<td>261</td>
-		<td>+ 2</td>
+		<td>262</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -575,8 +575,8 @@
 		<td>257</td>
 		<td>257</td>
 		<td>259</td>
-		<td>261</td>
-		<td>+ 2</td>
+		<td>262</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -729,8 +729,8 @@
 		<td>191</td>
 		<td>191</td>
 		<td>193</td>
-		<td>193</td>
-		<td></td>
+		<td>194</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -773,8 +773,8 @@
 		<td>177</td>
 		<td>177</td>
 		<td>177</td>
-		<td>177</td>
-		<td></td>
+		<td>178</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -810,6 +810,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>automata.in.human.space</td>
+		<td>156</td>
+		<td>157</td>
+		<td>157</td>
+		<td>159</td>
+		<td>159</td>
+		<td>159</td>
+		<td>162</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>paint.your.ships</td>
 		<td>154</td>
 		<td>157</td>
@@ -821,17 +832,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>automata.in.human.space</td>
-		<td>156</td>
-		<td>157</td>
-		<td>157</td>
-		<td>159</td>
-		<td>159</td>
-		<td>159</td>
-		<td>161</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
 		<td>no.more.mereti.mines</td>
 		<td>153</td>
 		<td>154</td>
@@ -839,8 +839,8 @@
 		<td>154</td>
 		<td>154</td>
 		<td>156</td>
-		<td>158</td>
-		<td>+ 2</td>
+		<td>159</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -883,8 +883,8 @@
 		<td>140</td>
 		<td>140</td>
 		<td>140</td>
-		<td>140</td>
-		<td></td>
+		<td>141</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
