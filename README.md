@@ -76,8 +76,8 @@
 		<td>267</td>
 		<td>267</td>
 		<td>269</td>
-		<td>269</td>
-		<td></td>
+		<td>271</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -153,8 +153,8 @@
 		<td>266</td>
 		<td>266</td>
 		<td>266</td>
-		<td>268</td>
-		<td>+ 2</td>
+		<td>270</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -186,8 +186,8 @@
 		<td>271</td>
 		<td>273</td>
 		<td>277</td>
-		<td>279</td>
-		<td>+ 2</td>
+		<td>281</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -450,8 +450,8 @@
 		<td>257</td>
 		<td>259</td>
 		<td>266</td>
-		<td>268</td>
-		<td>+ 2</td>
+		<td>270</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -542,8 +542,8 @@
 		<td>271</td>
 		<td>273</td>
 		<td>277</td>
-		<td>279</td>
-		<td>+ 2</td>
+		<td>281</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -553,8 +553,8 @@
 		<td>267</td>
 		<td>267</td>
 		<td>269</td>
-		<td>269</td>
-		<td></td>
+		<td>271</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -564,8 +564,8 @@
 		<td>257</td>
 		<td>259</td>
 		<td>266</td>
-		<td>268</td>
-		<td>+ 2</td>
+		<td>270</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -575,8 +575,8 @@
 		<td>266</td>
 		<td>266</td>
 		<td>266</td>
-		<td>268</td>
-		<td>+ 2</td>
+		<td>270</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
