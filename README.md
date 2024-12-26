@@ -65,8 +65,8 @@
 		<td>216</td>
 		<td>222</td>
 		<td>224</td>
-		<td>224</td>
-		<td></td>
+		<td>226</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -98,8 +98,8 @@
 		<td>244</td>
 		<td>252</td>
 		<td>256</td>
-		<td>256</td>
-		<td></td>
+		<td>258</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -109,8 +109,8 @@
 		<td>195</td>
 		<td>195</td>
 		<td>197</td>
-		<td>197</td>
-		<td></td>
+		<td>199</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -142,8 +142,8 @@
 		<td>190</td>
 		<td>194</td>
 		<td>194</td>
-		<td>194</td>
-		<td></td>
+		<td>196</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -208,8 +208,8 @@
 		<td>166</td>
 		<td>166</td>
 		<td>166</td>
-		<td>166</td>
-		<td></td>
+		<td>168</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -219,8 +219,8 @@
 		<td>210</td>
 		<td>210</td>
 		<td>210</td>
-		<td>210</td>
-		<td></td>
+		<td>212</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -318,8 +318,8 @@
 		<td>273</td>
 		<td>279</td>
 		<td>283</td>
-		<td>283</td>
-		<td></td>
+		<td>285</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -351,8 +351,8 @@
 		<td>161</td>
 		<td>161</td>
 		<td>163</td>
-		<td>163</td>
-		<td></td>
+		<td>165</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -417,8 +417,8 @@
 		<td>211</td>
 		<td>211</td>
 		<td>213</td>
-		<td>213</td>
-		<td></td>
+		<td>215</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -450,8 +450,8 @@
 		<td>259</td>
 		<td>266</td>
 		<td>272</td>
-		<td>272</td>
-		<td></td>
+		<td>274</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -531,8 +531,8 @@
 		<td>273</td>
 		<td>279</td>
 		<td>283</td>
-		<td>283</td>
-		<td></td>
+		<td>285</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -553,8 +553,8 @@
 		<td>259</td>
 		<td>266</td>
 		<td>272</td>
-		<td>272</td>
-		<td></td>
+		<td>274</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -586,8 +586,8 @@
 		<td>244</td>
 		<td>252</td>
 		<td>256</td>
-		<td>256</td>
-		<td></td>
+		<td>258</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -652,8 +652,8 @@
 		<td>216</td>
 		<td>222</td>
 		<td>224</td>
-		<td>224</td>
-		<td></td>
+		<td>226</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -663,8 +663,8 @@
 		<td>211</td>
 		<td>211</td>
 		<td>213</td>
-		<td>213</td>
-		<td></td>
+		<td>215</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -674,8 +674,8 @@
 		<td>210</td>
 		<td>210</td>
 		<td>210</td>
-		<td>210</td>
-		<td></td>
+		<td>212</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -718,19 +718,8 @@
 		<td>195</td>
 		<td>195</td>
 		<td>197</td>
-		<td>197</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>space.fauna</td>
-		<td>189</td>
-		<td>191</td>
-		<td>191</td>
-		<td>193</td>
-		<td>194</td>
-		<td>194</td>
-		<td>194</td>
-		<td></td>
+		<td>199</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -738,6 +727,17 @@
 		<td>186</td>
 		<td>188</td>
 		<td>190</td>
+		<td>194</td>
+		<td>194</td>
+		<td>196</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>space.fauna</td>
+		<td>189</td>
+		<td>191</td>
+		<td>191</td>
+		<td>193</td>
 		<td>194</td>
 		<td>194</td>
 		<td>194</td>
@@ -799,6 +799,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>human.labels</td>
+		<td>166</td>
+		<td>166</td>
+		<td>166</td>
+		<td>166</td>
+		<td>166</td>
+		<td>166</td>
+		<td>168</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>no.more.mereti.mines</td>
 		<td>154</td>
 		<td>154</td>
@@ -821,15 +832,15 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>human.labels</td>
-		<td>166</td>
-		<td>166</td>
-		<td>166</td>
-		<td>166</td>
-		<td>166</td>
-		<td>166</td>
-		<td>166</td>
-		<td></td>
+		<td>paint.your.ships</td>
+		<td>157</td>
+		<td>159</td>
+		<td>161</td>
+		<td>161</td>
+		<td>161</td>
+		<td>163</td>
+		<td>165</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -840,17 +851,6 @@
 		<td>163</td>
 		<td>165</td>
 		<td>165</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>157</td>
-		<td>159</td>
-		<td>161</td>
-		<td>161</td>
-		<td>161</td>
-		<td>163</td>
-		<td>163</td>
 		<td></td>
 	</tr>
 	<tr>
