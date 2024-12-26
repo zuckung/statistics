@@ -197,8 +197,8 @@
 		<td>204</td>
 		<td>204</td>
 		<td>206</td>
-		<td>206</td>
-		<td></td>
+		<td>208</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -685,8 +685,8 @@
 		<td>204</td>
 		<td>204</td>
 		<td>206</td>
-		<td>206</td>
-		<td></td>
+		<td>208</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
