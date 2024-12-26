@@ -3,7 +3,7 @@ v1.0.4-better.starts | downloads: 11
 v1.0.5-bunrodea.missions | downloads: 20
 v1.0.2-planet.pluto | downloads: 7
 v1.0.2-planet.map | downloads: 4
-v1.0.2-jump.gates | downloads: 13
+v1.0.2-jump.gates | downloads: 15
 v1.0.4-expert.crew.members | downloads: 32
 v1.0.1-planet.pluto | downloads: 19
 v1.0.0-planet.pluto | downloads: 1
@@ -20,7 +20,7 @@ v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 73
 v1.0.1-show.reputation | downloads: 1
-v1.1.4-galactic.capital.investment | downloads: 120
+v1.1.4-galactic.capital.investment | downloads: 122
 v1.0.9-additional.command.buttons.radial | downloads: 28
 v1.0.2-gegno.pirates | downloads: 111
 v1.0.1-kor.efret.shipyard | downloads: 15
@@ -32,7 +32,7 @@ v1.0.7-additional.command.buttons.radial | downloads: 9
 v1.0.4-landing.images | downloads: 106
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 120
-v1.0.2-quarg.farm | downloads: 134
+v1.0.2-quarg.farm | downloads: 136
 v1.0.2-landing.images.highres | downloads: 73
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 178
@@ -61,7 +61,7 @@ v1.0.2-tribute.republic | downloads: 124
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
 v1.0.0-tribute.republic | downloads: 2
-v1.0.3-landing.images.android | downloads: 146
+v1.0.3-landing.images.android | downloads: 148
 v1.0.2-landing.images.android | downloads: 2
 v1.0.1-landing.images.android | downloads: 21
 v1.0.2-no.more.mereti.mines | downloads: 54
@@ -164,7 +164,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 163
-# TOTAL DOWNLOADS: 8060
+# TOTAL DOWNLOADS: 8068
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -182,15 +182,15 @@ disable.person.ships 120
 disable.spaceport.repeatables 196
 expert.crew.members 270
 free.worlds.5.years.later 165
-galactic.capital.investment 318
+galactic.capital.investment 320
 gegno.pirates 283
 hai.side.mission.unlocker 206
 human.labels 168
-jump.gates 212
+jump.gates 214
 kestrel.unlocks 166
 kor.efret.shipyard 248
 landing.images 179
-landing.images.android 174
+landing.images.android 176
 landing.images.highres 141
 more.arfectas 249
 more.boarding.missions 236
@@ -202,7 +202,7 @@ paint.your.ships 165
 pirate.warlords 3
 planet.map 133
 planet.pluto 27
-quarg.farm 255
+quarg.farm 257
 real.fluff 93
 show.reputation 215
 snowfeather.robotics 203
