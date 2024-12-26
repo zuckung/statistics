@@ -175,8 +175,8 @@
 		<td>306</td>
 		<td>312</td>
 		<td>316</td>
-		<td>318</td>
-		<td>+ 2</td>
+		<td>320</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -219,8 +219,8 @@
 		<td>210</td>
 		<td>210</td>
 		<td>210</td>
-		<td>212</td>
-		<td>+ 2</td>
+		<td>214</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -263,8 +263,8 @@
 		<td>174</td>
 		<td>174</td>
 		<td>174</td>
-		<td>174</td>
-		<td></td>
+		<td>176</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -395,8 +395,8 @@
 		<td>245</td>
 		<td>251</td>
 		<td>255</td>
-		<td>255</td>
-		<td></td>
+		<td>257</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -509,8 +509,8 @@
 		<td>306</td>
 		<td>312</td>
 		<td>316</td>
-		<td>318</td>
-		<td>+ 2</td>
+		<td>320</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -597,8 +597,8 @@
 		<td>245</td>
 		<td>251</td>
 		<td>255</td>
-		<td>255</td>
-		<td></td>
+		<td>257</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -674,8 +674,8 @@
 		<td>210</td>
 		<td>210</td>
 		<td>210</td>
-		<td>212</td>
-		<td>+ 2</td>
+		<td>214</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -784,8 +784,8 @@
 		<td>174</td>
 		<td>174</td>
 		<td>174</td>
-		<td>174</td>
-		<td></td>
+		<td>176</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
