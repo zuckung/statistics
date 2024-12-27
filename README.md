@@ -65,8 +65,8 @@
 		<td>222</td>
 		<td>224</td>
 		<td>226</td>
-		<td>226</td>
-		<td></td>
+		<td>227</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -219,8 +219,8 @@
 		<td>210</td>
 		<td>210</td>
 		<td>214</td>
-		<td>214</td>
-		<td></td>
+		<td>215</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -652,8 +652,8 @@
 		<td>222</td>
 		<td>224</td>
 		<td>226</td>
-		<td>226</td>
-		<td></td>
+		<td>227</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -674,8 +674,8 @@
 		<td>210</td>
 		<td>210</td>
 		<td>214</td>
-		<td>214</td>
-		<td></td>
+		<td>215</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
