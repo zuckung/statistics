@@ -1,9 +1,9 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.4-better.starts | downloads: 11
+v1.0.4-better.starts | downloads: 12
 v1.0.5-bunrodea.missions | downloads: 20
 v1.0.2-planet.pluto | downloads: 7
 v1.0.2-planet.map | downloads: 4
-v1.0.2-jump.gates | downloads: 15
+v1.0.2-jump.gates | downloads: 16
 v1.0.4-expert.crew.members | downloads: 32
 v1.0.1-planet.pluto | downloads: 19
 v1.0.0-planet.pluto | downloads: 1
@@ -164,7 +164,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 163
-# TOTAL DOWNLOADS: 8089
+# TOTAL DOWNLOADS: 8091
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -172,7 +172,7 @@ additional.command.buttons 93
 additional.command.buttons.radial 288
 automata.destruction.0percent 190
 automata.in.human.space 170
-better.starts 226
+better.starts 227
 bunrodea.missions 271
 captureable.person.ships 206
 coalition.shopping 258
@@ -186,7 +186,7 @@ galactic.capital.investment 322
 gegno.pirates 283
 hai.side.mission.unlocker 208
 human.labels 170
-jump.gates 214
+jump.gates 215
 kestrel.unlocks 168
 kor.efret.shipyard 248
 landing.images 179
