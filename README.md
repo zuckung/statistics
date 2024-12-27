@@ -164,8 +164,8 @@
 		<td>163</td>
 		<td>165</td>
 		<td>165</td>
-		<td>165</td>
-		<td></td>
+		<td>169</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -208,8 +208,8 @@
 		<td>166</td>
 		<td>166</td>
 		<td>168</td>
-		<td>168</td>
-		<td></td>
+		<td>170</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -395,8 +395,8 @@
 		<td>251</td>
 		<td>255</td>
 		<td>257</td>
-		<td>257</td>
-		<td></td>
+		<td>259</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -428,8 +428,8 @@
 		<td>201</td>
 		<td>203</td>
 		<td>203</td>
-		<td>203</td>
-		<td></td>
+		<td>205</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -579,6 +579,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>quarg.farm</td>
+		<td>243</td>
+		<td>245</td>
+		<td>245</td>
+		<td>251</td>
+		<td>255</td>
+		<td>257</td>
+		<td>259</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>coalition.shopping</td>
 		<td>242</td>
 		<td>244</td>
@@ -587,17 +598,6 @@
 		<td>256</td>
 		<td>258</td>
 		<td>258</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>quarg.farm</td>
-		<td>243</td>
-		<td>245</td>
-		<td>245</td>
-		<td>251</td>
-		<td>255</td>
-		<td>257</td>
-		<td>257</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -707,8 +707,8 @@
 		<td>201</td>
 		<td>203</td>
 		<td>203</td>
-		<td>203</td>
-		<td></td>
+		<td>205</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -788,6 +788,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>human.labels</td>
+		<td>166</td>
+		<td>166</td>
+		<td>166</td>
+		<td>166</td>
+		<td>166</td>
+		<td>168</td>
+		<td>170</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>automata.in.human.space</td>
 		<td>159</td>
 		<td>159</td>
@@ -799,15 +810,15 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>human.labels</td>
-		<td>166</td>
-		<td>166</td>
-		<td>166</td>
-		<td>166</td>
-		<td>166</td>
-		<td>168</td>
-		<td>168</td>
-		<td></td>
+		<td>free.worlds.5.years.later</td>
+		<td>163</td>
+		<td>163</td>
+		<td>163</td>
+		<td>163</td>
+		<td>165</td>
+		<td>165</td>
+		<td>169</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -838,17 +849,6 @@
 		<td>161</td>
 		<td>161</td>
 		<td>163</td>
-		<td>165</td>
-		<td>165</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>free.worlds.5.years.later</td>
-		<td>163</td>
-		<td>163</td>
-		<td>163</td>
-		<td>163</td>
-		<td>165</td>
 		<td>165</td>
 		<td>165</td>
 		<td></td>
