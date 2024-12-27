@@ -142,8 +142,8 @@
 		<td>194</td>
 		<td>194</td>
 		<td>196</td>
-		<td>196</td>
-		<td></td>
+		<td>198</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -175,8 +175,8 @@
 		<td>312</td>
 		<td>316</td>
 		<td>320</td>
-		<td>320</td>
-		<td></td>
+		<td>322</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -230,8 +230,8 @@
 		<td>162</td>
 		<td>166</td>
 		<td>166</td>
-		<td>166</td>
-		<td></td>
+		<td>168</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -428,8 +428,8 @@
 		<td>201</td>
 		<td>203</td>
 		<td>203</td>
-		<td>205</td>
-		<td>+ 2</td>
+		<td>207</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -509,8 +509,8 @@
 		<td>312</td>
 		<td>316</td>
 		<td>320</td>
-		<td>320</td>
-		<td></td>
+		<td>322</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -689,6 +689,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>snowfeather.robotics</td>
+		<td>201</td>
+		<td>201</td>
+		<td>201</td>
+		<td>201</td>
+		<td>203</td>
+		<td>203</td>
+		<td>207</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>captureable.person.ships</td>
 		<td>189</td>
 		<td>191</td>
@@ -698,17 +709,6 @@
 		<td>205</td>
 		<td>206</td>
 		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>snowfeather.robotics</td>
-		<td>201</td>
-		<td>201</td>
-		<td>201</td>
-		<td>201</td>
-		<td>203</td>
-		<td>203</td>
-		<td>205</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -729,8 +729,8 @@
 		<td>194</td>
 		<td>194</td>
 		<td>196</td>
-		<td>196</td>
-		<td></td>
+		<td>198</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -821,6 +821,17 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
+		<td>kestrel.unlocks</td>
+		<td>154</td>
+		<td>154</td>
+		<td>156</td>
+		<td>162</td>
+		<td>166</td>
+		<td>166</td>
+		<td>168</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>no.more.mereti.mines</td>
 		<td>154</td>
 		<td>154</td>
@@ -829,17 +840,6 @@
 		<td>167</td>
 		<td>167</td>
 		<td>167</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>kestrel.unlocks</td>
-		<td>154</td>
-		<td>154</td>
-		<td>156</td>
-		<td>162</td>
-		<td>166</td>
-		<td>166</td>
-		<td>166</td>
 		<td></td>
 	</tr>
 	<tr>
