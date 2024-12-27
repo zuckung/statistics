@@ -9,7 +9,7 @@ v1.0.1-planet.pluto | downloads: 19
 v1.0.0-planet.pluto | downloads: 1
 v1.0.12-additional.command.buttons.radial | downloads: 43
 v1.0.11-additional.command.buttons.radial | downloads: 1
-v1.1.6-captureable.person.ships | downloads: 48
+v1.1.6-captureable.person.ships | downloads: 49
 v1.0.6-uniques | downloads: 53
 v1.0.3-navy.licenses | downloads: 73
 v1.0.6-coalition.shopping | downloads: 64
@@ -164,7 +164,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 163
-# TOTAL DOWNLOADS: 8070
+# TOTAL DOWNLOADS: 8071
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -174,7 +174,7 @@ automata.destruction.0percent 190
 automata.in.human.space 170
 better.starts 226
 bunrodea.missions 271
-captureable.person.ships 205
+captureable.person.ships 206
 coalition.shopping 258
 control.station 199
 devil-run.unhidden 66
