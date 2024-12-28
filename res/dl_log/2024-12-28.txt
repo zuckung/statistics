@@ -29,14 +29,14 @@ v1.0.8-additional.command.buttons.radial | downloads: 20
 v1.0.2-better.starts | downloads: 35
 v1.1.5-captureable.person.ships | downloads: 54
 v1.0.7-additional.command.buttons.radial | downloads: 9
-v1.0.4-landing.images | downloads: 106
+v1.0.4-landing.images | downloads: 107
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 120
 v1.0.2-quarg.farm | downloads: 140
-v1.0.2-landing.images.highres | downloads: 73
+v1.0.2-landing.images.highres | downloads: 74
 v1.0.5-uniques | downloads: 82
-v1.0.3-too.many.asteroids | downloads: 181
-v1.0.1-automata.in.human.space | downloads: 112
+v1.0.3-too.many.asteroids | downloads: 182
+v1.0.1-automata.in.human.space | downloads: 113
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 92
@@ -44,7 +44,7 @@ v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 136
 v1.0.6-additional.command.buttons.radial | downloads: 48
-v1.0.3-no.more.mereti.mines | downloads: 112
+v1.0.3-no.more.mereti.mines | downloads: 113
 v1.0.1-paint.your.ships | downloads: 163
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
@@ -114,7 +114,7 @@ v1.1.3-more.boarding.missions | downloads: 230
 v1.0.3-coalition.shopping | downloads: 97
 v1.0.2-coalition.shopping | downloads: 1
 v1.0.1-navy.licenses | downloads: 1
-v1.1.2-space.fauna | downloads: 192
+v1.1.2-space.fauna | downloads: 193
 v1.0.3-snowfeather.robotics | downloads: 149
 v1.0.2-snowfeather.robotics | downloads: 1
 v1.1.1-space.fauna | downloads: 1
@@ -164,14 +164,14 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 163
-# TOTAL DOWNLOADS: 8140
+# TOTAL DOWNLOADS: 8146
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 290
 automata.destruction.0percent 192
-automata.in.human.space 173
+automata.in.human.space 174
 better.starts 227
 bunrodea.missions 273
 captureable.person.ships 209
@@ -189,14 +189,14 @@ human.labels 170
 jump.gates 216
 kestrel.unlocks 168
 kor.efret.shipyard 249
-landing.images 179
+landing.images 180
 landing.images.android 176
-landing.images.highres 141
+landing.images.highres 142
 more.arfectas 251
 more.boarding.missions 237
 more.person.ships 228
 navy.licenses 285
-no.more.mereti.mines 168
+no.more.mereti.mines 169
 outfits.weapon.slot 153
 paint.your.ships 167
 pirate.warlords 3
@@ -206,8 +206,8 @@ quarg.farm 261
 real.fluff 93
 show.reputation 215
 snowfeather.robotics 210
-space.fauna 194
-too.many.asteroids 277
+space.fauna 195
+too.many.asteroids 278
 tribute.republic 144
 unique.fix 44
 uniques 189
