@@ -54,8 +54,8 @@
 		<td>170</td>
 		<td>170</td>
 		<td>171</td>
-		<td>173</td>
-		<td>+ 2</td>
+		<td>174</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -252,8 +252,8 @@
 		<td>179</td>
 		<td>179</td>
 		<td>179</td>
-		<td>179</td>
-		<td></td>
+		<td>180</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -274,8 +274,8 @@
 		<td>141</td>
 		<td>141</td>
 		<td>141</td>
-		<td>141</td>
-		<td></td>
+		<td>142</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -329,8 +329,8 @@
 		<td>167</td>
 		<td>167</td>
 		<td>168</td>
-		<td>168</td>
-		<td></td>
+		<td>169</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -439,8 +439,8 @@
 		<td>194</td>
 		<td>194</td>
 		<td>194</td>
-		<td>194</td>
-		<td></td>
+		<td>195</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -450,8 +450,8 @@
 		<td>272</td>
 		<td>274</td>
 		<td>275</td>
-		<td>277</td>
-		<td>+ 2</td>
+		<td>278</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -553,8 +553,8 @@
 		<td>272</td>
 		<td>274</td>
 		<td>275</td>
-		<td>277</td>
-		<td>+ 2</td>
+		<td>278</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -740,8 +740,8 @@
 		<td>194</td>
 		<td>194</td>
 		<td>194</td>
-		<td>194</td>
-		<td></td>
+		<td>195</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -773,8 +773,8 @@
 		<td>179</td>
 		<td>179</td>
 		<td>179</td>
-		<td>179</td>
-		<td></td>
+		<td>180</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -795,8 +795,8 @@
 		<td>170</td>
 		<td>170</td>
 		<td>171</td>
-		<td>173</td>
-		<td>+ 2</td>
+		<td>174</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -828,8 +828,8 @@
 		<td>167</td>
 		<td>167</td>
 		<td>168</td>
-		<td>168</td>
-		<td></td>
+		<td>169</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -883,8 +883,8 @@
 		<td>141</td>
 		<td>141</td>
 		<td>141</td>
-		<td>141</td>
-		<td></td>
+		<td>142</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
