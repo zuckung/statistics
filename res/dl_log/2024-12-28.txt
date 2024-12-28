@@ -1,10 +1,10 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.13-additional.command.buttons.radial | downloads: 11
-v1.0.4-better.starts | downloads: 15
+v1.0.4-better.starts | downloads: 17
 v1.0.5-bunrodea.missions | downloads: 25
 v1.0.2-planet.pluto | downloads: 9
 v1.0.2-planet.map | downloads: 5
-v1.0.2-jump.gates | downloads: 20
+v1.0.2-jump.gates | downloads: 22
 v1.0.4-expert.crew.members | downloads: 35
 v1.0.1-planet.pluto | downloads: 19
 v1.0.0-planet.pluto | downloads: 1
@@ -62,7 +62,7 @@ v1.0.2-tribute.republic | downloads: 127
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
 v1.0.0-tribute.republic | downloads: 2
-v1.0.3-landing.images.android | downloads: 149
+v1.0.3-landing.images.android | downloads: 151
 v1.0.2-landing.images.android | downloads: 2
 v1.0.1-landing.images.android | downloads: 21
 v1.0.2-no.more.mereti.mines | downloads: 54
@@ -165,7 +165,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8218
+# TOTAL DOWNLOADS: 8224
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -173,7 +173,7 @@ additional.command.buttons 93
 additional.command.buttons.radial 301
 automata.destruction.0percent 193
 automata.in.human.space 175
-better.starts 230
+better.starts 232
 bunrodea.missions 276
 captureable.person.ships 210
 coalition.shopping 263
@@ -187,11 +187,11 @@ galactic.capital.investment 325
 gegno.pirates 286
 hai.side.mission.unlocker 212
 human.labels 171
-jump.gates 219
+jump.gates 221
 kestrel.unlocks 171
 kor.efret.shipyard 252
 landing.images 181
-landing.images.android 177
+landing.images.android 179
 landing.images.highres 143
 more.arfectas 254
 more.boarding.missions 238
