@@ -65,8 +65,8 @@
 		<td>224</td>
 		<td>226</td>
 		<td>227</td>
-		<td>230</td>
-		<td>+ 3</td>
+		<td>232</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -219,8 +219,8 @@
 		<td>210</td>
 		<td>214</td>
 		<td>216</td>
-		<td>219</td>
-		<td>+ 3</td>
+		<td>221</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -263,8 +263,8 @@
 		<td>174</td>
 		<td>176</td>
 		<td>176</td>
-		<td>177</td>
-		<td>+ 1</td>
+		<td>179</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -641,8 +641,8 @@
 		<td>224</td>
 		<td>226</td>
 		<td>227</td>
-		<td>230</td>
-		<td>+ 3</td>
+		<td>232</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -663,8 +663,8 @@
 		<td>210</td>
 		<td>214</td>
 		<td>216</td>
-		<td>219</td>
-		<td>+ 3</td>
+		<td>221</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -784,8 +784,8 @@
 		<td>174</td>
 		<td>176</td>
 		<td>176</td>
-		<td>177</td>
-		<td>+ 1</td>
+		<td>179</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
