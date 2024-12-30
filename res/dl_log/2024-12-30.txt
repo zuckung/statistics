@@ -23,7 +23,7 @@ v1.0.2-show.reputation | downloads: 77
 v1.0.1-show.reputation | downloads: 1
 v1.1.4-galactic.capital.investment | downloads: 128
 v1.0.9-additional.command.buttons.radial | downloads: 28
-v1.0.2-gegno.pirates | downloads: 115
+v1.0.2-gegno.pirates | downloads: 117
 v1.0.1-kor.efret.shipyard | downloads: 15
 v1.0.2-more.person.ships | downloads: 95
 v1.0.8-additional.command.buttons.radial | downloads: 20
@@ -46,7 +46,7 @@ v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 140
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 115
-v1.0.1-paint.your.ships | downloads: 164
+v1.0.1-paint.your.ships | downloads: 166
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
 v1.0.1-uniques | downloads: 14
@@ -111,7 +111,7 @@ v1.0.0-quarg.farm | downloads: 1
 v1.0.1-control.station | downloads: 203
 v1.0.0-control.station | downloads: 1
 v1.0.0-additional.command.buttons.radial | downloads: 52
-v1.1.3-more.boarding.missions | downloads: 231
+v1.1.3-more.boarding.missions | downloads: 233
 v1.0.3-coalition.shopping | downloads: 97
 v1.0.2-coalition.shopping | downloads: 1
 v1.0.1-navy.licenses | downloads: 1
@@ -165,7 +165,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8271
+# TOTAL DOWNLOADS: 8277
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -184,7 +184,7 @@ disable.spaceport.repeatables 199
 expert.crew.members 276
 free.worlds.5.years.later 174
 galactic.capital.investment 326
-gegno.pirates 287
+gegno.pirates 289
 hai.side.mission.unlocker 215
 human.labels 172
 jump.gates 222
@@ -194,12 +194,12 @@ landing.images 182
 landing.images.android 179
 landing.images.highres 144
 more.arfectas 255
-more.boarding.missions 238
+more.boarding.missions 240
 more.person.ships 230
 navy.licenses 287
 no.more.mereti.mines 171
 outfits.weapon.slot 155
-paint.your.ships 168
+paint.your.ships 170
 pirate.warlords 3
 planet.map 136
 planet.pluto 30
