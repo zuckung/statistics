@@ -186,8 +186,8 @@
 		<td>283</td>
 		<td>286</td>
 		<td>286</td>
-		<td>287</td>
-		<td>+ 1</td>
+		<td>289</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -296,8 +296,8 @@
 		<td>237</td>
 		<td>238</td>
 		<td>238</td>
-		<td>238</td>
-		<td></td>
+		<td>240</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -351,8 +351,8 @@
 		<td>165</td>
 		<td>168</td>
 		<td>168</td>
-		<td>168</td>
-		<td></td>
+		<td>170</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -524,22 +524,22 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
-		<td>navy.licenses</td>
-		<td>279</td>
-		<td>283</td>
-		<td>285</td>
-		<td>285</td>
-		<td>286</td>
-		<td>286</td>
-		<td>287</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
 		<td>gegno.pirates</td>
 		<td>277</td>
 		<td>283</td>
 		<td>283</td>
 		<td>283</td>
+		<td>286</td>
+		<td>286</td>
+		<td>289</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
+		<td>navy.licenses</td>
+		<td>279</td>
+		<td>283</td>
+		<td>285</td>
+		<td>285</td>
 		<td>286</td>
 		<td>286</td>
 		<td>287</td>
@@ -630,8 +630,8 @@
 		<td>237</td>
 		<td>238</td>
 		<td>238</td>
-		<td>238</td>
-		<td></td>
+		<td>240</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -850,8 +850,8 @@
 		<td>165</td>
 		<td>168</td>
 		<td>168</td>
-		<td>168</td>
-		<td></td>
+		<td>170</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
