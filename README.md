@@ -32,8 +32,8 @@
 		<td>288</td>
 		<td>301</td>
 		<td>301</td>
-		<td>301</td>
-		<td></td>
+		<td>303</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -98,8 +98,8 @@
 		<td>258</td>
 		<td>263</td>
 		<td>263</td>
-		<td>263</td>
-		<td></td>
+		<td>265</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -373,8 +373,8 @@
 		<td>133</td>
 		<td>134</td>
 		<td>134</td>
-		<td>134</td>
-		<td></td>
+		<td>136</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -417,8 +417,8 @@
 		<td>215</td>
 		<td>216</td>
 		<td>216</td>
-		<td>216</td>
-		<td></td>
+		<td>218</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -461,8 +461,8 @@
 		<td>142</td>
 		<td>145</td>
 		<td>145</td>
-		<td>145</td>
-		<td></td>
+		<td>147</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
@@ -520,8 +520,8 @@
 		<td>288</td>
 		<td>301</td>
 		<td>301</td>
-		<td>301</td>
-		<td></td>
+		<td>303</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -597,8 +597,8 @@
 		<td>258</td>
 		<td>263</td>
 		<td>263</td>
-		<td>263</td>
-		<td></td>
+		<td>265</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -674,8 +674,8 @@
 		<td>215</td>
 		<td>216</td>
 		<td>216</td>
-		<td>216</td>
-		<td></td>
+		<td>218</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -872,8 +872,8 @@
 		<td>142</td>
 		<td>145</td>
 		<td>145</td>
-		<td>145</td>
-		<td></td>
+		<td>147</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -894,8 +894,8 @@
 		<td>133</td>
 		<td>134</td>
 		<td>134</td>
-		<td>134</td>
-		<td></td>
+		<td>136</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
