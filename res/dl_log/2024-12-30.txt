@@ -1,9 +1,9 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.13-additional.command.buttons.radial | downloads: 11
+v1.0.13-additional.command.buttons.radial | downloads: 13
 v1.0.4-better.starts | downloads: 17
 v1.0.5-bunrodea.missions | downloads: 25
 v1.0.2-planet.pluto | downloads: 9
-v1.0.2-planet.map | downloads: 5
+v1.0.2-planet.map | downloads: 7
 v1.0.2-jump.gates | downloads: 22
 v1.0.4-expert.crew.members | downloads: 35
 v1.0.1-planet.pluto | downloads: 19
@@ -13,13 +13,13 @@ v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 53
 v1.0.6-uniques | downloads: 58
 v1.0.3-navy.licenses | downloads: 74
-v1.0.6-coalition.shopping | downloads: 69
+v1.0.6-coalition.shopping | downloads: 71
 v1.0.5-snowfeather.robotics | downloads: 52
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 82
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
-v1.0.2-show.reputation | downloads: 74
+v1.0.2-show.reputation | downloads: 76
 v1.0.1-show.reputation | downloads: 1
 v1.1.4-galactic.capital.investment | downloads: 127
 v1.0.9-additional.command.buttons.radial | downloads: 28
@@ -58,7 +58,7 @@ v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 104
 v1.0.0-kestrel.unlocks | downloads: 171
-v1.0.2-tribute.republic | downloads: 127
+v1.0.2-tribute.republic | downloads: 129
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
 v1.0.0-tribute.republic | downloads: 2
@@ -165,18 +165,18 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8230
+# TOTAL DOWNLOADS: 8240
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 301
+additional.command.buttons.radial 303
 automata.destruction.0percent 193
 automata.in.human.space 175
 better.starts 232
 bunrodea.missions 276
 captureable.person.ships 210
-coalition.shopping 263
+coalition.shopping 265
 control.station 204
 devil-run.unhidden 66
 disable.person.ships 121
@@ -201,14 +201,14 @@ no.more.mereti.mines 170
 outfits.weapon.slot 154
 paint.your.ships 168
 pirate.warlords 3
-planet.map 134
+planet.map 136
 planet.pluto 29
 quarg.farm 268
 real.fluff 93
-show.reputation 216
+show.reputation 218
 snowfeather.robotics 211
 space.fauna 196
 too.many.asteroids 279
-tribute.republic 145
+tribute.republic 147
 unique.fix 44
 uniques 190
