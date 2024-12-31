@@ -263,8 +263,8 @@
 		<td>179</td>
 		<td>179</td>
 		<td>179</td>
-		<td>179</td>
-		<td></td>
+		<td>181</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -450,8 +450,8 @@
 		<td>279</td>
 		<td>279</td>
 		<td>280</td>
-		<td>280</td>
-		<td></td>
+		<td>282</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -553,8 +553,8 @@
 		<td>279</td>
 		<td>279</td>
 		<td>280</td>
-		<td>280</td>
-		<td></td>
+		<td>282</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -784,8 +784,8 @@
 		<td>179</td>
 		<td>179</td>
 		<td>179</td>
-		<td>179</td>
-		<td></td>
+		<td>181</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
