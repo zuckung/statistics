@@ -32,8 +32,8 @@
 		<td>301</td>
 		<td>301</td>
 		<td>303</td>
-		<td>303</td>
-		<td></td>
+		<td>305</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -109,8 +109,8 @@
 		<td>204</td>
 		<td>204</td>
 		<td>204</td>
-		<td>204</td>
-		<td></td>
+		<td>206</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -384,8 +384,8 @@
 		<td>29</td>
 		<td>29</td>
 		<td>30</td>
-		<td>30</td>
-		<td></td>
+		<td>32</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -520,8 +520,8 @@
 		<td>301</td>
 		<td>301</td>
 		<td>303</td>
-		<td>303</td>
-		<td></td>
+		<td>305</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -718,8 +718,8 @@
 		<td>204</td>
 		<td>204</td>
 		<td>204</td>
-		<td>204</td>
-		<td></td>
+		<td>206</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -960,8 +960,8 @@
 		<td>29</td>
 		<td>29</td>
 		<td>30</td>
-		<td>30</td>
-		<td></td>
+		<td>32</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
