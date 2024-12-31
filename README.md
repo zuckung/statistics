@@ -32,8 +32,8 @@
 		<td>301</td>
 		<td>301</td>
 		<td>303</td>
-		<td>305</td>
-		<td>+ 2</td>
+		<td>307</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -520,8 +520,8 @@
 		<td>301</td>
 		<td>301</td>
 		<td>303</td>
-		<td>305</td>
-		<td>+ 2</td>
+		<td>307</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
