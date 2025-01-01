@@ -32,8 +32,8 @@
 		<td>301</td>
 		<td>303</td>
 		<td>307</td>
-		<td>309</td>
-		<td>+ 2</td>
+		<td>313</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -76,8 +76,8 @@
 		<td>276</td>
 		<td>277</td>
 		<td>277</td>
-		<td>281</td>
-		<td>+ 4</td>
+		<td>285</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -520,8 +520,8 @@
 		<td>301</td>
 		<td>303</td>
 		<td>307</td>
-		<td>309</td>
-		<td>+ 2</td>
+		<td>313</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -546,6 +546,17 @@
 		<td>+ 5</td>
 	</tr>
 	<tr>
+		<td>bunrodea.missions</td>
+		<td>271</td>
+		<td>271</td>
+		<td>276</td>
+		<td>276</td>
+		<td>277</td>
+		<td>277</td>
+		<td>285</td>
+		<td>+ 8</td>
+	</tr>
+	<tr>
 		<td>too.many.asteroids</td>
 		<td>274</td>
 		<td>275</td>
@@ -555,17 +566,6 @@
 		<td>282</td>
 		<td>284</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>bunrodea.missions</td>
-		<td>271</td>
-		<td>271</td>
-		<td>276</td>
-		<td>276</td>
-		<td>277</td>
-		<td>277</td>
-		<td>281</td>
-		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
