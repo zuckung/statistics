@@ -340,8 +340,8 @@
 		<td>154</td>
 		<td>155</td>
 		<td>155</td>
-		<td>155</td>
-		<td></td>
+		<td>157</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -351,8 +351,8 @@
 		<td>168</td>
 		<td>170</td>
 		<td>170</td>
-		<td>170</td>
-		<td></td>
+		<td>172</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -810,6 +810,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>paint.your.ships</td>
+		<td>165</td>
+		<td>165</td>
+		<td>168</td>
+		<td>168</td>
+		<td>170</td>
+		<td>170</td>
+		<td>172</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>kestrel.unlocks</td>
 		<td>166</td>
 		<td>168</td>
@@ -843,17 +854,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>paint.your.ships</td>
-		<td>165</td>
-		<td>165</td>
-		<td>168</td>
-		<td>168</td>
-		<td>170</td>
-		<td>170</td>
-		<td>170</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>outfits.weapon.slot</td>
 		<td>151</td>
 		<td>151</td>
@@ -861,8 +861,8 @@
 		<td>154</td>
 		<td>155</td>
 		<td>155</td>
-		<td>155</td>
-		<td></td>
+		<td>157</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
