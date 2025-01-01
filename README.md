@@ -65,8 +65,8 @@
 		<td>232</td>
 		<td>233</td>
 		<td>233</td>
-		<td>233</td>
-		<td></td>
+		<td>235</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -641,8 +641,8 @@
 		<td>232</td>
 		<td>233</td>
 		<td>233</td>
-		<td>233</td>
-		<td></td>
+		<td>235</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
