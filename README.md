@@ -98,8 +98,8 @@
 		<td>266</td>
 		<td>266</td>
 		<td>268</td>
-		<td>270</td>
-		<td>+ 2</td>
+		<td>272</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -241,8 +241,8 @@
 		<td>253</td>
 		<td>253</td>
 		<td>255</td>
-		<td>257</td>
-		<td>+ 2</td>
+		<td>259</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -579,6 +579,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>coalition.shopping</td>
+		<td>258</td>
+		<td>263</td>
+		<td>263</td>
+		<td>266</td>
+		<td>266</td>
+		<td>268</td>
+		<td>272</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>quarg.farm</td>
 		<td>259</td>
 		<td>264</td>
@@ -590,15 +601,15 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>coalition.shopping</td>
-		<td>258</td>
-		<td>263</td>
-		<td>263</td>
-		<td>266</td>
-		<td>266</td>
-		<td>268</td>
-		<td>270</td>
-		<td>+ 2</td>
+		<td>kor.efret.shipyard</td>
+		<td>249</td>
+		<td>252</td>
+		<td>252</td>
+		<td>253</td>
+		<td>253</td>
+		<td>255</td>
+		<td>259</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -610,17 +621,6 @@
 		<td>257</td>
 		<td>257</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>kor.efret.shipyard</td>
-		<td>249</td>
-		<td>252</td>
-		<td>252</td>
-		<td>253</td>
-		<td>253</td>
-		<td>255</td>
-		<td>257</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
