@@ -13,10 +13,10 @@ v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 58
 v1.0.6-uniques | downloads: 61
 v1.0.3-navy.licenses | downloads: 80
-v1.0.6-coalition.shopping | downloads: 76
+v1.0.6-coalition.shopping | downloads: 78
 v1.0.5-snowfeather.robotics | downloads: 55
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 87
+v1.0.2-kor.efret.shipyard | downloads: 89
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 79
@@ -165,7 +165,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8388
+# TOTAL DOWNLOADS: 8392
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -176,7 +176,7 @@ automata.in.human.space 176
 better.starts 235
 bunrodea.missions 285
 captureable.person.ships 215
-coalition.shopping 270
+coalition.shopping 272
 control.station 206
 devil-run.unhidden 66
 disable.person.ships 121
@@ -189,7 +189,7 @@ hai.side.mission.unlocker 217
 human.labels 174
 jump.gates 224
 kestrel.unlocks 172
-kor.efret.shipyard 257
+kor.efret.shipyard 259
 landing.images 186
 landing.images.android 183
 landing.images.highres 144
