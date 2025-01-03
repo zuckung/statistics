@@ -318,8 +318,8 @@
 		<td>287</td>
 		<td>292</td>
 		<td>292</td>
-		<td>293</td>
-		<td>+ 1</td>
+		<td>295</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -542,8 +542,8 @@
 		<td>287</td>
 		<td>292</td>
 		<td>292</td>
-		<td>293</td>
-		<td>+ 1</td>
+		<td>295</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
