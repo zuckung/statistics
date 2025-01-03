@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.13-additional.command.buttons.radial | downloads: 25
 v1.0.4-better.starts | downloads: 20
-v1.0.5-bunrodea.missions | downloads: 36
+v1.0.5-bunrodea.missions | downloads: 38
 v1.0.2-planet.pluto | downloads: 14
 v1.0.2-planet.map | downloads: 7
 v1.0.2-jump.gates | downloads: 25
@@ -16,7 +16,7 @@ v1.0.3-navy.licenses | downloads: 83
 v1.0.6-coalition.shopping | downloads: 78
 v1.0.5-snowfeather.robotics | downloads: 57
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 89
+v1.0.2-kor.efret.shipyard | downloads: 91
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 79
@@ -46,7 +46,7 @@ v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 142
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 115
-v1.0.1-paint.your.ships | downloads: 172
+v1.0.1-paint.your.ships | downloads: 174
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
 v1.0.1-uniques | downloads: 14
@@ -57,7 +57,7 @@ v1.0.0-outfits.weapon.slot | downloads: 159
 v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 104
-v1.0.0-kestrel.unlocks | downloads: 172
+v1.0.0-kestrel.unlocks | downloads: 174
 v1.0.2-tribute.republic | downloads: 132
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
@@ -165,7 +165,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8418
+# TOTAL DOWNLOADS: 8426
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -174,7 +174,7 @@ additional.command.buttons.radial 315
 automata.destruction.0percent 196
 automata.in.human.space 176
 better.starts 235
-bunrodea.missions 287
+bunrodea.missions 289
 captureable.person.ships 217
 coalition.shopping 272
 control.station 206
@@ -188,8 +188,8 @@ gegno.pirates 297
 hai.side.mission.unlocker 217
 human.labels 174
 jump.gates 224
-kestrel.unlocks 172
-kor.efret.shipyard 259
+kestrel.unlocks 174
+kor.efret.shipyard 261
 landing.images 188
 landing.images.android 183
 landing.images.highres 144
@@ -199,7 +199,7 @@ more.person.ships 232
 navy.licenses 295
 no.more.mereti.mines 171
 outfits.weapon.slot 159
-paint.your.ships 176
+paint.your.ships 178
 pirate.warlords 3
 planet.map 136
 planet.pluto 34
