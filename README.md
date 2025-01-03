@@ -131,8 +131,8 @@
 		<td>121</td>
 		<td>121</td>
 		<td>121</td>
-		<td>121</td>
-		<td></td>
+		<td>123</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -142,8 +142,8 @@
 		<td>199</td>
 		<td>199</td>
 		<td>199</td>
-		<td>199</td>
-		<td></td>
+		<td>201</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -351,8 +351,8 @@
 		<td>170</td>
 		<td>174</td>
 		<td>174</td>
-		<td>174</td>
-		<td></td>
+		<td>176</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -740,8 +740,8 @@
 		<td>199</td>
 		<td>199</td>
 		<td>199</td>
-		<td>199</td>
-		<td></td>
+		<td>201</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -788,6 +788,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>paint.your.ships</td>
+		<td>168</td>
+		<td>168</td>
+		<td>170</td>
+		<td>170</td>
+		<td>174</td>
+		<td>174</td>
+		<td>176</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>free.worlds.5.years.later</td>
 		<td>174</td>
 		<td>174</td>
@@ -807,17 +818,6 @@
 		<td>176</td>
 		<td>176</td>
 		<td>176</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>168</td>
-		<td>168</td>
-		<td>170</td>
-		<td>170</td>
-		<td>174</td>
-		<td>174</td>
-		<td>174</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -905,8 +905,8 @@
 		<td>121</td>
 		<td>121</td>
 		<td>121</td>
-		<td>121</td>
-		<td></td>
+		<td>123</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
