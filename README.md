@@ -54,8 +54,8 @@
 		<td>176</td>
 		<td>176</td>
 		<td>176</td>
-		<td>176</td>
-		<td></td>
+		<td>178</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -175,8 +175,8 @@
 		<td>328</td>
 		<td>332</td>
 		<td>332</td>
-		<td>334</td>
-		<td>+ 2</td>
+		<td>336</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -230,8 +230,8 @@
 		<td>172</td>
 		<td>172</td>
 		<td>172</td>
-		<td>174</td>
-		<td>+ 2</td>
+		<td>176</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -241,8 +241,8 @@
 		<td>253</td>
 		<td>255</td>
 		<td>259</td>
-		<td>261</td>
-		<td>+ 2</td>
+		<td>263</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -329,8 +329,8 @@
 		<td>171</td>
 		<td>171</td>
 		<td>171</td>
-		<td>171</td>
-		<td></td>
+		<td>173</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -450,8 +450,8 @@
 		<td>282</td>
 		<td>284</td>
 		<td>284</td>
-		<td>284</td>
-		<td></td>
+		<td>286</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -509,8 +509,8 @@
 		<td>328</td>
 		<td>332</td>
 		<td>332</td>
-		<td>334</td>
-		<td>+ 2</td>
+		<td>336</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -564,8 +564,8 @@
 		<td>282</td>
 		<td>284</td>
 		<td>284</td>
-		<td>284</td>
-		<td></td>
+		<td>286</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -608,8 +608,8 @@
 		<td>253</td>
 		<td>255</td>
 		<td>259</td>
-		<td>261</td>
-		<td>+ 2</td>
+		<td>263</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -799,17 +799,6 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
-		<td>free.worlds.5.years.later</td>
-		<td>174</td>
-		<td>174</td>
-		<td>174</td>
-		<td>174</td>
-		<td>176</td>
-		<td>176</td>
-		<td>176</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>automata.in.human.space</td>
 		<td>175</td>
 		<td>175</td>
@@ -817,8 +806,8 @@
 		<td>176</td>
 		<td>176</td>
 		<td>176</td>
-		<td>176</td>
-		<td></td>
+		<td>178</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -828,8 +817,19 @@
 		<td>172</td>
 		<td>172</td>
 		<td>172</td>
+		<td>176</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
+		<td>free.worlds.5.years.later</td>
 		<td>174</td>
-		<td>+ 2</td>
+		<td>174</td>
+		<td>174</td>
+		<td>174</td>
+		<td>176</td>
+		<td>176</td>
+		<td>176</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -850,8 +850,8 @@
 		<td>171</td>
 		<td>171</td>
 		<td>171</td>
-		<td>171</td>
-		<td></td>
+		<td>173</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
