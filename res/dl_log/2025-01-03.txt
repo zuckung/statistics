@@ -46,7 +46,7 @@ v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 142
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 115
-v1.0.1-paint.your.ships | downloads: 170
+v1.0.1-paint.your.ships | downloads: 172
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
 v1.0.1-uniques | downloads: 14
@@ -106,7 +106,7 @@ v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
 v1.1.3-hai.side.mission.unlocker | downloads: 71
-v1.1.1-disable.spaceport.repeatables | downloads: 198
+v1.1.1-disable.spaceport.repeatables | downloads: 200
 v1.0.0-quarg.farm | downloads: 1
 v1.0.1-control.station | downloads: 205
 v1.0.0-control.station | downloads: 1
@@ -153,7 +153,7 @@ v1.0-kor.efret.shipyard | downloads: 155
 v1.0-gegno.pirates | downloads: 1
 v1.0-free.worlds.5.years.later | downloads: 176
 v1.0-expert.crew.members | downloads: 4
-v1.0-disable.person.ships | downloads: 121
+v1.0-disable.person.ships | downloads: 123
 v1.0-devil-run.unhidden | downloads: 1
 v1.0-coalition.shopping | downloads: 1
 v1.0-bunrodea.missions | downloads: 4
@@ -165,7 +165,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8393
+# TOTAL DOWNLOADS: 8399
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -179,8 +179,8 @@ captureable.person.ships 215
 coalition.shopping 272
 control.station 206
 devil-run.unhidden 66
-disable.person.ships 121
-disable.spaceport.repeatables 199
+disable.person.ships 123
+disable.spaceport.repeatables 201
 expert.crew.members 280
 free.worlds.5.years.later 176
 galactic.capital.investment 332
@@ -199,7 +199,7 @@ more.person.ships 232
 navy.licenses 292
 no.more.mereti.mines 171
 outfits.weapon.slot 159
-paint.your.ships 174
+paint.your.ships 176
 pirate.warlords 3
 planet.map 136
 planet.pluto 34
