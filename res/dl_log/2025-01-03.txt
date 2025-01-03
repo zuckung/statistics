@@ -1,29 +1,29 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.13-additional.command.buttons.radial | downloads: 25
 v1.0.4-better.starts | downloads: 20
-v1.0.5-bunrodea.missions | downloads: 34
+v1.0.5-bunrodea.missions | downloads: 36
 v1.0.2-planet.pluto | downloads: 14
 v1.0.2-planet.map | downloads: 7
 v1.0.2-jump.gates | downloads: 25
-v1.0.4-expert.crew.members | downloads: 42
+v1.0.4-expert.crew.members | downloads: 44
 v1.0.1-planet.pluto | downloads: 19
 v1.0.0-planet.pluto | downloads: 1
 v1.0.12-additional.command.buttons.radial | downloads: 45
 v1.0.11-additional.command.buttons.radial | downloads: 1
-v1.1.6-captureable.person.ships | downloads: 58
+v1.1.6-captureable.person.ships | downloads: 60
 v1.0.6-uniques | downloads: 62
-v1.0.3-navy.licenses | downloads: 80
+v1.0.3-navy.licenses | downloads: 81
 v1.0.6-coalition.shopping | downloads: 78
-v1.0.5-snowfeather.robotics | downloads: 55
+v1.0.5-snowfeather.robotics | downloads: 57
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 89
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 79
 v1.0.1-show.reputation | downloads: 1
-v1.1.4-galactic.capital.investment | downloads: 134
+v1.1.4-galactic.capital.investment | downloads: 136
 v1.0.9-additional.command.buttons.radial | downloads: 28
-v1.0.2-gegno.pirates | downloads: 123
+v1.0.2-gegno.pirates | downloads: 125
 v1.0.1-kor.efret.shipyard | downloads: 15
 v1.0.2-more.person.ships | downloads: 97
 v1.0.8-additional.command.buttons.radial | downloads: 20
@@ -111,7 +111,7 @@ v1.0.0-quarg.farm | downloads: 1
 v1.0.1-control.station | downloads: 205
 v1.0.0-control.station | downloads: 1
 v1.0.0-additional.command.buttons.radial | downloads: 52
-v1.1.3-more.boarding.missions | downloads: 235
+v1.1.3-more.boarding.missions | downloads: 237
 v1.0.3-coalition.shopping | downloads: 97
 v1.0.2-coalition.shopping | downloads: 1
 v1.0.1-navy.licenses | downloads: 1
@@ -165,7 +165,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8399
+# TOTAL DOWNLOADS: 8414
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -174,17 +174,17 @@ additional.command.buttons.radial 315
 automata.destruction.0percent 196
 automata.in.human.space 176
 better.starts 235
-bunrodea.missions 285
-captureable.person.ships 215
+bunrodea.missions 287
+captureable.person.ships 217
 coalition.shopping 272
 control.station 206
 devil-run.unhidden 66
 disable.person.ships 123
 disable.spaceport.repeatables 201
-expert.crew.members 280
+expert.crew.members 282
 free.worlds.5.years.later 176
-galactic.capital.investment 332
-gegno.pirates 295
+galactic.capital.investment 334
+gegno.pirates 297
 hai.side.mission.unlocker 217
 human.labels 174
 jump.gates 224
@@ -194,9 +194,9 @@ landing.images 186
 landing.images.android 183
 landing.images.highres 144
 more.arfectas 257
-more.boarding.missions 242
+more.boarding.missions 244
 more.person.ships 232
-navy.licenses 292
+navy.licenses 293
 no.more.mereti.mines 171
 outfits.weapon.slot 159
 paint.your.ships 176
@@ -206,7 +206,7 @@ planet.pluto 34
 quarg.farm 271
 real.fluff 93
 show.reputation 221
-snowfeather.robotics 214
+snowfeather.robotics 216
 space.fauna 201
 too.many.asteroids 284
 tribute.republic 150
