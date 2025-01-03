@@ -76,8 +76,8 @@
 		<td>277</td>
 		<td>285</td>
 		<td>285</td>
-		<td>287</td>
-		<td>+ 2</td>
+		<td>289</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -230,8 +230,8 @@
 		<td>172</td>
 		<td>172</td>
 		<td>172</td>
-		<td>172</td>
-		<td></td>
+		<td>174</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -241,8 +241,8 @@
 		<td>253</td>
 		<td>255</td>
 		<td>259</td>
-		<td>259</td>
-		<td></td>
+		<td>261</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -351,8 +351,8 @@
 		<td>170</td>
 		<td>174</td>
 		<td>174</td>
-		<td>176</td>
-		<td>+ 2</td>
+		<td>178</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -553,8 +553,8 @@
 		<td>277</td>
 		<td>285</td>
 		<td>285</td>
-		<td>287</td>
-		<td>+ 2</td>
+		<td>289</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -608,8 +608,8 @@
 		<td>253</td>
 		<td>255</td>
 		<td>259</td>
-		<td>259</td>
-		<td></td>
+		<td>261</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -795,8 +795,8 @@
 		<td>170</td>
 		<td>174</td>
 		<td>174</td>
-		<td>176</td>
-		<td>+ 2</td>
+		<td>178</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -821,6 +821,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>kestrel.unlocks</td>
+		<td>171</td>
+		<td>171</td>
+		<td>172</td>
+		<td>172</td>
+		<td>172</td>
+		<td>172</td>
+		<td>174</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>human.labels</td>
 		<td>171</td>
 		<td>171</td>
@@ -829,17 +840,6 @@
 		<td>174</td>
 		<td>174</td>
 		<td>174</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>kestrel.unlocks</td>
-		<td>171</td>
-		<td>171</td>
-		<td>172</td>
-		<td>172</td>
-		<td>172</td>
-		<td>172</td>
-		<td>172</td>
 		<td></td>
 	</tr>
 	<tr>
