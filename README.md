@@ -241,8 +241,8 @@
 		<td>255</td>
 		<td>259</td>
 		<td>263</td>
-		<td>263</td>
-		<td></td>
+		<td>265</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -608,8 +608,8 @@
 		<td>255</td>
 		<td>259</td>
 		<td>263</td>
-		<td>263</td>
-		<td></td>
+		<td>265</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
