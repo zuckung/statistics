@@ -1,18 +1,18 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.13-additional.command.buttons.radial | downloads: 29
-v1.0.4-better.starts | downloads: 20
+v1.0.4-better.starts | downloads: 22
 v1.0.5-bunrodea.missions | downloads: 38
 v1.0.2-planet.pluto | downloads: 14
 v1.0.2-planet.map | downloads: 7
 v1.0.2-jump.gates | downloads: 25
-v1.0.4-expert.crew.members | downloads: 44
+v1.0.4-expert.crew.members | downloads: 46
 v1.0.1-planet.pluto | downloads: 19
 v1.0.0-planet.pluto | downloads: 1
 v1.0.12-additional.command.buttons.radial | downloads: 45
 v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 60
 v1.0.6-uniques | downloads: 62
-v1.0.3-navy.licenses | downloads: 83
+v1.0.3-navy.licenses | downloads: 85
 v1.0.6-coalition.shopping | downloads: 78
 v1.0.5-snowfeather.robotics | downloads: 57
 v1.0.4-snowfeather.robotics | downloads: 3
@@ -37,7 +37,7 @@ v1.0.2-quarg.farm | downloads: 152
 v1.0.2-landing.images.highres | downloads: 76
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 190
-v1.0.1-automata.in.human.space | downloads: 117
+v1.0.1-automata.in.human.space | downloads: 119
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 92
@@ -101,14 +101,14 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 195
+v1.0.1-automata.destruction.0percent | downloads: 197
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
 v1.1.3-hai.side.mission.unlocker | downloads: 71
 v1.1.1-disable.spaceport.repeatables | downloads: 200
 v1.0.0-quarg.farm | downloads: 1
-v1.0.1-control.station | downloads: 205
+v1.0.1-control.station | downloads: 207
 v1.0.0-control.station | downloads: 1
 v1.0.0-additional.command.buttons.radial | downloads: 52
 v1.1.3-more.boarding.missions | downloads: 237
@@ -165,23 +165,23 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8452
+# TOTAL DOWNLOADS: 8464
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 319
-automata.destruction.0percent 196
-automata.in.human.space 178
-better.starts 235
+automata.destruction.0percent 198
+automata.in.human.space 180
+better.starts 237
 bunrodea.missions 289
 captureable.person.ships 217
 coalition.shopping 272
-control.station 206
+control.station 208
 devil-run.unhidden 66
 disable.person.ships 123
 disable.spaceport.repeatables 201
-expert.crew.members 282
+expert.crew.members 284
 free.worlds.5.years.later 176
 galactic.capital.investment 336
 gegno.pirates 297
@@ -196,7 +196,7 @@ landing.images.highres 144
 more.arfectas 257
 more.boarding.missions 244
 more.person.ships 232
-navy.licenses 295
+navy.licenses 297
 no.more.mereti.mines 173
 outfits.weapon.slot 159
 paint.your.ships 180
