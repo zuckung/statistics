@@ -241,8 +241,8 @@
 		<td>255</td>
 		<td>259</td>
 		<td>263</td>
-		<td>265</td>
-		<td>+ 2</td>
+		<td>267</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -395,8 +395,8 @@
 		<td>271</td>
 		<td>271</td>
 		<td>271</td>
-		<td>271</td>
-		<td></td>
+		<td>273</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -417,8 +417,8 @@
 		<td>221</td>
 		<td>221</td>
 		<td>221</td>
-		<td>221</td>
-		<td></td>
+		<td>223</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -579,6 +579,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>quarg.farm</td>
+		<td>266</td>
+		<td>269</td>
+		<td>269</td>
+		<td>271</td>
+		<td>271</td>
+		<td>271</td>
+		<td>273</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>coalition.shopping</td>
 		<td>263</td>
 		<td>266</td>
@@ -590,17 +601,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>quarg.farm</td>
-		<td>266</td>
-		<td>269</td>
-		<td>269</td>
-		<td>271</td>
-		<td>271</td>
-		<td>271</td>
-		<td>271</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>kor.efret.shipyard</td>
 		<td>252</td>
 		<td>253</td>
@@ -608,8 +608,8 @@
 		<td>255</td>
 		<td>259</td>
 		<td>263</td>
-		<td>265</td>
-		<td>+ 2</td>
+		<td>267</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -674,8 +674,8 @@
 		<td>221</td>
 		<td>221</td>
 		<td>221</td>
-		<td>221</td>
-		<td></td>
+		<td>223</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
