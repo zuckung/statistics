@@ -16,10 +16,10 @@ v1.0.3-navy.licenses | downloads: 83
 v1.0.6-coalition.shopping | downloads: 78
 v1.0.5-snowfeather.robotics | downloads: 57
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 95
+v1.0.2-kor.efret.shipyard | downloads: 97
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
-v1.0.2-show.reputation | downloads: 79
+v1.0.2-show.reputation | downloads: 81
 v1.0.1-show.reputation | downloads: 1
 v1.1.4-galactic.capital.investment | downloads: 138
 v1.0.9-additional.command.buttons.radial | downloads: 28
@@ -33,7 +33,7 @@ v1.0.7-additional.command.buttons.radial | downloads: 9
 v1.0.4-landing.images | downloads: 115
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 120
-v1.0.2-quarg.farm | downloads: 150
+v1.0.2-quarg.farm | downloads: 152
 v1.0.2-landing.images.highres | downloads: 76
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 190
@@ -165,7 +165,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8446
+# TOTAL DOWNLOADS: 8452
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -189,7 +189,7 @@ hai.side.mission.unlocker 217
 human.labels 174
 jump.gates 224
 kestrel.unlocks 176
-kor.efret.shipyard 265
+kor.efret.shipyard 267
 landing.images 188
 landing.images.android 183
 landing.images.highres 144
@@ -203,9 +203,9 @@ paint.your.ships 180
 pirate.warlords 3
 planet.map 136
 planet.pluto 34
-quarg.farm 271
+quarg.farm 273
 real.fluff 93
-show.reputation 221
+show.reputation 223
 snowfeather.robotics 216
 space.fauna 201
 too.many.asteroids 286
