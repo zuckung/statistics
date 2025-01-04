@@ -54,8 +54,8 @@
 		<td>176</td>
 		<td>176</td>
 		<td>178</td>
-		<td>180</td>
-		<td>+ 2</td>
+		<td>182</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -186,8 +186,8 @@
 		<td>293</td>
 		<td>295</td>
 		<td>297</td>
-		<td>299</td>
-		<td>+ 2</td>
+		<td>301</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -263,8 +263,8 @@
 		<td>183</td>
 		<td>183</td>
 		<td>183</td>
-		<td>183</td>
-		<td></td>
+		<td>185</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -524,6 +524,17 @@
 		<td>+ 7</td>
 	</tr>
 	<tr>
+		<td>gegno.pirates</td>
+		<td>286</td>
+		<td>289</td>
+		<td>289</td>
+		<td>293</td>
+		<td>295</td>
+		<td>297</td>
+		<td>301</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>navy.licenses</td>
 		<td>286</td>
 		<td>287</td>
@@ -533,17 +544,6 @@
 		<td>295</td>
 		<td>299</td>
 		<td>+ 4</td>
-	</tr>
-	<tr>
-		<td>gegno.pirates</td>
-		<td>286</td>
-		<td>289</td>
-		<td>289</td>
-		<td>293</td>
-		<td>295</td>
-		<td>297</td>
-		<td>299</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -784,18 +784,7 @@
 		<td>183</td>
 		<td>183</td>
 		<td>183</td>
-		<td>183</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>168</td>
-		<td>170</td>
-		<td>170</td>
-		<td>174</td>
-		<td>174</td>
-		<td>178</td>
-		<td>180</td>
+		<td>185</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -805,6 +794,17 @@
 		<td>176</td>
 		<td>176</td>
 		<td>176</td>
+		<td>178</td>
+		<td>182</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
+		<td>paint.your.ships</td>
+		<td>168</td>
+		<td>170</td>
+		<td>170</td>
+		<td>174</td>
+		<td>174</td>
 		<td>178</td>
 		<td>180</td>
 		<td>+ 2</td>
