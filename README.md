@@ -43,8 +43,8 @@
 		<td>194</td>
 		<td>196</td>
 		<td>196</td>
-		<td>196</td>
-		<td></td>
+		<td>198</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -54,8 +54,8 @@
 		<td>176</td>
 		<td>176</td>
 		<td>178</td>
-		<td>178</td>
-		<td></td>
+		<td>180</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -65,8 +65,8 @@
 		<td>235</td>
 		<td>235</td>
 		<td>235</td>
-		<td>235</td>
-		<td></td>
+		<td>237</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -109,8 +109,8 @@
 		<td>206</td>
 		<td>206</td>
 		<td>206</td>
-		<td>206</td>
-		<td></td>
+		<td>208</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -153,8 +153,8 @@
 		<td>280</td>
 		<td>280</td>
 		<td>282</td>
-		<td>282</td>
-		<td></td>
+		<td>284</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -318,8 +318,8 @@
 		<td>292</td>
 		<td>292</td>
 		<td>295</td>
-		<td>295</td>
-		<td></td>
+		<td>297</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -524,6 +524,17 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
+		<td>navy.licenses</td>
+		<td>286</td>
+		<td>287</td>
+		<td>287</td>
+		<td>292</td>
+		<td>292</td>
+		<td>295</td>
+		<td>297</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>gegno.pirates</td>
 		<td>286</td>
 		<td>289</td>
@@ -532,17 +543,6 @@
 		<td>295</td>
 		<td>297</td>
 		<td>297</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>navy.licenses</td>
-		<td>286</td>
-		<td>287</td>
-		<td>287</td>
-		<td>292</td>
-		<td>292</td>
-		<td>295</td>
-		<td>295</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -575,8 +575,8 @@
 		<td>280</td>
 		<td>280</td>
 		<td>282</td>
-		<td>282</td>
-		<td></td>
+		<td>284</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -641,8 +641,8 @@
 		<td>235</td>
 		<td>235</td>
 		<td>235</td>
-		<td>235</td>
-		<td></td>
+		<td>237</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -718,8 +718,8 @@
 		<td>206</td>
 		<td>206</td>
 		<td>206</td>
-		<td>206</td>
-		<td></td>
+		<td>208</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -751,8 +751,8 @@
 		<td>194</td>
 		<td>196</td>
 		<td>196</td>
-		<td>196</td>
-		<td></td>
+		<td>198</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -806,8 +806,8 @@
 		<td>176</td>
 		<td>176</td>
 		<td>178</td>
-		<td>178</td>
-		<td></td>
+		<td>180</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
