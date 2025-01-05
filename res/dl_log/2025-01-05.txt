@@ -3,7 +3,7 @@ v1.0.13-additional.command.buttons.radial | downloads: 31
 v1.0.4-better.starts | downloads: 24
 v1.0.5-bunrodea.missions | downloads: 44
 v1.0.2-planet.pluto | downloads: 16
-v1.0.2-planet.map | downloads: 11
+v1.0.2-planet.map | downloads: 13
 v1.0.2-jump.gates | downloads: 27
 v1.0.4-expert.crew.members | downloads: 46
 v1.0.1-planet.pluto | downloads: 19
@@ -19,7 +19,7 @@ v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 99
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
-v1.0.2-show.reputation | downloads: 86
+v1.0.2-show.reputation | downloads: 88
 v1.0.1-show.reputation | downloads: 1
 v1.1.4-galactic.capital.investment | downloads: 139
 v1.0.9-additional.command.buttons.radial | downloads: 29
@@ -30,7 +30,7 @@ v1.0.8-additional.command.buttons.radial | downloads: 20
 v1.0.2-better.starts | downloads: 35
 v1.1.5-captureable.person.ships | downloads: 54
 v1.0.7-additional.command.buttons.radial | downloads: 9
-v1.0.4-landing.images | downloads: 115
+v1.0.4-landing.images | downloads: 117
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 120
 v1.0.2-quarg.farm | downloads: 154
@@ -165,7 +165,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8524
+# TOTAL DOWNLOADS: 8530
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -190,7 +190,7 @@ human.labels 174
 jump.gates 226
 kestrel.unlocks 178
 kor.efret.shipyard 269
-landing.images 188
+landing.images 190
 landing.images.android 185
 landing.images.highres 144
 more.arfectas 259
@@ -201,11 +201,11 @@ no.more.mereti.mines 173
 outfits.weapon.slot 159
 paint.your.ships 180
 pirate.warlords 3
-planet.map 140
+planet.map 142
 planet.pluto 36
 quarg.farm 275
 real.fluff 93
-show.reputation 228
+show.reputation 230
 snowfeather.robotics 219
 space.fauna 203
 too.many.asteroids 288
