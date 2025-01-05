@@ -19,7 +19,7 @@ v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 99
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
-v1.0.2-show.reputation | downloads: 84
+v1.0.2-show.reputation | downloads: 86
 v1.0.1-show.reputation | downloads: 1
 v1.1.4-galactic.capital.investment | downloads: 138
 v1.0.9-additional.command.buttons.radial | downloads: 29
@@ -165,7 +165,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8514
+# TOTAL DOWNLOADS: 8516
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -205,7 +205,7 @@ planet.map 138
 planet.pluto 36
 quarg.farm 275
 real.fluff 93
-show.reputation 226
+show.reputation 228
 snowfeather.robotics 218
 space.fauna 203
 too.many.asteroids 288
