@@ -417,8 +417,8 @@
 		<td>221</td>
 		<td>221</td>
 		<td>226</td>
-		<td>226</td>
-		<td></td>
+		<td>228</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -663,8 +663,8 @@
 		<td>221</td>
 		<td>221</td>
 		<td>226</td>
-		<td>226</td>
-		<td></td>
+		<td>228</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
