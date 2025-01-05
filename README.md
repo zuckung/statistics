@@ -252,8 +252,8 @@
 		<td>186</td>
 		<td>188</td>
 		<td>188</td>
-		<td>188</td>
-		<td></td>
+		<td>190</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -373,8 +373,8 @@
 		<td>136</td>
 		<td>136</td>
 		<td>138</td>
-		<td>140</td>
-		<td>+ 2</td>
+		<td>142</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -417,8 +417,8 @@
 		<td>221</td>
 		<td>221</td>
 		<td>226</td>
-		<td>228</td>
-		<td>+ 2</td>
+		<td>230</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -663,8 +663,8 @@
 		<td>221</td>
 		<td>221</td>
 		<td>226</td>
-		<td>228</td>
-		<td>+ 2</td>
+		<td>230</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -773,8 +773,8 @@
 		<td>186</td>
 		<td>188</td>
 		<td>188</td>
-		<td>188</td>
-		<td></td>
+		<td>190</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -894,8 +894,8 @@
 		<td>136</td>
 		<td>136</td>
 		<td>138</td>
-		<td>140</td>
-		<td>+ 2</td>
+		<td>142</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
