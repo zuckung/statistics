@@ -175,8 +175,8 @@
 		<td>332</td>
 		<td>336</td>
 		<td>336</td>
-		<td>336</td>
-		<td></td>
+		<td>337</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -428,8 +428,8 @@
 		<td>214</td>
 		<td>216</td>
 		<td>218</td>
-		<td>218</td>
-		<td></td>
+		<td>219</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -509,8 +509,8 @@
 		<td>332</td>
 		<td>336</td>
 		<td>336</td>
-		<td>336</td>
-		<td></td>
+		<td>337</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -678,6 +678,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>snowfeather.robotics</td>
+		<td>212</td>
+		<td>212</td>
+		<td>214</td>
+		<td>214</td>
+		<td>216</td>
+		<td>218</td>
+		<td>219</td>
+		<td>+ 1</td>
+	</tr>
+	<tr>
 		<td>hai.side.mission.unlocker</td>
 		<td>215</td>
 		<td>215</td>
@@ -686,17 +697,6 @@
 		<td>217</td>
 		<td>219</td>
 		<td>219</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>snowfeather.robotics</td>
-		<td>212</td>
-		<td>212</td>
-		<td>214</td>
-		<td>214</td>
-		<td>216</td>
-		<td>218</td>
-		<td>218</td>
 		<td></td>
 	</tr>
 	<tr>
