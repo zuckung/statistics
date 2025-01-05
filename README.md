@@ -373,8 +373,8 @@
 		<td>136</td>
 		<td>136</td>
 		<td>138</td>
-		<td>138</td>
-		<td></td>
+		<td>140</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -461,8 +461,8 @@
 		<td>150</td>
 		<td>150</td>
 		<td>151</td>
-		<td>151</td>
-		<td></td>
+		<td>153</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
@@ -872,8 +872,8 @@
 		<td>150</td>
 		<td>150</td>
 		<td>151</td>
-		<td>151</td>
-		<td></td>
+		<td>153</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -894,8 +894,8 @@
 		<td>136</td>
 		<td>136</td>
 		<td>138</td>
-		<td>138</td>
-		<td></td>
+		<td>140</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
