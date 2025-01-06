@@ -37,7 +37,7 @@ v1.0.2-quarg.farm | downloads: 154
 v1.0.2-landing.images.highres | downloads: 76
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 194
-v1.0.1-automata.in.human.space | downloads: 123
+v1.0.1-automata.in.human.space | downloads: 124
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 92
@@ -101,7 +101,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 197
+v1.0.1-automata.destruction.0percent | downloads: 199
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -165,14 +165,14 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8542
+# TOTAL DOWNLOADS: 8545
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 322
-automata.destruction.0percent 198
-automata.in.human.space 184
+automata.destruction.0percent 200
+automata.in.human.space 185
 better.starts 239
 bunrodea.missions 295
 captureable.person.ships 217
