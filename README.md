@@ -43,8 +43,8 @@
 		<td>196</td>
 		<td>198</td>
 		<td>198</td>
-		<td>198</td>
-		<td></td>
+		<td>200</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -54,8 +54,8 @@
 		<td>178</td>
 		<td>182</td>
 		<td>182</td>
-		<td>184</td>
-		<td>+ 2</td>
+		<td>185</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -751,8 +751,8 @@
 		<td>196</td>
 		<td>198</td>
 		<td>198</td>
-		<td>198</td>
-		<td></td>
+		<td>200</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -795,8 +795,8 @@
 		<td>178</td>
 		<td>182</td>
 		<td>182</td>
-		<td>184</td>
-		<td>+ 2</td>
+		<td>185</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
