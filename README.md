@@ -208,8 +208,8 @@
 		<td>174</td>
 		<td>174</td>
 		<td>174</td>
-		<td>174</td>
-		<td></td>
+		<td>175</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -850,8 +850,8 @@
 		<td>174</td>
 		<td>174</td>
 		<td>174</td>
-		<td>174</td>
-		<td></td>
+		<td>175</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
