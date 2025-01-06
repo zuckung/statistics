@@ -230,8 +230,8 @@
 		<td>176</td>
 		<td>178</td>
 		<td>178</td>
-		<td>182</td>
-		<td>+ 4</td>
+		<td>183</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -340,8 +340,8 @@
 		<td>159</td>
 		<td>159</td>
 		<td>159</td>
-		<td>159</td>
-		<td></td>
+		<td>160</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -806,8 +806,8 @@
 		<td>176</td>
 		<td>178</td>
 		<td>178</td>
-		<td>182</td>
-		<td>+ 4</td>
+		<td>183</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -861,8 +861,8 @@
 		<td>159</td>
 		<td>159</td>
 		<td>159</td>
-		<td>159</td>
-		<td></td>
+		<td>160</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
