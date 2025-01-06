@@ -12,7 +12,7 @@ v1.0.12-additional.command.buttons.radial | downloads: 45
 v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 60
 v1.0.6-uniques | downloads: 64
-v1.0.3-navy.licenses | downloads: 87
+v1.0.3-navy.licenses | downloads: 89
 v1.0.6-coalition.shopping | downloads: 78
 v1.0.5-snowfeather.robotics | downloads: 60
 v1.0.4-snowfeather.robotics | downloads: 3
@@ -165,7 +165,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8560
+# TOTAL DOWNLOADS: 8562
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -196,7 +196,7 @@ landing.images.highres 144
 more.arfectas 259
 more.boarding.missions 244
 more.person.ships 235
-navy.licenses 299
+navy.licenses 301
 no.more.mereti.mines 177
 outfits.weapon.slot 160
 paint.your.ships 180
