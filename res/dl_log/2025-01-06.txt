@@ -16,12 +16,12 @@ v1.0.3-navy.licenses | downloads: 87
 v1.0.6-coalition.shopping | downloads: 78
 v1.0.5-snowfeather.robotics | downloads: 60
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 101
+v1.0.2-kor.efret.shipyard | downloads: 103
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 88
 v1.0.1-show.reputation | downloads: 1
-v1.1.4-galactic.capital.investment | downloads: 141
+v1.1.4-galactic.capital.investment | downloads: 143
 v1.0.9-additional.command.buttons.radial | downloads: 29
 v1.0.2-gegno.pirates | downloads: 129
 v1.0.1-kor.efret.shipyard | downloads: 15
@@ -36,8 +36,8 @@ v1.0.3-expert.crew.members | downloads: 120
 v1.0.2-quarg.farm | downloads: 154
 v1.0.2-landing.images.highres | downloads: 76
 v1.0.5-uniques | downloads: 82
-v1.0.3-too.many.asteroids | downloads: 194
-v1.0.1-automata.in.human.space | downloads: 124
+v1.0.3-too.many.asteroids | downloads: 196
+v1.0.1-automata.in.human.space | downloads: 126
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 92
@@ -45,7 +45,7 @@ v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 144
 v1.0.6-additional.command.buttons.radial | downloads: 48
-v1.0.3-no.more.mereti.mines | downloads: 119
+v1.0.3-no.more.mereti.mines | downloads: 121
 v1.0.1-paint.your.ships | downloads: 176
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
@@ -57,7 +57,7 @@ v1.0.0-outfits.weapon.slot | downloads: 159
 v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 104
-v1.0.0-kestrel.unlocks | downloads: 180
+v1.0.0-kestrel.unlocks | downloads: 182
 v1.0.2-tribute.republic | downloads: 135
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
@@ -165,14 +165,14 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8545
+# TOTAL DOWNLOADS: 8557
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 322
 automata.destruction.0percent 200
-automata.in.human.space 185
+automata.in.human.space 187
 better.starts 239
 bunrodea.missions 295
 captureable.person.ships 217
@@ -183,13 +183,13 @@ disable.person.ships 123
 disable.spaceport.repeatables 201
 expert.crew.members 284
 free.worlds.5.years.later 176
-galactic.capital.investment 339
+galactic.capital.investment 341
 gegno.pirates 301
 hai.side.mission.unlocker 219
 human.labels 174
 jump.gates 226
-kestrel.unlocks 180
-kor.efret.shipyard 271
+kestrel.unlocks 182
+kor.efret.shipyard 273
 landing.images 190
 landing.images.android 185
 landing.images.highres 144
@@ -197,7 +197,7 @@ more.arfectas 259
 more.boarding.missions 244
 more.person.ships 235
 navy.licenses 299
-no.more.mereti.mines 175
+no.more.mereti.mines 177
 outfits.weapon.slot 159
 paint.your.ships 180
 pirate.warlords 3
@@ -208,7 +208,7 @@ real.fluff 93
 show.reputation 230
 snowfeather.robotics 219
 space.fauna 203
-too.many.asteroids 290
+too.many.asteroids 292
 tribute.republic 153
 unique.fix 44
 uniques 196
