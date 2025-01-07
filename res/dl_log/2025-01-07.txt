@@ -12,8 +12,8 @@ v1.0.12-additional.command.buttons.radial | downloads: 45
 v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 60
 v1.0.6-uniques | downloads: 64
-v1.0.3-navy.licenses | downloads: 89
-v1.0.6-coalition.shopping | downloads: 78
+v1.0.3-navy.licenses | downloads: 90
+v1.0.6-coalition.shopping | downloads: 79
 v1.0.5-snowfeather.robotics | downloads: 60
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 103
@@ -23,7 +23,7 @@ v1.0.2-show.reputation | downloads: 88
 v1.0.1-show.reputation | downloads: 1
 v1.1.4-galactic.capital.investment | downloads: 143
 v1.0.9-additional.command.buttons.radial | downloads: 29
-v1.0.2-gegno.pirates | downloads: 129
+v1.0.2-gegno.pirates | downloads: 130
 v1.0.1-kor.efret.shipyard | downloads: 15
 v1.0.2-more.person.ships | downloads: 100
 v1.0.8-additional.command.buttons.radial | downloads: 20
@@ -101,7 +101,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 199
+v1.0.1-automata.destruction.0percent | downloads: 200
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -165,18 +165,18 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8566
+# TOTAL DOWNLOADS: 8570
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 322
-automata.destruction.0percent 200
+automata.destruction.0percent 201
 automata.in.human.space 187
 better.starts 239
 bunrodea.missions 296
 captureable.person.ships 217
-coalition.shopping 272
+coalition.shopping 273
 control.station 208
 devil-run.unhidden 66
 disable.person.ships 123
@@ -184,7 +184,7 @@ disable.spaceport.repeatables 201
 expert.crew.members 287
 free.worlds.5.years.later 176
 galactic.capital.investment 341
-gegno.pirates 301
+gegno.pirates 302
 hai.side.mission.unlocker 219
 human.labels 175
 jump.gates 226
@@ -196,7 +196,7 @@ landing.images.highres 144
 more.arfectas 259
 more.boarding.missions 244
 more.person.ships 235
-navy.licenses 301
+navy.licenses 302
 no.more.mereti.mines 177
 outfits.weapon.slot 160
 paint.your.ships 180
