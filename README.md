@@ -43,8 +43,8 @@
 		<td>198</td>
 		<td>198</td>
 		<td>200</td>
-		<td>200</td>
-		<td></td>
+		<td>201</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -98,8 +98,8 @@
 		<td>272</td>
 		<td>272</td>
 		<td>272</td>
-		<td>272</td>
-		<td></td>
+		<td>273</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -186,8 +186,8 @@
 		<td>301</td>
 		<td>301</td>
 		<td>301</td>
-		<td>301</td>
-		<td></td>
+		<td>302</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -318,8 +318,8 @@
 		<td>299</td>
 		<td>299</td>
 		<td>301</td>
-		<td>301</td>
-		<td></td>
+		<td>302</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -531,8 +531,8 @@
 		<td>299</td>
 		<td>299</td>
 		<td>301</td>
-		<td>301</td>
-		<td></td>
+		<td>302</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -542,8 +542,8 @@
 		<td>301</td>
 		<td>301</td>
 		<td>301</td>
-		<td>301</td>
-		<td></td>
+		<td>302</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -608,8 +608,8 @@
 		<td>272</td>
 		<td>272</td>
 		<td>272</td>
-		<td>272</td>
-		<td></td>
+		<td>273</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -751,8 +751,8 @@
 		<td>198</td>
 		<td>198</td>
 		<td>200</td>
-		<td>200</td>
-		<td></td>
+		<td>201</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
