@@ -417,8 +417,8 @@
 		<td>230</td>
 		<td>230</td>
 		<td>230</td>
-		<td>230</td>
-		<td></td>
+		<td>232</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -450,8 +450,8 @@
 		<td>288</td>
 		<td>292</td>
 		<td>292</td>
-		<td>292</td>
-		<td></td>
+		<td>294</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -564,8 +564,8 @@
 		<td>288</td>
 		<td>292</td>
 		<td>292</td>
-		<td>292</td>
-		<td></td>
+		<td>294</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -663,8 +663,8 @@
 		<td>230</td>
 		<td>230</td>
 		<td>230</td>
-		<td>230</td>
-		<td></td>
+		<td>232</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
