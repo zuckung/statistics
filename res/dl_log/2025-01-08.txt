@@ -19,7 +19,7 @@ v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 103
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
-v1.0.2-show.reputation | downloads: 88
+v1.0.2-show.reputation | downloads: 90
 v1.0.1-show.reputation | downloads: 1
 v1.1.4-galactic.capital.investment | downloads: 143
 v1.0.9-additional.command.buttons.radial | downloads: 29
@@ -36,7 +36,7 @@ v1.0.3-expert.crew.members | downloads: 120
 v1.0.2-quarg.farm | downloads: 154
 v1.0.2-landing.images.highres | downloads: 76
 v1.0.5-uniques | downloads: 82
-v1.0.3-too.many.asteroids | downloads: 196
+v1.0.3-too.many.asteroids | downloads: 198
 v1.0.1-automata.in.human.space | downloads: 126
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
@@ -165,7 +165,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8574
+# TOTAL DOWNLOADS: 8578
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -205,10 +205,10 @@ planet.map 142
 planet.pluto 36
 quarg.farm 275
 real.fluff 93
-show.reputation 230
+show.reputation 232
 snowfeather.robotics 219
 space.fauna 203
-too.many.asteroids 292
+too.many.asteroids 294
 tribute.republic 153
 unique.fix 44
 uniques 196
