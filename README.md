@@ -142,8 +142,8 @@
 		<td>201</td>
 		<td>201</td>
 		<td>201</td>
-		<td>201</td>
-		<td></td>
+		<td>203</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -740,8 +740,8 @@
 		<td>201</td>
 		<td>201</td>
 		<td>201</td>
-		<td>201</td>
-		<td></td>
+		<td>203</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
