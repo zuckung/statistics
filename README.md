@@ -318,8 +318,8 @@
 		<td>301</td>
 		<td>302</td>
 		<td>302</td>
-		<td>302</td>
-		<td></td>
+		<td>304</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -531,8 +531,8 @@
 		<td>301</td>
 		<td>302</td>
 		<td>302</td>
-		<td>302</td>
-		<td></td>
+		<td>304</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
