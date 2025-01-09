@@ -450,8 +450,8 @@
 		<td>292</td>
 		<td>292</td>
 		<td>294</td>
-		<td>294</td>
-		<td></td>
+		<td>296</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -546,6 +546,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>too.many.asteroids</td>
+		<td>286</td>
+		<td>288</td>
+		<td>288</td>
+		<td>292</td>
+		<td>292</td>
+		<td>294</td>
+		<td>296</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>bunrodea.missions</td>
 		<td>289</td>
 		<td>293</td>
@@ -554,17 +565,6 @@
 		<td>296</td>
 		<td>296</td>
 		<td>296</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>too.many.asteroids</td>
-		<td>286</td>
-		<td>288</td>
-		<td>288</td>
-		<td>292</td>
-		<td>292</td>
-		<td>294</td>
-		<td>294</td>
 		<td></td>
 	</tr>
 	<tr>
