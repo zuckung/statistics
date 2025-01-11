@@ -131,8 +131,8 @@
 		<td>123</td>
 		<td>123</td>
 		<td>123</td>
-		<td>123</td>
-		<td></td>
+		<td>125</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -153,8 +153,8 @@
 		<td>287</td>
 		<td>287</td>
 		<td>291</td>
-		<td>291</td>
-		<td></td>
+		<td>293</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -175,8 +175,8 @@
 		<td>341</td>
 		<td>343</td>
 		<td>349</td>
-		<td>351</td>
-		<td>+ 2</td>
+		<td>352</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -509,8 +509,8 @@
 		<td>341</td>
 		<td>343</td>
 		<td>349</td>
-		<td>351</td>
-		<td>+ 2</td>
+		<td>352</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -575,8 +575,8 @@
 		<td>287</td>
 		<td>287</td>
 		<td>291</td>
-		<td>291</td>
-		<td></td>
+		<td>293</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -905,8 +905,8 @@
 		<td>123</td>
 		<td>123</td>
 		<td>123</td>
-		<td>123</td>
-		<td></td>
+		<td>125</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
