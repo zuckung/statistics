@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.13-additional.command.buttons.radial | downloads: 31
 v1.0.4-better.starts | downloads: 28
-v1.0.5-bunrodea.missions | downloads: 45
+v1.0.5-bunrodea.missions | downloads: 47
 v1.0.2-planet.pluto | downloads: 16
 v1.0.2-planet.map | downloads: 13
 v1.0.2-jump.gates | downloads: 27
@@ -37,7 +37,7 @@ v1.0.2-quarg.farm | downloads: 158
 v1.0.2-landing.images.highres | downloads: 78
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 208
-v1.0.1-automata.in.human.space | downloads: 134
+v1.0.1-automata.in.human.space | downloads: 136
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 92
@@ -165,16 +165,16 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8712
+# TOTAL DOWNLOADS: 8716
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 324
 automata.destruction.0percent 203
-automata.in.human.space 195
+automata.in.human.space 197
 better.starts 243
-bunrodea.missions 298
+bunrodea.missions 300
 captureable.person.ships 223
 coalition.shopping 275
 control.station 212
