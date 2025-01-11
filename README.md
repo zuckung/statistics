@@ -54,8 +54,8 @@
 		<td>187</td>
 		<td>189</td>
 		<td>193</td>
-		<td>193</td>
-		<td></td>
+		<td>195</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -175,8 +175,8 @@
 		<td>341</td>
 		<td>343</td>
 		<td>349</td>
-		<td>349</td>
-		<td></td>
+		<td>351</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -450,8 +450,8 @@
 		<td>294</td>
 		<td>298</td>
 		<td>302</td>
-		<td>302</td>
-		<td></td>
+		<td>304</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -509,8 +509,8 @@
 		<td>341</td>
 		<td>343</td>
 		<td>349</td>
-		<td>349</td>
-		<td></td>
+		<td>351</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -535,6 +535,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>too.many.asteroids</td>
+		<td>288</td>
+		<td>292</td>
+		<td>292</td>
+		<td>294</td>
+		<td>298</td>
+		<td>302</td>
+		<td>304</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>gegno.pirates</td>
 		<td>301</td>
 		<td>301</td>
@@ -543,17 +554,6 @@
 		<td>302</td>
 		<td>304</td>
 		<td>304</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>too.many.asteroids</td>
-		<td>288</td>
-		<td>292</td>
-		<td>292</td>
-		<td>294</td>
-		<td>298</td>
-		<td>302</td>
-		<td>302</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -784,8 +784,8 @@
 		<td>187</td>
 		<td>189</td>
 		<td>193</td>
-		<td>193</td>
-		<td></td>
+		<td>195</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
