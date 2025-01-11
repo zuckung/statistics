@@ -54,8 +54,8 @@
 		<td>187</td>
 		<td>189</td>
 		<td>193</td>
-		<td>195</td>
-		<td>+ 2</td>
+		<td>197</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -76,8 +76,8 @@
 		<td>296</td>
 		<td>296</td>
 		<td>298</td>
-		<td>298</td>
-		<td></td>
+		<td>300</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -564,8 +564,8 @@
 		<td>296</td>
 		<td>296</td>
 		<td>298</td>
-		<td>298</td>
-		<td></td>
+		<td>300</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -766,6 +766,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>automata.in.human.space</td>
+		<td>182</td>
+		<td>187</td>
+		<td>187</td>
+		<td>187</td>
+		<td>189</td>
+		<td>193</td>
+		<td>197</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>landing.images</td>
 		<td>190</td>
 		<td>190</td>
@@ -775,17 +786,6 @@
 		<td>196</td>
 		<td>196</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>automata.in.human.space</td>
-		<td>182</td>
-		<td>187</td>
-		<td>187</td>
-		<td>187</td>
-		<td>189</td>
-		<td>193</td>
-		<td>195</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
