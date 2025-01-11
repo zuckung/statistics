@@ -197,8 +197,8 @@
 		<td>219</td>
 		<td>219</td>
 		<td>219</td>
-		<td>219</td>
-		<td></td>
+		<td>221</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -707,8 +707,8 @@
 		<td>219</td>
 		<td>219</td>
 		<td>219</td>
-		<td>219</td>
-		<td></td>
+		<td>221</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
