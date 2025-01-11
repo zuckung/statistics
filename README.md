@@ -241,8 +241,8 @@
 		<td>273</td>
 		<td>275</td>
 		<td>283</td>
-		<td>283</td>
-		<td></td>
+		<td>285</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -586,8 +586,8 @@
 		<td>273</td>
 		<td>275</td>
 		<td>283</td>
-		<td>283</td>
-		<td></td>
+		<td>285</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
