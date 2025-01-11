@@ -21,7 +21,7 @@ v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 90
 v1.0.1-show.reputation | downloads: 1
-v1.1.4-galactic.capital.investment | downloads: 151
+v1.1.4-galactic.capital.investment | downloads: 153
 v1.0.9-additional.command.buttons.radial | downloads: 29
 v1.0.2-gegno.pirates | downloads: 132
 v1.0.1-kor.efret.shipyard | downloads: 15
@@ -36,8 +36,8 @@ v1.0.3-expert.crew.members | downloads: 120
 v1.0.2-quarg.farm | downloads: 158
 v1.0.2-landing.images.highres | downloads: 78
 v1.0.5-uniques | downloads: 82
-v1.0.3-too.many.asteroids | downloads: 206
-v1.0.1-automata.in.human.space | downloads: 132
+v1.0.3-too.many.asteroids | downloads: 208
+v1.0.1-automata.in.human.space | downloads: 134
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 92
@@ -165,14 +165,14 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8706
+# TOTAL DOWNLOADS: 8712
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 324
 automata.destruction.0percent 203
-automata.in.human.space 193
+automata.in.human.space 195
 better.starts 243
 bunrodea.missions 298
 captureable.person.ships 223
@@ -183,7 +183,7 @@ disable.person.ships 123
 disable.spaceport.repeatables 203
 expert.crew.members 291
 free.worlds.5.years.later 178
-galactic.capital.investment 349
+galactic.capital.investment 351
 gegno.pirates 304
 hai.side.mission.unlocker 219
 human.labels 177
@@ -208,7 +208,7 @@ real.fluff 93
 show.reputation 232
 snowfeather.robotics 221
 space.fauna 205
-too.many.asteroids 302
+too.many.asteroids 304
 tribute.republic 157
 unique.fix 44
 uniques 198
