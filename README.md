@@ -98,8 +98,8 @@
 		<td>273</td>
 		<td>275</td>
 		<td>276</td>
-		<td>276</td>
-		<td></td>
+		<td>278</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -175,8 +175,8 @@
 		<td>343</td>
 		<td>349</td>
 		<td>352</td>
-		<td>352</td>
-		<td></td>
+		<td>354</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -263,8 +263,8 @@
 		<td>187</td>
 		<td>189</td>
 		<td>189</td>
-		<td>189</td>
-		<td></td>
+		<td>191</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -296,8 +296,8 @@
 		<td>246</td>
 		<td>248</td>
 		<td>248</td>
-		<td>248</td>
-		<td></td>
+		<td>250</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -509,8 +509,8 @@
 		<td>343</td>
 		<td>349</td>
 		<td>352</td>
-		<td>352</td>
-		<td></td>
+		<td>354</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -608,8 +608,8 @@
 		<td>273</td>
 		<td>275</td>
 		<td>276</td>
-		<td>276</td>
-		<td></td>
+		<td>278</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -630,8 +630,8 @@
 		<td>246</td>
 		<td>248</td>
 		<td>248</td>
-		<td>248</td>
-		<td></td>
+		<td>250</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -795,8 +795,8 @@
 		<td>187</td>
 		<td>189</td>
 		<td>189</td>
-		<td>189</td>
-		<td></td>
+		<td>191</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
