@@ -54,8 +54,8 @@
 		<td>189</td>
 		<td>193</td>
 		<td>197</td>
-		<td>197</td>
-		<td></td>
+		<td>198</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -65,8 +65,8 @@
 		<td>239</td>
 		<td>243</td>
 		<td>243</td>
-		<td>243</td>
-		<td></td>
+		<td>245</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>296</td>
 		<td>298</td>
 		<td>301</td>
-		<td>301</td>
-		<td></td>
+		<td>303</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -87,8 +87,8 @@
 		<td>219</td>
 		<td>223</td>
 		<td>223</td>
-		<td>223</td>
-		<td></td>
+		<td>225</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -98,8 +98,8 @@
 		<td>273</td>
 		<td>275</td>
 		<td>276</td>
-		<td>278</td>
-		<td>+ 2</td>
+		<td>280</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -109,8 +109,8 @@
 		<td>208</td>
 		<td>212</td>
 		<td>212</td>
-		<td>212</td>
-		<td></td>
+		<td>214</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -142,8 +142,8 @@
 		<td>203</td>
 		<td>203</td>
 		<td>203</td>
-		<td>203</td>
-		<td></td>
+		<td>207</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -153,8 +153,8 @@
 		<td>287</td>
 		<td>291</td>
 		<td>293</td>
-		<td>293</td>
-		<td></td>
+		<td>295</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -164,8 +164,8 @@
 		<td>176</td>
 		<td>178</td>
 		<td>178</td>
-		<td>178</td>
-		<td></td>
+		<td>180</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -175,8 +175,8 @@
 		<td>343</td>
 		<td>349</td>
 		<td>352</td>
-		<td>354</td>
-		<td>+ 2</td>
+		<td>356</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -395,8 +395,8 @@
 		<td>275</td>
 		<td>279</td>
 		<td>279</td>
-		<td>279</td>
-		<td></td>
+		<td>281</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -417,8 +417,8 @@
 		<td>232</td>
 		<td>232</td>
 		<td>232</td>
-		<td>232</td>
-		<td></td>
+		<td>234</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -509,8 +509,8 @@
 		<td>343</td>
 		<td>349</td>
 		<td>352</td>
-		<td>354</td>
-		<td>+ 2</td>
+		<td>356</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -564,8 +564,8 @@
 		<td>296</td>
 		<td>298</td>
 		<td>301</td>
-		<td>301</td>
-		<td></td>
+		<td>303</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -575,8 +575,8 @@
 		<td>287</td>
 		<td>291</td>
 		<td>293</td>
-		<td>293</td>
-		<td></td>
+		<td>295</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -597,8 +597,8 @@
 		<td>275</td>
 		<td>279</td>
 		<td>279</td>
-		<td>279</td>
-		<td></td>
+		<td>281</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -608,8 +608,8 @@
 		<td>273</td>
 		<td>275</td>
 		<td>276</td>
-		<td>278</td>
-		<td>+ 2</td>
+		<td>280</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -641,8 +641,8 @@
 		<td>239</td>
 		<td>243</td>
 		<td>243</td>
-		<td>243</td>
-		<td></td>
+		<td>245</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -663,8 +663,8 @@
 		<td>232</td>
 		<td>232</td>
 		<td>232</td>
-		<td>232</td>
-		<td></td>
+		<td>234</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -685,8 +685,8 @@
 		<td>219</td>
 		<td>223</td>
 		<td>223</td>
-		<td>223</td>
-		<td></td>
+		<td>225</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -718,8 +718,19 @@
 		<td>208</td>
 		<td>212</td>
 		<td>212</td>
-		<td>212</td>
-		<td></td>
+		<td>214</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>disable.spaceport.repeatables</td>
+		<td>201</td>
+		<td>201</td>
+		<td>203</td>
+		<td>203</td>
+		<td>203</td>
+		<td>203</td>
+		<td>207</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -744,17 +755,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>disable.spaceport.repeatables</td>
-		<td>201</td>
-		<td>201</td>
-		<td>203</td>
-		<td>203</td>
-		<td>203</td>
-		<td>203</td>
-		<td>203</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>uniques</td>
 		<td>196</td>
 		<td>196</td>
@@ -773,8 +773,8 @@
 		<td>189</td>
 		<td>193</td>
 		<td>197</td>
-		<td>197</td>
-		<td></td>
+		<td>198</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -839,8 +839,8 @@
 		<td>176</td>
 		<td>178</td>
 		<td>178</td>
-		<td>178</td>
-		<td></td>
+		<td>180</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
