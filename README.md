@@ -43,8 +43,8 @@
 		<td>201</td>
 		<td>203</td>
 		<td>204</td>
-		<td>204</td>
-		<td></td>
+		<td>206</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -197,8 +197,8 @@
 		<td>219</td>
 		<td>219</td>
 		<td>221</td>
-		<td>223</td>
-		<td>+ 2</td>
+		<td>225</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -241,8 +241,8 @@
 		<td>275</td>
 		<td>283</td>
 		<td>285</td>
-		<td>287</td>
-		<td>+ 2</td>
+		<td>289</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -296,8 +296,8 @@
 		<td>246</td>
 		<td>248</td>
 		<td>248</td>
-		<td>252</td>
-		<td>+ 4</td>
+		<td>254</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -428,8 +428,8 @@
 		<td>219</td>
 		<td>221</td>
 		<td>222</td>
-		<td>224</td>
-		<td>+ 2</td>
+		<td>226</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -586,8 +586,8 @@
 		<td>275</td>
 		<td>283</td>
 		<td>285</td>
-		<td>287</td>
-		<td>+ 2</td>
+		<td>289</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -630,8 +630,8 @@
 		<td>246</td>
 		<td>248</td>
 		<td>248</td>
-		<td>252</td>
-		<td>+ 4</td>
+		<td>254</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -678,17 +678,6 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
-		<td>captureable.person.ships</td>
-		<td>217</td>
-		<td>219</td>
-		<td>219</td>
-		<td>219</td>
-		<td>223</td>
-		<td>223</td>
-		<td>225</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
 		<td>snowfeather.robotics</td>
 		<td>219</td>
 		<td>219</td>
@@ -696,8 +685,8 @@
 		<td>219</td>
 		<td>221</td>
 		<td>222</td>
-		<td>224</td>
-		<td>+ 2</td>
+		<td>226</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -707,7 +696,18 @@
 		<td>219</td>
 		<td>219</td>
 		<td>221</td>
+		<td>225</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
+		<td>captureable.person.ships</td>
+		<td>217</td>
+		<td>219</td>
+		<td>219</td>
+		<td>219</td>
 		<td>223</td>
+		<td>223</td>
+		<td>225</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -751,8 +751,8 @@
 		<td>201</td>
 		<td>203</td>
 		<td>204</td>
-		<td>204</td>
-		<td></td>
+		<td>206</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
