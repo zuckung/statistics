@@ -87,8 +87,8 @@
 		<td>223</td>
 		<td>223</td>
 		<td>225</td>
-		<td>225</td>
-		<td></td>
+		<td>227</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -197,8 +197,8 @@
 		<td>219</td>
 		<td>221</td>
 		<td>225</td>
-		<td>225</td>
-		<td></td>
+		<td>227</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -219,8 +219,8 @@
 		<td>228</td>
 		<td>228</td>
 		<td>230</td>
-		<td>231</td>
-		<td>+ 1</td>
+		<td>233</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -241,8 +241,8 @@
 		<td>283</td>
 		<td>285</td>
 		<td>289</td>
-		<td>289</td>
-		<td></td>
+		<td>291</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -395,8 +395,8 @@
 		<td>279</td>
 		<td>279</td>
 		<td>283</td>
-		<td>283</td>
-		<td></td>
+		<td>285</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -439,8 +439,8 @@
 		<td>205</td>
 		<td>205</td>
 		<td>207</td>
-		<td>207</td>
-		<td></td>
+		<td>209</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -586,8 +586,8 @@
 		<td>283</td>
 		<td>285</td>
 		<td>289</td>
-		<td>289</td>
-		<td></td>
+		<td>291</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -597,8 +597,8 @@
 		<td>279</td>
 		<td>279</td>
 		<td>283</td>
-		<td>283</td>
-		<td></td>
+		<td>285</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -674,8 +674,30 @@
 		<td>228</td>
 		<td>228</td>
 		<td>230</td>
-		<td>231</td>
-		<td>+ 1</td>
+		<td>233</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
+		<td>hai.side.mission.unlocker</td>
+		<td>219</td>
+		<td>219</td>
+		<td>219</td>
+		<td>219</td>
+		<td>221</td>
+		<td>225</td>
+		<td>227</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>captureable.person.ships</td>
+		<td>219</td>
+		<td>219</td>
+		<td>219</td>
+		<td>223</td>
+		<td>223</td>
+		<td>225</td>
+		<td>227</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -686,28 +708,6 @@
 		<td>222</td>
 		<td>226</td>
 		<td>226</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>hai.side.mission.unlocker</td>
-		<td>219</td>
-		<td>219</td>
-		<td>219</td>
-		<td>219</td>
-		<td>221</td>
-		<td>225</td>
-		<td>225</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>captureable.person.ships</td>
-		<td>219</td>
-		<td>219</td>
-		<td>219</td>
-		<td>223</td>
-		<td>223</td>
-		<td>225</td>
-		<td>225</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -729,8 +729,8 @@
 		<td>205</td>
 		<td>205</td>
 		<td>207</td>
-		<td>207</td>
-		<td></td>
+		<td>209</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
