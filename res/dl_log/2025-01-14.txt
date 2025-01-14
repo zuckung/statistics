@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.13-additional.command.buttons.radial | downloads: 35
-v1.0.4-better.starts | downloads: 30
+v1.0.4-better.starts | downloads: 31
 v1.0.5-bunrodea.missions | downloads: 52
 v1.0.2-planet.pluto | downloads: 18
 v1.0.2-planet.map | downloads: 13
@@ -21,7 +21,7 @@ v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 95
 v1.0.1-show.reputation | downloads: 1
-v1.1.4-galactic.capital.investment | downloads: 158
+v1.1.4-galactic.capital.investment | downloads: 159
 v1.0.9-additional.command.buttons.radial | downloads: 29
 v1.0.2-gegno.pirates | downloads: 138
 v1.0.1-kor.efret.shipyard | downloads: 15
@@ -30,13 +30,13 @@ v1.0.8-additional.command.buttons.radial | downloads: 20
 v1.0.2-better.starts | downloads: 35
 v1.1.5-captureable.person.ships | downloads: 54
 v1.0.7-additional.command.buttons.radial | downloads: 9
-v1.0.4-landing.images | downloads: 124
+v1.0.4-landing.images | downloads: 125
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 120
 v1.0.2-quarg.farm | downloads: 164
-v1.0.2-landing.images.highres | downloads: 80
+v1.0.2-landing.images.highres | downloads: 81
 v1.0.5-uniques | downloads: 82
-v1.0.3-too.many.asteroids | downloads: 212
+v1.0.3-too.many.asteroids | downloads: 214
 v1.0.1-automata.in.human.space | downloads: 138
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
@@ -151,7 +151,7 @@ v1.0-more.boarding.missions | downloads: 4
 v1.0-more.arfectas | downloads: 1
 v1.0-kor.efret.shipyard | downloads: 155
 v1.0-gegno.pirates | downloads: 1
-v1.0-free.worlds.5.years.later | downloads: 180
+v1.0-free.worlds.5.years.later | downloads: 181
 v1.0-expert.crew.members | downloads: 4
 v1.0-disable.person.ships | downloads: 125
 v1.0-devil-run.unhidden | downloads: 1
@@ -165,7 +165,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8859
+# TOTAL DOWNLOADS: 8866
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -173,7 +173,7 @@ additional.command.buttons 93
 additional.command.buttons.radial 328
 automata.destruction.0percent 206
 automata.in.human.space 199
-better.starts 245
+better.starts 246
 bunrodea.missions 305
 captureable.person.ships 228
 coalition.shopping 280
@@ -182,17 +182,17 @@ devil-run.unhidden 66
 disable.person.ships 125
 disable.spaceport.repeatables 207
 expert.crew.members 295
-free.worlds.5.years.later 180
-galactic.capital.investment 356
+free.worlds.5.years.later 181
+galactic.capital.investment 357
 gegno.pirates 310
 hai.side.mission.unlocker 228
 human.labels 179
 jump.gates 234
 kestrel.unlocks 191
 kor.efret.shipyard 292
-landing.images 197
+landing.images 198
 landing.images.android 192
-landing.images.highres 148
+landing.images.highres 149
 more.arfectas 266
 more.boarding.missions 255
 more.person.ships 243
@@ -208,7 +208,7 @@ real.fluff 93
 show.reputation 237
 snowfeather.robotics 227
 space.fauna 209
-too.many.asteroids 308
+too.many.asteroids 310
 tribute.republic 159
 unique.fix 44
 uniques 201
