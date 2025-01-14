@@ -65,8 +65,8 @@
 		<td>243</td>
 		<td>245</td>
 		<td>245</td>
-		<td>245</td>
-		<td></td>
+		<td>246</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -164,8 +164,8 @@
 		<td>178</td>
 		<td>180</td>
 		<td>180</td>
-		<td>180</td>
-		<td></td>
+		<td>181</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -175,8 +175,8 @@
 		<td>352</td>
 		<td>356</td>
 		<td>356</td>
-		<td>356</td>
-		<td></td>
+		<td>357</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -252,8 +252,8 @@
 		<td>196</td>
 		<td>196</td>
 		<td>196</td>
-		<td>197</td>
-		<td>+ 1</td>
+		<td>198</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -274,8 +274,8 @@
 		<td>146</td>
 		<td>148</td>
 		<td>148</td>
-		<td>148</td>
-		<td></td>
+		<td>149</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -450,8 +450,8 @@
 		<td>305</td>
 		<td>307</td>
 		<td>307</td>
-		<td>308</td>
-		<td>+ 1</td>
+		<td>310</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -509,8 +509,8 @@
 		<td>352</td>
 		<td>356</td>
 		<td>356</td>
-		<td>356</td>
-		<td></td>
+		<td>357</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -522,6 +522,17 @@
 		<td>328</td>
 		<td>328</td>
 		<td></td>
+	</tr>
+	<tr>
+		<td>too.many.asteroids</td>
+		<td>294</td>
+		<td>298</td>
+		<td>302</td>
+		<td>305</td>
+		<td>307</td>
+		<td>307</td>
+		<td>310</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -544,17 +555,6 @@
 		<td>309</td>
 		<td>309</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>too.many.asteroids</td>
-		<td>294</td>
-		<td>298</td>
-		<td>302</td>
-		<td>305</td>
-		<td>307</td>
-		<td>307</td>
-		<td>308</td>
-		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -641,8 +641,8 @@
 		<td>243</td>
 		<td>245</td>
 		<td>245</td>
-		<td>245</td>
-		<td></td>
+		<td>246</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -784,8 +784,8 @@
 		<td>196</td>
 		<td>196</td>
 		<td>196</td>
-		<td>197</td>
-		<td>+ 1</td>
+		<td>198</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -839,8 +839,8 @@
 		<td>178</td>
 		<td>180</td>
 		<td>180</td>
-		<td>180</td>
-		<td></td>
+		<td>181</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -883,8 +883,8 @@
 		<td>146</td>
 		<td>148</td>
 		<td>148</td>
-		<td>148</td>
-		<td></td>
+		<td>149</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
