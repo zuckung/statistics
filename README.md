@@ -76,8 +76,8 @@
 		<td>303</td>
 		<td>304</td>
 		<td>305</td>
-		<td>305</td>
-		<td></td>
+		<td>307</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -98,8 +98,8 @@
 		<td>280</td>
 		<td>280</td>
 		<td>280</td>
-		<td>280</td>
-		<td></td>
+		<td>282</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -153,8 +153,8 @@
 		<td>295</td>
 		<td>295</td>
 		<td>295</td>
-		<td>295</td>
-		<td></td>
+		<td>297</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -230,8 +230,8 @@
 		<td>191</td>
 		<td>191</td>
 		<td>191</td>
-		<td>191</td>
-		<td></td>
+		<td>193</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -318,8 +318,8 @@
 		<td>309</td>
 		<td>309</td>
 		<td>309</td>
-		<td>309</td>
-		<td></td>
+		<td>311</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -351,8 +351,8 @@
 		<td>185</td>
 		<td>185</td>
 		<td>185</td>
-		<td>185</td>
-		<td></td>
+		<td>187</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -395,8 +395,8 @@
 		<td>283</td>
 		<td>285</td>
 		<td>285</td>
-		<td>285</td>
-		<td></td>
+		<td>287</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -428,8 +428,8 @@
 		<td>226</td>
 		<td>226</td>
 		<td>227</td>
-		<td>227</td>
-		<td></td>
+		<td>229</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -450,8 +450,8 @@
 		<td>307</td>
 		<td>307</td>
 		<td>310</td>
-		<td>312</td>
-		<td>+ 2</td>
+		<td>316</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -461,8 +461,8 @@
 		<td>159</td>
 		<td>159</td>
 		<td>159</td>
-		<td>159</td>
-		<td></td>
+		<td>163</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
@@ -531,7 +531,18 @@
 		<td>307</td>
 		<td>307</td>
 		<td>310</td>
-		<td>312</td>
+		<td>316</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
+		<td>navy.licenses</td>
+		<td>304</td>
+		<td>306</td>
+		<td>307</td>
+		<td>309</td>
+		<td>309</td>
+		<td>309</td>
+		<td>311</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -546,17 +557,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>navy.licenses</td>
-		<td>304</td>
-		<td>306</td>
-		<td>307</td>
-		<td>309</td>
-		<td>309</td>
-		<td>309</td>
-		<td>309</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>bunrodea.missions</td>
 		<td>296</td>
 		<td>298</td>
@@ -564,8 +564,8 @@
 		<td>303</td>
 		<td>304</td>
 		<td>305</td>
-		<td>305</td>
-		<td></td>
+		<td>307</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -575,8 +575,8 @@
 		<td>295</td>
 		<td>295</td>
 		<td>295</td>
-		<td>295</td>
-		<td></td>
+		<td>297</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -597,8 +597,8 @@
 		<td>283</td>
 		<td>285</td>
 		<td>285</td>
-		<td>285</td>
-		<td></td>
+		<td>287</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -608,8 +608,8 @@
 		<td>280</td>
 		<td>280</td>
 		<td>280</td>
-		<td>280</td>
-		<td></td>
+		<td>282</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -678,6 +678,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>snowfeather.robotics</td>
+		<td>219</td>
+		<td>221</td>
+		<td>222</td>
+		<td>226</td>
+		<td>226</td>
+		<td>227</td>
+		<td>229</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>hai.side.mission.unlocker</td>
 		<td>219</td>
 		<td>219</td>
@@ -697,17 +708,6 @@
 		<td>227</td>
 		<td>228</td>
 		<td>228</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>snowfeather.robotics</td>
-		<td>219</td>
-		<td>221</td>
-		<td>222</td>
-		<td>226</td>
-		<td>226</td>
-		<td>227</td>
-		<td>227</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -788,6 +788,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>kestrel.unlocks</td>
+		<td>185</td>
+		<td>189</td>
+		<td>189</td>
+		<td>191</td>
+		<td>191</td>
+		<td>191</td>
+		<td>193</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>landing.images.android</td>
 		<td>187</td>
 		<td>189</td>
@@ -799,17 +810,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>kestrel.unlocks</td>
-		<td>185</td>
-		<td>189</td>
-		<td>189</td>
-		<td>191</td>
-		<td>191</td>
-		<td>191</td>
-		<td>191</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>paint.your.ships</td>
 		<td>180</td>
 		<td>182</td>
@@ -817,8 +817,8 @@
 		<td>185</td>
 		<td>185</td>
 		<td>185</td>
-		<td>185</td>
-		<td></td>
+		<td>187</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -872,8 +872,8 @@
 		<td>159</td>
 		<td>159</td>
 		<td>159</td>
-		<td>159</td>
-		<td></td>
+		<td>163</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
