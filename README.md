@@ -450,8 +450,8 @@
 		<td>307</td>
 		<td>307</td>
 		<td>310</td>
-		<td>310</td>
-		<td></td>
+		<td>312</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -531,8 +531,8 @@
 		<td>307</td>
 		<td>307</td>
 		<td>310</td>
-		<td>310</td>
-		<td></td>
+		<td>312</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
