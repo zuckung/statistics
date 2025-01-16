@@ -32,8 +32,8 @@
 		<td>328</td>
 		<td>328</td>
 		<td>328</td>
-		<td>328</td>
-		<td></td>
+		<td>330</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -109,8 +109,8 @@
 		<td>214</td>
 		<td>214</td>
 		<td>214</td>
-		<td>214</td>
-		<td></td>
+		<td>216</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -520,8 +520,8 @@
 		<td>328</td>
 		<td>328</td>
 		<td>328</td>
-		<td>328</td>
-		<td></td>
+		<td>330</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -718,8 +718,8 @@
 		<td>214</td>
 		<td>214</td>
 		<td>214</td>
-		<td>214</td>
-		<td></td>
+		<td>216</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
