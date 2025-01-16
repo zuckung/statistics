@@ -76,8 +76,8 @@
 		<td>304</td>
 		<td>305</td>
 		<td>307</td>
-		<td>307</td>
-		<td></td>
+		<td>308</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -483,8 +483,8 @@
 		<td>200</td>
 		<td>201</td>
 		<td>201</td>
-		<td>201</td>
-		<td></td>
+		<td>202</td>
+		<td>+ 1</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>304</td>
 		<td>305</td>
 		<td>307</td>
-		<td>307</td>
-		<td></td>
+		<td>308</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -762,8 +762,8 @@
 		<td>200</td>
 		<td>201</td>
 		<td>201</td>
-		<td>201</td>
-		<td></td>
+		<td>202</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
