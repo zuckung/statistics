@@ -351,8 +351,8 @@
 		<td>185</td>
 		<td>185</td>
 		<td>187</td>
-		<td>187</td>
-		<td></td>
+		<td>189</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -817,8 +817,8 @@
 		<td>185</td>
 		<td>185</td>
 		<td>187</td>
-		<td>187</td>
-		<td></td>
+		<td>189</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
