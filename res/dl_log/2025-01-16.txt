@@ -46,7 +46,7 @@ v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 153
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 128
-v1.0.1-paint.your.ships | downloads: 183
+v1.0.1-paint.your.ships | downloads: 185
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
 v1.0.1-uniques | downloads: 14
@@ -165,7 +165,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8900
+# TOTAL DOWNLOADS: 8902
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -199,7 +199,7 @@ more.person.ships 243
 navy.licenses 311
 no.more.mereti.mines 184
 outfits.weapon.slot 167
-paint.your.ships 187
+paint.your.ships 189
 pirate.warlords 3
 planet.map 146
 planet.pluto 40
