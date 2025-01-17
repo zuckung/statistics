@@ -142,8 +142,8 @@
 		<td>207</td>
 		<td>207</td>
 		<td>207</td>
-		<td>207</td>
-		<td></td>
+		<td>209</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -175,8 +175,8 @@
 		<td>359</td>
 		<td>359</td>
 		<td>361</td>
-		<td>363</td>
-		<td>+ 2</td>
+		<td>365</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -509,8 +509,8 @@
 		<td>359</td>
 		<td>359</td>
 		<td>361</td>
-		<td>363</td>
-		<td>+ 2</td>
+		<td>365</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -740,8 +740,8 @@
 		<td>207</td>
 		<td>207</td>
 		<td>207</td>
-		<td>207</td>
-		<td></td>
+		<td>209</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
