@@ -32,8 +32,8 @@
 		<td>328</td>
 		<td>330</td>
 		<td>332</td>
-		<td>332</td>
-		<td></td>
+		<td>334</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -142,8 +142,8 @@
 		<td>207</td>
 		<td>207</td>
 		<td>209</td>
-		<td>209</td>
-		<td></td>
+		<td>211</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -417,8 +417,8 @@
 		<td>237</td>
 		<td>237</td>
 		<td>238</td>
-		<td>238</td>
-		<td></td>
+		<td>240</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -428,8 +428,8 @@
 		<td>229</td>
 		<td>229</td>
 		<td>229</td>
-		<td>229</td>
-		<td></td>
+		<td>231</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -450,8 +450,8 @@
 		<td>316</td>
 		<td>318</td>
 		<td>320</td>
-		<td>320</td>
-		<td></td>
+		<td>322</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -520,8 +520,8 @@
 		<td>328</td>
 		<td>330</td>
 		<td>332</td>
-		<td>332</td>
-		<td></td>
+		<td>334</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -531,8 +531,8 @@
 		<td>316</td>
 		<td>318</td>
 		<td>320</td>
-		<td>320</td>
-		<td></td>
+		<td>322</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -663,8 +663,8 @@
 		<td>237</td>
 		<td>237</td>
 		<td>238</td>
-		<td>238</td>
-		<td></td>
+		<td>240</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -685,8 +685,8 @@
 		<td>229</td>
 		<td>229</td>
 		<td>229</td>
-		<td>229</td>
-		<td></td>
+		<td>231</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -722,23 +722,23 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>space.fauna</td>
-		<td>207</td>
-		<td>209</td>
-		<td>209</td>
-		<td>209</td>
-		<td>209</td>
-		<td>209</td>
-		<td>209</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>207</td>
 		<td>207</td>
 		<td>207</td>
 		<td>207</td>
 		<td>207</td>
+		<td>209</td>
+		<td>211</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>space.fauna</td>
+		<td>207</td>
+		<td>209</td>
+		<td>209</td>
+		<td>209</td>
+		<td>209</td>
 		<td>209</td>
 		<td>209</td>
 		<td></td>
