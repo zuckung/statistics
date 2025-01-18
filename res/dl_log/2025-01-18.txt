@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.13-additional.command.buttons.radial | downloads: 39
+v1.0.13-additional.command.buttons.radial | downloads: 41
 v1.0.4-better.starts | downloads: 33
 v1.0.5-bunrodea.missions | downloads: 57
 v1.0.2-planet.pluto | downloads: 18
@@ -14,12 +14,12 @@ v1.1.6-captureable.person.ships | downloads: 71
 v1.0.6-uniques | downloads: 70
 v1.0.3-navy.licenses | downloads: 103
 v1.0.6-coalition.shopping | downloads: 90
-v1.0.5-snowfeather.robotics | downloads: 70
+v1.0.5-snowfeather.robotics | downloads: 72
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 124
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
-v1.0.2-show.reputation | downloads: 96
+v1.0.2-show.reputation | downloads: 98
 v1.0.1-show.reputation | downloads: 1
 v1.1.4-galactic.capital.investment | downloads: 167
 v1.0.9-additional.command.buttons.radial | downloads: 29
@@ -36,7 +36,7 @@ v1.0.3-expert.crew.members | downloads: 120
 v1.0.2-quarg.farm | downloads: 168
 v1.0.2-landing.images.highres | downloads: 81
 v1.0.5-uniques | downloads: 82
-v1.0.3-too.many.asteroids | downloads: 224
+v1.0.3-too.many.asteroids | downloads: 226
 v1.0.1-automata.in.human.space | downloads: 140
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
@@ -106,7 +106,7 @@ v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
 v1.1.3-hai.side.mission.unlocker | downloads: 71
-v1.1.1-disable.spaceport.repeatables | downloads: 208
+v1.1.1-disable.spaceport.repeatables | downloads: 210
 v1.0.0-quarg.farm | downloads: 1
 v1.0.1-control.station | downloads: 215
 v1.0.0-control.station | downloads: 1
@@ -165,12 +165,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8945
+# TOTAL DOWNLOADS: 8955
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 332
+additional.command.buttons.radial 334
 automata.destruction.0percent 208
 automata.in.human.space 201
 better.starts 248
@@ -180,7 +180,7 @@ coalition.shopping 284
 control.station 216
 devil-run.unhidden 66
 disable.person.ships 125
-disable.spaceport.repeatables 209
+disable.spaceport.repeatables 211
 expert.crew.members 297
 free.worlds.5.years.later 181
 galactic.capital.investment 365
@@ -205,10 +205,10 @@ planet.map 146
 planet.pluto 40
 quarg.farm 289
 real.fluff 93
-show.reputation 238
-snowfeather.robotics 229
+show.reputation 240
+snowfeather.robotics 231
 space.fauna 209
-too.many.asteroids 320
+too.many.asteroids 322
 tribute.republic 163
 unique.fix 44
 uniques 202
