@@ -175,8 +175,8 @@
 		<td>359</td>
 		<td>361</td>
 		<td>365</td>
-		<td>365</td>
-		<td></td>
+		<td>367</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -219,8 +219,8 @@
 		<td>234</td>
 		<td>234</td>
 		<td>234</td>
-		<td>234</td>
-		<td></td>
+		<td>235</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -296,8 +296,8 @@
 		<td>255</td>
 		<td>257</td>
 		<td>257</td>
-		<td>257</td>
-		<td></td>
+		<td>259</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -417,8 +417,8 @@
 		<td>237</td>
 		<td>237</td>
 		<td>238</td>
-		<td>240</td>
-		<td>+ 2</td>
+		<td>242</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -509,8 +509,8 @@
 		<td>359</td>
 		<td>361</td>
 		<td>365</td>
-		<td>365</td>
-		<td></td>
+		<td>367</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -630,8 +630,8 @@
 		<td>255</td>
 		<td>257</td>
 		<td>257</td>
-		<td>257</td>
-		<td></td>
+		<td>259</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -663,8 +663,8 @@
 		<td>237</td>
 		<td>237</td>
 		<td>238</td>
-		<td>240</td>
-		<td>+ 2</td>
+		<td>242</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -674,8 +674,8 @@
 		<td>234</td>
 		<td>234</td>
 		<td>234</td>
-		<td>234</td>
-		<td></td>
+		<td>235</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
