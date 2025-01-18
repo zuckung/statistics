@@ -43,8 +43,8 @@
 		<td>206</td>
 		<td>206</td>
 		<td>206</td>
-		<td>206</td>
-		<td></td>
+		<td>208</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -65,8 +65,8 @@
 		<td>246</td>
 		<td>246</td>
 		<td>246</td>
-		<td>246</td>
-		<td></td>
+		<td>248</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -641,8 +641,8 @@
 		<td>246</td>
 		<td>246</td>
 		<td>246</td>
-		<td>246</td>
-		<td></td>
+		<td>248</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -751,8 +751,8 @@
 		<td>206</td>
 		<td>206</td>
 		<td>206</td>
-		<td>206</td>
-		<td></td>
+		<td>208</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
