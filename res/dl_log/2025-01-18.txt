@@ -4,7 +4,7 @@ v1.0.4-better.starts | downloads: 33
 v1.0.5-bunrodea.missions | downloads: 57
 v1.0.2-planet.pluto | downloads: 18
 v1.0.2-planet.map | downloads: 13
-v1.0.2-jump.gates | downloads: 33
+v1.0.2-jump.gates | downloads: 34
 v1.0.4-expert.crew.members | downloads: 59
 v1.0.1-planet.pluto | downloads: 21
 v1.0.0-planet.pluto | downloads: 1
@@ -19,9 +19,9 @@ v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 124
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
-v1.0.2-show.reputation | downloads: 98
+v1.0.2-show.reputation | downloads: 100
 v1.0.1-show.reputation | downloads: 1
-v1.1.4-galactic.capital.investment | downloads: 167
+v1.1.4-galactic.capital.investment | downloads: 169
 v1.0.9-additional.command.buttons.radial | downloads: 29
 v1.0.2-gegno.pirates | downloads: 140
 v1.0.1-kor.efret.shipyard | downloads: 15
@@ -111,7 +111,7 @@ v1.0.0-quarg.farm | downloads: 1
 v1.0.1-control.station | downloads: 215
 v1.0.0-control.station | downloads: 1
 v1.0.0-additional.command.buttons.radial | downloads: 52
-v1.1.3-more.boarding.missions | downloads: 250
+v1.1.3-more.boarding.missions | downloads: 252
 v1.0.3-coalition.shopping | downloads: 97
 v1.0.2-coalition.shopping | downloads: 1
 v1.0.1-navy.licenses | downloads: 1
@@ -165,7 +165,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8955
+# TOTAL DOWNLOADS: 8962
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -183,18 +183,18 @@ disable.person.ships 125
 disable.spaceport.repeatables 211
 expert.crew.members 297
 free.worlds.5.years.later 181
-galactic.capital.investment 365
+galactic.capital.investment 367
 gegno.pirates 312
 hai.side.mission.unlocker 228
 human.labels 179
-jump.gates 234
+jump.gates 235
 kestrel.unlocks 195
 kor.efret.shipyard 294
 landing.images 198
 landing.images.android 192
 landing.images.highres 149
 more.arfectas 268
-more.boarding.missions 257
+more.boarding.missions 259
 more.person.ships 243
 navy.licenses 315
 no.more.mereti.mines 186
@@ -205,7 +205,7 @@ planet.map 146
 planet.pluto 40
 quarg.farm 289
 real.fluff 93
-show.reputation 240
+show.reputation 242
 snowfeather.robotics 231
 space.fauna 209
 too.many.asteroids 322
