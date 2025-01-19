@@ -153,8 +153,8 @@
 		<td>297</td>
 		<td>297</td>
 		<td>297</td>
-		<td>297</td>
-		<td></td>
+		<td>299</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -575,8 +575,8 @@
 		<td>297</td>
 		<td>297</td>
 		<td>297</td>
-		<td>297</td>
-		<td></td>
+		<td>299</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
