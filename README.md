@@ -43,8 +43,8 @@
 		<td>206</td>
 		<td>206</td>
 		<td>208</td>
-		<td>208</td>
-		<td></td>
+		<td>210</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -87,8 +87,8 @@
 		<td>228</td>
 		<td>228</td>
 		<td>228</td>
-		<td>228</td>
-		<td></td>
+		<td>230</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -689,18 +689,18 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>hai.side.mission.unlocker</td>
+		<td>captureable.person.ships</td>
 		<td>227</td>
 		<td>228</td>
 		<td>228</td>
 		<td>228</td>
 		<td>228</td>
 		<td>228</td>
-		<td>228</td>
-		<td></td>
+		<td>230</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
-		<td>captureable.person.ships</td>
+		<td>hai.side.mission.unlocker</td>
 		<td>227</td>
 		<td>228</td>
 		<td>228</td>
@@ -733,6 +733,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>206</td>
+		<td>206</td>
+		<td>206</td>
+		<td>206</td>
+		<td>206</td>
+		<td>208</td>
+		<td>210</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>space.fauna</td>
 		<td>209</td>
 		<td>209</td>
@@ -741,17 +752,6 @@
 		<td>209</td>
 		<td>209</td>
 		<td>209</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>206</td>
-		<td>206</td>
-		<td>206</td>
-		<td>206</td>
-		<td>206</td>
-		<td>208</td>
-		<td>208</td>
 		<td></td>
 	</tr>
 	<tr>
