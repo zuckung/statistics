@@ -87,8 +87,8 @@
 		<td>228</td>
 		<td>228</td>
 		<td>228</td>
-		<td>230</td>
-		<td>+ 2</td>
+		<td>232</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -219,8 +219,8 @@
 		<td>234</td>
 		<td>234</td>
 		<td>235</td>
-		<td>235</td>
-		<td></td>
+		<td>237</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -230,8 +230,8 @@
 		<td>195</td>
 		<td>195</td>
 		<td>195</td>
-		<td>195</td>
-		<td></td>
+		<td>197</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -241,8 +241,8 @@
 		<td>294</td>
 		<td>294</td>
 		<td>294</td>
-		<td>294</td>
-		<td></td>
+		<td>296</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -285,8 +285,8 @@
 		<td>268</td>
 		<td>268</td>
 		<td>268</td>
-		<td>268</td>
-		<td></td>
+		<td>270</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -395,8 +395,8 @@
 		<td>289</td>
 		<td>289</td>
 		<td>289</td>
-		<td>289</td>
-		<td></td>
+		<td>291</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -586,8 +586,8 @@
 		<td>294</td>
 		<td>294</td>
 		<td>294</td>
-		<td>294</td>
-		<td></td>
+		<td>296</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -597,8 +597,8 @@
 		<td>289</td>
 		<td>289</td>
 		<td>289</td>
-		<td>289</td>
-		<td></td>
+		<td>291</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -619,8 +619,8 @@
 		<td>268</td>
 		<td>268</td>
 		<td>268</td>
-		<td>268</td>
-		<td></td>
+		<td>270</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -674,8 +674,19 @@
 		<td>234</td>
 		<td>234</td>
 		<td>235</td>
-		<td>235</td>
-		<td></td>
+		<td>237</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>captureable.person.ships</td>
+		<td>227</td>
+		<td>228</td>
+		<td>228</td>
+		<td>228</td>
+		<td>228</td>
+		<td>228</td>
+		<td>232</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -687,17 +698,6 @@
 		<td>231</td>
 		<td>231</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>captureable.person.ships</td>
-		<td>227</td>
-		<td>228</td>
-		<td>228</td>
-		<td>228</td>
-		<td>228</td>
-		<td>228</td>
-		<td>230</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -795,8 +795,8 @@
 		<td>195</td>
 		<td>195</td>
 		<td>195</td>
-		<td>195</td>
-		<td></td>
+		<td>197</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
