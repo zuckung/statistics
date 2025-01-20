@@ -43,8 +43,8 @@
 		<td>206</td>
 		<td>208</td>
 		<td>210</td>
-		<td>210</td>
-		<td></td>
+		<td>212</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -395,8 +395,8 @@
 		<td>289</td>
 		<td>289</td>
 		<td>291</td>
-		<td>291</td>
-		<td></td>
+		<td>293</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -597,8 +597,8 @@
 		<td>289</td>
 		<td>289</td>
 		<td>291</td>
-		<td>291</td>
-		<td></td>
+		<td>293</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -722,6 +722,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>206</td>
+		<td>206</td>
+		<td>206</td>
+		<td>206</td>
+		<td>208</td>
+		<td>210</td>
+		<td>212</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>207</td>
 		<td>207</td>
@@ -730,17 +741,6 @@
 		<td>211</td>
 		<td>211</td>
 		<td>211</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>206</td>
-		<td>206</td>
-		<td>206</td>
-		<td>206</td>
-		<td>208</td>
-		<td>210</td>
-		<td>210</td>
 		<td></td>
 	</tr>
 	<tr>
