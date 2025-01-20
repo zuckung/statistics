@@ -33,7 +33,7 @@ v1.0.7-additional.command.buttons.radial | downloads: 9
 v1.0.4-landing.images | downloads: 125
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 120
-v1.0.2-quarg.farm | downloads: 170
+v1.0.2-quarg.farm | downloads: 172
 v1.0.2-landing.images.highres | downloads: 81
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 227
@@ -101,7 +101,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 209
+v1.0.1-automata.destruction.0percent | downloads: 211
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -165,13 +165,13 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8981
+# TOTAL DOWNLOADS: 8985
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 334
-automata.destruction.0percent 210
+automata.destruction.0percent 212
 automata.in.human.space 201
 better.starts 248
 bunrodea.missions 310
@@ -203,7 +203,7 @@ paint.your.ships 189
 pirate.warlords 3
 planet.map 146
 planet.pluto 40
-quarg.farm 291
+quarg.farm 293
 real.fluff 93
 show.reputation 242
 snowfeather.robotics 231
