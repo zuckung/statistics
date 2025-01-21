@@ -263,8 +263,8 @@
 		<td>192</td>
 		<td>192</td>
 		<td>192</td>
-		<td>192</td>
-		<td></td>
+		<td>193</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -806,8 +806,8 @@
 		<td>192</td>
 		<td>192</td>
 		<td>192</td>
-		<td>192</td>
-		<td></td>
+		<td>193</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
