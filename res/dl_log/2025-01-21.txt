@@ -12,7 +12,7 @@ v1.0.12-additional.command.buttons.radial | downloads: 47
 v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 75
 v1.0.6-uniques | downloads: 70
-v1.0.3-navy.licenses | downloads: 103
+v1.0.3-navy.licenses | downloads: 105
 v1.0.6-coalition.shopping | downloads: 90
 v1.0.5-snowfeather.robotics | downloads: 72
 v1.0.4-snowfeather.robotics | downloads: 3
@@ -151,7 +151,7 @@ v1.0-more.boarding.missions | downloads: 4
 v1.0-more.arfectas | downloads: 1
 v1.0-kor.efret.shipyard | downloads: 155
 v1.0-gegno.pirates | downloads: 1
-v1.0-free.worlds.5.years.later | downloads: 181
+v1.0-free.worlds.5.years.later | downloads: 183
 v1.0-expert.crew.members | downloads: 4
 v1.0-disable.person.ships | downloads: 125
 v1.0-devil-run.unhidden | downloads: 1
@@ -165,7 +165,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 8992
+# TOTAL DOWNLOADS: 8996
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -182,7 +182,7 @@ devil-run.unhidden 66
 disable.person.ships 125
 disable.spaceport.repeatables 211
 expert.crew.members 299
-free.worlds.5.years.later 181
+free.worlds.5.years.later 183
 galactic.capital.investment 367
 gegno.pirates 312
 hai.side.mission.unlocker 228
@@ -196,7 +196,7 @@ landing.images.highres 149
 more.arfectas 272
 more.boarding.missions 259
 more.person.ships 243
-navy.licenses 315
+navy.licenses 317
 no.more.mereti.mines 186
 outfits.weapon.slot 167
 paint.your.ships 189
