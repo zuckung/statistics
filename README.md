@@ -98,8 +98,8 @@
 		<td>284</td>
 		<td>284</td>
 		<td>284</td>
-		<td>284</td>
-		<td></td>
+		<td>288</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -384,8 +384,8 @@
 		<td>40</td>
 		<td>40</td>
 		<td>40</td>
-		<td>40</td>
-		<td></td>
+		<td>41</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -608,8 +608,8 @@
 		<td>284</td>
 		<td>284</td>
 		<td>284</td>
-		<td>284</td>
-		<td></td>
+		<td>288</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -960,8 +960,8 @@
 		<td>40</td>
 		<td>40</td>
 		<td>40</td>
-		<td>40</td>
-		<td></td>
+		<td>41</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
