@@ -6,14 +6,14 @@ v1.0.2-planet.pluto | downloads: 18
 v1.0.2-planet.map | downloads: 13
 v1.0.2-jump.gates | downloads: 36
 v1.0.4-expert.crew.members | downloads: 63
-v1.0.1-planet.pluto | downloads: 21
+v1.0.1-planet.pluto | downloads: 22
 v1.0.0-planet.pluto | downloads: 1
 v1.0.12-additional.command.buttons.radial | downloads: 47
 v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 75
 v1.0.6-uniques | downloads: 70
 v1.0.3-navy.licenses | downloads: 107
-v1.0.6-coalition.shopping | downloads: 90
+v1.0.6-coalition.shopping | downloads: 94
 v1.0.5-snowfeather.robotics | downloads: 72
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 126
@@ -165,7 +165,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 9028
+# TOTAL DOWNLOADS: 9033
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -176,7 +176,7 @@ automata.in.human.space 201
 better.starts 250
 bunrodea.missions 312
 captureable.person.ships 232
-coalition.shopping 284
+coalition.shopping 288
 control.station 216
 devil-run.unhidden 66
 disable.person.ships 127
@@ -202,7 +202,7 @@ outfits.weapon.slot 169
 paint.your.ships 191
 pirate.warlords 3
 planet.map 146
-planet.pluto 40
+planet.pluto 41
 quarg.farm 295
 real.fluff 93
 show.reputation 242
