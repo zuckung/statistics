@@ -186,8 +186,8 @@
 		<td>312</td>
 		<td>312</td>
 		<td>314</td>
-		<td>314</td>
-		<td></td>
+		<td>316</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -395,8 +395,8 @@
 		<td>293</td>
 		<td>293</td>
 		<td>295</td>
-		<td>297</td>
-		<td>+ 2</td>
+		<td>298</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -553,8 +553,8 @@
 		<td>312</td>
 		<td>312</td>
 		<td>314</td>
-		<td>314</td>
-		<td></td>
+		<td>316</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -586,8 +586,8 @@
 		<td>293</td>
 		<td>293</td>
 		<td>295</td>
-		<td>297</td>
-		<td>+ 2</td>
+		<td>298</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
