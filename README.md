@@ -197,8 +197,8 @@
 		<td>228</td>
 		<td>228</td>
 		<td>230</td>
-		<td>230</td>
-		<td></td>
+		<td>232</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -318,8 +318,8 @@
 		<td>315</td>
 		<td>317</td>
 		<td>319</td>
-		<td>319</td>
-		<td></td>
+		<td>321</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -542,8 +542,8 @@
 		<td>315</td>
 		<td>317</td>
 		<td>319</td>
-		<td>319</td>
-		<td></td>
+		<td>321</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -678,6 +678,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>hai.side.mission.unlocker</td>
+		<td>228</td>
+		<td>228</td>
+		<td>228</td>
+		<td>228</td>
+		<td>228</td>
+		<td>230</td>
+		<td>232</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>captureable.person.ships</td>
 		<td>228</td>
 		<td>228</td>
@@ -697,17 +708,6 @@
 		<td>231</td>
 		<td>231</td>
 		<td>231</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>hai.side.mission.unlocker</td>
-		<td>228</td>
-		<td>228</td>
-		<td>228</td>
-		<td>228</td>
-		<td>228</td>
-		<td>230</td>
-		<td>230</td>
 		<td></td>
 	</tr>
 	<tr>
