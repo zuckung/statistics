@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.13-additional.command.buttons.radial | downloads: 45
-v1.0.4-better.starts | downloads: 35
+v1.0.13-additional.command.buttons.radial | downloads: 46
+v1.0.4-better.starts | downloads: 36
 v1.0.5-bunrodea.missions | downloads: 59
 v1.0.2-planet.pluto | downloads: 18
 v1.0.2-planet.map | downloads: 13
@@ -165,15 +165,15 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 164
-# TOTAL DOWNLOADS: 9039
+# TOTAL DOWNLOADS: 9041
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 338
+additional.command.buttons.radial 339
 automata.destruction.0percent 216
 automata.in.human.space 201
-better.starts 250
+better.starts 251
 bunrodea.missions 312
 captureable.person.ships 232
 coalition.shopping 288
