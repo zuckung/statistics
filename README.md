@@ -32,8 +32,8 @@
 		<td>334</td>
 		<td>336</td>
 		<td>338</td>
-		<td>339</td>
-		<td>+ 1</td>
+		<td>341</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -43,8 +43,8 @@
 		<td>212</td>
 		<td>214</td>
 		<td>216</td>
-		<td>216</td>
-		<td></td>
+		<td>218</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -285,8 +285,8 @@
 		<td>270</td>
 		<td>272</td>
 		<td>272</td>
-		<td>272</td>
-		<td></td>
+		<td>274</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -520,8 +520,8 @@
 		<td>334</td>
 		<td>336</td>
 		<td>338</td>
-		<td>339</td>
-		<td>+ 1</td>
+		<td>341</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -619,8 +619,8 @@
 		<td>270</td>
 		<td>272</td>
 		<td>272</td>
-		<td>272</td>
-		<td></td>
+		<td>274</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -711,23 +711,23 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>control.station</td>
-		<td>216</td>
-		<td>216</td>
-		<td>216</td>
-		<td>216</td>
-		<td>216</td>
-		<td>216</td>
-		<td>216</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>206</td>
 		<td>208</td>
 		<td>210</td>
 		<td>212</td>
 		<td>214</td>
+		<td>216</td>
+		<td>218</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>control.station</td>
+		<td>216</td>
+		<td>216</td>
+		<td>216</td>
+		<td>216</td>
+		<td>216</td>
 		<td>216</td>
 		<td>216</td>
 		<td></td>
