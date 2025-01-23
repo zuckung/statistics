@@ -241,8 +241,8 @@
 		<td>296</td>
 		<td>296</td>
 		<td>296</td>
-		<td>296</td>
-		<td></td>
+		<td>298</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -285,8 +285,8 @@
 		<td>270</td>
 		<td>272</td>
 		<td>272</td>
-		<td>274</td>
-		<td>+ 2</td>
+		<td>276</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -296,8 +296,8 @@
 		<td>259</td>
 		<td>259</td>
 		<td>261</td>
-		<td>261</td>
-		<td></td>
+		<td>263</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -318,8 +318,8 @@
 		<td>315</td>
 		<td>317</td>
 		<td>319</td>
-		<td>321</td>
-		<td>+ 2</td>
+		<td>323</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -329,8 +329,8 @@
 		<td>186</td>
 		<td>186</td>
 		<td>186</td>
-		<td>186</td>
-		<td></td>
+		<td>188</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -351,8 +351,8 @@
 		<td>189</td>
 		<td>189</td>
 		<td>191</td>
-		<td>193</td>
-		<td>+ 2</td>
+		<td>195</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -395,8 +395,8 @@
 		<td>293</td>
 		<td>293</td>
 		<td>295</td>
-		<td>298</td>
-		<td>+ 3</td>
+		<td>300</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -542,8 +542,8 @@
 		<td>315</td>
 		<td>317</td>
 		<td>319</td>
-		<td>321</td>
-		<td>+ 2</td>
+		<td>323</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -586,8 +586,8 @@
 		<td>293</td>
 		<td>293</td>
 		<td>295</td>
-		<td>298</td>
-		<td>+ 3</td>
+		<td>300</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -597,8 +597,8 @@
 		<td>296</td>
 		<td>296</td>
 		<td>296</td>
-		<td>296</td>
-		<td></td>
+		<td>298</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -619,8 +619,8 @@
 		<td>270</td>
 		<td>272</td>
 		<td>272</td>
-		<td>274</td>
-		<td>+ 2</td>
+		<td>276</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -630,8 +630,8 @@
 		<td>259</td>
 		<td>259</td>
 		<td>261</td>
-		<td>261</td>
-		<td></td>
+		<td>263</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -806,8 +806,8 @@
 		<td>189</td>
 		<td>189</td>
 		<td>191</td>
-		<td>193</td>
-		<td>+ 2</td>
+		<td>195</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -828,8 +828,8 @@
 		<td>186</td>
 		<td>186</td>
 		<td>186</td>
-		<td>186</td>
-		<td></td>
+		<td>188</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
