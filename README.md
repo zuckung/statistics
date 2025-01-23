@@ -395,8 +395,8 @@
 		<td>293</td>
 		<td>293</td>
 		<td>295</td>
-		<td>295</td>
-		<td></td>
+		<td>297</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -579,6 +579,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>quarg.farm</td>
+		<td>289</td>
+		<td>289</td>
+		<td>291</td>
+		<td>293</td>
+		<td>293</td>
+		<td>295</td>
+		<td>297</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>kor.efret.shipyard</td>
 		<td>294</td>
 		<td>294</td>
@@ -587,17 +598,6 @@
 		<td>296</td>
 		<td>296</td>
 		<td>296</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>quarg.farm</td>
-		<td>289</td>
-		<td>289</td>
-		<td>291</td>
-		<td>293</td>
-		<td>293</td>
-		<td>295</td>
-		<td>295</td>
 		<td></td>
 	</tr>
 	<tr>
