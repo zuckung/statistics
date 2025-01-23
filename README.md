@@ -32,8 +32,8 @@
 		<td>334</td>
 		<td>336</td>
 		<td>338</td>
-		<td>338</td>
-		<td></td>
+		<td>339</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -65,8 +65,8 @@
 		<td>248</td>
 		<td>248</td>
 		<td>250</td>
-		<td>250</td>
-		<td></td>
+		<td>251</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -520,8 +520,8 @@
 		<td>334</td>
 		<td>336</td>
 		<td>338</td>
-		<td>338</td>
-		<td></td>
+		<td>339</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -641,8 +641,8 @@
 		<td>248</td>
 		<td>248</td>
 		<td>250</td>
-		<td>250</td>
-		<td></td>
+		<td>251</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
