@@ -186,8 +186,8 @@
 		<td>312</td>
 		<td>312</td>
 		<td>314</td>
-		<td>318</td>
-		<td>+ 4</td>
+		<td>320</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -285,8 +285,8 @@
 		<td>270</td>
 		<td>272</td>
 		<td>272</td>
-		<td>276</td>
-		<td>+ 4</td>
+		<td>278</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -340,8 +340,8 @@
 		<td>167</td>
 		<td>167</td>
 		<td>169</td>
-		<td>169</td>
-		<td></td>
+		<td>171</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -395,8 +395,8 @@
 		<td>293</td>
 		<td>293</td>
 		<td>295</td>
-		<td>300</td>
-		<td>+ 5</td>
+		<td>302</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -553,8 +553,8 @@
 		<td>312</td>
 		<td>312</td>
 		<td>314</td>
-		<td>318</td>
-		<td>+ 4</td>
+		<td>320</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -568,6 +568,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>quarg.farm</td>
+		<td>289</td>
+		<td>289</td>
+		<td>291</td>
+		<td>293</td>
+		<td>293</td>
+		<td>295</td>
+		<td>302</td>
+		<td>+ 7</td>
+	</tr>
+	<tr>
 		<td>expert.crew.members</td>
 		<td>297</td>
 		<td>297</td>
@@ -577,17 +588,6 @@
 		<td>301</td>
 		<td>301</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>quarg.farm</td>
-		<td>289</td>
-		<td>289</td>
-		<td>291</td>
-		<td>293</td>
-		<td>293</td>
-		<td>295</td>
-		<td>300</td>
-		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -619,8 +619,8 @@
 		<td>270</td>
 		<td>272</td>
 		<td>272</td>
-		<td>276</td>
-		<td>+ 4</td>
+		<td>278</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -861,8 +861,8 @@
 		<td>167</td>
 		<td>167</td>
 		<td>169</td>
-		<td>169</td>
-		<td></td>
+		<td>171</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
