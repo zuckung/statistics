@@ -43,8 +43,8 @@
 		<td>214</td>
 		<td>216</td>
 		<td>218</td>
-		<td>218</td>
-		<td></td>
+		<td>220</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -718,8 +718,8 @@
 		<td>214</td>
 		<td>216</td>
 		<td>218</td>
-		<td>218</td>
-		<td></td>
+		<td>220</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
