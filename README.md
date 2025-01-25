@@ -142,8 +142,8 @@
 		<td>213</td>
 		<td>213</td>
 		<td>213</td>
-		<td>213</td>
-		<td></td>
+		<td>215</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -175,8 +175,8 @@
 		<td>369</td>
 		<td>371</td>
 		<td>373</td>
-		<td>375</td>
-		<td>+ 2</td>
+		<td>377</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -340,8 +340,8 @@
 		<td>169</td>
 		<td>171</td>
 		<td>171</td>
-		<td>173</td>
-		<td>+ 2</td>
+		<td>175</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -417,8 +417,8 @@
 		<td>242</td>
 		<td>244</td>
 		<td>244</td>
-		<td>246</td>
-		<td>+ 2</td>
+		<td>248</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -450,8 +450,8 @@
 		<td>323</td>
 		<td>325</td>
 		<td>327</td>
-		<td>327</td>
-		<td></td>
+		<td>329</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -509,8 +509,8 @@
 		<td>369</td>
 		<td>371</td>
 		<td>373</td>
-		<td>375</td>
-		<td>+ 2</td>
+		<td>377</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -531,8 +531,8 @@
 		<td>323</td>
 		<td>325</td>
 		<td>327</td>
-		<td>327</td>
-		<td></td>
+		<td>329</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -645,6 +645,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>show.reputation</td>
+		<td>242</td>
+		<td>242</td>
+		<td>242</td>
+		<td>242</td>
+		<td>244</td>
+		<td>244</td>
+		<td>248</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>more.person.ships</td>
 		<td>243</td>
 		<td>243</td>
@@ -653,17 +664,6 @@
 		<td>245</td>
 		<td>245</td>
 		<td>247</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>show.reputation</td>
-		<td>242</td>
-		<td>242</td>
-		<td>242</td>
-		<td>242</td>
-		<td>244</td>
-		<td>244</td>
-		<td>246</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -740,8 +740,8 @@
 		<td>213</td>
 		<td>213</td>
 		<td>213</td>
-		<td>213</td>
-		<td></td>
+		<td>215</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -861,8 +861,8 @@
 		<td>169</td>
 		<td>171</td>
 		<td>171</td>
-		<td>173</td>
-		<td>+ 2</td>
+		<td>175</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
