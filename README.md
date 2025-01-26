@@ -65,8 +65,8 @@
 		<td>251</td>
 		<td>251</td>
 		<td>254</td>
-		<td>254</td>
-		<td></td>
+		<td>256</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -87,8 +87,8 @@
 		<td>234</td>
 		<td>236</td>
 		<td>241</td>
-		<td>242</td>
-		<td>+ 1</td>
+		<td>244</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -175,8 +175,8 @@
 		<td>371</td>
 		<td>373</td>
 		<td>380</td>
-		<td>380</td>
-		<td></td>
+		<td>382</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -219,8 +219,8 @@
 		<td>237</td>
 		<td>237</td>
 		<td>240</td>
-		<td>240</td>
-		<td></td>
+		<td>242</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -285,8 +285,8 @@
 		<td>278</td>
 		<td>280</td>
 		<td>285</td>
-		<td>286</td>
-		<td>+ 1</td>
+		<td>288</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -318,8 +318,8 @@
 		<td>323</td>
 		<td>325</td>
 		<td>330</td>
-		<td>333</td>
-		<td>+ 3</td>
+		<td>335</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -329,8 +329,8 @@
 		<td>188</td>
 		<td>190</td>
 		<td>193</td>
-		<td>193</td>
-		<td></td>
+		<td>195</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -395,8 +395,8 @@
 		<td>302</td>
 		<td>304</td>
 		<td>309</td>
-		<td>309</td>
-		<td></td>
+		<td>311</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -428,8 +428,8 @@
 		<td>231</td>
 		<td>231</td>
 		<td>236</td>
-		<td>236</td>
-		<td></td>
+		<td>238</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -450,8 +450,8 @@
 		<td>325</td>
 		<td>327</td>
 		<td>333</td>
-		<td>335</td>
-		<td>+ 2</td>
+		<td>337</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -461,8 +461,8 @@
 		<td>163</td>
 		<td>163</td>
 		<td>166</td>
-		<td>167</td>
-		<td>+ 1</td>
+		<td>169</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
@@ -509,8 +509,8 @@
 		<td>371</td>
 		<td>373</td>
 		<td>380</td>
-		<td>380</td>
-		<td></td>
+		<td>382</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -531,8 +531,8 @@
 		<td>325</td>
 		<td>327</td>
 		<td>333</td>
-		<td>335</td>
-		<td>+ 2</td>
+		<td>337</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -542,8 +542,8 @@
 		<td>323</td>
 		<td>325</td>
 		<td>330</td>
-		<td>333</td>
-		<td>+ 3</td>
+		<td>335</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -575,8 +575,8 @@
 		<td>302</td>
 		<td>304</td>
 		<td>309</td>
-		<td>309</td>
-		<td></td>
+		<td>311</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -619,8 +619,8 @@
 		<td>278</td>
 		<td>280</td>
 		<td>285</td>
-		<td>286</td>
-		<td>+ 1</td>
+		<td>288</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -641,8 +641,8 @@
 		<td>251</td>
 		<td>251</td>
 		<td>254</td>
-		<td>254</td>
-		<td></td>
+		<td>256</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -674,8 +674,8 @@
 		<td>234</td>
 		<td>236</td>
 		<td>241</td>
-		<td>242</td>
-		<td>+ 1</td>
+		<td>244</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -685,8 +685,19 @@
 		<td>237</td>
 		<td>237</td>
 		<td>240</td>
-		<td>240</td>
-		<td></td>
+		<td>242</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>snowfeather.robotics</td>
+		<td>231</td>
+		<td>231</td>
+		<td>231</td>
+		<td>231</td>
+		<td>231</td>
+		<td>236</td>
+		<td>238</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -697,17 +708,6 @@
 		<td>232</td>
 		<td>237</td>
 		<td>237</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>snowfeather.robotics</td>
-		<td>231</td>
-		<td>231</td>
-		<td>231</td>
-		<td>231</td>
-		<td>231</td>
-		<td>236</td>
-		<td>236</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -828,8 +828,8 @@
 		<td>188</td>
 		<td>190</td>
 		<td>193</td>
-		<td>193</td>
-		<td></td>
+		<td>195</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -872,8 +872,8 @@
 		<td>163</td>
 		<td>163</td>
 		<td>166</td>
-		<td>167</td>
-		<td>+ 1</td>
+		<td>169</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
