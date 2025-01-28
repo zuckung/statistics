@@ -3,9 +3,9 @@ v1.1.7-captureable.person.ships | downloads: 3
 v1.0.8-uniques | downloads: 1
 v1.0.3-quarg.farm | downloads: 3
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 9
+v1.0.4-too.many.asteroids | downloads: 11
 v1.0.3-show.reputation | downloads: 6
-v1.0.13-additional.command.buttons.radial | downloads: 56
+v1.0.13-additional.command.buttons.radial | downloads: 58
 v1.0.4-better.starts | downloads: 44
 v1.0.5-bunrodea.missions | downloads: 73
 v1.0.2-planet.pluto | downloads: 24
@@ -171,12 +171,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 170
-# TOTAL DOWNLOADS: 9465
+# TOTAL DOWNLOADS: 9469
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 349
+additional.command.buttons.radial 351
 automata.destruction.0percent 227
 automata.in.human.space 211
 better.starts 259
@@ -214,7 +214,7 @@ real.fluff 93
 show.reputation 255
 snowfeather.robotics 241
 space.fauna 217
-too.many.asteroids 340
+too.many.asteroids 342
 tribute.republic 172
 unique.fix 44
 uniques 210
