@@ -32,8 +32,8 @@
 		<td>344</td>
 		<td>346</td>
 		<td>349</td>
-		<td>353</td>
-		<td>+ 4</td>
+		<td>355</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -65,8 +65,8 @@
 		<td>254</td>
 		<td>256</td>
 		<td>259</td>
-		<td>261</td>
-		<td>+ 2</td>
+		<td>263</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -153,8 +153,8 @@
 		<td>306</td>
 		<td>306</td>
 		<td>309</td>
-		<td>313</td>
-		<td>+ 4</td>
+		<td>315</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -263,8 +263,8 @@
 		<td>196</td>
 		<td>196</td>
 		<td>199</td>
-		<td>199</td>
-		<td></td>
+		<td>201</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -439,8 +439,8 @@
 		<td>214</td>
 		<td>214</td>
 		<td>217</td>
-		<td>219</td>
-		<td>+ 2</td>
+		<td>221</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -520,8 +520,8 @@
 		<td>344</td>
 		<td>346</td>
 		<td>349</td>
-		<td>353</td>
-		<td>+ 4</td>
+		<td>355</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -586,8 +586,8 @@
 		<td>306</td>
 		<td>306</td>
 		<td>309</td>
-		<td>313</td>
-		<td>+ 4</td>
+		<td>315</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -641,8 +641,8 @@
 		<td>254</td>
 		<td>256</td>
 		<td>259</td>
-		<td>261</td>
-		<td>+ 2</td>
+		<td>263</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -733,6 +733,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>space.fauna</td>
+		<td>209</td>
+		<td>209</td>
+		<td>209</td>
+		<td>214</td>
+		<td>214</td>
+		<td>217</td>
+		<td>221</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>213</td>
 		<td>213</td>
@@ -742,17 +753,6 @@
 		<td>221</td>
 		<td>221</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>space.fauna</td>
-		<td>209</td>
-		<td>209</td>
-		<td>209</td>
-		<td>214</td>
-		<td>214</td>
-		<td>217</td>
-		<td>219</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -810,6 +810,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>landing.images.android</td>
+		<td>193</td>
+		<td>193</td>
+		<td>193</td>
+		<td>196</td>
+		<td>196</td>
+		<td>199</td>
+		<td>201</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>no.more.mereti.mines</td>
 		<td>186</td>
 		<td>188</td>
@@ -819,17 +830,6 @@
 		<td>198</td>
 		<td>200</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>landing.images.android</td>
-		<td>193</td>
-		<td>193</td>
-		<td>193</td>
-		<td>196</td>
-		<td>196</td>
-		<td>199</td>
-		<td>199</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
