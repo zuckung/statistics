@@ -32,8 +32,8 @@
 		<td>344</td>
 		<td>346</td>
 		<td>349</td>
-		<td>351</td>
-		<td>+ 2</td>
+		<td>353</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -43,8 +43,8 @@
 		<td>224</td>
 		<td>224</td>
 		<td>227</td>
-		<td>227</td>
-		<td></td>
+		<td>229</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -54,8 +54,8 @@
 		<td>208</td>
 		<td>208</td>
 		<td>211</td>
-		<td>211</td>
-		<td></td>
+		<td>213</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -76,8 +76,8 @@
 		<td>321</td>
 		<td>321</td>
 		<td>326</td>
-		<td>328</td>
-		<td>+ 2</td>
+		<td>330</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -98,8 +98,8 @@
 		<td>297</td>
 		<td>297</td>
 		<td>300</td>
-		<td>302</td>
-		<td>+ 2</td>
+		<td>304</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -450,8 +450,8 @@
 		<td>333</td>
 		<td>337</td>
 		<td>340</td>
-		<td>342</td>
-		<td>+ 2</td>
+		<td>344</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -461,8 +461,8 @@
 		<td>166</td>
 		<td>169</td>
 		<td>172</td>
-		<td>172</td>
-		<td></td>
+		<td>174</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
@@ -520,8 +520,8 @@
 		<td>344</td>
 		<td>346</td>
 		<td>349</td>
-		<td>351</td>
-		<td>+ 2</td>
+		<td>353</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -531,8 +531,8 @@
 		<td>333</td>
 		<td>337</td>
 		<td>340</td>
-		<td>342</td>
-		<td>+ 2</td>
+		<td>344</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -564,8 +564,8 @@
 		<td>321</td>
 		<td>321</td>
 		<td>326</td>
-		<td>328</td>
-		<td>+ 2</td>
+		<td>330</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -608,8 +608,8 @@
 		<td>297</td>
 		<td>297</td>
 		<td>300</td>
-		<td>302</td>
-		<td>+ 2</td>
+		<td>304</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -718,8 +718,8 @@
 		<td>224</td>
 		<td>224</td>
 		<td>227</td>
-		<td>227</td>
-		<td></td>
+		<td>229</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -762,8 +762,8 @@
 		<td>208</td>
 		<td>208</td>
 		<td>211</td>
-		<td>211</td>
-		<td></td>
+		<td>213</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -872,8 +872,8 @@
 		<td>166</td>
 		<td>169</td>
 		<td>172</td>
-		<td>172</td>
-		<td></td>
+		<td>174</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
