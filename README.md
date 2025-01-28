@@ -32,8 +32,8 @@
 		<td>344</td>
 		<td>346</td>
 		<td>349</td>
-		<td>349</td>
-		<td></td>
+		<td>351</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -450,8 +450,8 @@
 		<td>333</td>
 		<td>337</td>
 		<td>340</td>
-		<td>340</td>
-		<td></td>
+		<td>342</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -520,8 +520,8 @@
 		<td>344</td>
 		<td>346</td>
 		<td>349</td>
-		<td>349</td>
-		<td></td>
+		<td>351</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -531,8 +531,8 @@
 		<td>333</td>
 		<td>337</td>
 		<td>340</td>
-		<td>340</td>
-		<td></td>
+		<td>342</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
