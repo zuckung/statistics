@@ -153,8 +153,8 @@
 		<td>306</td>
 		<td>309</td>
 		<td>315</td>
-		<td>322</td>
-		<td>+ 7</td>
+		<td>324</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -175,8 +175,8 @@
 		<td>382</td>
 		<td>389</td>
 		<td>389</td>
-		<td>394</td>
-		<td>+ 5</td>
+		<td>396</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -241,8 +241,8 @@
 		<td>306</td>
 		<td>309</td>
 		<td>311</td>
-		<td>318</td>
-		<td>+ 7</td>
+		<td>320</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -285,8 +285,8 @@
 		<td>288</td>
 		<td>291</td>
 		<td>297</td>
-		<td>300</td>
-		<td>+ 3</td>
+		<td>302</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -395,8 +395,8 @@
 		<td>311</td>
 		<td>314</td>
 		<td>316</td>
-		<td>319</td>
-		<td>+ 3</td>
+		<td>321</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -509,8 +509,8 @@
 		<td>382</td>
 		<td>389</td>
 		<td>389</td>
-		<td>394</td>
-		<td>+ 5</td>
+		<td>396</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -575,8 +575,8 @@
 		<td>306</td>
 		<td>309</td>
 		<td>315</td>
-		<td>322</td>
-		<td>+ 7</td>
+		<td>324</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -586,8 +586,8 @@
 		<td>311</td>
 		<td>314</td>
 		<td>316</td>
-		<td>319</td>
-		<td>+ 3</td>
+		<td>321</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -597,8 +597,8 @@
 		<td>306</td>
 		<td>309</td>
 		<td>311</td>
-		<td>318</td>
-		<td>+ 7</td>
+		<td>320</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -619,8 +619,8 @@
 		<td>288</td>
 		<td>291</td>
 		<td>297</td>
-		<td>300</td>
-		<td>+ 3</td>
+		<td>302</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
