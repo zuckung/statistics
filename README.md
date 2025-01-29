@@ -65,8 +65,8 @@
 		<td>256</td>
 		<td>259</td>
 		<td>263</td>
-		<td>265</td>
-		<td>+ 2</td>
+		<td>267</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>321</td>
 		<td>326</td>
 		<td>330</td>
-		<td>333</td>
-		<td>+ 3</td>
+		<td>334</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -219,8 +219,8 @@
 		<td>242</td>
 		<td>245</td>
 		<td>247</td>
-		<td>249</td>
-		<td>+ 2</td>
+		<td>253</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -564,8 +564,8 @@
 		<td>321</td>
 		<td>326</td>
 		<td>330</td>
-		<td>333</td>
-		<td>+ 3</td>
+		<td>334</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -641,8 +641,8 @@
 		<td>256</td>
 		<td>259</td>
 		<td>263</td>
-		<td>265</td>
-		<td>+ 2</td>
+		<td>267</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -667,6 +667,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>jump.gates</td>
+		<td>237</td>
+		<td>237</td>
+		<td>240</td>
+		<td>242</td>
+		<td>245</td>
+		<td>247</td>
+		<td>253</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
 		<td>captureable.person.ships</td>
 		<td>234</td>
 		<td>236</td>
@@ -676,17 +687,6 @@
 		<td>250</td>
 		<td>250</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>jump.gates</td>
-		<td>237</td>
-		<td>237</td>
-		<td>240</td>
-		<td>242</td>
-		<td>245</td>
-		<td>247</td>
-		<td>249</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
