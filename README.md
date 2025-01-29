@@ -98,8 +98,8 @@
 		<td>297</td>
 		<td>300</td>
 		<td>304</td>
-		<td>308</td>
-		<td>+ 4</td>
+		<td>310</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -197,8 +197,8 @@
 		<td>237</td>
 		<td>240</td>
 		<td>240</td>
-		<td>242</td>
-		<td>+ 2</td>
+		<td>244</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -608,8 +608,8 @@
 		<td>297</td>
 		<td>300</td>
 		<td>304</td>
-		<td>308</td>
-		<td>+ 4</td>
+		<td>310</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -689,6 +689,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>hai.side.mission.unlocker</td>
+		<td>232</td>
+		<td>232</td>
+		<td>237</td>
+		<td>237</td>
+		<td>240</td>
+		<td>240</td>
+		<td>244</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>snowfeather.robotics</td>
 		<td>231</td>
 		<td>231</td>
@@ -697,17 +708,6 @@
 		<td>241</td>
 		<td>241</td>
 		<td>243</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>hai.side.mission.unlocker</td>
-		<td>232</td>
-		<td>232</td>
-		<td>237</td>
-		<td>237</td>
-		<td>240</td>
-		<td>240</td>
-		<td>242</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
