@@ -54,8 +54,8 @@
 		<td>208</td>
 		<td>211</td>
 		<td>213</td>
-		<td>216</td>
-		<td>+ 3</td>
+		<td>218</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -762,8 +762,8 @@
 		<td>208</td>
 		<td>211</td>
 		<td>213</td>
-		<td>216</td>
-		<td>+ 3</td>
+		<td>218</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
