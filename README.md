@@ -76,8 +76,8 @@
 		<td>321</td>
 		<td>326</td>
 		<td>330</td>
-		<td>331</td>
-		<td>+ 1</td>
+		<td>333</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -98,8 +98,8 @@
 		<td>297</td>
 		<td>300</td>
 		<td>304</td>
-		<td>304</td>
-		<td></td>
+		<td>306</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -219,8 +219,8 @@
 		<td>242</td>
 		<td>245</td>
 		<td>247</td>
-		<td>247</td>
-		<td></td>
+		<td>249</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -564,8 +564,8 @@
 		<td>321</td>
 		<td>326</td>
 		<td>330</td>
-		<td>331</td>
-		<td>+ 1</td>
+		<td>333</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -608,8 +608,8 @@
 		<td>297</td>
 		<td>300</td>
 		<td>304</td>
-		<td>304</td>
-		<td></td>
+		<td>306</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -685,8 +685,8 @@
 		<td>242</td>
 		<td>245</td>
 		<td>247</td>
-		<td>247</td>
-		<td></td>
+		<td>249</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
