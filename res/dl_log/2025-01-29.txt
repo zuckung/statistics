@@ -7,10 +7,10 @@ v1.0.4-too.many.asteroids | downloads: 15
 v1.0.3-show.reputation | downloads: 8
 v1.0.13-additional.command.buttons.radial | downloads: 62
 v1.0.4-better.starts | downloads: 50
-v1.0.5-bunrodea.missions | downloads: 78
+v1.0.5-bunrodea.missions | downloads: 80
 v1.0.2-planet.pluto | downloads: 26
 v1.0.2-planet.map | downloads: 19
-v1.0.2-jump.gates | downloads: 46
+v1.0.2-jump.gates | downloads: 48
 v1.0.4-expert.crew.members | downloads: 81
 v1.0.1-planet.pluto | downloads: 22
 v1.0.0-planet.pluto | downloads: 1
@@ -19,7 +19,7 @@ v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 88
 v1.0.6-uniques | downloads: 72
 v1.0.3-navy.licenses | downloads: 130
-v1.0.6-coalition.shopping | downloads: 110
+v1.0.6-coalition.shopping | downloads: 112
 v1.0.5-snowfeather.robotics | downloads: 82
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 145
@@ -171,7 +171,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 170
-# TOTAL DOWNLOADS: 9558
+# TOTAL DOWNLOADS: 9564
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -180,9 +180,9 @@ additional.command.buttons.radial 355
 automata.destruction.0percent 231
 automata.in.human.space 213
 better.starts 265
-bunrodea.missions 331
+bunrodea.missions 333
 captureable.person.ships 250
-coalition.shopping 304
+coalition.shopping 306
 control.station 224
 devil-run.unhidden 66
 disable.person.ships 133
@@ -193,7 +193,7 @@ galactic.capital.investment 391
 gegno.pirates 336
 hai.side.mission.unlocker 240
 human.labels 187
-jump.gates 247
+jump.gates 249
 kestrel.unlocks 211
 kor.efret.shipyard 315
 landing.images 204
