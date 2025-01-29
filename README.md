@@ -32,8 +32,8 @@
 		<td>346</td>
 		<td>349</td>
 		<td>355</td>
-		<td>358</td>
-		<td>+ 3</td>
+		<td>360</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -252,8 +252,8 @@
 		<td>201</td>
 		<td>204</td>
 		<td>204</td>
-		<td>209</td>
-		<td>+ 5</td>
+		<td>211</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -263,8 +263,8 @@
 		<td>196</td>
 		<td>199</td>
 		<td>201</td>
-		<td>204</td>
-		<td>+ 3</td>
+		<td>206</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -520,8 +520,8 @@
 		<td>346</td>
 		<td>349</td>
 		<td>355</td>
-		<td>358</td>
-		<td>+ 3</td>
+		<td>360</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -806,8 +806,8 @@
 		<td>201</td>
 		<td>204</td>
 		<td>204</td>
-		<td>209</td>
-		<td>+ 5</td>
+		<td>211</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -817,8 +817,8 @@
 		<td>196</td>
 		<td>199</td>
 		<td>201</td>
-		<td>204</td>
-		<td>+ 3</td>
+		<td>206</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
