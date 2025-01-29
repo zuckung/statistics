@@ -65,8 +65,8 @@
 		<td>256</td>
 		<td>259</td>
 		<td>263</td>
-		<td>263</td>
-		<td></td>
+		<td>265</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -153,8 +153,8 @@
 		<td>306</td>
 		<td>309</td>
 		<td>315</td>
-		<td>317</td>
-		<td>+ 2</td>
+		<td>319</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -230,8 +230,8 @@
 		<td>206</td>
 		<td>209</td>
 		<td>209</td>
-		<td>209</td>
-		<td></td>
+		<td>211</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -241,8 +241,8 @@
 		<td>306</td>
 		<td>309</td>
 		<td>311</td>
-		<td>313</td>
-		<td>+ 2</td>
+		<td>315</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -340,8 +340,8 @@
 		<td>178</td>
 		<td>183</td>
 		<td>183</td>
-		<td>183</td>
-		<td></td>
+		<td>185</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -450,8 +450,8 @@
 		<td>337</td>
 		<td>340</td>
 		<td>344</td>
-		<td>344</td>
-		<td></td>
+		<td>346</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -531,8 +531,8 @@
 		<td>337</td>
 		<td>340</td>
 		<td>344</td>
-		<td>344</td>
-		<td></td>
+		<td>346</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -575,8 +575,8 @@
 		<td>306</td>
 		<td>309</td>
 		<td>315</td>
-		<td>317</td>
-		<td>+ 2</td>
+		<td>319</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -597,8 +597,8 @@
 		<td>306</td>
 		<td>309</td>
 		<td>311</td>
-		<td>313</td>
-		<td>+ 2</td>
+		<td>315</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -641,8 +641,8 @@
 		<td>256</td>
 		<td>259</td>
 		<td>263</td>
-		<td>263</td>
-		<td></td>
+		<td>265</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -766,6 +766,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>kestrel.unlocks</td>
+		<td>199</td>
+		<td>201</td>
+		<td>205</td>
+		<td>206</td>
+		<td>209</td>
+		<td>209</td>
+		<td>211</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>uniques</td>
 		<td>202</td>
 		<td>202</td>
@@ -786,17 +797,6 @@
 		<td>207</td>
 		<td>209</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>kestrel.unlocks</td>
-		<td>199</td>
-		<td>201</td>
-		<td>205</td>
-		<td>206</td>
-		<td>209</td>
-		<td>209</td>
-		<td>209</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -861,8 +861,8 @@
 		<td>178</td>
 		<td>183</td>
 		<td>183</td>
-		<td>183</td>
-		<td></td>
+		<td>185</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
