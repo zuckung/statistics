@@ -19,7 +19,7 @@ v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 88
 v1.0.6-uniques | downloads: 72
 v1.0.3-navy.licenses | downloads: 132
-v1.0.6-coalition.shopping | downloads: 114
+v1.0.6-coalition.shopping | downloads: 116
 v1.0.5-snowfeather.robotics | downloads: 84
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 147
@@ -49,7 +49,7 @@ v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 92
 v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
-v1.1.4-hai.side.mission.unlocker | downloads: 167
+v1.1.4-hai.side.mission.unlocker | downloads: 169
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 146
 v1.0.1-paint.your.ships | downloads: 207
@@ -171,7 +171,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 170
-# TOTAL DOWNLOADS: 9647
+# TOTAL DOWNLOADS: 9651
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -182,7 +182,7 @@ automata.in.human.space 215
 better.starts 269
 bunrodea.missions 336
 captureable.person.ships 252
-coalition.shopping 308
+coalition.shopping 310
 control.station 226
 devil-run.unhidden 66
 disable.person.ships 135
@@ -191,7 +191,7 @@ expert.crew.members 321
 free.worlds.5.years.later 195
 galactic.capital.investment 393
 gegno.pirates 338
-hai.side.mission.unlocker 242
+hai.side.mission.unlocker 244
 human.labels 189
 jump.gates 255
 kestrel.unlocks 213
