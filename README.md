@@ -296,8 +296,8 @@
 		<td>270</td>
 		<td>275</td>
 		<td>277</td>
-		<td>277</td>
-		<td></td>
+		<td>279</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -384,8 +384,8 @@
 		<td>44</td>
 		<td>47</td>
 		<td>47</td>
-		<td>47</td>
-		<td></td>
+		<td>49</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -630,8 +630,8 @@
 		<td>270</td>
 		<td>275</td>
 		<td>277</td>
-		<td>277</td>
-		<td></td>
+		<td>279</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -949,8 +949,8 @@
 		<td>44</td>
 		<td>47</td>
 		<td>47</td>
-		<td>47</td>
-		<td></td>
+		<td>49</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
