@@ -252,8 +252,8 @@
 		<td>204</td>
 		<td>204</td>
 		<td>211</td>
-		<td>214</td>
-		<td>+ 3</td>
+		<td>216</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -274,8 +274,8 @@
 		<td>155</td>
 		<td>155</td>
 		<td>160</td>
-		<td>163</td>
-		<td>+ 3</td>
+		<td>165</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -788,6 +788,17 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
+		<td>landing.images</td>
+		<td>198</td>
+		<td>201</td>
+		<td>201</td>
+		<td>204</td>
+		<td>204</td>
+		<td>211</td>
+		<td>216</td>
+		<td>+ 5</td>
+	</tr>
+	<tr>
 		<td>paint.your.ships</td>
 		<td>197</td>
 		<td>202</td>
@@ -796,17 +807,6 @@
 		<td>207</td>
 		<td>212</td>
 		<td>215</td>
-		<td>+ 3</td>
-	</tr>
-	<tr>
-		<td>landing.images</td>
-		<td>198</td>
-		<td>201</td>
-		<td>201</td>
-		<td>204</td>
-		<td>204</td>
-		<td>211</td>
-		<td>214</td>
 		<td>+ 3</td>
 	</tr>
 	<tr>
@@ -883,8 +883,8 @@
 		<td>155</td>
 		<td>155</td>
 		<td>160</td>
-		<td>163</td>
-		<td>+ 3</td>
+		<td>165</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
