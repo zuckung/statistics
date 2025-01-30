@@ -76,8 +76,8 @@
 		<td>326</td>
 		<td>330</td>
 		<td>339</td>
-		<td>342</td>
-		<td>+ 3</td>
+		<td>344</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -186,8 +186,8 @@
 		<td>334</td>
 		<td>336</td>
 		<td>341</td>
-		<td>344</td>
-		<td>+ 3</td>
+		<td>345</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -219,8 +219,8 @@
 		<td>245</td>
 		<td>247</td>
 		<td>258</td>
-		<td>261</td>
-		<td>+ 3</td>
+		<td>262</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -241,8 +241,8 @@
 		<td>309</td>
 		<td>311</td>
 		<td>322</td>
-		<td>327</td>
-		<td>+ 5</td>
+		<td>330</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -318,8 +318,8 @@
 		<td>340</td>
 		<td>342</td>
 		<td>347</td>
-		<td>350</td>
-		<td>+ 3</td>
+		<td>351</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -542,8 +542,8 @@
 		<td>340</td>
 		<td>342</td>
 		<td>347</td>
-		<td>350</td>
-		<td>+ 3</td>
+		<td>351</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -553,8 +553,8 @@
 		<td>334</td>
 		<td>336</td>
 		<td>341</td>
-		<td>344</td>
-		<td>+ 3</td>
+		<td>345</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -564,8 +564,8 @@
 		<td>326</td>
 		<td>330</td>
 		<td>339</td>
-		<td>342</td>
-		<td>+ 3</td>
+		<td>344</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -586,8 +586,8 @@
 		<td>309</td>
 		<td>311</td>
 		<td>322</td>
-		<td>327</td>
-		<td>+ 5</td>
+		<td>330</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -656,23 +656,23 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
-		<td>more.person.ships</td>
-		<td>245</td>
-		<td>250</td>
-		<td>250</td>
-		<td>253</td>
-		<td>255</td>
-		<td>258</td>
-		<td>261</td>
-		<td>+ 3</td>
-	</tr>
-	<tr>
 		<td>jump.gates</td>
 		<td>237</td>
 		<td>240</td>
 		<td>242</td>
 		<td>245</td>
 		<td>247</td>
+		<td>258</td>
+		<td>262</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
+		<td>more.person.ships</td>
+		<td>245</td>
+		<td>250</td>
+		<td>250</td>
+		<td>253</td>
+		<td>255</td>
 		<td>258</td>
 		<td>261</td>
 		<td>+ 3</td>
