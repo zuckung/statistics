@@ -37,11 +37,11 @@ v1.0.8-additional.command.buttons.radial | downloads: 20
 v1.0.2-better.starts | downloads: 35
 v1.1.5-captureable.person.ships | downloads: 54
 v1.0.7-additional.command.buttons.radial | downloads: 9
-v1.0.4-landing.images | downloads: 141
+v1.0.4-landing.images | downloads: 143
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 120
 v1.0.2-quarg.farm | downloads: 190
-v1.0.2-landing.images.highres | downloads: 95
+v1.0.2-landing.images.highres | downloads: 97
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 235
 v1.0.1-automata.in.human.space | downloads: 160
@@ -172,7 +172,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 171
-# TOTAL DOWNLOADS: 9879
+# TOTAL DOWNLOADS: 9883
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -197,9 +197,9 @@ human.labels 193
 jump.gates 261
 kestrel.unlocks 221
 kor.efret.shipyard 327
-landing.images 214
+landing.images 216
 landing.images.android 209
-landing.images.highres 163
+landing.images.highres 165
 more.arfectas 307
 more.boarding.missions 287
 more.person.ships 261
