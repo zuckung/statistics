@@ -43,8 +43,8 @@
 		<td>227</td>
 		<td>229</td>
 		<td>234</td>
-		<td>234</td>
-		<td></td>
+		<td>238</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -153,8 +153,8 @@
 		<td>309</td>
 		<td>315</td>
 		<td>326</td>
-		<td>326</td>
-		<td></td>
+		<td>328</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -175,8 +175,8 @@
 		<td>389</td>
 		<td>389</td>
 		<td>398</td>
-		<td>398</td>
-		<td></td>
+		<td>400</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -197,8 +197,8 @@
 		<td>240</td>
 		<td>240</td>
 		<td>247</td>
-		<td>247</td>
-		<td></td>
+		<td>249</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -241,8 +241,8 @@
 		<td>309</td>
 		<td>311</td>
 		<td>322</td>
-		<td>322</td>
-		<td></td>
+		<td>324</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -509,8 +509,8 @@
 		<td>389</td>
 		<td>389</td>
 		<td>398</td>
-		<td>398</td>
-		<td></td>
+		<td>400</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -575,8 +575,19 @@
 		<td>309</td>
 		<td>315</td>
 		<td>326</td>
-		<td>326</td>
-		<td></td>
+		<td>328</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>kor.efret.shipyard</td>
+		<td>300</td>
+		<td>305</td>
+		<td>306</td>
+		<td>309</td>
+		<td>311</td>
+		<td>322</td>
+		<td>324</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -587,17 +598,6 @@
 		<td>316</td>
 		<td>323</td>
 		<td>323</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>kor.efret.shipyard</td>
-		<td>300</td>
-		<td>305</td>
-		<td>306</td>
-		<td>309</td>
-		<td>311</td>
-		<td>322</td>
-		<td>322</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -696,8 +696,8 @@
 		<td>240</td>
 		<td>240</td>
 		<td>247</td>
-		<td>247</td>
-		<td></td>
+		<td>249</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -718,8 +718,8 @@
 		<td>227</td>
 		<td>229</td>
 		<td>234</td>
-		<td>234</td>
-		<td></td>
+		<td>238</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
