@@ -230,8 +230,8 @@
 		<td>209</td>
 		<td>209</td>
 		<td>216</td>
-		<td>217</td>
-		<td>+ 1</td>
+		<td>219</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -755,6 +755,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>kestrel.unlocks</td>
+		<td>201</td>
+		<td>205</td>
+		<td>206</td>
+		<td>209</td>
+		<td>209</td>
+		<td>216</td>
+		<td>219</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>automata.in.human.space</td>
 		<td>205</td>
 		<td>208</td>
@@ -763,17 +774,6 @@
 		<td>213</td>
 		<td>218</td>
 		<td>219</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>kestrel.unlocks</td>
-		<td>201</td>
-		<td>205</td>
-		<td>206</td>
-		<td>209</td>
-		<td>209</td>
-		<td>216</td>
-		<td>217</td>
 		<td>+ 1</td>
 	</tr>
 	<tr>
