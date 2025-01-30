@@ -109,8 +109,8 @@
 		<td>222</td>
 		<td>224</td>
 		<td>227</td>
-		<td>230</td>
-		<td>+ 3</td>
+		<td>232</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -729,8 +729,8 @@
 		<td>222</td>
 		<td>224</td>
 		<td>227</td>
-		<td>230</td>
-		<td>+ 3</td>
+		<td>232</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
