@@ -43,8 +43,8 @@
 		<td>229</td>
 		<td>234</td>
 		<td>241</td>
-		<td>242</td>
-		<td>+ 1</td>
+		<td>244</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -87,8 +87,8 @@
 		<td>250</td>
 		<td>253</td>
 		<td>256</td>
-		<td>257</td>
-		<td>+ 1</td>
+		<td>259</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -153,8 +153,8 @@
 		<td>315</td>
 		<td>326</td>
 		<td>331</td>
-		<td>332</td>
-		<td>+ 1</td>
+		<td>334</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -417,8 +417,8 @@
 		<td>257</td>
 		<td>260</td>
 		<td>263</td>
-		<td>264</td>
-		<td>+ 1</td>
+		<td>266</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -450,8 +450,8 @@
 		<td>344</td>
 		<td>351</td>
 		<td>354</td>
-		<td>357</td>
-		<td>+ 3</td>
+		<td>359</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -483,8 +483,8 @@
 		<td>210</td>
 		<td>215</td>
 		<td>218</td>
-		<td>219</td>
-		<td>+ 1</td>
+		<td>221</td>
+		<td>+ 3</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>344</td>
 		<td>351</td>
 		<td>354</td>
-		<td>357</td>
-		<td>+ 3</td>
+		<td>359</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -575,8 +575,8 @@
 		<td>315</td>
 		<td>326</td>
 		<td>331</td>
-		<td>332</td>
-		<td>+ 1</td>
+		<td>334</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -652,8 +652,8 @@
 		<td>257</td>
 		<td>260</td>
 		<td>263</td>
-		<td>264</td>
-		<td>+ 1</td>
+		<td>266</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -685,8 +685,8 @@
 		<td>250</td>
 		<td>253</td>
 		<td>256</td>
-		<td>257</td>
-		<td>+ 1</td>
+		<td>259</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -718,8 +718,8 @@
 		<td>229</td>
 		<td>234</td>
 		<td>241</td>
-		<td>242</td>
-		<td>+ 1</td>
+		<td>244</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -784,8 +784,8 @@
 		<td>210</td>
 		<td>215</td>
 		<td>218</td>
-		<td>219</td>
-		<td>+ 1</td>
+		<td>221</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
