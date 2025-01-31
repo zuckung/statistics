@@ -450,8 +450,8 @@
 		<td>344</td>
 		<td>351</td>
 		<td>354</td>
-		<td>354</td>
-		<td></td>
+		<td>356</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -531,8 +531,8 @@
 		<td>344</td>
 		<td>351</td>
 		<td>354</td>
-		<td>354</td>
-		<td></td>
+		<td>356</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
