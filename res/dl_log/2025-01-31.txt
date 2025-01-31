@@ -6,7 +6,7 @@ v1.0.3-quarg.farm | downloads: 16
 v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 26
 v1.0.3-show.reputation | downloads: 15
-v1.0.13-additional.command.buttons.radial | downloads: 73
+v1.0.13-additional.command.buttons.radial | downloads: 74
 v1.0.4-better.starts | downloads: 61
 v1.0.5-bunrodea.missions | downloads: 92
 v1.0.2-planet.pluto | downloads: 35
@@ -172,12 +172,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 171
-# TOTAL DOWNLOADS: 9935
+# TOTAL DOWNLOADS: 9936
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 366
+additional.command.buttons.radial 367
 automata.destruction.0percent 242
 automata.in.human.space 222
 better.starts 276
