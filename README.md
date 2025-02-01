@@ -285,8 +285,8 @@
 		<td>304</td>
 		<td>307</td>
 		<td>308</td>
-		<td>308</td>
-		<td></td>
+		<td>310</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -619,8 +619,8 @@
 		<td>304</td>
 		<td>307</td>
 		<td>308</td>
-		<td>308</td>
-		<td></td>
+		<td>310</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
