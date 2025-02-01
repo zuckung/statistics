@@ -329,8 +329,8 @@
 		<td>203</td>
 		<td>206</td>
 		<td>207</td>
-		<td>207</td>
-		<td></td>
+		<td>209</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -450,8 +450,8 @@
 		<td>351</td>
 		<td>354</td>
 		<td>359</td>
-		<td>359</td>
-		<td></td>
+		<td>361</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -531,8 +531,8 @@
 		<td>351</td>
 		<td>354</td>
 		<td>359</td>
-		<td>359</td>
-		<td></td>
+		<td>361</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -828,8 +828,8 @@
 		<td>203</td>
 		<td>206</td>
 		<td>207</td>
-		<td>207</td>
-		<td></td>
+		<td>209</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
