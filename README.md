@@ -153,8 +153,8 @@
 		<td>326</td>
 		<td>331</td>
 		<td>334</td>
-		<td>334</td>
-		<td></td>
+		<td>336</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -197,8 +197,8 @@
 		<td>247</td>
 		<td>252</td>
 		<td>253</td>
-		<td>255</td>
-		<td>+ 2</td>
+		<td>257</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -307,8 +307,8 @@
 		<td>258</td>
 		<td>261</td>
 		<td>262</td>
-		<td>262</td>
-		<td></td>
+		<td>264</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -575,8 +575,8 @@
 		<td>326</td>
 		<td>331</td>
 		<td>334</td>
-		<td>334</td>
-		<td></td>
+		<td>336</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -656,6 +656,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>more.person.ships</td>
+		<td>250</td>
+		<td>253</td>
+		<td>255</td>
+		<td>258</td>
+		<td>261</td>
+		<td>262</td>
+		<td>264</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>jump.gates</td>
 		<td>242</td>
 		<td>245</td>
@@ -664,17 +675,6 @@
 		<td>262</td>
 		<td>263</td>
 		<td>263</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>more.person.ships</td>
-		<td>250</td>
-		<td>253</td>
-		<td>255</td>
-		<td>258</td>
-		<td>261</td>
-		<td>262</td>
-		<td>262</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -696,8 +696,8 @@
 		<td>247</td>
 		<td>252</td>
 		<td>253</td>
-		<td>255</td>
-		<td>+ 2</td>
+		<td>257</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
