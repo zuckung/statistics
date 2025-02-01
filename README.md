@@ -395,8 +395,8 @@
 		<td>323</td>
 		<td>326</td>
 		<td>327</td>
-		<td>327</td>
-		<td></td>
+		<td>329</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -597,8 +597,8 @@
 		<td>323</td>
 		<td>326</td>
 		<td>327</td>
-		<td>327</td>
-		<td></td>
+		<td>329</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
