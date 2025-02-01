@@ -65,8 +65,8 @@
 		<td>272</td>
 		<td>275</td>
 		<td>276</td>
-		<td>276</td>
-		<td></td>
+		<td>278</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -208,8 +208,8 @@
 		<td>190</td>
 		<td>193</td>
 		<td>194</td>
-		<td>194</td>
-		<td></td>
+		<td>196</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -417,8 +417,8 @@
 		<td>260</td>
 		<td>263</td>
 		<td>266</td>
-		<td>266</td>
-		<td></td>
+		<td>268</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -641,8 +641,8 @@
 		<td>272</td>
 		<td>275</td>
 		<td>276</td>
-		<td>276</td>
-		<td></td>
+		<td>278</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -652,8 +652,8 @@
 		<td>260</td>
 		<td>263</td>
 		<td>266</td>
-		<td>266</td>
-		<td></td>
+		<td>268</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -850,8 +850,8 @@
 		<td>190</td>
 		<td>193</td>
 		<td>194</td>
-		<td>194</td>
-		<td></td>
+		<td>196</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
