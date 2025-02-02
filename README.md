@@ -153,8 +153,8 @@
 		<td>331</td>
 		<td>334</td>
 		<td>336</td>
-		<td>336</td>
-		<td></td>
+		<td>338</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -483,8 +483,8 @@
 		<td>218</td>
 		<td>221</td>
 		<td>221</td>
-		<td>221</td>
-		<td></td>
+		<td>222</td>
+		<td>+ 1</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>331</td>
 		<td>334</td>
 		<td>336</td>
-		<td>336</td>
-		<td></td>
+		<td>338</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -755,6 +755,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>uniques</td>
+		<td>210</td>
+		<td>210</td>
+		<td>215</td>
+		<td>218</td>
+		<td>221</td>
+		<td>221</td>
+		<td>222</td>
+		<td>+ 1</td>
+	</tr>
+	<tr>
 		<td>kestrel.unlocks</td>
 		<td>209</td>
 		<td>209</td>
@@ -774,17 +785,6 @@
 		<td>222</td>
 		<td>222</td>
 		<td>222</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>uniques</td>
-		<td>210</td>
-		<td>210</td>
-		<td>215</td>
-		<td>218</td>
-		<td>221</td>
-		<td>221</td>
-		<td>221</td>
 		<td></td>
 	</tr>
 	<tr>
