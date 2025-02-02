@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.5-expert.crew.members | downloads: 12
+v1.0.5-expert.crew.members | downloads: 14
 v1.1.7-captureable.person.ships | downloads: 14
 v1.0.8-uniques | downloads: 15
 v1.0.3-quarg.farm | downloads: 18
@@ -118,7 +118,7 @@ v1.0.0-quarg.farm | downloads: 1
 v1.0.1-control.station | downloads: 232
 v1.0.0-control.station | downloads: 1
 v1.0.0-additional.command.buttons.radial | downloads: 52
-v1.1.3-more.boarding.missions | downloads: 283
+v1.1.3-more.boarding.missions | downloads: 285
 v1.0.3-coalition.shopping | downloads: 97
 v1.0.2-coalition.shopping | downloads: 1
 v1.0.1-navy.licenses | downloads: 1
@@ -172,7 +172,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 171
-# TOTAL DOWNLOADS: 10000
+# TOTAL DOWNLOADS: 10004
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -188,7 +188,7 @@ control.station 233
 devil-run.unhidden 66
 disable.person.ships 140
 disable.spaceport.repeatables 228
-expert.crew.members 340
+expert.crew.members 342
 free.worlds.5.years.later 202
 galactic.capital.investment 406
 gegno.pirates 348
@@ -201,7 +201,7 @@ landing.images 217
 landing.images.android 210
 landing.images.highres 166
 more.arfectas 310
-more.boarding.missions 290
+more.boarding.missions 292
 more.person.ships 264
 navy.licenses 354
 no.more.mereti.mines 209
