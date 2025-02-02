@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.5-expert.crew.members | downloads: 8
+v1.0.5-expert.crew.members | downloads: 10
 v1.1.7-captureable.person.ships | downloads: 14
-v1.0.8-uniques | downloads: 12
+v1.0.8-uniques | downloads: 13
 v1.0.3-quarg.farm | downloads: 18
 v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 30
@@ -172,7 +172,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 171
-# TOTAL DOWNLOADS: 9974
+# TOTAL DOWNLOADS: 9977
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -188,7 +188,7 @@ control.station 233
 devil-run.unhidden 66
 disable.person.ships 140
 disable.spaceport.repeatables 228
-expert.crew.members 336
+expert.crew.members 338
 free.worlds.5.years.later 200
 galactic.capital.investment 404
 gegno.pirates 346
@@ -218,4 +218,4 @@ space.fauna 230
 too.many.asteroids 361
 tribute.republic 181
 unique.fix 44
-uniques 221
+uniques 222
