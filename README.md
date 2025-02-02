@@ -153,8 +153,8 @@
 		<td>331</td>
 		<td>334</td>
 		<td>336</td>
-		<td>340</td>
-		<td>+ 4</td>
+		<td>342</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -296,8 +296,8 @@
 		<td>287</td>
 		<td>288</td>
 		<td>288</td>
-		<td>290</td>
-		<td>+ 2</td>
+		<td>292</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -575,8 +575,8 @@
 		<td>331</td>
 		<td>334</td>
 		<td>336</td>
-		<td>340</td>
-		<td>+ 4</td>
+		<td>342</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -630,8 +630,8 @@
 		<td>287</td>
 		<td>288</td>
 		<td>288</td>
-		<td>290</td>
-		<td>+ 2</td>
+		<td>292</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
