@@ -318,8 +318,8 @@
 		<td>352</td>
 		<td>352</td>
 		<td>354</td>
-		<td>356</td>
-		<td>+ 2</td>
+		<td>358</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -542,8 +542,8 @@
 		<td>352</td>
 		<td>352</td>
 		<td>354</td>
-		<td>356</td>
-		<td>+ 2</td>
+		<td>358</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
