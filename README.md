@@ -186,8 +186,8 @@
 		<td>346</td>
 		<td>346</td>
 		<td>348</td>
-		<td>348</td>
-		<td></td>
+		<td>349</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -553,8 +553,8 @@
 		<td>346</td>
 		<td>346</td>
 		<td>348</td>
-		<td>348</td>
-		<td></td>
+		<td>349</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
