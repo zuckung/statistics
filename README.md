@@ -351,8 +351,8 @@
 		<td>216</td>
 		<td>216</td>
 		<td>216</td>
-		<td>216</td>
-		<td></td>
+		<td>218</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -788,6 +788,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>paint.your.ships</td>
+		<td>207</td>
+		<td>212</td>
+		<td>215</td>
+		<td>216</td>
+		<td>216</td>
+		<td>216</td>
+		<td>218</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>landing.images</td>
 		<td>204</td>
 		<td>211</td>
@@ -796,17 +807,6 @@
 		<td>217</td>
 		<td>217</td>
 		<td>217</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>207</td>
-		<td>212</td>
-		<td>215</td>
-		<td>216</td>
-		<td>216</td>
-		<td>216</td>
-		<td>216</td>
 		<td></td>
 	</tr>
 	<tr>
