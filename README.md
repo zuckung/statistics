@@ -197,8 +197,8 @@
 		<td>257</td>
 		<td>257</td>
 		<td>257</td>
-		<td>257</td>
-		<td></td>
+		<td>259</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -450,8 +450,8 @@
 		<td>361</td>
 		<td>361</td>
 		<td>363</td>
-		<td>367</td>
-		<td>+ 4</td>
+		<td>369</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -531,8 +531,8 @@
 		<td>361</td>
 		<td>361</td>
 		<td>363</td>
-		<td>367</td>
-		<td>+ 4</td>
+		<td>369</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -678,6 +678,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>hai.side.mission.unlocker</td>
+		<td>247</td>
+		<td>252</td>
+		<td>253</td>
+		<td>257</td>
+		<td>257</td>
+		<td>257</td>
+		<td>259</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>captureable.person.ships</td>
 		<td>253</td>
 		<td>256</td>
@@ -686,17 +697,6 @@
 		<td>259</td>
 		<td>259</td>
 		<td>259</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>hai.side.mission.unlocker</td>
-		<td>247</td>
-		<td>252</td>
-		<td>253</td>
-		<td>257</td>
-		<td>257</td>
-		<td>257</td>
-		<td>257</td>
 		<td></td>
 	</tr>
 	<tr>
