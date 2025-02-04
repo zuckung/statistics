@@ -296,8 +296,8 @@
 		<td>288</td>
 		<td>292</td>
 		<td>294</td>
-		<td>294</td>
-		<td></td>
+		<td>296</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -450,8 +450,8 @@
 		<td>361</td>
 		<td>361</td>
 		<td>363</td>
-		<td>363</td>
-		<td></td>
+		<td>365</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -531,8 +531,8 @@
 		<td>361</td>
 		<td>361</td>
 		<td>363</td>
-		<td>363</td>
-		<td></td>
+		<td>365</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -630,8 +630,8 @@
 		<td>288</td>
 		<td>292</td>
 		<td>294</td>
-		<td>294</td>
-		<td></td>
+		<td>296</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
