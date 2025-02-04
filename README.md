@@ -153,8 +153,8 @@
 		<td>336</td>
 		<td>342</td>
 		<td>348</td>
-		<td>349</td>
-		<td>+ 1</td>
+		<td>351</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -564,8 +564,8 @@
 		<td>336</td>
 		<td>342</td>
 		<td>348</td>
-		<td>349</td>
-		<td>+ 1</td>
+		<td>351</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
