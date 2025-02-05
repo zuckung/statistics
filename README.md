@@ -65,8 +65,8 @@
 		<td>280</td>
 		<td>282</td>
 		<td>285</td>
-		<td>285</td>
-		<td></td>
+		<td>287</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>345</td>
 		<td>347</td>
 		<td>348</td>
-		<td>349</td>
-		<td>+ 1</td>
+		<td>353</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -87,8 +87,8 @@
 		<td>259</td>
 		<td>259</td>
 		<td>262</td>
-		<td>262</td>
-		<td></td>
+		<td>264</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -98,8 +98,8 @@
 		<td>317</td>
 		<td>319</td>
 		<td>320</td>
-		<td>320</td>
-		<td></td>
+		<td>322</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -208,8 +208,8 @@
 		<td>196</td>
 		<td>196</td>
 		<td>199</td>
-		<td>199</td>
-		<td></td>
+		<td>201</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -252,8 +252,8 @@
 		<td>217</td>
 		<td>217</td>
 		<td>220</td>
-		<td>220</td>
-		<td></td>
+		<td>222</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -274,8 +274,8 @@
 		<td>166</td>
 		<td>166</td>
 		<td>167</td>
-		<td>167</td>
-		<td></td>
+		<td>169</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -296,8 +296,8 @@
 		<td>292</td>
 		<td>294</td>
 		<td>299</td>
-		<td>299</td>
-		<td></td>
+		<td>301</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -318,8 +318,8 @@
 		<td>354</td>
 		<td>358</td>
 		<td>361</td>
-		<td>361</td>
-		<td></td>
+		<td>363</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -351,8 +351,8 @@
 		<td>216</td>
 		<td>218</td>
 		<td>221</td>
-		<td>221</td>
-		<td></td>
+		<td>223</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -542,8 +542,19 @@
 		<td>354</td>
 		<td>358</td>
 		<td>361</td>
-		<td>361</td>
-		<td></td>
+		<td>363</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>bunrodea.missions</td>
+		<td>344</td>
+		<td>345</td>
+		<td>345</td>
+		<td>345</td>
+		<td>347</td>
+		<td>348</td>
+		<td>353</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -566,17 +577,6 @@
 		<td>351</td>
 		<td>351</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>bunrodea.missions</td>
-		<td>344</td>
-		<td>345</td>
-		<td>345</td>
-		<td>345</td>
-		<td>347</td>
-		<td>348</td>
-		<td>349</td>
-		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -608,8 +608,8 @@
 		<td>317</td>
 		<td>319</td>
 		<td>320</td>
-		<td>320</td>
-		<td></td>
+		<td>322</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -630,8 +630,8 @@
 		<td>292</td>
 		<td>294</td>
 		<td>299</td>
-		<td>299</td>
-		<td></td>
+		<td>301</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -641,8 +641,8 @@
 		<td>280</td>
 		<td>282</td>
 		<td>285</td>
-		<td>285</td>
-		<td></td>
+		<td>287</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -685,8 +685,8 @@
 		<td>259</td>
 		<td>259</td>
 		<td>262</td>
-		<td>262</td>
-		<td></td>
+		<td>264</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -777,6 +777,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>paint.your.ships</td>
+		<td>215</td>
+		<td>216</td>
+		<td>216</td>
+		<td>216</td>
+		<td>218</td>
+		<td>221</td>
+		<td>223</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>kestrel.unlocks</td>
 		<td>221</td>
 		<td>222</td>
@@ -788,17 +799,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>paint.your.ships</td>
-		<td>215</td>
-		<td>216</td>
-		<td>216</td>
-		<td>216</td>
-		<td>218</td>
-		<td>221</td>
-		<td>221</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>landing.images</td>
 		<td>216</td>
 		<td>217</td>
@@ -806,8 +806,8 @@
 		<td>217</td>
 		<td>217</td>
 		<td>220</td>
-		<td>220</td>
-		<td></td>
+		<td>222</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -850,8 +850,8 @@
 		<td>196</td>
 		<td>196</td>
 		<td>199</td>
-		<td>199</td>
-		<td></td>
+		<td>201</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -883,8 +883,8 @@
 		<td>166</td>
 		<td>166</td>
 		<td>167</td>
-		<td>167</td>
-		<td></td>
+		<td>169</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
