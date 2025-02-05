@@ -1,15 +1,15 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.14-additional.command.buttons.radial | downloads: 7
 v1.0.5-expert.crew.members | downloads: 23
-v1.1.7-captureable.person.ships | downloads: 19
+v1.1.7-captureable.person.ships | downloads: 21
 v1.0.8-uniques | downloads: 16
 v1.0.3-quarg.farm | downloads: 19
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 39
+v1.0.4-too.many.asteroids | downloads: 41
 v1.0.3-show.reputation | downloads: 22
 v1.0.13-additional.command.buttons.radial | downloads: 93
-v1.0.4-better.starts | downloads: 72
-v1.0.5-bunrodea.missions | downloads: 100
+v1.0.4-better.starts | downloads: 74
+v1.0.5-bunrodea.missions | downloads: 102
 v1.0.2-planet.pluto | downloads: 36
 v1.0.2-planet.map | downloads: 29
 v1.0.2-jump.gates | downloads: 65
@@ -20,8 +20,8 @@ v1.0.12-additional.command.buttons.radial | downloads: 47
 v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 88
 v1.0.6-uniques | downloads: 73
-v1.0.3-navy.licenses | downloads: 153
-v1.0.6-coalition.shopping | downloads: 128
+v1.0.3-navy.licenses | downloads: 155
+v1.0.6-coalition.shopping | downloads: 130
 v1.0.5-snowfeather.robotics | downloads: 94
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 166
@@ -29,7 +29,7 @@ v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 107
 v1.0.1-show.reputation | downloads: 1
-v1.1.4-galactic.capital.investment | downloads: 213
+v1.1.4-galactic.capital.investment | downloads: 215
 v1.0.9-additional.command.buttons.radial | downloads: 29
 v1.0.2-gegno.pirates | downloads: 180
 v1.0.1-kor.efret.shipyard | downloads: 15
@@ -109,7 +109,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 246
+v1.0.1-automata.destruction.0percent | downloads: 248
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -173,25 +173,25 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 172
-# TOTAL DOWNLOADS: 10157
+# TOTAL DOWNLOADS: 10173
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 393
-automata.destruction.0percent 247
+automata.destruction.0percent 249
 automata.in.human.space 225
-better.starts 287
-bunrodea.missions 353
-captureable.person.ships 264
-coalition.shopping 322
+better.starts 289
+bunrodea.missions 355
+captureable.person.ships 266
+coalition.shopping 324
 control.station 234
 devil-run.unhidden 66
 disable.person.ships 141
 disable.spaceport.repeatables 229
 expert.crew.members 351
 free.worlds.5.years.later 203
-galactic.capital.investment 411
+galactic.capital.investment 413
 gegno.pirates 352
 hai.side.mission.unlocker 260
 human.labels 201
@@ -204,7 +204,7 @@ landing.images.highres 169
 more.arfectas 311
 more.boarding.missions 301
 more.person.ships 265
-navy.licenses 365
+navy.licenses 367
 no.more.mereti.mines 210
 outfits.weapon.slot 197
 paint.your.ships 223
@@ -216,7 +216,7 @@ real.fluff 93
 show.reputation 271
 snowfeather.robotics 253
 space.fauna 231
-too.many.asteroids 370
+too.many.asteroids 372
 tribute.republic 182
 unique.fix 44
 uniques 226
