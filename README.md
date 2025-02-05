@@ -76,8 +76,8 @@
 		<td>345</td>
 		<td>347</td>
 		<td>348</td>
-		<td>348</td>
-		<td></td>
+		<td>349</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -175,8 +175,8 @@
 		<td>406</td>
 		<td>408</td>
 		<td>409</td>
-		<td>409</td>
-		<td></td>
+		<td>411</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -509,8 +509,8 @@
 		<td>406</td>
 		<td>408</td>
 		<td>409</td>
-		<td>409</td>
-		<td></td>
+		<td>411</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -575,8 +575,8 @@
 		<td>345</td>
 		<td>347</td>
 		<td>348</td>
-		<td>348</td>
-		<td></td>
+		<td>349</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
