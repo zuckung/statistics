@@ -43,8 +43,8 @@
 		<td>246</td>
 		<td>246</td>
 		<td>247</td>
-		<td>247</td>
-		<td></td>
+		<td>249</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -65,8 +65,8 @@
 		<td>280</td>
 		<td>282</td>
 		<td>285</td>
-		<td>287</td>
-		<td>+ 2</td>
+		<td>289</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>345</td>
 		<td>347</td>
 		<td>348</td>
-		<td>353</td>
-		<td>+ 5</td>
+		<td>355</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -87,8 +87,8 @@
 		<td>259</td>
 		<td>259</td>
 		<td>262</td>
-		<td>264</td>
-		<td>+ 2</td>
+		<td>266</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -98,8 +98,8 @@
 		<td>317</td>
 		<td>319</td>
 		<td>320</td>
-		<td>322</td>
-		<td>+ 2</td>
+		<td>324</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -175,8 +175,8 @@
 		<td>406</td>
 		<td>408</td>
 		<td>409</td>
-		<td>411</td>
-		<td>+ 2</td>
+		<td>413</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -318,8 +318,8 @@
 		<td>354</td>
 		<td>358</td>
 		<td>361</td>
-		<td>365</td>
-		<td>+ 4</td>
+		<td>367</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -450,8 +450,8 @@
 		<td>361</td>
 		<td>363</td>
 		<td>370</td>
-		<td>370</td>
-		<td></td>
+		<td>372</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -509,8 +509,8 @@
 		<td>406</td>
 		<td>408</td>
 		<td>409</td>
-		<td>411</td>
-		<td>+ 2</td>
+		<td>413</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -531,8 +531,8 @@
 		<td>361</td>
 		<td>363</td>
 		<td>370</td>
-		<td>370</td>
-		<td></td>
+		<td>372</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -542,8 +542,8 @@
 		<td>354</td>
 		<td>358</td>
 		<td>361</td>
-		<td>365</td>
-		<td>+ 4</td>
+		<td>367</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -553,8 +553,8 @@
 		<td>345</td>
 		<td>347</td>
 		<td>348</td>
-		<td>353</td>
-		<td>+ 5</td>
+		<td>355</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -608,8 +608,8 @@
 		<td>317</td>
 		<td>319</td>
 		<td>320</td>
-		<td>322</td>
-		<td>+ 2</td>
+		<td>324</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -641,8 +641,8 @@
 		<td>280</td>
 		<td>282</td>
 		<td>285</td>
-		<td>287</td>
-		<td>+ 2</td>
+		<td>289</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -667,6 +667,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>captureable.person.ships</td>
+		<td>256</td>
+		<td>259</td>
+		<td>259</td>
+		<td>259</td>
+		<td>259</td>
+		<td>262</td>
+		<td>266</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>more.person.ships</td>
 		<td>261</td>
 		<td>262</td>
@@ -676,17 +687,6 @@
 		<td>265</td>
 		<td>265</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>captureable.person.ships</td>
-		<td>256</td>
-		<td>259</td>
-		<td>259</td>
-		<td>259</td>
-		<td>259</td>
-		<td>262</td>
-		<td>264</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -718,8 +718,8 @@
 		<td>246</td>
 		<td>246</td>
 		<td>247</td>
-		<td>247</td>
-		<td></td>
+		<td>249</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
