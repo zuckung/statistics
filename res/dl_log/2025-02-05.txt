@@ -5,12 +5,12 @@ v1.1.7-captureable.person.ships | downloads: 21
 v1.0.8-uniques | downloads: 16
 v1.0.3-quarg.farm | downloads: 19
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 41
+v1.0.4-too.many.asteroids | downloads: 42
 v1.0.3-show.reputation | downloads: 22
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 74
 v1.0.5-bunrodea.missions | downloads: 102
-v1.0.2-planet.pluto | downloads: 36
+v1.0.2-planet.pluto | downloads: 38
 v1.0.2-planet.map | downloads: 29
 v1.0.2-jump.gates | downloads: 65
 v1.0.4-expert.crew.members | downloads: 90
@@ -20,7 +20,7 @@ v1.0.12-additional.command.buttons.radial | downloads: 47
 v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 88
 v1.0.6-uniques | downloads: 73
-v1.0.3-navy.licenses | downloads: 155
+v1.0.3-navy.licenses | downloads: 157
 v1.0.6-coalition.shopping | downloads: 130
 v1.0.5-snowfeather.robotics | downloads: 94
 v1.0.4-snowfeather.robotics | downloads: 3
@@ -66,7 +66,7 @@ v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 108
 v1.0.0-kestrel.unlocks | downloads: 223
-v1.0.2-tribute.republic | downloads: 164
+v1.0.2-tribute.republic | downloads: 165
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
 v1.0.0-tribute.republic | downloads: 2
@@ -119,7 +119,7 @@ v1.0.0-quarg.farm | downloads: 1
 v1.0.1-control.station | downloads: 233
 v1.0.0-control.station | downloads: 1
 v1.0.0-additional.command.buttons.radial | downloads: 52
-v1.1.3-more.boarding.missions | downloads: 294
+v1.1.3-more.boarding.missions | downloads: 296
 v1.0.3-coalition.shopping | downloads: 97
 v1.0.2-coalition.shopping | downloads: 1
 v1.0.1-navy.licenses | downloads: 1
@@ -173,7 +173,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 172
-# TOTAL DOWNLOADS: 10173
+# TOTAL DOWNLOADS: 10181
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -202,21 +202,21 @@ landing.images 222
 landing.images.android 213
 landing.images.highres 169
 more.arfectas 311
-more.boarding.missions 301
+more.boarding.missions 303
 more.person.ships 265
-navy.licenses 367
+navy.licenses 369
 no.more.mereti.mines 210
 outfits.weapon.slot 197
 paint.your.ships 223
 pirate.warlords 3
 planet.map 162
-planet.pluto 59
+planet.pluto 61
 quarg.farm 330
 real.fluff 93
 show.reputation 271
 snowfeather.robotics 253
 space.fauna 231
-too.many.asteroids 372
-tribute.republic 182
+too.many.asteroids 373
+tribute.republic 183
 unique.fix 44
 uniques 226
