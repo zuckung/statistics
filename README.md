@@ -296,8 +296,8 @@
 		<td>292</td>
 		<td>294</td>
 		<td>299</td>
-		<td>301</td>
-		<td>+ 2</td>
+		<td>303</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -318,8 +318,8 @@
 		<td>354</td>
 		<td>358</td>
 		<td>361</td>
-		<td>367</td>
-		<td>+ 6</td>
+		<td>369</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -384,8 +384,8 @@
 		<td>58</td>
 		<td>58</td>
 		<td>59</td>
-		<td>59</td>
-		<td></td>
+		<td>61</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -450,8 +450,8 @@
 		<td>361</td>
 		<td>363</td>
 		<td>370</td>
-		<td>372</td>
-		<td>+ 2</td>
+		<td>373</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -461,8 +461,8 @@
 		<td>181</td>
 		<td>181</td>
 		<td>182</td>
-		<td>182</td>
-		<td></td>
+		<td>183</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
@@ -531,8 +531,8 @@
 		<td>361</td>
 		<td>363</td>
 		<td>370</td>
-		<td>372</td>
-		<td>+ 2</td>
+		<td>373</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -542,8 +542,8 @@
 		<td>354</td>
 		<td>358</td>
 		<td>361</td>
-		<td>367</td>
-		<td>+ 6</td>
+		<td>369</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -630,8 +630,8 @@
 		<td>292</td>
 		<td>294</td>
 		<td>299</td>
-		<td>301</td>
-		<td>+ 2</td>
+		<td>303</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -872,8 +872,8 @@
 		<td>181</td>
 		<td>181</td>
 		<td>182</td>
-		<td>182</td>
-		<td></td>
+		<td>183</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -949,8 +949,8 @@
 		<td>58</td>
 		<td>58</td>
 		<td>59</td>
-		<td>59</td>
-		<td></td>
+		<td>61</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>unique.fix</td>
