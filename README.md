@@ -285,8 +285,8 @@
 		<td>310</td>
 		<td>311</td>
 		<td>311</td>
-		<td>311</td>
-		<td></td>
+		<td>313</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -329,8 +329,8 @@
 		<td>209</td>
 		<td>210</td>
 		<td>210</td>
-		<td>210</td>
-		<td></td>
+		<td>212</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -395,8 +395,8 @@
 		<td>329</td>
 		<td>330</td>
 		<td>330</td>
-		<td>330</td>
-		<td></td>
+		<td>332</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -450,8 +450,8 @@
 		<td>363</td>
 		<td>370</td>
 		<td>373</td>
-		<td>373</td>
-		<td></td>
+		<td>375</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -531,8 +531,8 @@
 		<td>363</td>
 		<td>370</td>
 		<td>373</td>
-		<td>373</td>
-		<td></td>
+		<td>375</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -597,8 +597,8 @@
 		<td>329</td>
 		<td>330</td>
 		<td>330</td>
-		<td>330</td>
-		<td></td>
+		<td>332</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -619,8 +619,8 @@
 		<td>310</td>
 		<td>311</td>
 		<td>311</td>
-		<td>311</td>
-		<td></td>
+		<td>313</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -828,8 +828,8 @@
 		<td>209</td>
 		<td>210</td>
 		<td>210</td>
-		<td>210</td>
-		<td></td>
+		<td>212</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
