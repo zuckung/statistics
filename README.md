@@ -263,8 +263,8 @@
 		<td>217</td>
 		<td>220</td>
 		<td>222</td>
-		<td>225</td>
-		<td>+ 3</td>
+		<td>227</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -285,8 +285,8 @@
 		<td>166</td>
 		<td>167</td>
 		<td>169</td>
-		<td>172</td>
-		<td>+ 3</td>
+		<td>174</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -307,8 +307,8 @@
 		<td>294</td>
 		<td>299</td>
 		<td>303</td>
-		<td>306</td>
-		<td>+ 3</td>
+		<td>308</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -439,8 +439,8 @@
 		<td>252</td>
 		<td>253</td>
 		<td>253</td>
-		<td>256</td>
-		<td>+ 3</td>
+		<td>258</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -641,8 +641,8 @@
 		<td>294</td>
 		<td>299</td>
 		<td>303</td>
-		<td>306</td>
-		<td>+ 3</td>
+		<td>308</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -718,8 +718,8 @@
 		<td>252</td>
 		<td>253</td>
 		<td>253</td>
-		<td>256</td>
-		<td>+ 3</td>
+		<td>258</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -788,6 +788,17 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
+		<td>landing.images</td>
+		<td>217</td>
+		<td>217</td>
+		<td>217</td>
+		<td>217</td>
+		<td>220</td>
+		<td>222</td>
+		<td>227</td>
+		<td>+ 5</td>
+	</tr>
+	<tr>
 		<td>paint.your.ships</td>
 		<td>216</td>
 		<td>216</td>
@@ -807,17 +818,6 @@
 		<td>223</td>
 		<td>223</td>
 		<td>226</td>
-		<td>+ 3</td>
-	</tr>
-	<tr>
-		<td>landing.images</td>
-		<td>217</td>
-		<td>217</td>
-		<td>217</td>
-		<td>217</td>
-		<td>220</td>
-		<td>222</td>
-		<td>225</td>
 		<td>+ 3</td>
 	</tr>
 	<tr>
@@ -894,8 +894,8 @@
 		<td>166</td>
 		<td>167</td>
 		<td>169</td>
-		<td>172</td>
-		<td>+ 3</td>
+		<td>174</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
