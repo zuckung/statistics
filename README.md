@@ -153,8 +153,8 @@
 		<td>348</td>
 		<td>351</td>
 		<td>351</td>
-		<td>351</td>
-		<td></td>
+		<td>353</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -557,6 +557,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>expert.crew.members</td>
+		<td>334</td>
+		<td>336</td>
+		<td>342</td>
+		<td>348</td>
+		<td>351</td>
+		<td>351</td>
+		<td>353</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>gegno.pirates</td>
 		<td>346</td>
 		<td>346</td>
@@ -565,17 +576,6 @@
 		<td>352</td>
 		<td>352</td>
 		<td>352</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>expert.crew.members</td>
-		<td>334</td>
-		<td>336</td>
-		<td>342</td>
-		<td>348</td>
-		<td>351</td>
-		<td>351</td>
-		<td>351</td>
 		<td></td>
 	</tr>
 	<tr>
