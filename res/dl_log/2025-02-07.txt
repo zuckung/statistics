@@ -122,7 +122,7 @@ v1.0.0-quarg.farm | downloads: 1
 v1.0.1-control.station | downloads: 236
 v1.0.0-control.station | downloads: 1
 v1.0.0-additional.command.buttons.radial | downloads: 52
-v1.1.3-more.boarding.missions | downloads: 301
+v1.1.3-more.boarding.missions | downloads: 303
 v1.0.3-coalition.shopping | downloads: 97
 v1.0.2-coalition.shopping | downloads: 1
 v1.0.1-navy.licenses | downloads: 1
@@ -176,7 +176,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 175
-# TOTAL DOWNLOADS: 10322
+# TOTAL DOWNLOADS: 10324
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -206,7 +206,7 @@ landing.images 227
 landing.images.android 216
 landing.images.highres 174
 more.arfectas 316
-more.boarding.missions 308
+more.boarding.missions 310
 more.person.ships 268
 navy.licenses 372
 no.more.mereti.mines 215
