@@ -307,8 +307,8 @@
 		<td>299</td>
 		<td>303</td>
 		<td>308</td>
-		<td>308</td>
-		<td></td>
+		<td>310</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -641,8 +641,8 @@
 		<td>299</td>
 		<td>303</td>
 		<td>308</td>
-		<td>308</td>
-		<td></td>
+		<td>310</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
