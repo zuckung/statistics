@@ -406,8 +406,8 @@
 		<td>330</td>
 		<td>335</td>
 		<td>336</td>
-		<td>338</td>
-		<td>+ 2</td>
+		<td>340</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -608,8 +608,8 @@
 		<td>330</td>
 		<td>335</td>
 		<td>336</td>
-		<td>338</td>
-		<td>+ 2</td>
+		<td>340</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
