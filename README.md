@@ -87,8 +87,8 @@
 		<td>355</td>
 		<td>358</td>
 		<td>361</td>
-		<td>363</td>
-		<td>+ 2</td>
+		<td>365</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -564,8 +564,8 @@
 		<td>355</td>
 		<td>358</td>
 		<td>361</td>
-		<td>363</td>
-		<td>+ 2</td>
+		<td>365</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
