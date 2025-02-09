@@ -164,8 +164,8 @@
 		<td>356</td>
 		<td>357</td>
 		<td>359</td>
-		<td>361</td>
-		<td>+ 2</td>
+		<td>363</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -461,8 +461,8 @@
 		<td>378</td>
 		<td>383</td>
 		<td>385</td>
-		<td>385</td>
-		<td></td>
+		<td>387</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -542,8 +542,8 @@
 		<td>378</td>
 		<td>383</td>
 		<td>385</td>
-		<td>385</td>
-		<td></td>
+		<td>387</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -568,6 +568,17 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
+		<td>expert.crew.members</td>
+		<td>348</td>
+		<td>351</td>
+		<td>351</td>
+		<td>356</td>
+		<td>357</td>
+		<td>359</td>
+		<td>363</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>gegno.pirates</td>
 		<td>349</td>
 		<td>352</td>
@@ -576,17 +587,6 @@
 		<td>358</td>
 		<td>360</td>
 		<td>362</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>expert.crew.members</td>
-		<td>348</td>
-		<td>351</td>
-		<td>351</td>
-		<td>356</td>
-		<td>357</td>
-		<td>359</td>
-		<td>361</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
