@@ -54,8 +54,8 @@
 		<td>228</td>
 		<td>229</td>
 		<td>229</td>
-		<td>229</td>
-		<td></td>
+		<td>231</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
@@ -87,8 +87,8 @@
 		<td>358</td>
 		<td>361</td>
 		<td>365</td>
-		<td>367</td>
-		<td>+ 2</td>
+		<td>369</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -164,8 +164,8 @@
 		<td>356</td>
 		<td>357</td>
 		<td>359</td>
-		<td>359</td>
-		<td></td>
+		<td>361</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -219,8 +219,8 @@
 		<td>204</td>
 		<td>205</td>
 		<td>205</td>
-		<td>205</td>
-		<td></td>
+		<td>207</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -351,8 +351,8 @@
 		<td>200</td>
 		<td>201</td>
 		<td>203</td>
-		<td>203</td>
-		<td></td>
+		<td>204</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -564,8 +564,8 @@
 		<td>358</td>
 		<td>361</td>
 		<td>365</td>
-		<td>367</td>
-		<td>+ 2</td>
+		<td>369</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -586,8 +586,8 @@
 		<td>356</td>
 		<td>357</td>
 		<td>359</td>
-		<td>359</td>
-		<td></td>
+		<td>361</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -777,6 +777,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>automata.in.human.space</td>
+		<td>224</td>
+		<td>225</td>
+		<td>225</td>
+		<td>228</td>
+		<td>229</td>
+		<td>229</td>
+		<td>231</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>landing.images</td>
 		<td>217</td>
 		<td>220</td>
@@ -804,17 +815,6 @@
 		<td>223</td>
 		<td>223</td>
 		<td>226</td>
-		<td>229</td>
-		<td>229</td>
-		<td>229</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>automata.in.human.space</td>
-		<td>224</td>
-		<td>225</td>
-		<td>225</td>
-		<td>228</td>
 		<td>229</td>
 		<td>229</td>
 		<td>229</td>
@@ -861,8 +861,8 @@
 		<td>204</td>
 		<td>205</td>
 		<td>205</td>
-		<td>205</td>
-		<td></td>
+		<td>207</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -872,8 +872,8 @@
 		<td>200</td>
 		<td>201</td>
 		<td>203</td>
-		<td>203</td>
-		<td></td>
+		<td>204</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
