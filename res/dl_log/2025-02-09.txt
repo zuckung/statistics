@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.3-jump.gates | downloads: 5
 v1.0.15-additional.command.buttons.radial | downloads: 11
-v1.0.6-expert.crew.members | downloads: 8
+v1.0.6-expert.crew.members | downloads: 10
 v1.0.0-avgi.licenses | downloads: 6
 v1.0.14-additional.command.buttons.radial | downloads: 10
 v1.0.5-expert.crew.members | downloads: 25
@@ -9,7 +9,7 @@ v1.1.7-captureable.person.ships | downloads: 31
 v1.0.8-uniques | downloads: 22
 v1.0.3-quarg.farm | downloads: 29
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 54
+v1.0.4-too.many.asteroids | downloads: 56
 v1.0.3-show.reputation | downloads: 26
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 80
@@ -177,7 +177,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 176
-# TOTAL DOWNLOADS: 10478
+# TOTAL DOWNLOADS: 10482
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -194,7 +194,7 @@ control.station 238
 devil-run.unhidden 66
 disable.person.ships 145
 disable.spaceport.repeatables 235
-expert.crew.members 361
+expert.crew.members 363
 free.worlds.5.years.later 209
 galactic.capital.investment 421
 gegno.pirates 362
@@ -221,7 +221,7 @@ real.fluff 93
 show.reputation 275
 snowfeather.robotics 263
 space.fauna 237
-too.many.asteroids 385
+too.many.asteroids 387
 tribute.republic 187
 unique.fix 44
 uniques 232
