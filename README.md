@@ -296,8 +296,8 @@
 		<td>316</td>
 		<td>317</td>
 		<td>319</td>
-		<td>321</td>
-		<td>+ 2</td>
+		<td>323</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -329,8 +329,8 @@
 		<td>372</td>
 		<td>375</td>
 		<td>377</td>
-		<td>379</td>
-		<td>+ 2</td>
+		<td>381</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -406,8 +406,8 @@
 		<td>335</td>
 		<td>336</td>
 		<td>340</td>
-		<td>340</td>
-		<td></td>
+		<td>344</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -461,8 +461,8 @@
 		<td>378</td>
 		<td>383</td>
 		<td>385</td>
-		<td>387</td>
-		<td>+ 2</td>
+		<td>389</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -542,8 +542,8 @@
 		<td>378</td>
 		<td>383</td>
 		<td>385</td>
-		<td>387</td>
-		<td>+ 2</td>
+		<td>389</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -553,8 +553,8 @@
 		<td>372</td>
 		<td>375</td>
 		<td>377</td>
-		<td>379</td>
-		<td>+ 2</td>
+		<td>381</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -590,6 +590,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>quarg.farm</td>
+		<td>329</td>
+		<td>330</td>
+		<td>330</td>
+		<td>335</td>
+		<td>336</td>
+		<td>340</td>
+		<td>344</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>kor.efret.shipyard</td>
 		<td>335</td>
 		<td>336</td>
@@ -598,17 +609,6 @@
 		<td>344</td>
 		<td>344</td>
 		<td>344</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>quarg.farm</td>
-		<td>329</td>
-		<td>330</td>
-		<td>330</td>
-		<td>335</td>
-		<td>336</td>
-		<td>340</td>
-		<td>340</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -630,8 +630,8 @@
 		<td>316</td>
 		<td>317</td>
 		<td>319</td>
-		<td>321</td>
-		<td>+ 2</td>
+		<td>323</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
