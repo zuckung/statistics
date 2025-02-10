@@ -65,8 +65,8 @@
 		<td>4</td>
 		<td>4</td>
 		<td>8</td>
-		<td>8</td>
-		<td></td>
+		<td>10</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -87,8 +87,8 @@
 		<td>361</td>
 		<td>365</td>
 		<td>369</td>
-		<td>369</td>
-		<td></td>
+		<td>371</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -428,8 +428,8 @@
 		<td>275</td>
 		<td>275</td>
 		<td>275</td>
-		<td>275</td>
-		<td></td>
+		<td>277</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -564,8 +564,8 @@
 		<td>361</td>
 		<td>365</td>
 		<td>369</td>
-		<td>369</td>
-		<td></td>
+		<td>371</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -656,6 +656,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>show.reputation</td>
+		<td>271</td>
+		<td>271</td>
+		<td>274</td>
+		<td>275</td>
+		<td>275</td>
+		<td>275</td>
+		<td>277</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>jump.gates</td>
 		<td>266</td>
 		<td>266</td>
@@ -675,17 +686,6 @@
 		<td>274</td>
 		<td>276</td>
 		<td>276</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>show.reputation</td>
-		<td>271</td>
-		<td>271</td>
-		<td>274</td>
-		<td>275</td>
-		<td>275</td>
-		<td>275</td>
-		<td>275</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -982,8 +982,8 @@
 		<td>4</td>
 		<td>4</td>
 		<td>8</td>
-		<td>8</td>
-		<td></td>
+		<td>10</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
