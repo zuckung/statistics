@@ -43,8 +43,8 @@
 		<td>253</td>
 		<td>257</td>
 		<td>259</td>
-		<td>261</td>
-		<td>+ 2</td>
+		<td>263</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -729,8 +729,8 @@
 		<td>253</td>
 		<td>257</td>
 		<td>259</td>
-		<td>261</td>
-		<td>+ 2</td>
+		<td>263</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
