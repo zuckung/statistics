@@ -32,8 +32,8 @@
 		<td>407</td>
 		<td>407</td>
 		<td>411</td>
-		<td>416</td>
-		<td>+ 5</td>
+		<td>418</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -219,8 +219,8 @@
 		<td>205</td>
 		<td>207</td>
 		<td>210</td>
-		<td>210</td>
-		<td></td>
+		<td>212</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -531,8 +531,8 @@
 		<td>407</td>
 		<td>407</td>
 		<td>411</td>
-		<td>416</td>
-		<td>+ 5</td>
+		<td>418</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -843,6 +843,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>human.labels</td>
+		<td>201</td>
+		<td>204</td>
+		<td>205</td>
+		<td>205</td>
+		<td>207</td>
+		<td>210</td>
+		<td>212</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>free.worlds.5.years.later</td>
 		<td>203</td>
 		<td>206</td>
@@ -851,17 +862,6 @@
 		<td>209</td>
 		<td>212</td>
 		<td>212</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>human.labels</td>
-		<td>201</td>
-		<td>204</td>
-		<td>205</td>
-		<td>205</td>
-		<td>207</td>
-		<td>210</td>
-		<td>210</td>
 		<td></td>
 	</tr>
 	<tr>
