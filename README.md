@@ -32,8 +32,8 @@
 		<td>407</td>
 		<td>407</td>
 		<td>411</td>
-		<td>413</td>
-		<td>+ 2</td>
+		<td>415</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -43,8 +43,8 @@
 		<td>253</td>
 		<td>257</td>
 		<td>259</td>
-		<td>259</td>
-		<td></td>
+		<td>261</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -531,8 +531,8 @@
 		<td>407</td>
 		<td>407</td>
 		<td>411</td>
-		<td>413</td>
-		<td>+ 2</td>
+		<td>415</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -729,8 +729,8 @@
 		<td>253</td>
 		<td>257</td>
 		<td>259</td>
-		<td>259</td>
-		<td></td>
+		<td>261</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
