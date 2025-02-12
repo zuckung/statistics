@@ -2,7 +2,7 @@
 v1.1.4-more.boarding.missions | downloads: 10
 v1.0.6-bunrodea.missions | downloads: 4
 v1.0.3-jump.gates | downloads: 12
-v1.0.15-additional.command.buttons.radial | downloads: 26
+v1.0.15-additional.command.buttons.radial | downloads: 28
 v1.0.6-expert.crew.members | downloads: 19
 v1.0.0-avgi.licenses | downloads: 20
 v1.0.14-additional.command.buttons.radial | downloads: 10
@@ -179,12 +179,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 178
-# TOTAL DOWNLOADS: 10722
+# TOTAL DOWNLOADS: 10724
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 422
+additional.command.buttons.radial 424
 automata.destruction.0percent 269
 automata.in.human.space 241
 avgi.licenses 20
