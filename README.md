@@ -43,8 +43,8 @@
 		<td>257</td>
 		<td>259</td>
 		<td>263</td>
-		<td>265</td>
-		<td>+ 2</td>
+		<td>269</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -54,8 +54,8 @@
 		<td>231</td>
 		<td>237</td>
 		<td>237</td>
-		<td>239</td>
-		<td>+ 2</td>
+		<td>241</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
@@ -711,6 +711,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>252</td>
+		<td>253</td>
+		<td>253</td>
+		<td>257</td>
+		<td>259</td>
+		<td>263</td>
+		<td>269</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
 		<td>snowfeather.robotics</td>
 		<td>258</td>
 		<td>261</td>
@@ -722,15 +733,15 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>252</td>
-		<td>253</td>
-		<td>253</td>
-		<td>257</td>
-		<td>259</td>
-		<td>263</td>
-		<td>265</td>
-		<td>+ 2</td>
+		<td>automata.in.human.space</td>
+		<td>228</td>
+		<td>229</td>
+		<td>229</td>
+		<td>231</td>
+		<td>237</td>
+		<td>237</td>
+		<td>241</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -764,17 +775,6 @@
 		<td>239</td>
 		<td>239</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>automata.in.human.space</td>
-		<td>228</td>
-		<td>229</td>
-		<td>229</td>
-		<td>231</td>
-		<td>237</td>
-		<td>237</td>
-		<td>239</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
