@@ -65,8 +65,8 @@
 		<td>8</td>
 		<td>16</td>
 		<td>16</td>
-		<td>18</td>
-		<td>+ 2</td>
+		<td>20</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -307,8 +307,8 @@
 		<td>315</td>
 		<td>321</td>
 		<td>321</td>
-		<td>328</td>
-		<td>+ 7</td>
+		<td>330</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -623,6 +623,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>more.boarding.missions</td>
+		<td>308</td>
+		<td>313</td>
+		<td>313</td>
+		<td>315</td>
+		<td>321</td>
+		<td>321</td>
+		<td>330</td>
+		<td>+ 9</td>
+	</tr>
+	<tr>
 		<td>more.arfectas</td>
 		<td>316</td>
 		<td>317</td>
@@ -632,17 +643,6 @@
 		<td>328</td>
 		<td>330</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>more.boarding.missions</td>
-		<td>308</td>
-		<td>313</td>
-		<td>313</td>
-		<td>315</td>
-		<td>321</td>
-		<td>321</td>
-		<td>328</td>
-		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -982,8 +982,8 @@
 		<td>8</td>
 		<td>16</td>
 		<td>16</td>
-		<td>18</td>
-		<td>+ 2</td>
+		<td>20</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
