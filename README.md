@@ -32,8 +32,8 @@
 		<td>407</td>
 		<td>411</td>
 		<td>418</td>
-		<td>426</td>
-		<td>+ 8</td>
+		<td>430</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -513,6 +513,17 @@
 		<td>today +</td>
 	</tr>
 	<tr>
+		<td>additional.command.buttons.radial</td>
+		<td>398</td>
+		<td>407</td>
+		<td>407</td>
+		<td>407</td>
+		<td>411</td>
+		<td>418</td>
+		<td>430</td>
+		<td>+ 12</td>
+	</tr>
+	<tr>
 		<td>galactic.capital.investment</td>
 		<td>416</td>
 		<td>419</td>
@@ -522,17 +533,6 @@
 		<td>424</td>
 		<td>426</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>additional.command.buttons.radial</td>
-		<td>398</td>
-		<td>407</td>
-		<td>407</td>
-		<td>407</td>
-		<td>411</td>
-		<td>418</td>
-		<td>426</td>
-		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
