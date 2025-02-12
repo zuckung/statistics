@@ -76,8 +76,8 @@
 		<td>295</td>
 		<td>297</td>
 		<td>297</td>
-		<td>299</td>
-		<td>+ 2</td>
+		<td>300</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -164,8 +164,8 @@
 		<td>363</td>
 		<td>366</td>
 		<td>366</td>
-		<td>368</td>
-		<td>+ 2</td>
+		<td>370</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -263,8 +263,8 @@
 		<td>230</td>
 		<td>233</td>
 		<td>233</td>
-		<td>235</td>
-		<td>+ 2</td>
+		<td>237</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -285,8 +285,8 @@
 		<td>177</td>
 		<td>178</td>
 		<td>178</td>
-		<td>178</td>
-		<td></td>
+		<td>180</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -307,8 +307,8 @@
 		<td>315</td>
 		<td>321</td>
 		<td>321</td>
-		<td>323</td>
-		<td>+ 2</td>
+		<td>324</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -575,8 +575,8 @@
 		<td>363</td>
 		<td>366</td>
 		<td>366</td>
-		<td>368</td>
-		<td>+ 2</td>
+		<td>370</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -641,8 +641,8 @@
 		<td>315</td>
 		<td>321</td>
 		<td>321</td>
-		<td>323</td>
-		<td>+ 2</td>
+		<td>324</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -652,8 +652,8 @@
 		<td>295</td>
 		<td>297</td>
 		<td>297</td>
-		<td>299</td>
-		<td>+ 2</td>
+		<td>300</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -766,6 +766,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>landing.images</td>
+		<td>227</td>
+		<td>230</td>
+		<td>230</td>
+		<td>230</td>
+		<td>233</td>
+		<td>233</td>
+		<td>237</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>automata.in.human.space</td>
 		<td>228</td>
 		<td>229</td>
@@ -786,17 +797,6 @@
 		<td>236</td>
 		<td>236</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>landing.images</td>
-		<td>227</td>
-		<td>230</td>
-		<td>230</td>
-		<td>230</td>
-		<td>233</td>
-		<td>233</td>
-		<td>235</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -894,8 +894,8 @@
 		<td>177</td>
 		<td>178</td>
 		<td>178</td>
-		<td>178</td>
-		<td></td>
+		<td>180</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
