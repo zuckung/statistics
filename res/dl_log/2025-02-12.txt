@@ -1,10 +1,10 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.1.4-more.boarding.missions | downloads: 8
+v1.1.4-more.boarding.missions | downloads: 10
 v1.0.6-bunrodea.missions | downloads: 4
 v1.0.3-jump.gates | downloads: 12
 v1.0.15-additional.command.buttons.radial | downloads: 26
 v1.0.6-expert.crew.members | downloads: 19
-v1.0.0-avgi.licenses | downloads: 18
+v1.0.0-avgi.licenses | downloads: 20
 v1.0.14-additional.command.buttons.radial | downloads: 10
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 37
@@ -179,7 +179,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 178
-# TOTAL DOWNLOADS: 10712
+# TOTAL DOWNLOADS: 10716
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -187,7 +187,7 @@ additional.command.buttons 93
 additional.command.buttons.radial 422
 automata.destruction.0percent 265
 automata.in.human.space 239
-avgi.licenses 18
+avgi.licenses 20
 better.starts 302
 bunrodea.missions 377
 captureable.person.ships 282
@@ -209,7 +209,7 @@ landing.images 239
 landing.images.android 222
 landing.images.highres 182
 more.arfectas 330
-more.boarding.missions 328
+more.boarding.missions 330
 more.person.ships 280
 navy.licenses 388
 no.more.mereti.mines 221
