@@ -32,8 +32,8 @@
 		<td>407</td>
 		<td>411</td>
 		<td>418</td>
-		<td>418</td>
-		<td></td>
+		<td>420</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -76,8 +76,8 @@
 		<td>295</td>
 		<td>297</td>
 		<td>297</td>
-		<td>297</td>
-		<td></td>
+		<td>299</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -164,8 +164,8 @@
 		<td>363</td>
 		<td>366</td>
 		<td>366</td>
-		<td>366</td>
-		<td></td>
+		<td>368</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -263,8 +263,8 @@
 		<td>230</td>
 		<td>233</td>
 		<td>233</td>
-		<td>233</td>
-		<td></td>
+		<td>235</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -274,8 +274,8 @@
 		<td>219</td>
 		<td>220</td>
 		<td>220</td>
-		<td>220</td>
-		<td></td>
+		<td>222</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -307,8 +307,8 @@
 		<td>315</td>
 		<td>321</td>
 		<td>321</td>
-		<td>321</td>
-		<td></td>
+		<td>323</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -531,8 +531,8 @@
 		<td>407</td>
 		<td>411</td>
 		<td>418</td>
-		<td>418</td>
-		<td></td>
+		<td>420</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -575,8 +575,8 @@
 		<td>363</td>
 		<td>366</td>
 		<td>366</td>
-		<td>366</td>
-		<td></td>
+		<td>368</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -641,8 +641,8 @@
 		<td>315</td>
 		<td>321</td>
 		<td>321</td>
-		<td>321</td>
-		<td></td>
+		<td>323</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -652,8 +652,8 @@
 		<td>295</td>
 		<td>297</td>
 		<td>297</td>
-		<td>297</td>
-		<td></td>
+		<td>299</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -795,8 +795,8 @@
 		<td>230</td>
 		<td>233</td>
 		<td>233</td>
-		<td>233</td>
-		<td></td>
+		<td>235</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -828,8 +828,8 @@
 		<td>219</td>
 		<td>220</td>
 		<td>220</td>
-		<td>220</td>
-		<td></td>
+		<td>222</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
