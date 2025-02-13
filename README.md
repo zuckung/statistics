@@ -87,8 +87,8 @@
 		<td>375</td>
 		<td>375</td>
 		<td>377</td>
-		<td>381</td>
-		<td>+ 4</td>
+		<td>383</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -564,8 +564,8 @@
 		<td>375</td>
 		<td>375</td>
 		<td>377</td>
-		<td>381</td>
-		<td>+ 4</td>
+		<td>383</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
