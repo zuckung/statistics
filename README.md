@@ -241,8 +241,8 @@
 		<td>231</td>
 		<td>231</td>
 		<td>233</td>
-		<td>233</td>
-		<td></td>
+		<td>234</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -806,8 +806,8 @@
 		<td>231</td>
 		<td>231</td>
 		<td>233</td>
-		<td>233</td>
-		<td></td>
+		<td>234</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
