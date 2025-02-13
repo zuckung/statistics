@@ -87,8 +87,8 @@
 		<td>375</td>
 		<td>375</td>
 		<td>377</td>
-		<td>379</td>
-		<td>+ 2</td>
+		<td>381</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -109,8 +109,8 @@
 		<td>332</td>
 		<td>332</td>
 		<td>334</td>
-		<td>336</td>
-		<td>+ 2</td>
+		<td>338</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -296,8 +296,8 @@
 		<td>328</td>
 		<td>328</td>
 		<td>330</td>
-		<td>332</td>
-		<td>+ 2</td>
+		<td>334</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -406,8 +406,8 @@
 		<td>349</td>
 		<td>349</td>
 		<td>351</td>
-		<td>353</td>
-		<td>+ 2</td>
+		<td>355</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -428,8 +428,8 @@
 		<td>282</td>
 		<td>282</td>
 		<td>282</td>
-		<td>284</td>
-		<td>+ 2</td>
+		<td>286</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -564,8 +564,8 @@
 		<td>375</td>
 		<td>375</td>
 		<td>377</td>
-		<td>379</td>
-		<td>+ 2</td>
+		<td>381</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -597,8 +597,8 @@
 		<td>349</td>
 		<td>349</td>
 		<td>351</td>
-		<td>353</td>
-		<td>+ 2</td>
+		<td>355</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -619,8 +619,8 @@
 		<td>332</td>
 		<td>332</td>
 		<td>334</td>
-		<td>336</td>
-		<td>+ 2</td>
+		<td>338</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -641,8 +641,8 @@
 		<td>328</td>
 		<td>328</td>
 		<td>330</td>
-		<td>332</td>
-		<td>+ 2</td>
+		<td>334</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -674,8 +674,8 @@
 		<td>282</td>
 		<td>282</td>
 		<td>282</td>
-		<td>284</td>
-		<td>+ 2</td>
+		<td>286</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
