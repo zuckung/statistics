@@ -76,8 +76,8 @@
 		<td>297</td>
 		<td>297</td>
 		<td>302</td>
-		<td>304</td>
-		<td>+ 2</td>
+		<td>306</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -98,8 +98,8 @@
 		<td>280</td>
 		<td>280</td>
 		<td>282</td>
-		<td>284</td>
-		<td>+ 2</td>
+		<td>286</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -307,8 +307,8 @@
 		<td>321</td>
 		<td>321</td>
 		<td>330</td>
-		<td>334</td>
-		<td>+ 4</td>
+		<td>336</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -395,8 +395,8 @@
 		<td>68</td>
 		<td>68</td>
 		<td>68</td>
-		<td>70</td>
-		<td>+ 2</td>
+		<td>72</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -428,8 +428,8 @@
 		<td>282</td>
 		<td>282</td>
 		<td>282</td>
-		<td>286</td>
-		<td>+ 4</td>
+		<td>288</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -461,8 +461,8 @@
 		<td>392</td>
 		<td>392</td>
 		<td>392</td>
-		<td>396</td>
-		<td>+ 4</td>
+		<td>398</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -542,8 +542,8 @@
 		<td>392</td>
 		<td>392</td>
 		<td>392</td>
-		<td>396</td>
-		<td>+ 4</td>
+		<td>398</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -630,8 +630,8 @@
 		<td>321</td>
 		<td>321</td>
 		<td>330</td>
-		<td>334</td>
-		<td>+ 4</td>
+		<td>336</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -652,8 +652,19 @@
 		<td>297</td>
 		<td>297</td>
 		<td>302</td>
-		<td>304</td>
-		<td>+ 2</td>
+		<td>306</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
+		<td>show.reputation</td>
+		<td>275</td>
+		<td>275</td>
+		<td>275</td>
+		<td>282</td>
+		<td>282</td>
+		<td>282</td>
+		<td>288</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -667,17 +678,6 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
-		<td>show.reputation</td>
-		<td>275</td>
-		<td>275</td>
-		<td>275</td>
-		<td>282</td>
-		<td>282</td>
-		<td>282</td>
-		<td>286</td>
-		<td>+ 4</td>
-	</tr>
-	<tr>
 		<td>captureable.person.ships</td>
 		<td>272</td>
 		<td>274</td>
@@ -685,8 +685,8 @@
 		<td>280</td>
 		<td>280</td>
 		<td>282</td>
-		<td>284</td>
-		<td>+ 2</td>
+		<td>286</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -949,8 +949,8 @@
 		<td>68</td>
 		<td>68</td>
 		<td>68</td>
-		<td>70</td>
-		<td>+ 2</td>
+		<td>72</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
