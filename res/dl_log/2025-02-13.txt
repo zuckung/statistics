@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.7-bunrodea.missions | downloads: 2
 v1.0.5-human.labels | downloads: 1
-v1.1.4-more.boarding.missions | downloads: 14
+v1.1.4-more.boarding.missions | downloads: 16
 v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 16
 v1.0.15-additional.command.buttons.radial | downloads: 36
@@ -9,16 +9,16 @@ v1.0.6-expert.crew.members | downloads: 21
 v1.0.0-avgi.licenses | downloads: 26
 v1.0.14-additional.command.buttons.radial | downloads: 10
 v1.0.5-expert.crew.members | downloads: 25
-v1.1.7-captureable.person.ships | downloads: 39
+v1.1.7-captureable.person.ships | downloads: 41
 v1.0.8-uniques | downloads: 31
 v1.0.3-quarg.farm | downloads: 44
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 65
-v1.0.3-show.reputation | downloads: 37
+v1.0.4-too.many.asteroids | downloads: 67
+v1.0.3-show.reputation | downloads: 39
 v1.0.13-additional.command.buttons.radial | downloads: 93
-v1.0.4-better.starts | downloads: 89
+v1.0.4-better.starts | downloads: 91
 v1.0.5-bunrodea.missions | downloads: 120
-v1.0.2-planet.pluto | downloads: 47
+v1.0.2-planet.pluto | downloads: 49
 v1.0.2-planet.map | downloads: 36
 v1.0.2-jump.gates | downloads: 70
 v1.0.4-expert.crew.members | downloads: 90
@@ -181,7 +181,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 180
-# TOTAL DOWNLOADS: 10836
+# TOTAL DOWNLOADS: 10848
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -190,9 +190,9 @@ additional.command.buttons.radial 432
 automata.destruction.0percent 271
 automata.in.human.space 244
 avgi.licenses 26
-better.starts 304
+better.starts 306
 bunrodea.missions 381
-captureable.person.ships 284
+captureable.person.ships 286
 coalition.shopping 338
 control.station 241
 devil-run.unhidden 66
@@ -211,7 +211,7 @@ landing.images 241
 landing.images.android 228
 landing.images.highres 184
 more.arfectas 334
-more.boarding.missions 334
+more.boarding.missions 336
 more.person.ships 282
 navy.licenses 392
 no.more.mereti.mines 223
@@ -219,13 +219,13 @@ outfits.weapon.slot 209
 paint.your.ships 234
 pirate.warlords 3
 planet.map 169
-planet.pluto 70
+planet.pluto 72
 quarg.farm 355
 real.fluff 93
-show.reputation 286
+show.reputation 288
 snowfeather.robotics 270
 space.fauna 240
-too.many.asteroids 396
+too.many.asteroids 398
 tribute.republic 190
 unique.fix 44
 uniques 241
