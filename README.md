@@ -307,8 +307,8 @@
 		<td>321</td>
 		<td>321</td>
 		<td>330</td>
-		<td>330</td>
-		<td></td>
+		<td>332</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -630,8 +630,8 @@
 		<td>321</td>
 		<td>321</td>
 		<td>330</td>
-		<td>330</td>
-		<td></td>
+		<td>332</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
