@@ -461,8 +461,8 @@
 		<td>392</td>
 		<td>392</td>
 		<td>398</td>
-		<td>401</td>
-		<td>+ 3</td>
+		<td>403</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -542,8 +542,8 @@
 		<td>392</td>
 		<td>392</td>
 		<td>398</td>
-		<td>401</td>
-		<td>+ 3</td>
+		<td>403</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
