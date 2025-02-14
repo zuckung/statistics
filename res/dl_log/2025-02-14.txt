@@ -1,4 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
+v1.1.5-galactic.capital.investment | downloads: 0
 v1.0.7-bunrodea.missions | downloads: 4
 v1.0.5-human.labels | downloads: 1
 v1.1.4-more.boarding.missions | downloads: 16
@@ -180,7 +181,7 @@ v1.0-additional.command.buttons | downloads: 1
 v1.1-galactic.capital.investment | downloads: 28
 
 
-# NUMBER OF RELEASES: 180
+# NUMBER OF RELEASES: 181
 # TOTAL DOWNLOADS: 10861
 
 
