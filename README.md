@@ -32,8 +32,8 @@
 		<td>418</td>
 		<td>430</td>
 		<td>432</td>
-		<td>434</td>
-		<td>+ 2</td>
+		<td>436</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -461,8 +461,8 @@
 		<td>392</td>
 		<td>392</td>
 		<td>398</td>
-		<td>398</td>
-		<td></td>
+		<td>401</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -520,8 +520,8 @@
 		<td>418</td>
 		<td>430</td>
 		<td>432</td>
-		<td>434</td>
-		<td>+ 2</td>
+		<td>436</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -542,8 +542,8 @@
 		<td>392</td>
 		<td>392</td>
 		<td>398</td>
-		<td>398</td>
-		<td></td>
+		<td>401</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
