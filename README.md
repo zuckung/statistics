@@ -54,8 +54,8 @@
 		<td>237</td>
 		<td>242</td>
 		<td>244</td>
-		<td>246</td>
-		<td>+ 2</td>
+		<td>248</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
@@ -186,8 +186,8 @@
 		<td>424</td>
 		<td>426</td>
 		<td>428</td>
-		<td>432</td>
-		<td>+ 4</td>
+		<td>436</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -531,8 +531,8 @@
 		<td>424</td>
 		<td>426</td>
 		<td>428</td>
-		<td>432</td>
-		<td>+ 4</td>
+		<td>436</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -740,8 +740,8 @@
 		<td>237</td>
 		<td>242</td>
 		<td>244</td>
-		<td>246</td>
-		<td>+ 2</td>
+		<td>248</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
