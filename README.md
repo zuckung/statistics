@@ -186,8 +186,8 @@
 		<td>424</td>
 		<td>426</td>
 		<td>428</td>
-		<td>436</td>
-		<td>+ 8</td>
+		<td>440</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -197,8 +197,8 @@
 		<td>365</td>
 		<td>367</td>
 		<td>369</td>
-		<td>371</td>
-		<td>+ 2</td>
+		<td>373</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -296,8 +296,8 @@
 		<td>328</td>
 		<td>330</td>
 		<td>334</td>
-		<td>336</td>
-		<td>+ 2</td>
+		<td>337</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -307,8 +307,8 @@
 		<td>321</td>
 		<td>330</td>
 		<td>336</td>
-		<td>338</td>
-		<td>+ 2</td>
+		<td>339</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -461,8 +461,8 @@
 		<td>392</td>
 		<td>392</td>
 		<td>398</td>
-		<td>405</td>
-		<td>+ 7</td>
+		<td>406</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -513,6 +513,17 @@
 		<td>today +</td>
 	</tr>
 	<tr>
+		<td>galactic.capital.investment</td>
+		<td>419</td>
+		<td>421</td>
+		<td>424</td>
+		<td>424</td>
+		<td>426</td>
+		<td>428</td>
+		<td>440</td>
+		<td>+ 12</td>
+	</tr>
+	<tr>
 		<td>additional.command.buttons.radial</td>
 		<td>407</td>
 		<td>407</td>
@@ -524,17 +535,6 @@
 		<td>+ 8</td>
 	</tr>
 	<tr>
-		<td>galactic.capital.investment</td>
-		<td>419</td>
-		<td>421</td>
-		<td>424</td>
-		<td>424</td>
-		<td>426</td>
-		<td>428</td>
-		<td>436</td>
-		<td>+ 8</td>
-	</tr>
-	<tr>
 		<td>too.many.asteroids</td>
 		<td>385</td>
 		<td>389</td>
@@ -542,8 +542,8 @@
 		<td>392</td>
 		<td>392</td>
 		<td>398</td>
-		<td>405</td>
-		<td>+ 7</td>
+		<td>406</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -586,8 +586,8 @@
 		<td>365</td>
 		<td>367</td>
 		<td>369</td>
-		<td>371</td>
-		<td>+ 2</td>
+		<td>373</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -630,8 +630,8 @@
 		<td>321</td>
 		<td>330</td>
 		<td>336</td>
-		<td>338</td>
-		<td>+ 2</td>
+		<td>339</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -641,8 +641,8 @@
 		<td>328</td>
 		<td>330</td>
 		<td>334</td>
-		<td>336</td>
-		<td>+ 2</td>
+		<td>337</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
