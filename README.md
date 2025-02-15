@@ -164,8 +164,8 @@
 		<td>372</td>
 		<td>374</td>
 		<td>376</td>
-		<td>378</td>
-		<td>+ 2</td>
+		<td>380</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -186,8 +186,8 @@
 		<td>426</td>
 		<td>428</td>
 		<td>440</td>
-		<td>444</td>
-		<td>+ 4</td>
+		<td>446</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -230,8 +230,8 @@
 		<td>283</td>
 		<td>287</td>
 		<td>289</td>
-		<td>289</td>
-		<td></td>
+		<td>291</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -494,8 +494,8 @@
 		<td>239</td>
 		<td>241</td>
 		<td>243</td>
-		<td>245</td>
-		<td>+ 2</td>
+		<td>247</td>
+		<td>+ 4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>426</td>
 		<td>428</td>
 		<td>440</td>
-		<td>444</td>
-		<td>+ 4</td>
+		<td>446</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -575,8 +575,8 @@
 		<td>372</td>
 		<td>374</td>
 		<td>376</td>
-		<td>378</td>
-		<td>+ 2</td>
+		<td>380</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -667,6 +667,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>jump.gates</td>
+		<td>276</td>
+		<td>281</td>
+		<td>281</td>
+		<td>283</td>
+		<td>287</td>
+		<td>289</td>
+		<td>291</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>captureable.person.ships</td>
 		<td>276</td>
 		<td>280</td>
@@ -675,17 +686,6 @@
 		<td>286</td>
 		<td>290</td>
 		<td>290</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>jump.gates</td>
-		<td>276</td>
-		<td>281</td>
-		<td>281</td>
-		<td>283</td>
-		<td>287</td>
-		<td>289</td>
-		<td>289</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -751,8 +751,8 @@
 		<td>239</td>
 		<td>241</td>
 		<td>243</td>
-		<td>245</td>
-		<td>+ 2</td>
+		<td>247</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
