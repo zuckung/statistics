@@ -65,8 +65,8 @@
 		<td>24</td>
 		<td>26</td>
 		<td>30</td>
-		<td>34</td>
-		<td>+ 4</td>
+		<td>36</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -982,8 +982,8 @@
 		<td>24</td>
 		<td>26</td>
 		<td>30</td>
-		<td>34</td>
-		<td>+ 4</td>
+		<td>36</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
