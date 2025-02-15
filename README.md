@@ -120,8 +120,8 @@
 		<td>239</td>
 		<td>241</td>
 		<td>243</td>
-		<td>245</td>
-		<td>+ 2</td>
+		<td>247</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -164,8 +164,8 @@
 		<td>372</td>
 		<td>374</td>
 		<td>376</td>
-		<td>386</td>
-		<td>+ 10</td>
+		<td>387</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -575,8 +575,8 @@
 		<td>372</td>
 		<td>374</td>
 		<td>376</td>
-		<td>386</td>
-		<td>+ 10</td>
+		<td>387</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -755,21 +755,21 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
-		<td>landing.images</td>
-		<td>230</td>
-		<td>233</td>
-		<td>233</td>
-		<td>239</td>
-		<td>241</td>
-		<td>243</td>
-		<td>245</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
 		<td>control.station</td>
 		<td>238</td>
 		<td>239</td>
 		<td>239</td>
+		<td>239</td>
+		<td>241</td>
+		<td>243</td>
+		<td>247</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
+		<td>landing.images</td>
+		<td>230</td>
+		<td>233</td>
+		<td>233</td>
 		<td>239</td>
 		<td>241</td>
 		<td>243</td>
