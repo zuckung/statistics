@@ -65,8 +65,8 @@
 		<td>24</td>
 		<td>26</td>
 		<td>30</td>
-		<td>30</td>
-		<td></td>
+		<td>32</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -87,8 +87,8 @@
 		<td>377</td>
 		<td>383</td>
 		<td>385</td>
-		<td>389</td>
-		<td>+ 4</td>
+		<td>391</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -164,8 +164,8 @@
 		<td>372</td>
 		<td>374</td>
 		<td>376</td>
-		<td>380</td>
-		<td>+ 4</td>
+		<td>382</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -197,8 +197,8 @@
 		<td>367</td>
 		<td>369</td>
 		<td>373</td>
-		<td>373</td>
-		<td></td>
+		<td>375</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -219,8 +219,8 @@
 		<td>212</td>
 		<td>214</td>
 		<td>216</td>
-		<td>216</td>
-		<td></td>
+		<td>218</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -307,8 +307,8 @@
 		<td>330</td>
 		<td>336</td>
 		<td>339</td>
-		<td>339</td>
-		<td></td>
+		<td>341</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -362,8 +362,8 @@
 		<td>232</td>
 		<td>234</td>
 		<td>236</td>
-		<td>238</td>
-		<td>+ 2</td>
+		<td>240</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -564,8 +564,8 @@
 		<td>377</td>
 		<td>383</td>
 		<td>385</td>
-		<td>389</td>
-		<td>+ 4</td>
+		<td>391</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -575,8 +575,8 @@
 		<td>372</td>
 		<td>374</td>
 		<td>376</td>
-		<td>380</td>
-		<td>+ 4</td>
+		<td>382</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -586,8 +586,8 @@
 		<td>367</td>
 		<td>369</td>
 		<td>373</td>
-		<td>373</td>
-		<td></td>
+		<td>375</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -612,6 +612,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>more.boarding.missions</td>
+		<td>315</td>
+		<td>321</td>
+		<td>321</td>
+		<td>330</td>
+		<td>336</td>
+		<td>339</td>
+		<td>341</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>coalition.shopping</td>
 		<td>330</td>
 		<td>332</td>
@@ -620,17 +631,6 @@
 		<td>338</td>
 		<td>340</td>
 		<td>340</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>more.boarding.missions</td>
-		<td>315</td>
-		<td>321</td>
-		<td>321</td>
-		<td>330</td>
-		<td>336</td>
-		<td>339</td>
-		<td>339</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -788,6 +788,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>paint.your.ships</td>
+		<td>229</td>
+		<td>232</td>
+		<td>232</td>
+		<td>232</td>
+		<td>234</td>
+		<td>236</td>
+		<td>240</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>235</td>
 		<td>236</td>
@@ -797,17 +808,6 @@
 		<td>240</td>
 		<td>240</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>229</td>
-		<td>232</td>
-		<td>232</td>
-		<td>232</td>
-		<td>234</td>
-		<td>236</td>
-		<td>238</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -843,6 +843,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>human.labels</td>
+		<td>207</td>
+		<td>210</td>
+		<td>212</td>
+		<td>212</td>
+		<td>214</td>
+		<td>216</td>
+		<td>218</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>free.worlds.5.years.later</td>
 		<td>209</td>
 		<td>212</td>
@@ -851,17 +862,6 @@
 		<td>216</td>
 		<td>218</td>
 		<td>218</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>human.labels</td>
-		<td>207</td>
-		<td>210</td>
-		<td>212</td>
-		<td>212</td>
-		<td>214</td>
-		<td>216</td>
-		<td>216</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -982,8 +982,8 @@
 		<td>24</td>
 		<td>26</td>
 		<td>30</td>
-		<td>30</td>
-		<td></td>
+		<td>32</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
