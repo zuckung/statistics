@@ -1,17 +1,17 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.1.5-galactic.capital.investment | downloads: 16
+v1.1.5-galactic.capital.investment | downloads: 18
 v1.0.7-bunrodea.missions | downloads: 10
 v1.0.5-human.labels | downloads: 3
 v1.1.4-more.boarding.missions | downloads: 19
 v1.0.6-bunrodea.missions | downloads: 6
-v1.0.3-jump.gates | downloads: 18
+v1.0.3-jump.gates | downloads: 20
 v1.0.15-additional.command.buttons.radial | downloads: 46
-v1.0.6-expert.crew.members | downloads: 25
+v1.0.6-expert.crew.members | downloads: 27
 v1.0.0-avgi.licenses | downloads: 30
 v1.0.14-additional.command.buttons.radial | downloads: 10
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 45
-v1.0.8-uniques | downloads: 35
+v1.0.8-uniques | downloads: 37
 v1.0.3-quarg.farm | downloads: 50
 v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 75
@@ -182,7 +182,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 181
-# TOTAL DOWNLOADS: 11000
+# TOTAL DOWNLOADS: 11008
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -199,13 +199,13 @@ control.station 243
 devil-run.unhidden 66
 disable.person.ships 152
 disable.spaceport.repeatables 240
-expert.crew.members 378
+expert.crew.members 380
 free.worlds.5.years.later 218
-galactic.capital.investment 444
+galactic.capital.investment 446
 gegno.pirates 373
 hai.side.mission.unlocker 275
 human.labels 216
-jump.gates 289
+jump.gates 291
 kestrel.unlocks 238
 kor.efret.shipyard 355
 landing.images 243
@@ -229,4 +229,4 @@ space.fauna 242
 too.many.asteroids 406
 tribute.republic 192
 unique.fix 44
-uniques 245
+uniques 247
