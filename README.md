@@ -87,8 +87,8 @@
 		<td>377</td>
 		<td>383</td>
 		<td>385</td>
-		<td>385</td>
-		<td></td>
+		<td>387</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -395,8 +395,8 @@
 		<td>68</td>
 		<td>72</td>
 		<td>74</td>
-		<td>74</td>
-		<td></td>
+		<td>76</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -564,8 +564,8 @@
 		<td>377</td>
 		<td>383</td>
 		<td>385</td>
-		<td>385</td>
-		<td></td>
+		<td>387</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -949,8 +949,8 @@
 		<td>68</td>
 		<td>72</td>
 		<td>74</td>
-		<td>74</td>
-		<td></td>
+		<td>76</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
