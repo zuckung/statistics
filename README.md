@@ -186,8 +186,8 @@
 		<td>426</td>
 		<td>428</td>
 		<td>440</td>
-		<td>452</td>
-		<td>+ 12</td>
+		<td>454</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -197,8 +197,8 @@
 		<td>367</td>
 		<td>369</td>
 		<td>373</td>
-		<td>375</td>
-		<td>+ 2</td>
+		<td>377</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -263,8 +263,8 @@
 		<td>239</td>
 		<td>241</td>
 		<td>243</td>
-		<td>245</td>
-		<td>+ 2</td>
+		<td>247</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -520,8 +520,8 @@
 		<td>426</td>
 		<td>428</td>
 		<td>440</td>
-		<td>452</td>
-		<td>+ 12</td>
+		<td>454</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -586,8 +586,8 @@
 		<td>367</td>
 		<td>369</td>
 		<td>373</td>
-		<td>375</td>
-		<td>+ 2</td>
+		<td>377</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -755,6 +755,17 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
+		<td>landing.images</td>
+		<td>230</td>
+		<td>233</td>
+		<td>233</td>
+		<td>239</td>
+		<td>241</td>
+		<td>243</td>
+		<td>247</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>control.station</td>
 		<td>238</td>
 		<td>239</td>
@@ -764,17 +775,6 @@
 		<td>243</td>
 		<td>247</td>
 		<td>+ 4</td>
-	</tr>
-	<tr>
-		<td>landing.images</td>
-		<td>230</td>
-		<td>233</td>
-		<td>233</td>
-		<td>239</td>
-		<td>241</td>
-		<td>243</td>
-		<td>245</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
