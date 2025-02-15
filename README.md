@@ -32,8 +32,8 @@
 		<td>430</td>
 		<td>432</td>
 		<td>440</td>
-		<td>442</td>
-		<td>+ 2</td>
+		<td>444</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -87,8 +87,8 @@
 		<td>377</td>
 		<td>383</td>
 		<td>385</td>
-		<td>393</td>
-		<td>+ 8</td>
+		<td>395</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -164,8 +164,8 @@
 		<td>372</td>
 		<td>374</td>
 		<td>376</td>
-		<td>382</td>
-		<td>+ 6</td>
+		<td>384</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -186,8 +186,8 @@
 		<td>426</td>
 		<td>428</td>
 		<td>440</td>
-		<td>448</td>
-		<td>+ 8</td>
+		<td>450</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -307,8 +307,8 @@
 		<td>330</td>
 		<td>336</td>
 		<td>339</td>
-		<td>341</td>
-		<td>+ 2</td>
+		<td>345</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -428,8 +428,8 @@
 		<td>282</td>
 		<td>288</td>
 		<td>290</td>
-		<td>292</td>
-		<td>+ 2</td>
+		<td>294</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -494,8 +494,8 @@
 		<td>239</td>
 		<td>241</td>
 		<td>243</td>
-		<td>249</td>
-		<td>+ 6</td>
+		<td>251</td>
+		<td>+ 8</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>426</td>
 		<td>428</td>
 		<td>440</td>
-		<td>448</td>
-		<td>+ 8</td>
+		<td>450</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -531,8 +531,8 @@
 		<td>430</td>
 		<td>432</td>
 		<td>440</td>
-		<td>442</td>
-		<td>+ 2</td>
+		<td>444</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -564,8 +564,8 @@
 		<td>377</td>
 		<td>383</td>
 		<td>385</td>
-		<td>393</td>
-		<td>+ 8</td>
+		<td>395</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -575,8 +575,8 @@
 		<td>372</td>
 		<td>374</td>
 		<td>376</td>
-		<td>382</td>
-		<td>+ 6</td>
+		<td>384</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -612,6 +612,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>more.boarding.missions</td>
+		<td>315</td>
+		<td>321</td>
+		<td>321</td>
+		<td>330</td>
+		<td>336</td>
+		<td>339</td>
+		<td>345</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
 		<td>coalition.shopping</td>
 		<td>330</td>
 		<td>332</td>
@@ -620,17 +631,6 @@
 		<td>338</td>
 		<td>340</td>
 		<td>342</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>more.boarding.missions</td>
-		<td>315</td>
-		<td>321</td>
-		<td>321</td>
-		<td>330</td>
-		<td>336</td>
-		<td>339</td>
-		<td>341</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -663,8 +663,8 @@
 		<td>282</td>
 		<td>288</td>
 		<td>290</td>
-		<td>292</td>
-		<td>+ 2</td>
+		<td>294</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -733,6 +733,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>uniques</td>
+		<td>232</td>
+		<td>237</td>
+		<td>237</td>
+		<td>239</td>
+		<td>241</td>
+		<td>243</td>
+		<td>251</td>
+		<td>+ 8</td>
+	</tr>
+	<tr>
 		<td>automata.in.human.space</td>
 		<td>231</td>
 		<td>237</td>
@@ -742,17 +753,6 @@
 		<td>248</td>
 		<td>250</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>uniques</td>
-		<td>232</td>
-		<td>237</td>
-		<td>237</td>
-		<td>239</td>
-		<td>241</td>
-		<td>243</td>
-		<td>249</td>
-		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
