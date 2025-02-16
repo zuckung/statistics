@@ -76,8 +76,8 @@
 		<td>306</td>
 		<td>308</td>
 		<td>313</td>
-		<td>313</td>
-		<td></td>
+		<td>315</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -98,8 +98,8 @@
 		<td>286</td>
 		<td>290</td>
 		<td>294</td>
-		<td>294</td>
-		<td></td>
+		<td>296</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -142,8 +142,8 @@
 		<td>150</td>
 		<td>152</td>
 		<td>152</td>
-		<td>152</td>
-		<td></td>
+		<td>154</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -153,8 +153,8 @@
 		<td>238</td>
 		<td>240</td>
 		<td>240</td>
-		<td>240</td>
-		<td></td>
+		<td>242</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -164,8 +164,8 @@
 		<td>374</td>
 		<td>376</td>
 		<td>387</td>
-		<td>387</td>
-		<td></td>
+		<td>388</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -219,8 +219,8 @@
 		<td>214</td>
 		<td>216</td>
 		<td>220</td>
-		<td>220</td>
-		<td></td>
+		<td>222</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -307,8 +307,8 @@
 		<td>336</td>
 		<td>339</td>
 		<td>347</td>
-		<td>347</td>
-		<td></td>
+		<td>348</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -428,8 +428,8 @@
 		<td>288</td>
 		<td>290</td>
 		<td>296</td>
-		<td>296</td>
-		<td></td>
+		<td>298</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -439,8 +439,8 @@
 		<td>270</td>
 		<td>272</td>
 		<td>276</td>
-		<td>276</td>
-		<td></td>
+		<td>277</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -494,8 +494,8 @@
 		<td>241</td>
 		<td>243</td>
 		<td>253</td>
-		<td>253</td>
-		<td></td>
+		<td>255</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>374</td>
 		<td>376</td>
 		<td>387</td>
-		<td>387</td>
-		<td></td>
+		<td>388</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -619,8 +619,8 @@
 		<td>336</td>
 		<td>339</td>
 		<td>347</td>
-		<td>347</td>
-		<td></td>
+		<td>348</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -652,8 +652,8 @@
 		<td>306</td>
 		<td>308</td>
 		<td>313</td>
-		<td>313</td>
-		<td></td>
+		<td>315</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -663,8 +663,8 @@
 		<td>288</td>
 		<td>290</td>
 		<td>296</td>
-		<td>296</td>
-		<td></td>
+		<td>298</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -674,8 +674,8 @@
 		<td>286</td>
 		<td>290</td>
 		<td>294</td>
-		<td>294</td>
-		<td></td>
+		<td>296</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -700,6 +700,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>snowfeather.robotics</td>
+		<td>266</td>
+		<td>266</td>
+		<td>268</td>
+		<td>270</td>
+		<td>272</td>
+		<td>276</td>
+		<td>277</td>
+		<td>+ 1</td>
+	</tr>
+	<tr>
 		<td>hai.side.mission.unlocker</td>
 		<td>269</td>
 		<td>269</td>
@@ -722,17 +733,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>snowfeather.robotics</td>
-		<td>266</td>
-		<td>266</td>
-		<td>268</td>
-		<td>270</td>
-		<td>272</td>
-		<td>276</td>
-		<td>276</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>uniques</td>
 		<td>237</td>
 		<td>237</td>
@@ -740,8 +740,8 @@
 		<td>241</td>
 		<td>243</td>
 		<td>253</td>
-		<td>253</td>
-		<td></td>
+		<td>255</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -788,6 +788,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>disable.spaceport.repeatables</td>
+		<td>236</td>
+		<td>236</td>
+		<td>236</td>
+		<td>238</td>
+		<td>240</td>
+		<td>240</td>
+		<td>242</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>paint.your.ships</td>
 		<td>232</td>
 		<td>232</td>
@@ -805,17 +816,6 @@
 		<td>233</td>
 		<td>236</td>
 		<td>238</td>
-		<td>240</td>
-		<td>240</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>disable.spaceport.repeatables</td>
-		<td>236</td>
-		<td>236</td>
-		<td>236</td>
-		<td>238</td>
-		<td>240</td>
 		<td>240</td>
 		<td>240</td>
 		<td></td>
@@ -850,8 +850,8 @@
 		<td>214</td>
 		<td>216</td>
 		<td>220</td>
-		<td>220</td>
-		<td></td>
+		<td>222</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -916,8 +916,8 @@
 		<td>150</td>
 		<td>152</td>
 		<td>152</td>
-		<td>152</td>
-		<td></td>
+		<td>154</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
