@@ -32,8 +32,8 @@
 		<td>432</td>
 		<td>440</td>
 		<td>446</td>
-		<td>446</td>
-		<td></td>
+		<td>447</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -98,8 +98,8 @@
 		<td>286</td>
 		<td>290</td>
 		<td>294</td>
-		<td>296</td>
-		<td>+ 2</td>
+		<td>297</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -531,8 +531,8 @@
 		<td>432</td>
 		<td>440</td>
 		<td>446</td>
-		<td>446</td>
-		<td></td>
+		<td>447</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -674,8 +674,8 @@
 		<td>286</td>
 		<td>290</td>
 		<td>294</td>
-		<td>296</td>
-		<td>+ 2</td>
+		<td>297</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
