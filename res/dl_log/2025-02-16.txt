@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.1.5-galactic.capital.investment | downloads: 26
+v1.1.5-galactic.capital.investment | downloads: 28
 v1.0.7-bunrodea.missions | downloads: 20
 v1.0.5-human.labels | downloads: 7
 v1.1.4-more.boarding.missions | downloads: 27
@@ -182,7 +182,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 181
-# TOTAL DOWNLOADS: 11140
+# TOTAL DOWNLOADS: 11142
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -201,7 +201,7 @@ disable.person.ships 152
 disable.spaceport.repeatables 240
 expert.crew.members 387
 free.worlds.5.years.later 218
-galactic.capital.investment 454
+galactic.capital.investment 456
 gegno.pirates 377
 hai.side.mission.unlocker 277
 human.labels 220
