@@ -65,8 +65,8 @@
 		<td>30</td>
 		<td>36</td>
 		<td>36</td>
-		<td>37</td>
-		<td>+ 1</td>
+		<td>39</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -175,8 +175,8 @@
 		<td>218</td>
 		<td>218</td>
 		<td>218</td>
-		<td>219</td>
-		<td>+ 1</td>
+		<td>221</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -219,8 +219,8 @@
 		<td>216</td>
 		<td>220</td>
 		<td>222</td>
-		<td>223</td>
-		<td>+ 1</td>
+		<td>225</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -296,8 +296,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>3</td>
-		<td>+ 3</td>
+		<td>5</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -861,8 +861,8 @@
 		<td>216</td>
 		<td>220</td>
 		<td>222</td>
-		<td>223</td>
-		<td>+ 1</td>
+		<td>225</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -872,8 +872,8 @@
 		<td>218</td>
 		<td>218</td>
 		<td>218</td>
-		<td>219</td>
-		<td>+ 1</td>
+		<td>221</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -993,8 +993,19 @@
 		<td>30</td>
 		<td>36</td>
 		<td>36</td>
-		<td>37</td>
-		<td>+ 1</td>
+		<td>39</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
+		<td>mission.helper</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>5</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -1006,17 +1017,6 @@
 		<td>3</td>
 		<td>3</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>3</td>
-		<td>+ 3</td>
 	</tr>
 </table>
 </sub></sup>
