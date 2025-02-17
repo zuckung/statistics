@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.0-mission.helper | downloads: 18
+v1.0.0-mission.helper | downloads: 20
 v1.1.5-galactic.capital.investment | downloads: 29
 v1.0.7-bunrodea.missions | downloads: 21
 v1.0.5-human.labels | downloads: 12
@@ -183,7 +183,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 182
-# TOTAL DOWNLOADS: 11245
+# TOTAL DOWNLOADS: 11247
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -212,7 +212,7 @@ kor.efret.shipyard 360
 landing.images 249
 landing.images.android 237
 landing.images.highres 189
-mission.helper 18
+mission.helper 20
 more.arfectas 342
 more.boarding.missions 349
 more.person.ships 289
