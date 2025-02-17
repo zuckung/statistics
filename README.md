@@ -296,8 +296,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>18</td>
-		<td>+ 18</td>
+		<td>20</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -1004,8 +1004,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>18</td>
-		<td>+ 18</td>
+		<td>20</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
