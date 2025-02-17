@@ -32,8 +32,8 @@
 		<td>440</td>
 		<td>446</td>
 		<td>447</td>
-		<td>447</td>
-		<td></td>
+		<td>449</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -531,8 +531,8 @@
 		<td>440</td>
 		<td>446</td>
 		<td>447</td>
-		<td>447</td>
-		<td></td>
+		<td>449</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
