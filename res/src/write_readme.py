@@ -36,11 +36,13 @@ def write_readme():
 				started = True
 				continue
 			if started == True:
-				print(line)
+				stopped = False
 				for ignore in ignorelist:
 					if line.startswith(ignore):
-						print('ignoring' + ignore)
-						continue
+						stopped = True
+						break
+				if stoped == True:
+					continue
 				relevant[i] += line
 	rows1 = relevant[0].split('\n') # these are the plugin lists for all days
 	rows2 = relevant[1].split('\n')
