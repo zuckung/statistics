@@ -32,8 +32,8 @@
 		<td>446</td>
 		<td>447</td>
 		<td>456</td>
-		<td>456</td>
-		<td></td>
+		<td>457</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -120,8 +120,8 @@
 		<td>247</td>
 		<td>247</td>
 		<td>248</td>
-		<td>248</td>
-		<td></td>
+		<td>250</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>devil-run.unhidden</td>
@@ -296,8 +296,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>20</td>
-		<td>24</td>
-		<td>+ 4</td>
+		<td>25</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -542,8 +542,8 @@
 		<td>446</td>
 		<td>447</td>
 		<td>456</td>
-		<td>456</td>
-		<td></td>
+		<td>457</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -766,6 +766,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>control.station</td>
+		<td>239</td>
+		<td>241</td>
+		<td>243</td>
+		<td>247</td>
+		<td>247</td>
+		<td>248</td>
+		<td>250</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>landing.images</td>
 		<td>239</td>
 		<td>241</td>
@@ -774,17 +785,6 @@
 		<td>247</td>
 		<td>249</td>
 		<td>249</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>control.station</td>
-		<td>239</td>
-		<td>241</td>
-		<td>243</td>
-		<td>247</td>
-		<td>247</td>
-		<td>248</td>
-		<td>248</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -1004,8 +1004,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>20</td>
-		<td>24</td>
-		<td>+ 4</td>
+		<td>25</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
