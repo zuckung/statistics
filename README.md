@@ -142,8 +142,8 @@
 		<td>387</td>
 		<td>388</td>
 		<td>389</td>
-		<td>397</td>
-		<td>+ 8</td>
+		<td>398</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -531,8 +531,8 @@
 		<td>387</td>
 		<td>388</td>
 		<td>389</td>
-		<td>397</td>
-		<td>+ 8</td>
+		<td>398</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
