@@ -65,8 +65,8 @@
 		<td>36</td>
 		<td>36</td>
 		<td>39</td>
-		<td>41</td>
-		<td>+ 2</td>
+		<td>43</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -109,8 +109,8 @@
 		<td>344</td>
 		<td>344</td>
 		<td>345</td>
-		<td>347</td>
-		<td>+ 2</td>
+		<td>349</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -296,8 +296,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>20</td>
-		<td>22</td>
-		<td>+ 2</td>
+		<td>24</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -307,8 +307,8 @@
 		<td>341</td>
 		<td>341</td>
 		<td>342</td>
-		<td>342</td>
-		<td></td>
+		<td>344</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -417,8 +417,8 @@
 		<td>363</td>
 		<td>363</td>
 		<td>366</td>
-		<td>368</td>
-		<td>+ 2</td>
+		<td>371</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>real.fluff</td>
@@ -608,8 +608,8 @@
 		<td>363</td>
 		<td>363</td>
 		<td>366</td>
-		<td>368</td>
-		<td>+ 2</td>
+		<td>371</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -641,8 +641,8 @@
 		<td>344</td>
 		<td>344</td>
 		<td>345</td>
-		<td>347</td>
-		<td>+ 2</td>
+		<td>349</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -652,8 +652,8 @@
 		<td>341</td>
 		<td>341</td>
 		<td>342</td>
-		<td>342</td>
-		<td></td>
+		<td>344</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -993,8 +993,8 @@
 		<td>36</td>
 		<td>36</td>
 		<td>39</td>
-		<td>41</td>
-		<td>+ 2</td>
+		<td>43</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -1004,8 +1004,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>20</td>
-		<td>22</td>
-		<td>+ 2</td>
+		<td>24</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
