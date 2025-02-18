@@ -36,6 +36,7 @@ def write_readme():
 				started = True
 				continue
 			if started == True:
+				print(line)
 				for ignore in ignorelist:
 					if line.startswith(ignore + ' '):
 						continue
