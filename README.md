@@ -131,8 +131,8 @@
 		<td>240</td>
 		<td>242</td>
 		<td>243</td>
-		<td>243</td>
-		<td></td>
+		<td>245</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -755,6 +755,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>disable.spaceport.repeatables</td>
+		<td>236</td>
+		<td>238</td>
+		<td>240</td>
+		<td>240</td>
+		<td>242</td>
+		<td>243</td>
+		<td>245</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>kestrel.unlocks</td>
 		<td>233</td>
 		<td>236</td>
@@ -764,17 +775,6 @@
 		<td>241</td>
 		<td>243</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>disable.spaceport.repeatables</td>
-		<td>236</td>
-		<td>238</td>
-		<td>240</td>
-		<td>240</td>
-		<td>242</td>
-		<td>243</td>
-		<td>243</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
