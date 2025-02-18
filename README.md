@@ -274,8 +274,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>20</td>
-		<td>27</td>
-		<td>+ 7</td>
+		<td>29</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -905,8 +905,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>20</td>
-		<td>27</td>
-		<td>+ 7</td>
+		<td>29</td>
+		<td>+ 9</td>
 	</tr>
 </table>
 </sub></sup>
