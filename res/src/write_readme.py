@@ -25,6 +25,7 @@ def write_readme():
 		logfiles.pop(0)
 	# get the relevant part of the sourcefiles
 	relevant = ['', '', '', '', '', '', '', ]
+	ignorelist = ["real.fluff", "additional.command.buttons", "devil-run.unhidden", "unique.fix", "pirate.warlords"]
 	for i in range(0,7):
 		relevant[i] += logfiles[i] + '\n'
 		with open('res/dl_log/' + logfiles[i], 'r') as sourcefile:
@@ -35,8 +36,11 @@ def write_readme():
 				started = True
 				continue
 			if started == True:
+				for ignore in ignorelist:
+					if line.startswith(ignore + ' '):
+						continue
 				relevant[i] += line
-	rows1 = relevant[0].split('\n') # these are the plugin lists for all dayy
+	rows1 = relevant[0].split('\n') # these are the plugin lists for all days
 	rows2 = relevant[1].split('\n')
 	rows3 = relevant[2].split('\n')
 	rows4 = relevant[3].split('\n')
