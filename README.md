@@ -14,17 +14,6 @@
 		<td>today +</td>
 	</tr>
 	<tr>
-		<td>additional.command.buttons</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>additional.command.buttons.radial</td>
 		<td>430</td>
 		<td>432</td>
@@ -122,17 +111,6 @@
 		<td>248</td>
 		<td>250</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>devil-run.unhidden</td>
-		<td>66</td>
-		<td>66</td>
-		<td>66</td>
-		<td>66</td>
-		<td>66</td>
-		<td>66</td>
-		<td>66</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -377,17 +355,6 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
-		<td>pirate.warlords</td>
-		<td>3</td>
-		<td>3</td>
-		<td>3</td>
-		<td>3</td>
-		<td>3</td>
-		<td>3</td>
-		<td>3</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>planet.map</td>
 		<td>167</td>
 		<td>169</td>
@@ -419,17 +386,6 @@
 		<td>366</td>
 		<td>371</td>
 		<td>+ 5</td>
-	</tr>
-	<tr>
-		<td>real.fluff</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -484,17 +440,6 @@
 		<td>194</td>
 		<td>195</td>
 		<td>195</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>unique.fix</td>
-		<td>44</td>
-		<td>44</td>
-		<td>44</td>
-		<td>44</td>
-		<td>44</td>
-		<td>44</td>
-		<td>44</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -931,28 +876,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>real.fluff</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>additional.command.buttons</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>planet.pluto</td>
 		<td>68</td>
 		<td>72</td>
@@ -961,28 +884,6 @@
 		<td>80</td>
 		<td>82</td>
 		<td>82</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>devil-run.unhidden</td>
-		<td>66</td>
-		<td>66</td>
-		<td>66</td>
-		<td>66</td>
-		<td>66</td>
-		<td>66</td>
-		<td>66</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>unique.fix</td>
-		<td>44</td>
-		<td>44</td>
-		<td>44</td>
-		<td>44</td>
-		<td>44</td>
-		<td>44</td>
-		<td>44</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -1006,17 +907,6 @@
 		<td>20</td>
 		<td>27</td>
 		<td>+ 7</td>
-	</tr>
-	<tr>
-		<td>pirate.warlords</td>
-		<td>3</td>
-		<td>3</td>
-		<td>3</td>
-		<td>3</td>
-		<td>3</td>
-		<td>3</td>
-		<td>3</td>
-		<td></td>
 	</tr>
 </table>
 </sub></sup>
