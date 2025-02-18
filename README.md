@@ -164,8 +164,8 @@
 		<td>387</td>
 		<td>388</td>
 		<td>389</td>
-		<td>393</td>
-		<td>+ 4</td>
+		<td>395</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -186,8 +186,8 @@
 		<td>454</td>
 		<td>456</td>
 		<td>457</td>
-		<td>459</td>
-		<td>+ 2</td>
+		<td>461</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -296,8 +296,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>20</td>
-		<td>20</td>
-		<td></td>
+		<td>22</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -318,8 +318,8 @@
 		<td>347</td>
 		<td>348</td>
 		<td>349</td>
-		<td>351</td>
-		<td>+ 2</td>
+		<td>353</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -373,8 +373,8 @@
 		<td>240</td>
 		<td>240</td>
 		<td>242</td>
-		<td>244</td>
-		<td>+ 2</td>
+		<td>246</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
@@ -531,8 +531,8 @@
 		<td>454</td>
 		<td>456</td>
 		<td>457</td>
-		<td>459</td>
-		<td>+ 2</td>
+		<td>461</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -586,8 +586,8 @@
 		<td>387</td>
 		<td>388</td>
 		<td>389</td>
-		<td>393</td>
-		<td>+ 4</td>
+		<td>395</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -630,8 +630,8 @@
 		<td>347</td>
 		<td>348</td>
 		<td>349</td>
-		<td>351</td>
-		<td>+ 2</td>
+		<td>353</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -788,6 +788,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>paint.your.ships</td>
+		<td>232</td>
+		<td>234</td>
+		<td>236</td>
+		<td>240</td>
+		<td>240</td>
+		<td>242</td>
+		<td>246</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>space.fauna</td>
 		<td>238</td>
 		<td>240</td>
@@ -797,17 +808,6 @@
 		<td>245</td>
 		<td>245</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>232</td>
-		<td>234</td>
-		<td>236</td>
-		<td>240</td>
-		<td>240</td>
-		<td>242</td>
-		<td>244</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -1004,8 +1004,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>20</td>
-		<td>20</td>
-		<td></td>
+		<td>22</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>pirate.warlords</td>
