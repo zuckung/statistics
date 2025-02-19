@@ -32,8 +32,8 @@
 		<td>277</td>
 		<td>278</td>
 		<td>280</td>
-		<td>280</td>
-		<td></td>
+		<td>281</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -674,8 +674,8 @@
 		<td>277</td>
 		<td>278</td>
 		<td>280</td>
-		<td>280</td>
-		<td></td>
+		<td>281</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
