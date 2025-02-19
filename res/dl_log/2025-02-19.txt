@@ -8,7 +8,7 @@ v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 23
 v1.0.15-additional.command.buttons.radial | downloads: 60
 v1.0.6-expert.crew.members | downloads: 45
-v1.0.0-avgi.licenses | downloads: 43
+v1.0.0-avgi.licenses | downloads: 45
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 53
@@ -63,7 +63,7 @@ v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 203
 v1.0.6-additional.command.buttons.radial | downloads: 48
-v1.0.3-no.more.mereti.mines | downloads: 174
+v1.0.3-no.more.mereti.mines | downloads: 176
 v1.0.1-paint.your.ships | downloads: 242
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
@@ -148,7 +148,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 342
+v1.0.2-more.arfectas | downloads: 344
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -183,7 +183,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 182
-# TOTAL DOWNLOADS: 11342
+# TOTAL DOWNLOADS: 11348
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -191,7 +191,7 @@ additional.command.buttons 93
 additional.command.buttons.radial 457
 automata.destruction.0percent 281
 automata.in.human.space 253
-avgi.licenses 43
+avgi.licenses 45
 better.starts 316
 bunrodea.missions 402
 captureable.person.ships 298
@@ -213,11 +213,11 @@ landing.images 249
 landing.images.android 237
 landing.images.highres 189
 mission.helper 29
-more.arfectas 344
+more.arfectas 346
 more.boarding.missions 355
 more.person.ships 291
 navy.licenses 401
-no.more.mereti.mines 230
+no.more.mereti.mines 232
 outfits.weapon.slot 220
 paint.your.ships 246
 pirate.warlords 3
