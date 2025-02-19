@@ -6,7 +6,7 @@ v1.0.5-human.labels | downloads: 12
 v1.1.4-more.boarding.missions | downloads: 36
 v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 23
-v1.0.15-additional.command.buttons.radial | downloads: 60
+v1.0.15-additional.command.buttons.radial | downloads: 62
 v1.0.6-expert.crew.members | downloads: 45
 v1.0.0-avgi.licenses | downloads: 45
 v1.0.14-additional.command.buttons.radial | downloads: 11
@@ -15,7 +15,7 @@ v1.1.7-captureable.person.ships | downloads: 53
 v1.0.8-uniques | downloads: 52
 v1.0.3-quarg.farm | downloads: 60
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 86
+v1.0.4-too.many.asteroids | downloads: 88
 v1.0.3-show.reputation | downloads: 55
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 101
@@ -183,12 +183,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 182
-# TOTAL DOWNLOADS: 11355
+# TOTAL DOWNLOADS: 11359
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 457
+additional.command.buttons.radial 459
 automata.destruction.0percent 281
 automata.in.human.space 253
 avgi.licenses 45
@@ -228,7 +228,7 @@ real.fluff 93
 show.reputation 304
 snowfeather.robotics 282
 space.fauna 245
-too.many.asteroids 417
+too.many.asteroids 419
 tribute.republic 195
 unique.fix 44
 uniques 262
