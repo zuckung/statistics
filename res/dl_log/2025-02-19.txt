@@ -18,7 +18,7 @@ v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 88
 v1.0.3-show.reputation | downloads: 55
 v1.0.13-additional.command.buttons.radial | downloads: 93
-v1.0.4-better.starts | downloads: 101
+v1.0.4-better.starts | downloads: 103
 v1.0.5-bunrodea.missions | downloads: 120
 v1.0.2-planet.pluto | downloads: 59
 v1.0.2-planet.map | downloads: 42
@@ -183,7 +183,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 182
-# TOTAL DOWNLOADS: 11361
+# TOTAL DOWNLOADS: 11363
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -192,7 +192,7 @@ additional.command.buttons.radial 459
 automata.destruction.0percent 281
 automata.in.human.space 253
 avgi.licenses 45
-better.starts 316
+better.starts 318
 bunrodea.missions 402
 captureable.person.ships 298
 coalition.shopping 349
