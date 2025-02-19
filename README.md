@@ -54,8 +54,8 @@
 		<td>36</td>
 		<td>39</td>
 		<td>43</td>
-		<td>43</td>
-		<td></td>
+		<td>45</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -285,8 +285,8 @@
 		<td>341</td>
 		<td>342</td>
 		<td>344</td>
-		<td>344</td>
-		<td></td>
+		<td>346</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -329,8 +329,8 @@
 		<td>227</td>
 		<td>228</td>
 		<td>230</td>
-		<td>230</td>
-		<td></td>
+		<td>232</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -597,8 +597,8 @@
 		<td>341</td>
 		<td>342</td>
 		<td>344</td>
-		<td>344</td>
-		<td></td>
+		<td>346</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -795,8 +795,8 @@
 		<td>227</td>
 		<td>228</td>
 		<td>230</td>
-		<td>230</td>
-		<td></td>
+		<td>232</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -894,8 +894,8 @@
 		<td>36</td>
 		<td>39</td>
 		<td>43</td>
-		<td>43</td>
-		<td></td>
+		<td>45</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
