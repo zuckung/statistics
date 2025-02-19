@@ -230,8 +230,8 @@
 		<td>357</td>
 		<td>360</td>
 		<td>362</td>
-		<td>362</td>
-		<td></td>
+		<td>363</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -263,8 +263,8 @@
 		<td>188</td>
 		<td>189</td>
 		<td>189</td>
-		<td>189</td>
-		<td></td>
+		<td>190</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -274,8 +274,8 @@
 		<td>0</td>
 		<td>20</td>
 		<td>29</td>
-		<td>29</td>
-		<td></td>
+		<td>30</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -285,8 +285,8 @@
 		<td>341</td>
 		<td>342</td>
 		<td>344</td>
-		<td>346</td>
-		<td>+ 2</td>
+		<td>347</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -296,8 +296,8 @@
 		<td>348</td>
 		<td>349</td>
 		<td>355</td>
-		<td>355</td>
-		<td></td>
+		<td>356</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -307,8 +307,8 @@
 		<td>288</td>
 		<td>289</td>
 		<td>291</td>
-		<td>291</td>
-		<td></td>
+		<td>292</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -318,8 +318,8 @@
 		<td>398</td>
 		<td>399</td>
 		<td>401</td>
-		<td>401</td>
-		<td></td>
+		<td>402</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -502,6 +502,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>navy.licenses</td>
+		<td>392</td>
+		<td>394</td>
+		<td>398</td>
+		<td>398</td>
+		<td>399</td>
+		<td>401</td>
+		<td>402</td>
+		<td>+ 1</td>
+	</tr>
+	<tr>
 		<td>bunrodea.missions</td>
 		<td>383</td>
 		<td>385</td>
@@ -510,17 +521,6 @@
 		<td>400</td>
 		<td>402</td>
 		<td>402</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>navy.licenses</td>
-		<td>392</td>
-		<td>394</td>
-		<td>398</td>
-		<td>398</td>
-		<td>399</td>
-		<td>401</td>
-		<td>401</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -564,8 +564,8 @@
 		<td>357</td>
 		<td>360</td>
 		<td>362</td>
-		<td>362</td>
-		<td></td>
+		<td>363</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -575,8 +575,8 @@
 		<td>348</td>
 		<td>349</td>
 		<td>355</td>
-		<td>355</td>
-		<td></td>
+		<td>356</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -597,8 +597,8 @@
 		<td>341</td>
 		<td>342</td>
 		<td>344</td>
-		<td>346</td>
-		<td>+ 2</td>
+		<td>347</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -652,8 +652,8 @@
 		<td>288</td>
 		<td>289</td>
 		<td>291</td>
-		<td>291</td>
-		<td></td>
+		<td>292</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -850,8 +850,8 @@
 		<td>188</td>
 		<td>189</td>
 		<td>189</td>
-		<td>189</td>
-		<td></td>
+		<td>190</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -905,8 +905,8 @@
 		<td>0</td>
 		<td>20</td>
 		<td>29</td>
-		<td>29</td>
-		<td></td>
+		<td>30</td>
+		<td>+ 1</td>
 	</tr>
 </table>
 </sub></sup>
