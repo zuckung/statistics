@@ -274,8 +274,8 @@
 		<td>20</td>
 		<td>29</td>
 		<td>30</td>
-		<td>41</td>
-		<td>+ 11</td>
+		<td>43</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -285,8 +285,8 @@
 		<td>342</td>
 		<td>344</td>
 		<td>347</td>
-		<td>348</td>
-		<td>+ 1</td>
+		<td>350</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -395,8 +395,8 @@
 		<td>302</td>
 		<td>304</td>
 		<td>304</td>
-		<td>307</td>
-		<td>+ 3</td>
+		<td>309</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -597,8 +597,8 @@
 		<td>342</td>
 		<td>344</td>
 		<td>347</td>
-		<td>348</td>
-		<td>+ 1</td>
+		<td>350</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -619,8 +619,8 @@
 		<td>302</td>
 		<td>304</td>
 		<td>304</td>
-		<td>307</td>
-		<td>+ 3</td>
+		<td>309</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -905,8 +905,8 @@
 		<td>20</td>
 		<td>29</td>
 		<td>30</td>
-		<td>41</td>
-		<td>+ 11</td>
+		<td>43</td>
+		<td>+ 13</td>
 	</tr>
 </table>
 </sub></sup>
