@@ -65,8 +65,8 @@
 		<td>316</td>
 		<td>316</td>
 		<td>318</td>
-		<td>318</td>
-		<td></td>
+		<td>319</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>400</td>
 		<td>402</td>
 		<td>402</td>
-		<td>404</td>
-		<td>+ 2</td>
+		<td>406</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -98,8 +98,8 @@
 		<td>345</td>
 		<td>349</td>
 		<td>349</td>
-		<td>351</td>
-		<td>+ 2</td>
+		<td>353</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -153,8 +153,8 @@
 		<td>221</td>
 		<td>223</td>
 		<td>223</td>
-		<td>225</td>
-		<td>+ 2</td>
+		<td>227</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -164,8 +164,8 @@
 		<td>457</td>
 		<td>463</td>
 		<td>463</td>
-		<td>465</td>
-		<td>+ 2</td>
+		<td>467</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -175,8 +175,8 @@
 		<td>378</td>
 		<td>380</td>
 		<td>380</td>
-		<td>382</td>
-		<td>+ 2</td>
+		<td>384</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -186,8 +186,8 @@
 		<td>278</td>
 		<td>278</td>
 		<td>280</td>
-		<td>282</td>
-		<td>+ 2</td>
+		<td>284</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -208,8 +208,8 @@
 		<td>294</td>
 		<td>294</td>
 		<td>294</td>
-		<td>294</td>
-		<td></td>
+		<td>296</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -230,8 +230,8 @@
 		<td>360</td>
 		<td>362</td>
 		<td>363</td>
-		<td>365</td>
-		<td>+ 2</td>
+		<td>367</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -274,8 +274,8 @@
 		<td>20</td>
 		<td>29</td>
 		<td>30</td>
-		<td>32</td>
-		<td>+ 2</td>
+		<td>34</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -340,8 +340,8 @@
 		<td>216</td>
 		<td>220</td>
 		<td>220</td>
-		<td>220</td>
-		<td></td>
+		<td>222</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -476,8 +476,8 @@
 		<td>457</td>
 		<td>463</td>
 		<td>463</td>
-		<td>465</td>
-		<td>+ 2</td>
+		<td>467</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -520,8 +520,8 @@
 		<td>400</td>
 		<td>402</td>
 		<td>402</td>
-		<td>404</td>
-		<td>+ 2</td>
+		<td>406</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -542,8 +542,8 @@
 		<td>378</td>
 		<td>380</td>
 		<td>380</td>
-		<td>382</td>
-		<td>+ 2</td>
+		<td>384</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -564,8 +564,8 @@
 		<td>360</td>
 		<td>362</td>
 		<td>363</td>
-		<td>365</td>
-		<td>+ 2</td>
+		<td>367</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -586,8 +586,8 @@
 		<td>345</td>
 		<td>349</td>
 		<td>349</td>
-		<td>351</td>
-		<td>+ 2</td>
+		<td>353</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -608,8 +608,8 @@
 		<td>316</td>
 		<td>316</td>
 		<td>318</td>
-		<td>318</td>
-		<td></td>
+		<td>319</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -641,8 +641,8 @@
 		<td>294</td>
 		<td>294</td>
 		<td>294</td>
-		<td>294</td>
-		<td></td>
+		<td>296</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -674,8 +674,8 @@
 		<td>278</td>
 		<td>278</td>
 		<td>280</td>
-		<td>282</td>
-		<td>+ 2</td>
+		<td>284</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -799,6 +799,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>free.worlds.5.years.later</td>
+		<td>218</td>
+		<td>218</td>
+		<td>218</td>
+		<td>221</td>
+		<td>223</td>
+		<td>223</td>
+		<td>227</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>human.labels</td>
 		<td>216</td>
 		<td>220</td>
@@ -810,17 +821,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>free.worlds.5.years.later</td>
-		<td>218</td>
-		<td>218</td>
-		<td>218</td>
-		<td>221</td>
-		<td>223</td>
-		<td>223</td>
-		<td>225</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
 		<td>outfits.weapon.slot</td>
 		<td>211</td>
 		<td>215</td>
@@ -828,8 +828,8 @@
 		<td>216</td>
 		<td>220</td>
 		<td>220</td>
-		<td>220</td>
-		<td></td>
+		<td>222</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -905,8 +905,8 @@
 		<td>20</td>
 		<td>29</td>
 		<td>30</td>
-		<td>32</td>
-		<td>+ 2</td>
+		<td>34</td>
+		<td>+ 4</td>
 	</tr>
 </table>
 </sub></sup>
