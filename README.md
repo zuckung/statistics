@@ -274,8 +274,8 @@
 		<td>20</td>
 		<td>29</td>
 		<td>30</td>
-		<td>30</td>
-		<td></td>
+		<td>32</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -318,8 +318,8 @@
 		<td>399</td>
 		<td>401</td>
 		<td>402</td>
-		<td>404</td>
-		<td>+ 2</td>
+		<td>406</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -509,8 +509,8 @@
 		<td>399</td>
 		<td>401</td>
 		<td>402</td>
-		<td>404</td>
-		<td>+ 2</td>
+		<td>406</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -905,8 +905,8 @@
 		<td>20</td>
 		<td>29</td>
 		<td>30</td>
-		<td>30</td>
-		<td></td>
+		<td>32</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
