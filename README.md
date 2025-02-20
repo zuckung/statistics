@@ -21,8 +21,8 @@
 		<td>456</td>
 		<td>457</td>
 		<td>459</td>
-		<td>460</td>
-		<td>+ 1</td>
+		<td>462</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -32,8 +32,8 @@
 		<td>278</td>
 		<td>280</td>
 		<td>281</td>
-		<td>282</td>
-		<td>+ 1</td>
+		<td>284</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -208,8 +208,8 @@
 		<td>294</td>
 		<td>294</td>
 		<td>294</td>
-		<td>297</td>
-		<td>+ 3</td>
+		<td>301</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -219,8 +219,8 @@
 		<td>241</td>
 		<td>243</td>
 		<td>243</td>
-		<td>244</td>
-		<td>+ 1</td>
+		<td>246</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -274,8 +274,8 @@
 		<td>20</td>
 		<td>29</td>
 		<td>30</td>
-		<td>43</td>
-		<td>+ 13</td>
+		<td>45</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -428,8 +428,8 @@
 		<td>415</td>
 		<td>417</td>
 		<td>419</td>
-		<td>422</td>
-		<td>+ 3</td>
+		<td>424</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -487,8 +487,8 @@
 		<td>456</td>
 		<td>457</td>
 		<td>459</td>
-		<td>460</td>
-		<td>+ 1</td>
+		<td>462</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -498,8 +498,8 @@
 		<td>415</td>
 		<td>417</td>
 		<td>419</td>
-		<td>422</td>
-		<td>+ 3</td>
+		<td>424</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -623,6 +623,17 @@
 		<td>+ 5</td>
 	</tr>
 	<tr>
+		<td>jump.gates</td>
+		<td>289</td>
+		<td>293</td>
+		<td>293</td>
+		<td>294</td>
+		<td>294</td>
+		<td>294</td>
+		<td>301</td>
+		<td>+ 7</td>
+	</tr>
+	<tr>
 		<td>captureable.person.ships</td>
 		<td>290</td>
 		<td>294</td>
@@ -632,17 +643,6 @@
 		<td>298</td>
 		<td>299</td>
 		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>jump.gates</td>
-		<td>289</td>
-		<td>293</td>
-		<td>293</td>
-		<td>294</td>
-		<td>294</td>
-		<td>294</td>
-		<td>297</td>
-		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -685,8 +685,8 @@
 		<td>278</td>
 		<td>280</td>
 		<td>281</td>
-		<td>282</td>
-		<td>+ 1</td>
+		<td>284</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -755,6 +755,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>kestrel.unlocks</td>
+		<td>238</td>
+		<td>240</td>
+		<td>240</td>
+		<td>241</td>
+		<td>243</td>
+		<td>243</td>
+		<td>246</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>240</td>
 		<td>240</td>
@@ -763,17 +774,6 @@
 		<td>245</td>
 		<td>245</td>
 		<td>246</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>kestrel.unlocks</td>
-		<td>238</td>
-		<td>240</td>
-		<td>240</td>
-		<td>241</td>
-		<td>243</td>
-		<td>243</td>
-		<td>244</td>
 		<td>+ 1</td>
 	</tr>
 	<tr>
@@ -905,8 +905,8 @@
 		<td>20</td>
 		<td>29</td>
 		<td>30</td>
-		<td>43</td>
-		<td>+ 13</td>
+		<td>45</td>
+		<td>+ 15</td>
 	</tr>
 </table>
 </sub></sup>
