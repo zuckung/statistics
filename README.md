@@ -164,8 +164,8 @@
 		<td>457</td>
 		<td>463</td>
 		<td>463</td>
-		<td>467</td>
-		<td>+ 4</td>
+		<td>469</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -274,8 +274,8 @@
 		<td>20</td>
 		<td>29</td>
 		<td>30</td>
-		<td>34</td>
-		<td>+ 4</td>
+		<td>38</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -307,8 +307,8 @@
 		<td>289</td>
 		<td>291</td>
 		<td>292</td>
-		<td>292</td>
-		<td></td>
+		<td>294</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -476,8 +476,8 @@
 		<td>457</td>
 		<td>463</td>
 		<td>463</td>
-		<td>467</td>
-		<td>+ 4</td>
+		<td>469</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -652,8 +652,8 @@
 		<td>289</td>
 		<td>291</td>
 		<td>292</td>
-		<td>292</td>
-		<td></td>
+		<td>294</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -905,8 +905,8 @@
 		<td>20</td>
 		<td>29</td>
 		<td>30</td>
-		<td>34</td>
-		<td>+ 4</td>
+		<td>38</td>
+		<td>+ 8</td>
 	</tr>
 </table>
 </sub></sup>
