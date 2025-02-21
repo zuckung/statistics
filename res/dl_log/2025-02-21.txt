@@ -120,7 +120,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 283
+v1.0.1-automata.destruction.0percent | downloads: 285
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -184,13 +184,13 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 183
-# TOTAL DOWNLOADS: 11538
+# TOTAL DOWNLOADS: 11540
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 464
-automata.destruction.0percent 284
+automata.destruction.0percent 286
 automata.in.human.space 254
 avgi.licenses 46
 better.starts 320
