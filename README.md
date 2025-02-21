@@ -76,8 +76,8 @@
 		<td>402</td>
 		<td>402</td>
 		<td>407</td>
-		<td>407</td>
-		<td></td>
+		<td>408</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -175,8 +175,8 @@
 		<td>380</td>
 		<td>380</td>
 		<td>385</td>
-		<td>385</td>
-		<td></td>
+		<td>386</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -285,8 +285,8 @@
 		<td>344</td>
 		<td>347</td>
 		<td>350</td>
-		<td>352</td>
-		<td>+ 2</td>
+		<td>353</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -340,8 +340,8 @@
 		<td>220</td>
 		<td>220</td>
 		<td>223</td>
-		<td>223</td>
-		<td></td>
+		<td>224</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -428,8 +428,8 @@
 		<td>417</td>
 		<td>419</td>
 		<td>424</td>
-		<td>424</td>
-		<td></td>
+		<td>425</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -450,8 +450,8 @@
 		<td>262</td>
 		<td>262</td>
 		<td>265</td>
-		<td>265</td>
-		<td></td>
+		<td>266</td>
+		<td>+ 1</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>417</td>
 		<td>419</td>
 		<td>424</td>
-		<td>424</td>
-		<td></td>
+		<td>425</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -520,8 +520,8 @@
 		<td>402</td>
 		<td>402</td>
 		<td>407</td>
-		<td>407</td>
-		<td></td>
+		<td>408</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -542,8 +542,8 @@
 		<td>380</td>
 		<td>380</td>
 		<td>385</td>
-		<td>385</td>
-		<td></td>
+		<td>386</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -597,8 +597,8 @@
 		<td>344</td>
 		<td>347</td>
 		<td>350</td>
-		<td>352</td>
-		<td>+ 2</td>
+		<td>353</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -696,8 +696,8 @@
 		<td>262</td>
 		<td>262</td>
 		<td>265</td>
-		<td>265</td>
-		<td></td>
+		<td>266</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -828,8 +828,8 @@
 		<td>220</td>
 		<td>220</td>
 		<td>223</td>
-		<td>223</td>
-		<td></td>
+		<td>224</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
