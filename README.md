@@ -164,8 +164,8 @@
 		<td>463</td>
 		<td>463</td>
 		<td>472</td>
-		<td>475</td>
-		<td>+ 3</td>
+		<td>477</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -208,8 +208,8 @@
 		<td>294</td>
 		<td>294</td>
 		<td>301</td>
-		<td>301</td>
-		<td></td>
+		<td>303</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -274,8 +274,8 @@
 		<td>29</td>
 		<td>30</td>
 		<td>45</td>
-		<td>45</td>
-		<td></td>
+		<td>47</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -307,8 +307,8 @@
 		<td>291</td>
 		<td>292</td>
 		<td>295</td>
-		<td>297</td>
-		<td>+ 2</td>
+		<td>299</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -318,8 +318,8 @@
 		<td>401</td>
 		<td>402</td>
 		<td>409</td>
-		<td>409</td>
-		<td></td>
+		<td>411</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -373,8 +373,8 @@
 		<td>82</td>
 		<td>82</td>
 		<td>83</td>
-		<td>83</td>
-		<td></td>
+		<td>85</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -384,8 +384,8 @@
 		<td>371</td>
 		<td>371</td>
 		<td>372</td>
-		<td>372</td>
-		<td></td>
+		<td>374</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -476,8 +476,8 @@
 		<td>463</td>
 		<td>463</td>
 		<td>472</td>
-		<td>475</td>
-		<td>+ 3</td>
+		<td>477</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -509,8 +509,8 @@
 		<td>401</td>
 		<td>402</td>
 		<td>409</td>
-		<td>409</td>
-		<td></td>
+		<td>411</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -553,8 +553,8 @@
 		<td>371</td>
 		<td>371</td>
 		<td>372</td>
-		<td>372</td>
-		<td></td>
+		<td>374</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -630,8 +630,8 @@
 		<td>294</td>
 		<td>294</td>
 		<td>301</td>
-		<td>301</td>
-		<td></td>
+		<td>303</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -652,8 +652,8 @@
 		<td>291</td>
 		<td>292</td>
 		<td>295</td>
-		<td>297</td>
-		<td>+ 2</td>
+		<td>299</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -883,8 +883,19 @@
 		<td>82</td>
 		<td>82</td>
 		<td>83</td>
-		<td>83</td>
-		<td></td>
+		<td>85</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>mission.helper</td>
+		<td>0</td>
+		<td>0</td>
+		<td>20</td>
+		<td>29</td>
+		<td>30</td>
+		<td>45</td>
+		<td>47</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
@@ -895,17 +906,6 @@
 		<td>45</td>
 		<td>46</td>
 		<td>46</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>0</td>
-		<td>0</td>
-		<td>20</td>
-		<td>29</td>
-		<td>30</td>
-		<td>45</td>
-		<td>45</td>
 		<td></td>
 	</tr>
 </table>
