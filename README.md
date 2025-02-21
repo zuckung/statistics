@@ -87,8 +87,8 @@
 		<td>298</td>
 		<td>298</td>
 		<td>299</td>
-		<td>299</td>
-		<td></td>
+		<td>301</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -164,8 +164,8 @@
 		<td>463</td>
 		<td>463</td>
 		<td>472</td>
-		<td>473</td>
-		<td>+ 1</td>
+		<td>475</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -285,8 +285,8 @@
 		<td>344</td>
 		<td>347</td>
 		<td>350</td>
-		<td>350</td>
-		<td></td>
+		<td>352</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -307,8 +307,8 @@
 		<td>291</td>
 		<td>292</td>
 		<td>295</td>
-		<td>295</td>
-		<td></td>
+		<td>297</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -476,8 +476,8 @@
 		<td>463</td>
 		<td>463</td>
 		<td>472</td>
-		<td>473</td>
-		<td>+ 1</td>
+		<td>475</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -597,8 +597,8 @@
 		<td>344</td>
 		<td>347</td>
 		<td>350</td>
-		<td>350</td>
-		<td></td>
+		<td>352</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -641,8 +641,8 @@
 		<td>298</td>
 		<td>298</td>
 		<td>299</td>
-		<td>299</td>
-		<td></td>
+		<td>301</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -652,8 +652,8 @@
 		<td>291</td>
 		<td>292</td>
 		<td>295</td>
-		<td>295</td>
-		<td></td>
+		<td>297</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
