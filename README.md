@@ -153,8 +153,8 @@
 		<td>223</td>
 		<td>223</td>
 		<td>228</td>
-		<td>228</td>
-		<td></td>
+		<td>230</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -164,8 +164,8 @@
 		<td>463</td>
 		<td>463</td>
 		<td>472</td>
-		<td>472</td>
-		<td></td>
+		<td>473</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -476,8 +476,8 @@
 		<td>463</td>
 		<td>463</td>
 		<td>472</td>
-		<td>472</td>
-		<td></td>
+		<td>473</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -806,8 +806,8 @@
 		<td>223</td>
 		<td>223</td>
 		<td>228</td>
-		<td>228</td>
-		<td></td>
+		<td>230</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
