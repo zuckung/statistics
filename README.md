@@ -32,8 +32,8 @@
 		<td>280</td>
 		<td>281</td>
 		<td>284</td>
-		<td>284</td>
-		<td></td>
+		<td>286</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -656,6 +656,17 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>277</td>
+		<td>277</td>
+		<td>278</td>
+		<td>280</td>
+		<td>281</td>
+		<td>284</td>
+		<td>286</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>snowfeather.robotics</td>
 		<td>276</td>
 		<td>277</td>
@@ -675,17 +686,6 @@
 		<td>280</td>
 		<td>285</td>
 		<td>285</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>277</td>
-		<td>277</td>
-		<td>278</td>
-		<td>280</td>
-		<td>281</td>
-		<td>284</td>
-		<td>284</td>
 		<td></td>
 	</tr>
 	<tr>
