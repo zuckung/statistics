@@ -164,8 +164,8 @@
 		<td>463</td>
 		<td>472</td>
 		<td>477</td>
-		<td>477</td>
-		<td></td>
+		<td>479</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -274,8 +274,8 @@
 		<td>30</td>
 		<td>45</td>
 		<td>49</td>
-		<td>55</td>
-		<td>+ 6</td>
+		<td>57</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -476,8 +476,8 @@
 		<td>463</td>
 		<td>472</td>
 		<td>477</td>
-		<td>477</td>
-		<td></td>
+		<td>479</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -894,8 +894,8 @@
 		<td>30</td>
 		<td>45</td>
 		<td>49</td>
-		<td>55</td>
-		<td>+ 6</td>
+		<td>57</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
