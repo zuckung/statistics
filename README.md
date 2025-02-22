@@ -142,8 +142,8 @@
 		<td>398</td>
 		<td>405</td>
 		<td>405</td>
-		<td>405</td>
-		<td></td>
+		<td>407</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -274,8 +274,8 @@
 		<td>30</td>
 		<td>45</td>
 		<td>49</td>
-		<td>49</td>
-		<td></td>
+		<td>51</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -531,8 +531,8 @@
 		<td>398</td>
 		<td>405</td>
 		<td>405</td>
-		<td>405</td>
-		<td></td>
+		<td>407</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -894,8 +894,8 @@
 		<td>30</td>
 		<td>45</td>
 		<td>49</td>
-		<td>49</td>
-		<td></td>
+		<td>51</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
