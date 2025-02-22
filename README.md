@@ -351,8 +351,8 @@
 		<td>246</td>
 		<td>249</td>
 		<td>249</td>
-		<td>249</td>
-		<td></td>
+		<td>250</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -395,8 +395,8 @@
 		<td>304</td>
 		<td>309</td>
 		<td>309</td>
-		<td>309</td>
-		<td></td>
+		<td>310</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -619,8 +619,8 @@
 		<td>304</td>
 		<td>309</td>
 		<td>309</td>
-		<td>309</td>
-		<td></td>
+		<td>310</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -740,8 +740,8 @@
 		<td>246</td>
 		<td>249</td>
 		<td>249</td>
-		<td>249</td>
-		<td></td>
+		<td>250</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
