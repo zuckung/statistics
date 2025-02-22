@@ -197,8 +197,8 @@
 		<td>225</td>
 		<td>226</td>
 		<td>226</td>
-		<td>226</td>
-		<td></td>
+		<td>228</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -274,8 +274,8 @@
 		<td>30</td>
 		<td>45</td>
 		<td>49</td>
-		<td>51</td>
-		<td>+ 2</td>
+		<td>53</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -296,8 +296,8 @@
 		<td>356</td>
 		<td>359</td>
 		<td>359</td>
-		<td>359</td>
-		<td></td>
+		<td>361</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -384,8 +384,8 @@
 		<td>371</td>
 		<td>372</td>
 		<td>374</td>
-		<td>374</td>
-		<td></td>
+		<td>376</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -553,8 +553,8 @@
 		<td>371</td>
 		<td>372</td>
 		<td>374</td>
-		<td>374</td>
-		<td></td>
+		<td>376</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -575,8 +575,8 @@
 		<td>356</td>
 		<td>359</td>
 		<td>359</td>
-		<td>359</td>
-		<td></td>
+		<td>361</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -817,8 +817,8 @@
 		<td>225</td>
 		<td>226</td>
 		<td>226</td>
-		<td>226</td>
-		<td></td>
+		<td>228</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -894,8 +894,8 @@
 		<td>30</td>
 		<td>45</td>
 		<td>49</td>
-		<td>51</td>
-		<td>+ 2</td>
+		<td>53</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
