@@ -65,8 +65,8 @@
 		<td>320</td>
 		<td>320</td>
 		<td>320</td>
-		<td>326</td>
-		<td>+ 6</td>
+		<td>327</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -208,8 +208,8 @@
 		<td>301</td>
 		<td>303</td>
 		<td>303</td>
-		<td>307</td>
-		<td>+ 4</td>
+		<td>308</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -274,8 +274,8 @@
 		<td>45</td>
 		<td>49</td>
 		<td>57</td>
-		<td>60</td>
-		<td>+ 3</td>
+		<td>61</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -608,8 +608,8 @@
 		<td>320</td>
 		<td>320</td>
 		<td>320</td>
-		<td>326</td>
-		<td>+ 6</td>
+		<td>327</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -630,8 +630,8 @@
 		<td>301</td>
 		<td>303</td>
 		<td>303</td>
-		<td>307</td>
-		<td>+ 4</td>
+		<td>308</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -894,8 +894,8 @@
 		<td>45</td>
 		<td>49</td>
 		<td>57</td>
-		<td>60</td>
-		<td>+ 3</td>
+		<td>61</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
