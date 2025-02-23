@@ -1,4 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
+v1.0.17-additional.command.buttons.radial | downloads: 0
 v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 21
 v1.0.0-mission.helper | downloads: 38
@@ -184,7 +185,7 @@ v1.0-additional.command.buttons | downloads: 1
 v1.1-galactic.capital.investment | downloads: 28
 
 
-# NUMBER OF RELEASES: 184
+# NUMBER OF RELEASES: 185
 # TOTAL DOWNLOADS: 11635
 
 
