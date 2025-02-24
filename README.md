@@ -21,8 +21,8 @@
 		<td>464</td>
 		<td>464</td>
 		<td>473</td>
-		<td>473</td>
-		<td></td>
+		<td>477</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -164,8 +164,8 @@
 		<td>477</td>
 		<td>479</td>
 		<td>483</td>
-		<td>483</td>
-		<td></td>
+		<td>485</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -241,8 +241,8 @@
 		<td>252</td>
 		<td>252</td>
 		<td>254</td>
-		<td>254</td>
-		<td></td>
+		<td>256</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -252,8 +252,8 @@
 		<td>238</td>
 		<td>238</td>
 		<td>242</td>
-		<td>242</td>
-		<td></td>
+		<td>244</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -340,8 +340,8 @@
 		<td>224</td>
 		<td>224</td>
 		<td>226</td>
-		<td>226</td>
-		<td></td>
+		<td>228</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -351,8 +351,8 @@
 		<td>249</td>
 		<td>250</td>
 		<td>254</td>
-		<td>254</td>
-		<td></td>
+		<td>256</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -476,8 +476,8 @@
 		<td>477</td>
 		<td>479</td>
 		<td>483</td>
-		<td>483</td>
-		<td></td>
+		<td>485</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -487,8 +487,8 @@
 		<td>464</td>
 		<td>464</td>
 		<td>473</td>
-		<td>473</td>
-		<td></td>
+		<td>477</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -711,17 +711,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>control.station</td>
-		<td>252</td>
-		<td>252</td>
-		<td>253</td>
-		<td>253</td>
-		<td>253</td>
-		<td>255</td>
-		<td>255</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>paint.your.ships</td>
 		<td>246</td>
 		<td>246</td>
@@ -729,8 +718,8 @@
 		<td>249</td>
 		<td>250</td>
 		<td>254</td>
-		<td>254</td>
-		<td></td>
+		<td>256</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -740,7 +729,18 @@
 		<td>252</td>
 		<td>252</td>
 		<td>254</td>
-		<td>254</td>
+		<td>256</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>control.station</td>
+		<td>252</td>
+		<td>252</td>
+		<td>253</td>
+		<td>253</td>
+		<td>253</td>
+		<td>255</td>
+		<td>255</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -784,8 +784,8 @@
 		<td>238</td>
 		<td>238</td>
 		<td>242</td>
-		<td>242</td>
-		<td></td>
+		<td>244</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -828,8 +828,8 @@
 		<td>224</td>
 		<td>224</td>
 		<td>226</td>
-		<td>226</td>
-		<td></td>
+		<td>228</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
