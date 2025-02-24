@@ -230,8 +230,8 @@
 		<td>368</td>
 		<td>368</td>
 		<td>374</td>
-		<td>376</td>
-		<td>+ 2</td>
+		<td>378</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -564,8 +564,8 @@
 		<td>368</td>
 		<td>368</td>
 		<td>374</td>
-		<td>376</td>
-		<td>+ 2</td>
+		<td>378</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
