@@ -109,8 +109,8 @@
 		<td>253</td>
 		<td>253</td>
 		<td>255</td>
-		<td>255</td>
-		<td></td>
+		<td>257</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -711,6 +711,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>control.station</td>
+		<td>252</td>
+		<td>252</td>
+		<td>253</td>
+		<td>253</td>
+		<td>253</td>
+		<td>255</td>
+		<td>257</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>paint.your.ships</td>
 		<td>246</td>
 		<td>246</td>
@@ -731,17 +742,6 @@
 		<td>254</td>
 		<td>256</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>control.station</td>
-		<td>252</td>
-		<td>252</td>
-		<td>253</td>
-		<td>253</td>
-		<td>253</td>
-		<td>255</td>
-		<td>255</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
