@@ -175,8 +175,8 @@
 		<td>386</td>
 		<td>386</td>
 		<td>392</td>
-		<td>392</td>
-		<td></td>
+		<td>394</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -542,8 +542,8 @@
 		<td>386</td>
 		<td>386</td>
 		<td>392</td>
-		<td>392</td>
-		<td></td>
+		<td>394</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
