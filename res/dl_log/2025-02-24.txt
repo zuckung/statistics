@@ -129,7 +129,7 @@ v1.1.1-captureable.person.ships | downloads: 1
 v1.1.3-hai.side.mission.unlocker | downloads: 71
 v1.1.1-disable.spaceport.repeatables | downloads: 247
 v1.0.0-quarg.farm | downloads: 1
-v1.0.1-control.station | downloads: 254
+v1.0.1-control.station | downloads: 256
 v1.0.0-control.station | downloads: 1
 v1.0.0-additional.command.buttons.radial | downloads: 52
 v1.1.3-more.boarding.missions | downloads: 313
@@ -186,7 +186,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 185
-# TOTAL DOWNLOADS: 11747
+# TOTAL DOWNLOADS: 11749
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -199,7 +199,7 @@ better.starts 327
 bunrodea.missions 414
 captureable.person.ships 305
 coalition.shopping 359
-control.station 255
+control.station 257
 devil-run.unhidden 66
 disable.person.ships 162
 disable.spaceport.repeatables 248
