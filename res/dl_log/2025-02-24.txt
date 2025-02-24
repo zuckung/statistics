@@ -1,9 +1,9 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.17-additional.command.buttons.radial | downloads: 4
+v1.0.17-additional.command.buttons.radial | downloads: 8
 v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 23
 v1.0.0-mission.helper | downloads: 38
-v1.1.5-galactic.capital.investment | downloads: 55
+v1.1.5-galactic.capital.investment | downloads: 57
 v1.0.7-bunrodea.missions | downloads: 35
 v1.0.5-human.labels | downloads: 17
 v1.1.4-more.boarding.missions | downloads: 49
@@ -51,7 +51,7 @@ v1.0.8-additional.command.buttons.radial | downloads: 20
 v1.0.2-better.starts | downloads: 35
 v1.1.5-captureable.person.ships | downloads: 54
 v1.0.7-additional.command.buttons.radial | downloads: 9
-v1.0.4-landing.images | downloads: 181
+v1.0.4-landing.images | downloads: 183
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 120
 v1.0.2-quarg.farm | downloads: 190
@@ -67,14 +67,14 @@ v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 214
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 179
-v1.0.1-paint.your.ships | downloads: 250
+v1.0.1-paint.your.ships | downloads: 252
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
 v1.0.1-uniques | downloads: 14
 v1.0.4-additional.command.buttons.radial | downloads: 5
 v1.0.3-additional.command.buttons.radial | downloads: 10
 v1.0.2-additional.command.buttons.radial | downloads: 4
-v1.0.0-outfits.weapon.slot | downloads: 226
+v1.0.0-outfits.weapon.slot | downloads: 228
 v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 108
@@ -83,7 +83,7 @@ v1.0.2-tribute.republic | downloads: 182
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
 v1.0.0-tribute.republic | downloads: 2
-v1.0.3-landing.images.android | downloads: 214
+v1.0.3-landing.images.android | downloads: 216
 v1.0.2-landing.images.android | downloads: 2
 v1.0.1-landing.images.android | downloads: 21
 v1.0.2-no.more.mereti.mines | downloads: 54
@@ -186,12 +186,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 185
-# TOTAL DOWNLOADS: 11733
+# TOTAL DOWNLOADS: 11747
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 473
+additional.command.buttons.radial 477
 automata.destruction.0percent 290
 automata.in.human.space 259
 avgi.licenses 54
@@ -205,15 +205,15 @@ disable.person.ships 162
 disable.spaceport.repeatables 248
 expert.crew.members 413
 free.worlds.5.years.later 234
-galactic.capital.investment 483
+galactic.capital.investment 485
 gegno.pirates 394
 hai.side.mission.unlocker 289
 human.labels 230
 jump.gates 308
 kestrel.unlocks 248
 kor.efret.shipyard 374
-landing.images 254
-landing.images.android 242
+landing.images 256
+landing.images.android 244
 landing.images.highres 193
 mission.helper 61
 more.arfectas 357
@@ -221,8 +221,8 @@ more.boarding.missions 369
 more.person.ships 303
 navy.licenses 415
 no.more.mereti.mines 235
-outfits.weapon.slot 226
-paint.your.ships 254
+outfits.weapon.slot 228
+paint.your.ships 256
 pirate.warlords 3
 planet.map 178
 planet.pluto 89
