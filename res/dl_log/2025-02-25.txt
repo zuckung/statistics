@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.17-additional.command.buttons.radial | downloads: 13
 v1.0.16-additional.command.buttons.radial | downloads: 3
-v1.0.1-mission.helper | downloads: 23
+v1.0.1-mission.helper | downloads: 25
 v1.0.0-mission.helper | downloads: 38
 v1.1.5-galactic.capital.investment | downloads: 57
 v1.0.7-bunrodea.missions | downloads: 35
@@ -14,12 +14,12 @@ v1.0.6-expert.crew.members | downloads: 62
 v1.0.0-avgi.licenses | downloads: 56
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
-v1.1.7-captureable.person.ships | downloads: 60
+v1.1.7-captureable.person.ships | downloads: 61
 v1.0.8-uniques | downloads: 64
 v1.0.3-quarg.farm | downloads: 73
 v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 103
-v1.0.3-show.reputation | downloads: 63
+v1.0.3-show.reputation | downloads: 64
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 116
 v1.0.5-bunrodea.missions | downloads: 120
@@ -58,7 +58,7 @@ v1.0.2-quarg.farm | downloads: 190
 v1.0.2-landing.images.highres | downloads: 125
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 235
-v1.0.1-automata.in.human.space | downloads: 198
+v1.0.1-automata.in.human.space | downloads: 199
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 92
@@ -186,18 +186,18 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 185
-# TOTAL DOWNLOADS: 11782
+# TOTAL DOWNLOADS: 11787
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 482
 automata.destruction.0percent 292
-automata.in.human.space 259
+automata.in.human.space 260
 avgi.licenses 56
 better.starts 331
 bunrodea.missions 414
-captureable.person.ships 305
+captureable.person.ships 306
 coalition.shopping 359
 control.station 257
 devil-run.unhidden 66
@@ -215,7 +215,7 @@ kor.efret.shipyard 378
 landing.images 256
 landing.images.android 244
 landing.images.highres 193
-mission.helper 61
+mission.helper 63
 more.arfectas 359
 more.boarding.missions 371
 more.person.ships 303
@@ -228,7 +228,7 @@ planet.map 178
 planet.pluto 89
 quarg.farm 384
 real.fluff 93
-show.reputation 312
+show.reputation 313
 snowfeather.robotics 289
 space.fauna 252
 too.many.asteroids 434
