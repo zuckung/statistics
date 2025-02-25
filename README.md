@@ -241,8 +241,8 @@
 		<td>252</td>
 		<td>254</td>
 		<td>256</td>
-		<td>256</td>
-		<td></td>
+		<td>258</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -263,8 +263,8 @@
 		<td>191</td>
 		<td>193</td>
 		<td>193</td>
-		<td>193</td>
-		<td></td>
+		<td>194</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -711,6 +711,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>landing.images</td>
+		<td>249</td>
+		<td>252</td>
+		<td>252</td>
+		<td>252</td>
+		<td>254</td>
+		<td>256</td>
+		<td>258</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>control.station</td>
 		<td>252</td>
 		<td>253</td>
@@ -727,17 +738,6 @@
 		<td>249</td>
 		<td>249</td>
 		<td>250</td>
-		<td>254</td>
-		<td>256</td>
-		<td>256</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>landing.images</td>
-		<td>249</td>
-		<td>252</td>
-		<td>252</td>
-		<td>252</td>
 		<td>254</td>
 		<td>256</td>
 		<td>256</td>
@@ -850,8 +850,8 @@
 		<td>191</td>
 		<td>193</td>
 		<td>193</td>
-		<td>193</td>
-		<td></td>
+		<td>194</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
