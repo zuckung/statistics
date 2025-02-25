@@ -43,8 +43,8 @@
 		<td>254</td>
 		<td>259</td>
 		<td>259</td>
-		<td>259</td>
-		<td></td>
+		<td>260</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
@@ -87,8 +87,8 @@
 		<td>301</td>
 		<td>305</td>
 		<td>305</td>
-		<td>305</td>
-		<td></td>
+		<td>306</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -274,8 +274,8 @@
 		<td>57</td>
 		<td>61</td>
 		<td>61</td>
-		<td>61</td>
-		<td></td>
+		<td>63</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -395,8 +395,8 @@
 		<td>310</td>
 		<td>312</td>
 		<td>312</td>
-		<td>312</td>
-		<td></td>
+		<td>313</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -619,8 +619,8 @@
 		<td>310</td>
 		<td>312</td>
 		<td>312</td>
-		<td>312</td>
-		<td></td>
+		<td>313</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -641,8 +641,8 @@
 		<td>301</td>
 		<td>305</td>
 		<td>305</td>
-		<td>305</td>
-		<td></td>
+		<td>306</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -707,8 +707,8 @@
 		<td>254</td>
 		<td>259</td>
 		<td>259</td>
-		<td>259</td>
-		<td></td>
+		<td>260</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -894,8 +894,8 @@
 		<td>57</td>
 		<td>61</td>
 		<td>61</td>
-		<td>61</td>
-		<td></td>
+		<td>63</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
