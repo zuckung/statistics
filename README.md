@@ -285,8 +285,8 @@
 		<td>353</td>
 		<td>357</td>
 		<td>357</td>
-		<td>357</td>
-		<td></td>
+		<td>359</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -579,6 +579,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>more.arfectas</td>
+		<td>347</td>
+		<td>350</td>
+		<td>353</td>
+		<td>353</td>
+		<td>357</td>
+		<td>357</td>
+		<td>359</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>coalition.shopping</td>
 		<td>349</td>
 		<td>355</td>
@@ -587,17 +598,6 @@
 		<td>359</td>
 		<td>359</td>
 		<td>359</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>more.arfectas</td>
-		<td>347</td>
-		<td>350</td>
-		<td>353</td>
-		<td>353</td>
-		<td>357</td>
-		<td>357</td>
-		<td>357</td>
 		<td></td>
 	</tr>
 	<tr>
