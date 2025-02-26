@@ -21,8 +21,8 @@
 		<td>473</td>
 		<td>482</td>
 		<td>482</td>
-		<td>483</td>
-		<td>+ 1</td>
+		<td>484</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -32,8 +32,8 @@
 		<td>290</td>
 		<td>292</td>
 		<td>292</td>
-		<td>293</td>
-		<td>+ 1</td>
+		<td>295</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -87,8 +87,8 @@
 		<td>305</td>
 		<td>305</td>
 		<td>306</td>
-		<td>307</td>
-		<td>+ 1</td>
+		<td>309</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -252,8 +252,8 @@
 		<td>242</td>
 		<td>244</td>
 		<td>244</td>
-		<td>247</td>
-		<td>+ 3</td>
+		<td>249</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -274,8 +274,8 @@
 		<td>61</td>
 		<td>61</td>
 		<td>63</td>
-		<td>69</td>
-		<td>+ 6</td>
+		<td>70</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -329,8 +329,8 @@
 		<td>235</td>
 		<td>235</td>
 		<td>235</td>
-		<td>238</td>
-		<td>+ 3</td>
+		<td>240</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -395,8 +395,8 @@
 		<td>312</td>
 		<td>312</td>
 		<td>313</td>
-		<td>314</td>
-		<td>+ 1</td>
+		<td>316</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -487,8 +487,8 @@
 		<td>473</td>
 		<td>482</td>
 		<td>482</td>
-		<td>483</td>
-		<td>+ 1</td>
+		<td>484</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -619,8 +619,8 @@
 		<td>312</td>
 		<td>312</td>
 		<td>313</td>
-		<td>314</td>
-		<td>+ 1</td>
+		<td>316</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -641,8 +641,8 @@
 		<td>305</td>
 		<td>305</td>
 		<td>306</td>
-		<td>307</td>
-		<td>+ 1</td>
+		<td>309</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -663,8 +663,8 @@
 		<td>290</td>
 		<td>292</td>
 		<td>292</td>
-		<td>293</td>
-		<td>+ 1</td>
+		<td>295</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -784,8 +784,8 @@
 		<td>242</td>
 		<td>244</td>
 		<td>244</td>
-		<td>247</td>
-		<td>+ 3</td>
+		<td>249</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -795,8 +795,8 @@
 		<td>235</td>
 		<td>235</td>
 		<td>235</td>
-		<td>238</td>
-		<td>+ 3</td>
+		<td>240</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -894,8 +894,8 @@
 		<td>61</td>
 		<td>61</td>
 		<td>63</td>
-		<td>69</td>
-		<td>+ 6</td>
+		<td>70</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
