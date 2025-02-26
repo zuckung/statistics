@@ -230,8 +230,8 @@
 		<td>374</td>
 		<td>378</td>
 		<td>378</td>
-		<td>379</td>
-		<td>+ 1</td>
+		<td>380</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -285,8 +285,8 @@
 		<td>357</td>
 		<td>357</td>
 		<td>359</td>
-		<td>361</td>
-		<td>+ 2</td>
+		<td>363</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -351,8 +351,8 @@
 		<td>254</td>
 		<td>256</td>
 		<td>256</td>
-		<td>257</td>
-		<td>+ 1</td>
+		<td>259</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -362,8 +362,8 @@
 		<td>178</td>
 		<td>178</td>
 		<td>178</td>
-		<td>179</td>
-		<td>+ 1</td>
+		<td>181</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -373,8 +373,8 @@
 		<td>89</td>
 		<td>89</td>
 		<td>89</td>
-		<td>90</td>
-		<td>+ 1</td>
+		<td>92</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -564,8 +564,8 @@
 		<td>374</td>
 		<td>378</td>
 		<td>378</td>
-		<td>379</td>
-		<td>+ 1</td>
+		<td>380</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -586,8 +586,8 @@
 		<td>357</td>
 		<td>357</td>
 		<td>359</td>
-		<td>361</td>
-		<td>+ 2</td>
+		<td>363</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -722,6 +722,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>paint.your.ships</td>
+		<td>249</td>
+		<td>249</td>
+		<td>250</td>
+		<td>254</td>
+		<td>256</td>
+		<td>256</td>
+		<td>259</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>control.station</td>
 		<td>253</td>
 		<td>253</td>
@@ -730,17 +741,6 @@
 		<td>257</td>
 		<td>257</td>
 		<td>258</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>249</td>
-		<td>249</td>
-		<td>250</td>
-		<td>254</td>
-		<td>256</td>
-		<td>256</td>
-		<td>257</td>
 		<td>+ 1</td>
 	</tr>
 	<tr>
@@ -861,8 +861,8 @@
 		<td>178</td>
 		<td>178</td>
 		<td>178</td>
-		<td>179</td>
-		<td>+ 1</td>
+		<td>181</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -883,8 +883,8 @@
 		<td>89</td>
 		<td>89</td>
 		<td>89</td>
-		<td>90</td>
-		<td>+ 1</td>
+		<td>92</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
