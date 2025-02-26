@@ -131,8 +131,8 @@
 		<td>248</td>
 		<td>248</td>
 		<td>248</td>
-		<td>249</td>
-		<td>+ 1</td>
+		<td>251</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -219,8 +219,8 @@
 		<td>248</td>
 		<td>248</td>
 		<td>248</td>
-		<td>249</td>
-		<td>+ 1</td>
+		<td>251</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -274,8 +274,8 @@
 		<td>61</td>
 		<td>61</td>
 		<td>63</td>
-		<td>64</td>
-		<td>+ 1</td>
+		<td>67</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -318,8 +318,8 @@
 		<td>415</td>
 		<td>415</td>
 		<td>415</td>
-		<td>417</td>
-		<td>+ 2</td>
+		<td>419</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -509,8 +509,8 @@
 		<td>415</td>
 		<td>415</td>
 		<td>415</td>
-		<td>417</td>
-		<td>+ 2</td>
+		<td>419</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -762,8 +762,8 @@
 		<td>248</td>
 		<td>248</td>
 		<td>248</td>
-		<td>249</td>
-		<td>+ 1</td>
+		<td>251</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -773,8 +773,8 @@
 		<td>248</td>
 		<td>248</td>
 		<td>248</td>
-		<td>249</td>
-		<td>+ 1</td>
+		<td>251</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -894,8 +894,8 @@
 		<td>61</td>
 		<td>61</td>
 		<td>63</td>
-		<td>64</td>
-		<td>+ 1</td>
+		<td>67</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
