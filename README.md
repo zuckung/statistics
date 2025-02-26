@@ -230,8 +230,8 @@
 		<td>374</td>
 		<td>378</td>
 		<td>378</td>
-		<td>380</td>
-		<td>+ 2</td>
+		<td>382</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -384,8 +384,8 @@
 		<td>384</td>
 		<td>384</td>
 		<td>384</td>
-		<td>386</td>
-		<td>+ 2</td>
+		<td>388</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -553,8 +553,8 @@
 		<td>384</td>
 		<td>384</td>
 		<td>384</td>
-		<td>386</td>
-		<td>+ 2</td>
+		<td>388</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -564,8 +564,8 @@
 		<td>374</td>
 		<td>378</td>
 		<td>378</td>
-		<td>380</td>
-		<td>+ 2</td>
+		<td>382</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
