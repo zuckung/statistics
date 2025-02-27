@@ -4,7 +4,7 @@ v1.0.17-additional.command.buttons.radial | downloads: 15
 v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 25
 v1.0.0-mission.helper | downloads: 38
-v1.1.5-galactic.capital.investment | downloads: 67
+v1.1.5-galactic.capital.investment | downloads: 69
 v1.0.7-bunrodea.missions | downloads: 42
 v1.0.5-human.labels | downloads: 20
 v1.1.4-more.boarding.missions | downloads: 56
@@ -12,14 +12,14 @@ v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 46
 v1.0.15-additional.command.buttons.radial | downloads: 69
 v1.0.6-expert.crew.members | downloads: 63
-v1.0.0-avgi.licenses | downloads: 59
+v1.0.0-avgi.licenses | downloads: 60
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 70
 v1.0.8-uniques | downloads: 65
 v1.0.3-quarg.farm | downloads: 83
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 112
+v1.0.4-too.many.asteroids | downloads: 114
 v1.0.3-show.reputation | downloads: 67
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 117
@@ -187,7 +187,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 186
-# TOTAL DOWNLOADS: 11967
+# TOTAL DOWNLOADS: 11972
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -195,7 +195,7 @@ additional.command.buttons 93
 additional.command.buttons.radial 484
 automata.destruction.0percent 297
 automata.in.human.space 265
-avgi.licenses 59
+avgi.licenses 60
 better.starts 332
 bunrodea.missions 421
 captureable.person.ships 315
@@ -206,7 +206,7 @@ disable.person.ships 163
 disable.spaceport.repeatables 251
 expert.crew.members 416
 free.worlds.5.years.later 235
-galactic.capital.investment 495
+galactic.capital.investment 497
 gegno.pirates 399
 hai.side.mission.unlocker 293
 human.labels 233
@@ -232,7 +232,7 @@ real.fluff 93
 show.reputation 316
 snowfeather.robotics 290
 space.fauna 253
-too.many.asteroids 443
+too.many.asteroids 445
 tribute.republic 201
 unique.fix 44
 uniques 275
