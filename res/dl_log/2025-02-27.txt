@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.2-mission.helper | downloads: 9
-v1.0.17-additional.command.buttons.radial | downloads: 17
+v1.0.2-mission.helper | downloads: 11
+v1.0.17-additional.command.buttons.radial | downloads: 19
 v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 25
 v1.0.0-mission.helper | downloads: 38
@@ -187,12 +187,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 186
-# TOTAL DOWNLOADS: 12038
+# TOTAL DOWNLOADS: 12042
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 486
+additional.command.buttons.radial 488
 automata.destruction.0percent 299
 automata.in.human.space 265
 avgi.licenses 64
@@ -216,7 +216,7 @@ kor.efret.shipyard 388
 landing.images 261
 landing.images.android 251
 landing.images.highres 195
-mission.helper 72
+mission.helper 74
 more.arfectas 371
 more.boarding.missions 376
 more.person.ships 306
