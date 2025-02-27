@@ -21,8 +21,8 @@
 		<td>482</td>
 		<td>482</td>
 		<td>484</td>
-		<td>486</td>
-		<td>+ 2</td>
+		<td>488</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -274,8 +274,8 @@
 		<td>61</td>
 		<td>63</td>
 		<td>70</td>
-		<td>72</td>
-		<td>+ 2</td>
+		<td>74</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -487,8 +487,8 @@
 		<td>482</td>
 		<td>482</td>
 		<td>484</td>
-		<td>486</td>
-		<td>+ 2</td>
+		<td>488</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -894,8 +894,8 @@
 		<td>61</td>
 		<td>63</td>
 		<td>70</td>
-		<td>72</td>
-		<td>+ 2</td>
+		<td>74</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
