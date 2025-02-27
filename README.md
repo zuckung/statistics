@@ -87,8 +87,8 @@
 		<td>305</td>
 		<td>306</td>
 		<td>311</td>
-		<td>319</td>
-		<td>+ 8</td>
+		<td>321</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -630,8 +630,8 @@
 		<td>305</td>
 		<td>306</td>
 		<td>311</td>
-		<td>319</td>
-		<td>+ 8</td>
+		<td>321</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
