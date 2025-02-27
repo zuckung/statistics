@@ -186,8 +186,8 @@
 		<td>289</td>
 		<td>289</td>
 		<td>291</td>
-		<td>291</td>
-		<td></td>
+		<td>293</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -674,8 +674,8 @@
 		<td>289</td>
 		<td>289</td>
 		<td>291</td>
-		<td>291</td>
-		<td></td>
+		<td>293</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
