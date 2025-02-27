@@ -32,8 +32,8 @@
 		<td>292</td>
 		<td>292</td>
 		<td>295</td>
-		<td>295</td>
-		<td></td>
+		<td>297</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -87,8 +87,8 @@
 		<td>305</td>
 		<td>306</td>
 		<td>311</td>
-		<td>311</td>
-		<td></td>
+		<td>313</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -98,8 +98,8 @@
 		<td>359</td>
 		<td>359</td>
 		<td>362</td>
-		<td>362</td>
-		<td></td>
+		<td>364</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -597,8 +597,8 @@
 		<td>359</td>
 		<td>359</td>
 		<td>362</td>
-		<td>362</td>
-		<td></td>
+		<td>364</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -641,8 +641,8 @@
 		<td>305</td>
 		<td>306</td>
 		<td>311</td>
-		<td>311</td>
-		<td></td>
+		<td>313</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -663,8 +663,8 @@
 		<td>292</td>
 		<td>292</td>
 		<td>295</td>
-		<td>295</td>
-		<td></td>
+		<td>297</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
