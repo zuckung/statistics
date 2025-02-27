@@ -54,8 +54,8 @@
 		<td>56</td>
 		<td>56</td>
 		<td>57</td>
-		<td>59</td>
-		<td>+ 2</td>
+		<td>60</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -164,8 +164,8 @@
 		<td>485</td>
 		<td>485</td>
 		<td>491</td>
-		<td>495</td>
-		<td>+ 4</td>
+		<td>497</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -428,8 +428,8 @@
 		<td>434</td>
 		<td>434</td>
 		<td>441</td>
-		<td>443</td>
-		<td>+ 2</td>
+		<td>445</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -476,8 +476,8 @@
 		<td>485</td>
 		<td>485</td>
 		<td>491</td>
-		<td>495</td>
-		<td>+ 4</td>
+		<td>497</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -498,8 +498,8 @@
 		<td>434</td>
 		<td>434</td>
 		<td>441</td>
-		<td>443</td>
-		<td>+ 2</td>
+		<td>445</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -905,8 +905,8 @@
 		<td>56</td>
 		<td>56</td>
 		<td>57</td>
-		<td>59</td>
-		<td>+ 2</td>
+		<td>60</td>
+		<td>+ 3</td>
 	</tr>
 </table>
 </sub></sup>
