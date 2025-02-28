@@ -54,8 +54,8 @@
 		<td>56</td>
 		<td>57</td>
 		<td>64</td>
-		<td>64</td>
-		<td></td>
+		<td>66</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -76,8 +76,8 @@
 		<td>414</td>
 		<td>419</td>
 		<td>423</td>
-		<td>423</td>
-		<td></td>
+		<td>425</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -142,8 +142,8 @@
 		<td>415</td>
 		<td>416</td>
 		<td>418</td>
-		<td>418</td>
-		<td></td>
+		<td>420</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -164,8 +164,8 @@
 		<td>485</td>
 		<td>491</td>
 		<td>501</td>
-		<td>501</td>
-		<td></td>
+		<td>503</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -186,8 +186,8 @@
 		<td>289</td>
 		<td>291</td>
 		<td>295</td>
-		<td>295</td>
-		<td></td>
+		<td>297</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -296,8 +296,8 @@
 		<td>371</td>
 		<td>374</td>
 		<td>376</td>
-		<td>376</td>
-		<td></td>
+		<td>378</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -318,8 +318,8 @@
 		<td>415</td>
 		<td>423</td>
 		<td>429</td>
-		<td>429</td>
-		<td></td>
+		<td>431</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -406,8 +406,8 @@
 		<td>289</td>
 		<td>290</td>
 		<td>292</td>
-		<td>292</td>
-		<td></td>
+		<td>294</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -450,8 +450,8 @@
 		<td>274</td>
 		<td>275</td>
 		<td>277</td>
-		<td>277</td>
-		<td></td>
+		<td>279</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -476,8 +476,8 @@
 		<td>485</td>
 		<td>491</td>
 		<td>501</td>
-		<td>501</td>
-		<td></td>
+		<td>503</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -509,8 +509,8 @@
 		<td>415</td>
 		<td>423</td>
 		<td>429</td>
-		<td>429</td>
-		<td></td>
+		<td>431</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -520,8 +520,8 @@
 		<td>414</td>
 		<td>419</td>
 		<td>423</td>
-		<td>423</td>
-		<td></td>
+		<td>425</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -531,8 +531,8 @@
 		<td>415</td>
 		<td>416</td>
 		<td>418</td>
-		<td>418</td>
-		<td></td>
+		<td>420</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -575,8 +575,8 @@
 		<td>371</td>
 		<td>374</td>
 		<td>376</td>
-		<td>376</td>
-		<td></td>
+		<td>378</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -674,8 +674,8 @@
 		<td>289</td>
 		<td>291</td>
 		<td>295</td>
-		<td>295</td>
-		<td></td>
+		<td>297</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -685,8 +685,8 @@
 		<td>289</td>
 		<td>290</td>
 		<td>292</td>
-		<td>292</td>
-		<td></td>
+		<td>294</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -696,8 +696,8 @@
 		<td>274</td>
 		<td>275</td>
 		<td>277</td>
-		<td>277</td>
-		<td></td>
+		<td>279</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -905,8 +905,8 @@
 		<td>56</td>
 		<td>57</td>
 		<td>64</td>
-		<td>64</td>
-		<td></td>
+		<td>66</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
