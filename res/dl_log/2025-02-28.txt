@@ -6,14 +6,14 @@ v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 25
 v1.0.0-mission.helper | downloads: 38
 v1.1.5-galactic.capital.investment | downloads: 77
-v1.0.7-bunrodea.missions | downloads: 49
+v1.0.7-bunrodea.missions | downloads: 51
 v1.0.5-human.labels | downloads: 25
-v1.1.4-more.boarding.missions | downloads: 60
+v1.1.4-more.boarding.missions | downloads: 62
 v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 52
 v1.0.15-additional.command.buttons.radial | downloads: 69
-v1.0.6-expert.crew.members | downloads: 72
-v1.0.0-avgi.licenses | downloads: 71
+v1.0.6-expert.crew.members | downloads: 74
+v1.0.0-avgi.licenses | downloads: 73
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 79
@@ -188,7 +188,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 187
-# TOTAL DOWNLOADS: 12146
+# TOTAL DOWNLOADS: 12154
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -196,16 +196,16 @@ additional.command.buttons 93
 additional.command.buttons.radial 489
 automata.destruction.0percent 300
 automata.in.human.space 266
-avgi.licenses 71
+avgi.licenses 73
 better.starts 335
-bunrodea.missions 428
+bunrodea.missions 430
 captureable.person.ships 324
 coalition.shopping 371
 control.station 261
 devil-run.unhidden 66
 disable.person.ships 164
 disable.spaceport.repeatables 252
-expert.crew.members 425
+expert.crew.members 427
 free.worlds.5.years.later 240
 galactic.capital.investment 505
 gegno.pirates 403
@@ -219,7 +219,7 @@ landing.images.android 252
 landing.images.highres 196
 mission.helper 76
 more.arfectas 372
-more.boarding.missions 380
+more.boarding.missions 382
 more.person.ships 309
 navy.licenses 435
 no.more.mereti.mines 249
