@@ -54,8 +54,8 @@
 		<td>56</td>
 		<td>57</td>
 		<td>64</td>
-		<td>73</td>
-		<td>+ 9</td>
+		<td>75</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -905,8 +905,8 @@
 		<td>56</td>
 		<td>57</td>
 		<td>64</td>
-		<td>73</td>
-		<td>+ 9</td>
+		<td>75</td>
+		<td>+ 11</td>
 	</tr>
 </table>
 </sub></sup>
