@@ -54,8 +54,8 @@
 		<td>56</td>
 		<td>57</td>
 		<td>64</td>
-		<td>71</td>
-		<td>+ 7</td>
+		<td>73</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -76,8 +76,8 @@
 		<td>414</td>
 		<td>419</td>
 		<td>423</td>
-		<td>428</td>
-		<td>+ 5</td>
+		<td>430</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -142,8 +142,8 @@
 		<td>415</td>
 		<td>416</td>
 		<td>418</td>
-		<td>425</td>
-		<td>+ 7</td>
+		<td>427</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -296,8 +296,8 @@
 		<td>371</td>
 		<td>374</td>
 		<td>376</td>
-		<td>380</td>
-		<td>+ 4</td>
+		<td>382</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -520,8 +520,8 @@
 		<td>414</td>
 		<td>419</td>
 		<td>423</td>
-		<td>428</td>
-		<td>+ 5</td>
+		<td>430</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -531,8 +531,8 @@
 		<td>415</td>
 		<td>416</td>
 		<td>418</td>
-		<td>425</td>
-		<td>+ 7</td>
+		<td>427</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -575,8 +575,8 @@
 		<td>371</td>
 		<td>374</td>
 		<td>376</td>
-		<td>380</td>
-		<td>+ 4</td>
+		<td>382</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -905,8 +905,8 @@
 		<td>56</td>
 		<td>57</td>
 		<td>64</td>
-		<td>71</td>
-		<td>+ 7</td>
+		<td>73</td>
+		<td>+ 9</td>
 	</tr>
 </table>
 </sub></sup>
