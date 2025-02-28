@@ -54,8 +54,8 @@
 		<td>56</td>
 		<td>57</td>
 		<td>64</td>
-		<td>68</td>
-		<td>+ 4</td>
+		<td>70</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -230,8 +230,8 @@
 		<td>378</td>
 		<td>384</td>
 		<td>388</td>
-		<td>388</td>
-		<td></td>
+		<td>390</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -564,8 +564,8 @@
 		<td>378</td>
 		<td>384</td>
 		<td>388</td>
-		<td>388</td>
-		<td></td>
+		<td>390</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -905,8 +905,8 @@
 		<td>56</td>
 		<td>57</td>
 		<td>64</td>
-		<td>68</td>
-		<td>+ 4</td>
+		<td>70</td>
+		<td>+ 6</td>
 	</tr>
 </table>
 </sub></sup>
