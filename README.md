@@ -164,8 +164,8 @@
 		<td>491</td>
 		<td>501</td>
 		<td>505</td>
-		<td>505</td>
-		<td></td>
+		<td>507</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -175,8 +175,8 @@
 		<td>397</td>
 		<td>401</td>
 		<td>403</td>
-		<td>403</td>
-		<td></td>
+		<td>405</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -186,8 +186,8 @@
 		<td>291</td>
 		<td>295</td>
 		<td>299</td>
-		<td>299</td>
-		<td></td>
+		<td>301</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -208,8 +208,8 @@
 		<td>315</td>
 		<td>321</td>
 		<td>323</td>
-		<td>323</td>
-		<td></td>
+		<td>325</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -230,8 +230,8 @@
 		<td>384</td>
 		<td>388</td>
 		<td>391</td>
-		<td>391</td>
-		<td></td>
+		<td>393</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -241,8 +241,8 @@
 		<td>261</td>
 		<td>261</td>
 		<td>264</td>
-		<td>264</td>
-		<td></td>
+		<td>266</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -384,8 +384,8 @@
 		<td>392</td>
 		<td>398</td>
 		<td>401</td>
-		<td>403</td>
-		<td>+ 2</td>
+		<td>405</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -476,8 +476,8 @@
 		<td>491</td>
 		<td>501</td>
 		<td>505</td>
-		<td>505</td>
-		<td></td>
+		<td>507</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -542,8 +542,8 @@
 		<td>392</td>
 		<td>398</td>
 		<td>401</td>
-		<td>403</td>
-		<td>+ 2</td>
+		<td>405</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -553,8 +553,8 @@
 		<td>397</td>
 		<td>401</td>
 		<td>403</td>
-		<td>403</td>
-		<td></td>
+		<td>405</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -564,8 +564,8 @@
 		<td>384</td>
 		<td>388</td>
 		<td>391</td>
-		<td>391</td>
-		<td></td>
+		<td>393</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -630,8 +630,8 @@
 		<td>315</td>
 		<td>321</td>
 		<td>323</td>
-		<td>323</td>
-		<td></td>
+		<td>325</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -656,6 +656,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>hai.side.mission.unlocker</td>
+		<td>289</td>
+		<td>289</td>
+		<td>289</td>
+		<td>291</td>
+		<td>295</td>
+		<td>299</td>
+		<td>301</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>290</td>
 		<td>292</td>
@@ -664,17 +675,6 @@
 		<td>299</td>
 		<td>300</td>
 		<td>300</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>hai.side.mission.unlocker</td>
-		<td>289</td>
-		<td>289</td>
-		<td>289</td>
-		<td>291</td>
-		<td>295</td>
-		<td>299</td>
-		<td>299</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -700,6 +700,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>landing.images</td>
+		<td>254</td>
+		<td>256</td>
+		<td>258</td>
+		<td>261</td>
+		<td>261</td>
+		<td>264</td>
+		<td>266</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>automata.in.human.space</td>
 		<td>259</td>
 		<td>259</td>
@@ -708,17 +719,6 @@
 		<td>265</td>
 		<td>266</td>
 		<td>266</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>landing.images</td>
-		<td>254</td>
-		<td>256</td>
-		<td>258</td>
-		<td>261</td>
-		<td>261</td>
-		<td>264</td>
-		<td>264</td>
 		<td></td>
 	</tr>
 	<tr>
