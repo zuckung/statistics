@@ -87,8 +87,8 @@
 		<td>311</td>
 		<td>321</td>
 		<td>326</td>
-		<td>326</td>
-		<td></td>
+		<td>328</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -164,8 +164,8 @@
 		<td>491</td>
 		<td>501</td>
 		<td>505</td>
-		<td>507</td>
-		<td>+ 2</td>
+		<td>509</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -186,8 +186,8 @@
 		<td>291</td>
 		<td>295</td>
 		<td>299</td>
-		<td>303</td>
-		<td>+ 4</td>
+		<td>305</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -208,8 +208,8 @@
 		<td>315</td>
 		<td>321</td>
 		<td>323</td>
-		<td>325</td>
-		<td>+ 2</td>
+		<td>327</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -274,8 +274,8 @@
 		<td>70</td>
 		<td>74</td>
 		<td>80</td>
-		<td>82</td>
-		<td>+ 2</td>
+		<td>83</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -476,8 +476,8 @@
 		<td>491</td>
 		<td>501</td>
 		<td>505</td>
-		<td>507</td>
-		<td>+ 2</td>
+		<td>509</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -619,8 +619,8 @@
 		<td>311</td>
 		<td>321</td>
 		<td>326</td>
-		<td>326</td>
-		<td></td>
+		<td>328</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -630,8 +630,8 @@
 		<td>315</td>
 		<td>321</td>
 		<td>323</td>
-		<td>325</td>
-		<td>+ 2</td>
+		<td>327</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -663,8 +663,8 @@
 		<td>291</td>
 		<td>295</td>
 		<td>299</td>
-		<td>303</td>
-		<td>+ 4</td>
+		<td>305</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -894,8 +894,8 @@
 		<td>70</td>
 		<td>74</td>
 		<td>80</td>
-		<td>82</td>
-		<td>+ 2</td>
+		<td>83</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
