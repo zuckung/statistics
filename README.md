@@ -87,8 +87,8 @@
 		<td>311</td>
 		<td>321</td>
 		<td>326</td>
-		<td>328</td>
-		<td>+ 2</td>
+		<td>330</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -164,8 +164,8 @@
 		<td>491</td>
 		<td>501</td>
 		<td>505</td>
-		<td>509</td>
-		<td>+ 4</td>
+		<td>511</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -274,8 +274,8 @@
 		<td>70</td>
 		<td>74</td>
 		<td>80</td>
-		<td>83</td>
-		<td>+ 3</td>
+		<td>85</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -285,8 +285,8 @@
 		<td>365</td>
 		<td>371</td>
 		<td>373</td>
-		<td>375</td>
-		<td>+ 2</td>
+		<td>377</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -296,8 +296,8 @@
 		<td>374</td>
 		<td>376</td>
 		<td>383</td>
-		<td>385</td>
-		<td>+ 2</td>
+		<td>387</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -362,8 +362,8 @@
 		<td>181</td>
 		<td>181</td>
 		<td>182</td>
-		<td>182</td>
-		<td></td>
+		<td>184</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -384,8 +384,8 @@
 		<td>392</td>
 		<td>398</td>
 		<td>401</td>
-		<td>407</td>
-		<td>+ 6</td>
+		<td>409</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -450,8 +450,8 @@
 		<td>275</td>
 		<td>277</td>
 		<td>284</td>
-		<td>284</td>
-		<td></td>
+		<td>286</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -476,8 +476,8 @@
 		<td>491</td>
 		<td>501</td>
 		<td>505</td>
-		<td>509</td>
-		<td>+ 4</td>
+		<td>511</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -542,8 +542,8 @@
 		<td>392</td>
 		<td>398</td>
 		<td>401</td>
-		<td>407</td>
-		<td>+ 6</td>
+		<td>409</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -575,8 +575,8 @@
 		<td>374</td>
 		<td>376</td>
 		<td>383</td>
-		<td>385</td>
-		<td>+ 2</td>
+		<td>387</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -586,8 +586,8 @@
 		<td>365</td>
 		<td>371</td>
 		<td>373</td>
-		<td>375</td>
-		<td>+ 2</td>
+		<td>377</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -619,8 +619,8 @@
 		<td>311</td>
 		<td>321</td>
 		<td>326</td>
-		<td>328</td>
-		<td>+ 2</td>
+		<td>330</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -696,8 +696,8 @@
 		<td>275</td>
 		<td>277</td>
 		<td>284</td>
-		<td>284</td>
-		<td></td>
+		<td>286</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -861,8 +861,8 @@
 		<td>181</td>
 		<td>181</td>
 		<td>182</td>
-		<td>182</td>
-		<td></td>
+		<td>184</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -894,8 +894,8 @@
 		<td>70</td>
 		<td>74</td>
 		<td>80</td>
-		<td>83</td>
-		<td>+ 3</td>
+		<td>85</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
