@@ -186,8 +186,8 @@
 		<td>291</td>
 		<td>295</td>
 		<td>299</td>
-		<td>301</td>
-		<td>+ 2</td>
+		<td>303</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -663,8 +663,8 @@
 		<td>291</td>
 		<td>295</td>
 		<td>299</td>
-		<td>301</td>
-		<td>+ 2</td>
+		<td>303</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
