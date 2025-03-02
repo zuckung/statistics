@@ -76,8 +76,8 @@
 		<td>423</td>
 		<td>431</td>
 		<td>433</td>
-		<td>433</td>
-		<td></td>
+		<td>435</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -131,8 +131,8 @@
 		<td>251</td>
 		<td>252</td>
 		<td>252</td>
-		<td>252</td>
-		<td></td>
+		<td>254</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -142,8 +142,8 @@
 		<td>418</td>
 		<td>428</td>
 		<td>428</td>
-		<td>428</td>
-		<td></td>
+		<td>430</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -241,8 +241,8 @@
 		<td>261</td>
 		<td>264</td>
 		<td>268</td>
-		<td>268</td>
-		<td></td>
+		<td>270</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -285,8 +285,8 @@
 		<td>371</td>
 		<td>373</td>
 		<td>377</td>
-		<td>377</td>
-		<td></td>
+		<td>379</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -351,8 +351,8 @@
 		<td>261</td>
 		<td>263</td>
 		<td>265</td>
-		<td>265</td>
-		<td></td>
+		<td>267</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -520,8 +520,8 @@
 		<td>423</td>
 		<td>431</td>
 		<td>433</td>
-		<td>433</td>
-		<td></td>
+		<td>435</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -531,8 +531,8 @@
 		<td>418</td>
 		<td>428</td>
 		<td>428</td>
-		<td>428</td>
-		<td></td>
+		<td>430</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -586,8 +586,8 @@
 		<td>371</td>
 		<td>373</td>
 		<td>377</td>
-		<td>377</td>
-		<td></td>
+		<td>379</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -700,6 +700,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>landing.images</td>
+		<td>256</td>
+		<td>258</td>
+		<td>261</td>
+		<td>261</td>
+		<td>264</td>
+		<td>268</td>
+		<td>270</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>automata.in.human.space</td>
 		<td>259</td>
 		<td>260</td>
@@ -711,17 +722,6 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
-		<td>landing.images</td>
-		<td>256</td>
-		<td>258</td>
-		<td>261</td>
-		<td>261</td>
-		<td>264</td>
-		<td>268</td>
-		<td>268</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>paint.your.ships</td>
 		<td>256</td>
 		<td>256</td>
@@ -729,8 +729,8 @@
 		<td>261</td>
 		<td>263</td>
 		<td>265</td>
-		<td>265</td>
-		<td></td>
+		<td>267</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -766,21 +766,21 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>landing.images.android</td>
-		<td>244</td>
-		<td>244</td>
-		<td>249</td>
-		<td>251</td>
-		<td>252</td>
-		<td>252</td>
-		<td>252</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>248</td>
 		<td>248</td>
 		<td>251</td>
+		<td>251</td>
+		<td>252</td>
+		<td>252</td>
+		<td>254</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>landing.images.android</td>
+		<td>244</td>
+		<td>244</td>
+		<td>249</td>
 		<td>251</td>
 		<td>252</td>
 		<td>252</td>
