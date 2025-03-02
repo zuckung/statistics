@@ -219,8 +219,8 @@
 		<td>257</td>
 		<td>258</td>
 		<td>258</td>
-		<td>258</td>
-		<td></td>
+		<td>260</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -751,8 +751,8 @@
 		<td>257</td>
 		<td>258</td>
 		<td>258</td>
-		<td>258</td>
-		<td></td>
+		<td>260</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
