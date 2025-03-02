@@ -43,8 +43,8 @@
 		<td>265</td>
 		<td>266</td>
 		<td>268</td>
-		<td>268</td>
-		<td></td>
+		<td>270</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
@@ -164,8 +164,8 @@
 		<td>501</td>
 		<td>505</td>
 		<td>513</td>
-		<td>513</td>
-		<td></td>
+		<td>515</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -230,8 +230,8 @@
 		<td>388</td>
 		<td>391</td>
 		<td>393</td>
-		<td>393</td>
-		<td></td>
+		<td>395</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -384,8 +384,8 @@
 		<td>398</td>
 		<td>401</td>
 		<td>409</td>
-		<td>409</td>
-		<td></td>
+		<td>411</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -476,8 +476,8 @@
 		<td>501</td>
 		<td>505</td>
 		<td>513</td>
-		<td>513</td>
-		<td></td>
+		<td>515</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -542,8 +542,8 @@
 		<td>398</td>
 		<td>401</td>
 		<td>409</td>
-		<td>409</td>
-		<td></td>
+		<td>411</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -564,8 +564,8 @@
 		<td>388</td>
 		<td>391</td>
 		<td>393</td>
-		<td>393</td>
-		<td></td>
+		<td>395</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -700,23 +700,23 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>landing.images</td>
-		<td>256</td>
-		<td>258</td>
-		<td>261</td>
-		<td>261</td>
-		<td>264</td>
-		<td>268</td>
-		<td>268</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>automata.in.human.space</td>
 		<td>259</td>
 		<td>260</td>
 		<td>263</td>
 		<td>265</td>
 		<td>266</td>
+		<td>268</td>
+		<td>270</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>landing.images</td>
+		<td>256</td>
+		<td>258</td>
+		<td>261</td>
+		<td>261</td>
+		<td>264</td>
 		<td>268</td>
 		<td>268</td>
 		<td></td>
