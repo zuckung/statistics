@@ -131,8 +131,8 @@
 		<td>251</td>
 		<td>252</td>
 		<td>252</td>
-		<td>254</td>
-		<td>+ 2</td>
+		<td>256</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -142,8 +142,8 @@
 		<td>418</td>
 		<td>428</td>
 		<td>428</td>
-		<td>430</td>
-		<td>+ 2</td>
+		<td>432</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -197,8 +197,8 @@
 		<td>235</td>
 		<td>240</td>
 		<td>242</td>
-		<td>242</td>
-		<td></td>
+		<td>244</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -208,8 +208,8 @@
 		<td>321</td>
 		<td>323</td>
 		<td>327</td>
-		<td>327</td>
-		<td></td>
+		<td>329</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -241,8 +241,8 @@
 		<td>261</td>
 		<td>264</td>
 		<td>268</td>
-		<td>270</td>
-		<td>+ 2</td>
+		<td>272</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -252,8 +252,8 @@
 		<td>251</td>
 		<td>252</td>
 		<td>252</td>
-		<td>252</td>
-		<td></td>
+		<td>254</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -274,8 +274,8 @@
 		<td>74</td>
 		<td>80</td>
 		<td>85</td>
-		<td>85</td>
-		<td></td>
+		<td>87</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -307,8 +307,8 @@
 		<td>306</td>
 		<td>309</td>
 		<td>309</td>
-		<td>309</td>
-		<td></td>
+		<td>311</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -318,8 +318,8 @@
 		<td>429</td>
 		<td>436</td>
 		<td>436</td>
-		<td>436</td>
-		<td></td>
+		<td>438</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -509,8 +509,8 @@
 		<td>429</td>
 		<td>436</td>
 		<td>436</td>
-		<td>436</td>
-		<td></td>
+		<td>438</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -531,8 +531,8 @@
 		<td>418</td>
 		<td>428</td>
 		<td>428</td>
-		<td>430</td>
-		<td>+ 2</td>
+		<td>432</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -630,8 +630,8 @@
 		<td>321</td>
 		<td>323</td>
 		<td>327</td>
-		<td>327</td>
-		<td></td>
+		<td>329</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -652,8 +652,8 @@
 		<td>306</td>
 		<td>309</td>
 		<td>309</td>
-		<td>309</td>
-		<td></td>
+		<td>311</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -707,8 +707,8 @@
 		<td>261</td>
 		<td>264</td>
 		<td>268</td>
-		<td>270</td>
-		<td>+ 2</td>
+		<td>272</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -755,6 +755,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>disable.spaceport.repeatables</td>
+		<td>248</td>
+		<td>248</td>
+		<td>251</td>
+		<td>251</td>
+		<td>252</td>
+		<td>252</td>
+		<td>256</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>space.fauna</td>
 		<td>252</td>
 		<td>252</td>
@@ -766,17 +777,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>disable.spaceport.repeatables</td>
-		<td>248</td>
-		<td>248</td>
-		<td>251</td>
-		<td>251</td>
-		<td>252</td>
-		<td>252</td>
-		<td>254</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
 		<td>landing.images.android</td>
 		<td>244</td>
 		<td>244</td>
@@ -784,8 +784,8 @@
 		<td>251</td>
 		<td>252</td>
 		<td>252</td>
-		<td>252</td>
-		<td></td>
+		<td>254</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -806,8 +806,8 @@
 		<td>235</td>
 		<td>240</td>
 		<td>242</td>
-		<td>242</td>
-		<td></td>
+		<td>244</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -894,8 +894,8 @@
 		<td>74</td>
 		<td>80</td>
 		<td>85</td>
-		<td>85</td>
-		<td></td>
+		<td>87</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
