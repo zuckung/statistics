@@ -208,8 +208,8 @@
 		<td>321</td>
 		<td>323</td>
 		<td>327</td>
-		<td>329</td>
-		<td>+ 2</td>
+		<td>331</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -612,6 +612,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>jump.gates</td>
+		<td>310</td>
+		<td>310</td>
+		<td>315</td>
+		<td>321</td>
+		<td>323</td>
+		<td>327</td>
+		<td>331</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>captureable.person.ships</td>
 		<td>305</td>
 		<td>306</td>
@@ -621,17 +632,6 @@
 		<td>330</td>
 		<td>330</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>jump.gates</td>
-		<td>310</td>
-		<td>310</td>
-		<td>315</td>
-		<td>321</td>
-		<td>323</td>
-		<td>327</td>
-		<td>329</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
