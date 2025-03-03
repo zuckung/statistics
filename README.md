@@ -164,8 +164,8 @@
 		<td>505</td>
 		<td>513</td>
 		<td>515</td>
-		<td>515</td>
-		<td></td>
+		<td>517</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -241,8 +241,8 @@
 		<td>264</td>
 		<td>268</td>
 		<td>272</td>
-		<td>272</td>
-		<td></td>
+		<td>274</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -476,8 +476,8 @@
 		<td>505</td>
 		<td>513</td>
 		<td>515</td>
-		<td>515</td>
-		<td></td>
+		<td>517</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -707,8 +707,8 @@
 		<td>264</td>
 		<td>268</td>
 		<td>272</td>
-		<td>272</td>
-		<td></td>
+		<td>274</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
