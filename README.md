@@ -142,8 +142,8 @@
 		<td>428</td>
 		<td>428</td>
 		<td>432</td>
-		<td>432</td>
-		<td></td>
+		<td>434</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -230,8 +230,8 @@
 		<td>391</td>
 		<td>393</td>
 		<td>396</td>
-		<td>396</td>
-		<td></td>
+		<td>398</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -263,8 +263,8 @@
 		<td>196</td>
 		<td>196</td>
 		<td>196</td>
-		<td>196</td>
-		<td></td>
+		<td>198</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -285,8 +285,8 @@
 		<td>373</td>
 		<td>377</td>
 		<td>379</td>
-		<td>379</td>
-		<td></td>
+		<td>381</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -296,8 +296,8 @@
 		<td>383</td>
 		<td>387</td>
 		<td>387</td>
-		<td>387</td>
-		<td></td>
+		<td>389</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -351,8 +351,8 @@
 		<td>263</td>
 		<td>265</td>
 		<td>267</td>
-		<td>267</td>
-		<td></td>
+		<td>269</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -428,8 +428,8 @@
 		<td>452</td>
 		<td>454</td>
 		<td>454</td>
-		<td>454</td>
-		<td></td>
+		<td>456</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -439,8 +439,8 @@
 		<td>202</td>
 		<td>202</td>
 		<td>202</td>
-		<td>202</td>
-		<td></td>
+		<td>204</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -450,8 +450,8 @@
 		<td>284</td>
 		<td>286</td>
 		<td>286</td>
-		<td>286</td>
-		<td></td>
+		<td>288</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>452</td>
 		<td>454</td>
 		<td>454</td>
-		<td>454</td>
-		<td></td>
+		<td>456</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -531,8 +531,8 @@
 		<td>428</td>
 		<td>428</td>
 		<td>432</td>
-		<td>432</td>
-		<td></td>
+		<td>434</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -564,8 +564,8 @@
 		<td>391</td>
 		<td>393</td>
 		<td>396</td>
-		<td>396</td>
-		<td></td>
+		<td>398</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -575,8 +575,8 @@
 		<td>383</td>
 		<td>387</td>
 		<td>387</td>
-		<td>387</td>
-		<td></td>
+		<td>389</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -586,8 +586,8 @@
 		<td>373</td>
 		<td>377</td>
 		<td>379</td>
-		<td>379</td>
-		<td></td>
+		<td>381</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -696,8 +696,8 @@
 		<td>284</td>
 		<td>286</td>
 		<td>286</td>
-		<td>286</td>
-		<td></td>
+		<td>288</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -729,8 +729,8 @@
 		<td>263</td>
 		<td>265</td>
 		<td>267</td>
-		<td>267</td>
-		<td></td>
+		<td>269</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -839,8 +839,8 @@
 		<td>202</td>
 		<td>202</td>
 		<td>202</td>
-		<td>202</td>
-		<td></td>
+		<td>204</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -850,8 +850,8 @@
 		<td>196</td>
 		<td>196</td>
 		<td>196</td>
-		<td>196</td>
-		<td></td>
+		<td>198</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
