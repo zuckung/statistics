@@ -18,7 +18,7 @@ v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 86
 v1.0.8-uniques | downloads: 78
-v1.0.3-quarg.farm | downloads: 100
+v1.0.3-quarg.farm | downloads: 102
 v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 125
 v1.0.3-show.reputation | downloads: 71
@@ -39,14 +39,14 @@ v1.0.3-navy.licenses | downloads: 226
 v1.0.6-coalition.shopping | downloads: 180
 v1.0.5-snowfeather.robotics | downloads: 138
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 228
+v1.0.2-kor.efret.shipyard | downloads: 230
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 107
 v1.0.1-show.reputation | downloads: 1
 v1.1.4-galactic.capital.investment | downloads: 230
 v1.0.9-additional.command.buttons.radial | downloads: 29
-v1.0.2-gegno.pirates | downloads: 235
+v1.0.2-gegno.pirates | downloads: 237
 v1.0.1-kor.efret.shipyard | downloads: 15
 v1.0.2-more.person.ships | downloads: 176
 v1.0.8-additional.command.buttons.radial | downloads: 20
@@ -69,7 +69,7 @@ v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 230
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 195
-v1.0.1-paint.your.ships | downloads: 265
+v1.0.1-paint.your.ships | downloads: 267
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
 v1.0.1-uniques | downloads: 14
@@ -188,7 +188,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 187
-# TOTAL DOWNLOADS: 12340
+# TOTAL DOWNLOADS: 12348
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -208,12 +208,12 @@ disable.spaceport.repeatables 257
 expert.crew.members 434
 free.worlds.5.years.later 240
 galactic.capital.investment 517
-gegno.pirates 407
+gegno.pirates 409
 hai.side.mission.unlocker 305
 human.labels 244
 jump.gates 331
 kestrel.unlocks 260
-kor.efret.shipyard 398
+kor.efret.shipyard 400
 landing.images 274
 landing.images.android 254
 landing.images.highres 198
@@ -224,11 +224,11 @@ more.person.ships 311
 navy.licenses 438
 no.more.mereti.mines 251
 outfits.weapon.slot 231
-paint.your.ships 269
+paint.your.ships 271
 pirate.warlords 3
 planet.map 184
 planet.pluto 95
-quarg.farm 411
+quarg.farm 413
 real.fluff 93
 show.reputation 320
 snowfeather.robotics 297
