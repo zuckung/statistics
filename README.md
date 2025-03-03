@@ -175,8 +175,8 @@
 		<td>403</td>
 		<td>407</td>
 		<td>407</td>
-		<td>407</td>
-		<td></td>
+		<td>409</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -230,8 +230,8 @@
 		<td>391</td>
 		<td>393</td>
 		<td>396</td>
-		<td>398</td>
-		<td>+ 2</td>
+		<td>400</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -351,8 +351,8 @@
 		<td>263</td>
 		<td>265</td>
 		<td>267</td>
-		<td>269</td>
-		<td>+ 2</td>
+		<td>271</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -384,8 +384,8 @@
 		<td>401</td>
 		<td>409</td>
 		<td>411</td>
-		<td>411</td>
-		<td></td>
+		<td>413</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -542,8 +542,8 @@
 		<td>401</td>
 		<td>409</td>
 		<td>411</td>
-		<td>411</td>
-		<td></td>
+		<td>413</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -553,8 +553,8 @@
 		<td>403</td>
 		<td>407</td>
 		<td>407</td>
-		<td>407</td>
-		<td></td>
+		<td>409</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -564,8 +564,8 @@
 		<td>391</td>
 		<td>393</td>
 		<td>396</td>
-		<td>398</td>
-		<td>+ 2</td>
+		<td>400</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -711,6 +711,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>paint.your.ships</td>
+		<td>256</td>
+		<td>259</td>
+		<td>261</td>
+		<td>263</td>
+		<td>265</td>
+		<td>267</td>
+		<td>271</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>automata.in.human.space</td>
 		<td>260</td>
 		<td>263</td>
@@ -720,17 +731,6 @@
 		<td>271</td>
 		<td>271</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>256</td>
-		<td>259</td>
-		<td>261</td>
-		<td>263</td>
-		<td>265</td>
-		<td>267</td>
-		<td>269</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
