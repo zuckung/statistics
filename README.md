@@ -142,8 +142,8 @@
 		<td>428</td>
 		<td>428</td>
 		<td>432</td>
-		<td>436</td>
-		<td>+ 4</td>
+		<td>438</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -219,8 +219,8 @@
 		<td>258</td>
 		<td>258</td>
 		<td>260</td>
-		<td>260</td>
-		<td></td>
+		<td>262</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -230,8 +230,8 @@
 		<td>391</td>
 		<td>393</td>
 		<td>396</td>
-		<td>402</td>
-		<td>+ 6</td>
+		<td>404</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -531,8 +531,8 @@
 		<td>428</td>
 		<td>428</td>
 		<td>432</td>
-		<td>436</td>
-		<td>+ 4</td>
+		<td>438</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -564,8 +564,8 @@
 		<td>391</td>
 		<td>393</td>
 		<td>396</td>
-		<td>402</td>
-		<td>+ 6</td>
+		<td>404</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -751,8 +751,8 @@
 		<td>258</td>
 		<td>258</td>
 		<td>260</td>
-		<td>260</td>
-		<td></td>
+		<td>262</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
