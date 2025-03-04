@@ -164,8 +164,8 @@
 		<td>513</td>
 		<td>515</td>
 		<td>521</td>
-		<td>525</td>
-		<td>+ 4</td>
+		<td>526</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -197,8 +197,8 @@
 		<td>242</td>
 		<td>244</td>
 		<td>246</td>
-		<td>246</td>
-		<td></td>
+		<td>247</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -219,8 +219,8 @@
 		<td>258</td>
 		<td>260</td>
 		<td>264</td>
-		<td>266</td>
-		<td>+ 2</td>
+		<td>267</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -274,8 +274,8 @@
 		<td>85</td>
 		<td>87</td>
 		<td>87</td>
-		<td>99</td>
-		<td>+ 12</td>
+		<td>100</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -476,8 +476,8 @@
 		<td>513</td>
 		<td>515</td>
 		<td>521</td>
-		<td>525</td>
-		<td>+ 4</td>
+		<td>526</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -740,8 +740,8 @@
 		<td>258</td>
 		<td>260</td>
 		<td>264</td>
-		<td>266</td>
-		<td>+ 2</td>
+		<td>267</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -806,8 +806,8 @@
 		<td>242</td>
 		<td>244</td>
 		<td>246</td>
-		<td>246</td>
-		<td></td>
+		<td>247</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -883,8 +883,8 @@
 		<td>85</td>
 		<td>87</td>
 		<td>87</td>
-		<td>99</td>
-		<td>+ 12</td>
+		<td>100</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
