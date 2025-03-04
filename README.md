@@ -175,8 +175,8 @@
 		<td>407</td>
 		<td>407</td>
 		<td>413</td>
-		<td>413</td>
-		<td></td>
+		<td>414</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -285,8 +285,8 @@
 		<td>377</td>
 		<td>379</td>
 		<td>385</td>
-		<td>385</td>
-		<td></td>
+		<td>386</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -428,8 +428,8 @@
 		<td>454</td>
 		<td>454</td>
 		<td>460</td>
-		<td>460</td>
-		<td></td>
+		<td>462</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -498,8 +498,8 @@
 		<td>454</td>
 		<td>454</td>
 		<td>460</td>
-		<td>460</td>
-		<td></td>
+		<td>462</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -553,8 +553,8 @@
 		<td>407</td>
 		<td>407</td>
 		<td>413</td>
-		<td>413</td>
-		<td></td>
+		<td>414</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -586,8 +586,8 @@
 		<td>377</td>
 		<td>379</td>
 		<td>385</td>
-		<td>385</td>
-		<td></td>
+		<td>386</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
