@@ -6,7 +6,7 @@ v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 25
 v1.0.0-mission.helper | downloads: 38
 v1.1.5-galactic.capital.investment | downloads: 97
-v1.0.7-bunrodea.missions | downloads: 63
+v1.0.7-bunrodea.missions | downloads: 65
 v1.0.5-human.labels | downloads: 33
 v1.1.4-more.boarding.missions | downloads: 71
 v1.0.6-bunrodea.missions | downloads: 6
@@ -188,7 +188,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 187
-# TOTAL DOWNLOADS: 12476
+# TOTAL DOWNLOADS: 12478
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -198,7 +198,7 @@ automata.destruction.0percent 307
 automata.in.human.space 275
 avgi.licenses 86
 better.starts 337
-bunrodea.missions 442
+bunrodea.missions 444
 captureable.person.ships 335
 coalition.shopping 378
 control.station 265
