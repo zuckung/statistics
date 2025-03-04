@@ -87,8 +87,8 @@
 		<td>330</td>
 		<td>331</td>
 		<td>335</td>
-		<td>335</td>
-		<td></td>
+		<td>337</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -197,8 +197,8 @@
 		<td>242</td>
 		<td>244</td>
 		<td>246</td>
-		<td>247</td>
-		<td>+ 1</td>
+		<td>249</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -274,8 +274,8 @@
 		<td>85</td>
 		<td>87</td>
 		<td>87</td>
-		<td>102</td>
-		<td>+ 15</td>
+		<td>104</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -601,6 +601,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>captureable.person.ships</td>
+		<td>311</td>
+		<td>321</td>
+		<td>326</td>
+		<td>330</td>
+		<td>331</td>
+		<td>335</td>
+		<td>337</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>better.starts</td>
 		<td>332</td>
 		<td>332</td>
@@ -621,17 +632,6 @@
 		<td>333</td>
 		<td>335</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>captureable.person.ships</td>
-		<td>311</td>
-		<td>321</td>
-		<td>326</td>
-		<td>330</td>
-		<td>331</td>
-		<td>335</td>
-		<td>335</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -806,8 +806,8 @@
 		<td>242</td>
 		<td>244</td>
 		<td>246</td>
-		<td>247</td>
-		<td>+ 1</td>
+		<td>249</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -883,8 +883,8 @@
 		<td>85</td>
 		<td>87</td>
 		<td>87</td>
-		<td>102</td>
-		<td>+ 15</td>
+		<td>104</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
