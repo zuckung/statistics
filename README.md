@@ -76,8 +76,8 @@
 		<td>433</td>
 		<td>436</td>
 		<td>442</td>
-		<td>442</td>
-		<td></td>
+		<td>444</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -502,23 +502,23 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
-		<td>navy.licenses</td>
-		<td>423</td>
-		<td>429</td>
-		<td>436</td>
-		<td>436</td>
-		<td>438</td>
-		<td>442</td>
-		<td>442</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>bunrodea.missions</td>
 		<td>419</td>
 		<td>423</td>
 		<td>431</td>
 		<td>433</td>
 		<td>436</td>
+		<td>442</td>
+		<td>444</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>navy.licenses</td>
+		<td>423</td>
+		<td>429</td>
+		<td>436</td>
+		<td>436</td>
+		<td>438</td>
 		<td>442</td>
 		<td>442</td>
 		<td></td>
