@@ -32,8 +32,8 @@
 		<td>303</td>
 		<td>305</td>
 		<td>307</td>
-		<td>307</td>
-		<td></td>
+		<td>309</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -656,23 +656,23 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>hai.side.mission.unlocker</td>
-		<td>295</td>
-		<td>299</td>
-		<td>305</td>
-		<td>305</td>
-		<td>307</td>
-		<td>307</td>
-		<td>307</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>299</td>
 		<td>300</td>
 		<td>302</td>
 		<td>303</td>
 		<td>305</td>
+		<td>307</td>
+		<td>309</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>hai.side.mission.unlocker</td>
+		<td>295</td>
+		<td>299</td>
+		<td>305</td>
+		<td>305</td>
+		<td>307</td>
 		<td>307</td>
 		<td>307</td>
 		<td></td>
