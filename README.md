@@ -274,8 +274,8 @@
 		<td>87</td>
 		<td>87</td>
 		<td>104</td>
-		<td>104</td>
-		<td></td>
+		<td>106</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -883,8 +883,8 @@
 		<td>87</td>
 		<td>87</td>
 		<td>104</td>
-		<td>104</td>
-		<td></td>
+		<td>106</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
