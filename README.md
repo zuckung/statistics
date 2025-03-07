@@ -87,8 +87,8 @@
 		<td>337</td>
 		<td>344</td>
 		<td>344</td>
-		<td>344</td>
-		<td></td>
+		<td>345</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -428,8 +428,8 @@
 		<td>464</td>
 		<td>466</td>
 		<td>466</td>
-		<td>466</td>
-		<td></td>
+		<td>467</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -498,8 +498,8 @@
 		<td>464</td>
 		<td>466</td>
 		<td>466</td>
-		<td>466</td>
-		<td></td>
+		<td>467</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -608,8 +608,8 @@
 		<td>337</td>
 		<td>344</td>
 		<td>344</td>
-		<td>344</td>
-		<td></td>
+		<td>345</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
