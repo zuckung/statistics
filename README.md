@@ -87,8 +87,8 @@
 		<td>337</td>
 		<td>344</td>
 		<td>344</td>
-		<td>345</td>
-		<td>+ 1</td>
+		<td>347</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -120,8 +120,8 @@
 		<td>166</td>
 		<td>166</td>
 		<td>166</td>
-		<td>166</td>
-		<td></td>
+		<td>168</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -274,8 +274,8 @@
 		<td>104</td>
 		<td>111</td>
 		<td>113</td>
-		<td>113</td>
-		<td></td>
+		<td>115</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -608,8 +608,8 @@
 		<td>337</td>
 		<td>344</td>
 		<td>344</td>
-		<td>345</td>
-		<td>+ 1</td>
+		<td>347</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -872,8 +872,8 @@
 		<td>166</td>
 		<td>166</td>
 		<td>166</td>
-		<td>166</td>
-		<td></td>
+		<td>168</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -883,8 +883,8 @@
 		<td>104</td>
 		<td>111</td>
 		<td>113</td>
-		<td>113</td>
-		<td></td>
+		<td>115</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
