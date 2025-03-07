@@ -186,8 +186,8 @@
 		<td>307</td>
 		<td>307</td>
 		<td>309</td>
-		<td>309</td>
-		<td></td>
+		<td>311</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -656,6 +656,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>hai.side.mission.unlocker</td>
+		<td>305</td>
+		<td>305</td>
+		<td>307</td>
+		<td>307</td>
+		<td>307</td>
+		<td>309</td>
+		<td>311</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>302</td>
 		<td>303</td>
@@ -664,17 +675,6 @@
 		<td>311</td>
 		<td>311</td>
 		<td>311</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>hai.side.mission.unlocker</td>
-		<td>305</td>
-		<td>305</td>
-		<td>307</td>
-		<td>307</td>
-		<td>307</td>
-		<td>309</td>
-		<td>309</td>
 		<td></td>
 	</tr>
 	<tr>
