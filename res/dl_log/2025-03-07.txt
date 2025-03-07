@@ -10,15 +10,15 @@ v1.0.7-bunrodea.missions | downloads: 68
 v1.0.5-human.labels | downloads: 38
 v1.1.4-more.boarding.missions | downloads: 75
 v1.0.6-bunrodea.missions | downloads: 6
-v1.0.3-jump.gates | downloads: 66
+v1.0.3-jump.gates | downloads: 68
 v1.0.15-additional.command.buttons.radial | downloads: 69
 v1.0.6-expert.crew.members | downloads: 91
-v1.0.0-avgi.licenses | downloads: 91
+v1.0.0-avgi.licenses | downloads: 93
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 99
 v1.0.8-uniques | downloads: 86
-v1.0.3-quarg.farm | downloads: 112
+v1.0.3-quarg.farm | downloads: 114
 v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 136
 v1.0.3-show.reputation | downloads: 75
@@ -35,7 +35,7 @@ v1.0.12-additional.command.buttons.radial | downloads: 47
 v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
-v1.0.3-navy.licenses | downloads: 234
+v1.0.3-navy.licenses | downloads: 236
 v1.0.6-coalition.shopping | downloads: 190
 v1.0.5-snowfeather.robotics | downloads: 142
 v1.0.4-snowfeather.robotics | downloads: 3
@@ -188,7 +188,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 187
-# TOTAL DOWNLOADS: 12618
+# TOTAL DOWNLOADS: 12626
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -196,7 +196,7 @@ additional.command.buttons 93
 additional.command.buttons.radial 500
 automata.destruction.0percent 311
 automata.in.human.space 279
-avgi.licenses 91
+avgi.licenses 93
 better.starts 340
 bunrodea.missions 447
 captureable.person.ships 345
@@ -211,7 +211,7 @@ galactic.capital.investment 530
 gegno.pirates 420
 hai.side.mission.unlocker 311
 human.labels 251
-jump.gates 337
+jump.gates 339
 kestrel.unlocks 273
 kor.efret.shipyard 414
 landing.images 276
@@ -221,14 +221,14 @@ mission.helper 113
 more.arfectas 390
 more.boarding.missions 395
 more.person.ships 313
-navy.licenses 446
+navy.licenses 448
 no.more.mereti.mines 253
 outfits.weapon.slot 237
 paint.your.ships 277
 pirate.warlords 3
 planet.map 184
 planet.pluto 95
-quarg.farm 423
+quarg.farm 425
 real.fluff 93
 show.reputation 324
 snowfeather.robotics 301
