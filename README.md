@@ -54,8 +54,8 @@
 		<td>86</td>
 		<td>91</td>
 		<td>91</td>
-		<td>91</td>
-		<td></td>
+		<td>93</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -208,8 +208,8 @@
 		<td>335</td>
 		<td>337</td>
 		<td>337</td>
-		<td>337</td>
-		<td></td>
+		<td>339</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -318,8 +318,8 @@
 		<td>444</td>
 		<td>446</td>
 		<td>446</td>
-		<td>446</td>
-		<td></td>
+		<td>448</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -384,8 +384,8 @@
 		<td>421</td>
 		<td>423</td>
 		<td>423</td>
-		<td>423</td>
-		<td></td>
+		<td>425</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -502,6 +502,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>navy.licenses</td>
+		<td>436</td>
+		<td>438</td>
+		<td>442</td>
+		<td>444</td>
+		<td>446</td>
+		<td>446</td>
+		<td>448</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>bunrodea.missions</td>
 		<td>433</td>
 		<td>436</td>
@@ -510,17 +521,6 @@
 		<td>447</td>
 		<td>447</td>
 		<td>447</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>navy.licenses</td>
-		<td>436</td>
-		<td>438</td>
-		<td>442</td>
-		<td>444</td>
-		<td>446</td>
-		<td>446</td>
-		<td>446</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -542,8 +542,8 @@
 		<td>421</td>
 		<td>423</td>
 		<td>423</td>
-		<td>423</td>
-		<td></td>
+		<td>425</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -630,8 +630,8 @@
 		<td>335</td>
 		<td>337</td>
 		<td>337</td>
-		<td>337</td>
-		<td></td>
+		<td>339</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -905,8 +905,8 @@
 		<td>86</td>
 		<td>91</td>
 		<td>91</td>
-		<td>91</td>
-		<td></td>
+		<td>93</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
