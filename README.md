@@ -21,8 +21,8 @@
 		<td>499</td>
 		<td>500</td>
 		<td>500</td>
-		<td>500</td>
-		<td></td>
+		<td>502</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -285,8 +285,8 @@
 		<td>390</td>
 		<td>390</td>
 		<td>390</td>
-		<td>390</td>
-		<td></td>
+		<td>392</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -487,8 +487,8 @@
 		<td>499</td>
 		<td>500</td>
 		<td>500</td>
-		<td>500</td>
-		<td></td>
+		<td>502</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -586,8 +586,8 @@
 		<td>390</td>
 		<td>390</td>
 		<td>390</td>
-		<td>390</td>
-		<td></td>
+		<td>392</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
