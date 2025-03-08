@@ -54,8 +54,8 @@
 		<td>91</td>
 		<td>91</td>
 		<td>95</td>
-		<td>95</td>
-		<td></td>
+		<td>97</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -887,23 +887,23 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
-		<td>planet.pluto</td>
-		<td>95</td>
-		<td>95</td>
-		<td>95</td>
-		<td>95</td>
-		<td>95</td>
-		<td>95</td>
-		<td>95</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>avgi.licenses</td>
 		<td>82</td>
 		<td>86</td>
 		<td>86</td>
 		<td>91</td>
 		<td>91</td>
+		<td>95</td>
+		<td>97</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>planet.pluto</td>
+		<td>95</td>
+		<td>95</td>
+		<td>95</td>
+		<td>95</td>
+		<td>95</td>
 		<td>95</td>
 		<td>95</td>
 		<td></td>
