@@ -98,8 +98,8 @@
 		<td>384</td>
 		<td>384</td>
 		<td>384</td>
-		<td>384</td>
-		<td></td>
+		<td>386</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -153,8 +153,8 @@
 		<td>246</td>
 		<td>246</td>
 		<td>246</td>
-		<td>246</td>
-		<td></td>
+		<td>248</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -164,8 +164,8 @@
 		<td>530</td>
 		<td>530</td>
 		<td>530</td>
-		<td>530</td>
-		<td></td>
+		<td>532</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -384,8 +384,8 @@
 		<td>423</td>
 		<td>423</td>
 		<td>425</td>
-		<td>425</td>
-		<td></td>
+		<td>427</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -476,8 +476,8 @@
 		<td>530</td>
 		<td>530</td>
 		<td>530</td>
-		<td>530</td>
-		<td></td>
+		<td>532</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -542,8 +542,8 @@
 		<td>423</td>
 		<td>423</td>
 		<td>425</td>
-		<td>425</td>
-		<td></td>
+		<td>427</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -597,8 +597,8 @@
 		<td>384</td>
 		<td>384</td>
 		<td>384</td>
-		<td>384</td>
-		<td></td>
+		<td>386</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -817,8 +817,8 @@
 		<td>246</td>
 		<td>246</td>
 		<td>246</td>
-		<td>246</td>
-		<td></td>
+		<td>248</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
