@@ -32,8 +32,8 @@
 		<td>311</td>
 		<td>311</td>
 		<td>311</td>
-		<td>311</td>
-		<td></td>
+		<td>313</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -43,8 +43,8 @@
 		<td>279</td>
 		<td>279</td>
 		<td>279</td>
-		<td>279</td>
-		<td></td>
+		<td>281</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
@@ -656,23 +656,23 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>hai.side.mission.unlocker</td>
-		<td>305</td>
-		<td>307</td>
-		<td>307</td>
-		<td>307</td>
-		<td>309</td>
-		<td>311</td>
-		<td>311</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>303</td>
 		<td>305</td>
 		<td>307</td>
 		<td>311</td>
 		<td>311</td>
+		<td>311</td>
+		<td>313</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>hai.side.mission.unlocker</td>
+		<td>305</td>
+		<td>307</td>
+		<td>307</td>
+		<td>307</td>
+		<td>309</td>
 		<td>311</td>
 		<td>311</td>
 		<td></td>
@@ -707,8 +707,8 @@
 		<td>279</td>
 		<td>279</td>
 		<td>279</td>
-		<td>279</td>
-		<td></td>
+		<td>281</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
