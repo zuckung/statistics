@@ -6,14 +6,14 @@ v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 25
 v1.0.0-mission.helper | downloads: 38
 v1.1.5-galactic.capital.investment | downloads: 106
-v1.0.7-bunrodea.missions | downloads: 68
+v1.0.7-bunrodea.missions | downloads: 70
 v1.0.5-human.labels | downloads: 38
 v1.1.4-more.boarding.missions | downloads: 75
 v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 68
 v1.0.15-additional.command.buttons.radial | downloads: 69
 v1.0.6-expert.crew.members | downloads: 93
-v1.0.0-avgi.licenses | downloads: 97
+v1.0.0-avgi.licenses | downloads: 99
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 101
@@ -36,10 +36,10 @@ v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 236
-v1.0.6-coalition.shopping | downloads: 194
+v1.0.6-coalition.shopping | downloads: 196
 v1.0.5-snowfeather.robotics | downloads: 144
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 246
+v1.0.2-kor.efret.shipyard | downloads: 248
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 107
@@ -124,7 +124,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 312
+v1.0.1-automata.destruction.0percent | downloads: 314
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -188,19 +188,19 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 187
-# TOTAL DOWNLOADS: 12670
+# TOTAL DOWNLOADS: 12680
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 502
-automata.destruction.0percent 313
+automata.destruction.0percent 315
 automata.in.human.space 281
-avgi.licenses 97
+avgi.licenses 99
 better.starts 340
-bunrodea.missions 447
+bunrodea.missions 449
 captureable.person.ships 347
-coalition.shopping 388
+coalition.shopping 390
 control.station 267
 devil-run.unhidden 66
 disable.person.ships 168
@@ -213,7 +213,7 @@ hai.side.mission.unlocker 311
 human.labels 251
 jump.gates 339
 kestrel.unlocks 273
-kor.efret.shipyard 416
+kor.efret.shipyard 418
 landing.images 276
 landing.images.android 256
 landing.images.highres 200
