@@ -164,8 +164,8 @@
 		<td>530</td>
 		<td>530</td>
 		<td>532</td>
-		<td>532</td>
-		<td></td>
+		<td>534</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -476,8 +476,8 @@
 		<td>530</td>
 		<td>530</td>
 		<td>532</td>
-		<td>532</td>
-		<td></td>
+		<td>534</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
