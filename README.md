@@ -32,8 +32,8 @@
 		<td>311</td>
 		<td>311</td>
 		<td>313</td>
-		<td>313</td>
-		<td></td>
+		<td>315</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -54,8 +54,8 @@
 		<td>91</td>
 		<td>95</td>
 		<td>97</td>
-		<td>97</td>
-		<td></td>
+		<td>99</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -76,8 +76,8 @@
 		<td>447</td>
 		<td>447</td>
 		<td>447</td>
-		<td>447</td>
-		<td></td>
+		<td>449</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -98,8 +98,8 @@
 		<td>384</td>
 		<td>384</td>
 		<td>386</td>
-		<td>388</td>
-		<td>+ 2</td>
+		<td>390</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -230,8 +230,8 @@
 		<td>414</td>
 		<td>414</td>
 		<td>414</td>
-		<td>416</td>
-		<td>+ 2</td>
+		<td>418</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -502,6 +502,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>bunrodea.missions</td>
+		<td>442</td>
+		<td>444</td>
+		<td>447</td>
+		<td>447</td>
+		<td>447</td>
+		<td>447</td>
+		<td>449</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>navy.licenses</td>
 		<td>442</td>
 		<td>444</td>
@@ -510,17 +521,6 @@
 		<td>448</td>
 		<td>448</td>
 		<td>448</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>bunrodea.missions</td>
-		<td>442</td>
-		<td>444</td>
-		<td>447</td>
-		<td>447</td>
-		<td>447</td>
-		<td>447</td>
-		<td>447</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -564,8 +564,8 @@
 		<td>414</td>
 		<td>414</td>
 		<td>414</td>
-		<td>416</td>
-		<td>+ 2</td>
+		<td>418</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -597,8 +597,8 @@
 		<td>384</td>
 		<td>384</td>
 		<td>386</td>
-		<td>388</td>
-		<td>+ 2</td>
+		<td>390</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -645,23 +645,23 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>more.person.ships</td>
-		<td>311</td>
-		<td>311</td>
-		<td>313</td>
-		<td>313</td>
-		<td>313</td>
-		<td>313</td>
-		<td>313</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>305</td>
 		<td>307</td>
 		<td>311</td>
 		<td>311</td>
 		<td>311</td>
+		<td>313</td>
+		<td>315</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>more.person.ships</td>
+		<td>311</td>
+		<td>311</td>
+		<td>313</td>
+		<td>313</td>
+		<td>313</td>
 		<td>313</td>
 		<td>313</td>
 		<td></td>
@@ -894,8 +894,8 @@
 		<td>91</td>
 		<td>95</td>
 		<td>97</td>
-		<td>97</td>
-		<td></td>
+		<td>99</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
