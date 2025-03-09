@@ -98,8 +98,8 @@
 		<td>384</td>
 		<td>384</td>
 		<td>386</td>
-		<td>386</td>
-		<td></td>
+		<td>388</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -142,8 +142,8 @@
 		<td>444</td>
 		<td>444</td>
 		<td>444</td>
-		<td>444</td>
-		<td></td>
+		<td>446</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -175,8 +175,8 @@
 		<td>420</td>
 		<td>420</td>
 		<td>420</td>
-		<td>420</td>
-		<td></td>
+		<td>422</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -230,8 +230,8 @@
 		<td>414</td>
 		<td>414</td>
 		<td>414</td>
-		<td>414</td>
-		<td></td>
+		<td>416</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -406,8 +406,8 @@
 		<td>301</td>
 		<td>301</td>
 		<td>301</td>
-		<td>301</td>
-		<td></td>
+		<td>303</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -531,8 +531,8 @@
 		<td>444</td>
 		<td>444</td>
 		<td>444</td>
-		<td>444</td>
-		<td></td>
+		<td>446</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -553,8 +553,8 @@
 		<td>420</td>
 		<td>420</td>
 		<td>420</td>
-		<td>420</td>
-		<td></td>
+		<td>422</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -564,8 +564,8 @@
 		<td>414</td>
 		<td>414</td>
 		<td>414</td>
-		<td>414</td>
-		<td></td>
+		<td>416</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -597,8 +597,8 @@
 		<td>384</td>
 		<td>384</td>
 		<td>386</td>
-		<td>386</td>
-		<td></td>
+		<td>388</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -685,8 +685,8 @@
 		<td>301</td>
 		<td>301</td>
 		<td>301</td>
-		<td>301</td>
-		<td></td>
+		<td>303</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
