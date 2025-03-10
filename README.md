@@ -43,8 +43,8 @@
 		<td>279</td>
 		<td>281</td>
 		<td>281</td>
-		<td>281</td>
-		<td></td>
+		<td>283</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
@@ -54,8 +54,8 @@
 		<td>95</td>
 		<td>97</td>
 		<td>99</td>
-		<td>99</td>
-		<td></td>
+		<td>101</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -65,8 +65,8 @@
 		<td>340</td>
 		<td>340</td>
 		<td>340</td>
-		<td>340</td>
-		<td></td>
+		<td>342</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>447</td>
 		<td>447</td>
 		<td>449</td>
-		<td>449</td>
-		<td></td>
+		<td>451</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -98,8 +98,8 @@
 		<td>384</td>
 		<td>386</td>
 		<td>390</td>
-		<td>390</td>
-		<td></td>
+		<td>391</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -142,8 +142,8 @@
 		<td>444</td>
 		<td>444</td>
 		<td>446</td>
-		<td>446</td>
-		<td></td>
+		<td>448</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -164,8 +164,8 @@
 		<td>530</td>
 		<td>532</td>
 		<td>535</td>
-		<td>535</td>
-		<td></td>
+		<td>537</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -175,8 +175,8 @@
 		<td>420</td>
 		<td>420</td>
 		<td>422</td>
-		<td>422</td>
-		<td></td>
+		<td>424</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -230,8 +230,8 @@
 		<td>414</td>
 		<td>414</td>
 		<td>418</td>
-		<td>418</td>
-		<td></td>
+		<td>420</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -285,8 +285,8 @@
 		<td>390</td>
 		<td>392</td>
 		<td>392</td>
-		<td>392</td>
-		<td></td>
+		<td>394</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -351,8 +351,8 @@
 		<td>277</td>
 		<td>277</td>
 		<td>277</td>
-		<td>277</td>
-		<td></td>
+		<td>279</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -384,8 +384,8 @@
 		<td>425</td>
 		<td>427</td>
 		<td>427</td>
-		<td>427</td>
-		<td></td>
+		<td>429</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -476,8 +476,8 @@
 		<td>530</td>
 		<td>532</td>
 		<td>535</td>
-		<td>535</td>
-		<td></td>
+		<td>537</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -509,8 +509,8 @@
 		<td>447</td>
 		<td>447</td>
 		<td>449</td>
-		<td>449</td>
-		<td></td>
+		<td>451</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -531,8 +531,8 @@
 		<td>444</td>
 		<td>444</td>
 		<td>446</td>
-		<td>446</td>
-		<td></td>
+		<td>448</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -542,8 +542,8 @@
 		<td>425</td>
 		<td>427</td>
 		<td>427</td>
-		<td>427</td>
-		<td></td>
+		<td>429</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -553,8 +553,8 @@
 		<td>420</td>
 		<td>420</td>
 		<td>422</td>
-		<td>422</td>
-		<td></td>
+		<td>424</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -564,8 +564,8 @@
 		<td>414</td>
 		<td>414</td>
 		<td>418</td>
-		<td>418</td>
-		<td></td>
+		<td>420</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -586,8 +586,8 @@
 		<td>390</td>
 		<td>392</td>
 		<td>392</td>
-		<td>392</td>
-		<td></td>
+		<td>394</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -597,8 +597,8 @@
 		<td>384</td>
 		<td>386</td>
 		<td>390</td>
-		<td>390</td>
-		<td></td>
+		<td>391</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -619,8 +619,8 @@
 		<td>340</td>
 		<td>340</td>
 		<td>340</td>
-		<td>340</td>
-		<td></td>
+		<td>342</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -707,8 +707,8 @@
 		<td>279</td>
 		<td>281</td>
 		<td>281</td>
-		<td>281</td>
-		<td></td>
+		<td>283</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -718,8 +718,8 @@
 		<td>277</td>
 		<td>277</td>
 		<td>277</td>
-		<td>277</td>
-		<td></td>
+		<td>279</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -894,8 +894,8 @@
 		<td>95</td>
 		<td>97</td>
 		<td>99</td>
-		<td>99</td>
-		<td></td>
+		<td>101</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
