@@ -76,8 +76,8 @@
 		<td>447</td>
 		<td>447</td>
 		<td>449</td>
-		<td>453</td>
-		<td>+ 4</td>
+		<td>454</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -164,8 +164,8 @@
 		<td>530</td>
 		<td>532</td>
 		<td>535</td>
-		<td>537</td>
-		<td>+ 2</td>
+		<td>538</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -175,8 +175,8 @@
 		<td>420</td>
 		<td>420</td>
 		<td>422</td>
-		<td>424</td>
-		<td>+ 2</td>
+		<td>425</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -476,8 +476,8 @@
 		<td>530</td>
 		<td>532</td>
 		<td>535</td>
-		<td>537</td>
-		<td>+ 2</td>
+		<td>538</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -509,8 +509,8 @@
 		<td>447</td>
 		<td>447</td>
 		<td>449</td>
-		<td>453</td>
-		<td>+ 4</td>
+		<td>454</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -553,8 +553,8 @@
 		<td>420</td>
 		<td>420</td>
 		<td>422</td>
-		<td>424</td>
-		<td>+ 2</td>
+		<td>425</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
