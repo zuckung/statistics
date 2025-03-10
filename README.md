@@ -32,8 +32,8 @@
 		<td>311</td>
 		<td>313</td>
 		<td>315</td>
-		<td>315</td>
-		<td></td>
+		<td>316</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -652,8 +652,8 @@
 		<td>311</td>
 		<td>313</td>
 		<td>315</td>
-		<td>315</td>
-		<td></td>
+		<td>316</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
