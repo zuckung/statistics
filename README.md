@@ -76,8 +76,8 @@
 		<td>447</td>
 		<td>447</td>
 		<td>449</td>
-		<td>451</td>
-		<td>+ 2</td>
+		<td>453</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -509,8 +509,8 @@
 		<td>447</td>
 		<td>447</td>
 		<td>449</td>
-		<td>451</td>
-		<td>+ 2</td>
+		<td>453</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
