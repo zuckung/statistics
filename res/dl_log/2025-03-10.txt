@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.18-additional.command.buttons.radial | downloads: 14
-v1.0.2-mission.helper | downloads: 56
+v1.0.2-mission.helper | downloads: 58
 v1.0.17-additional.command.buttons.radial | downloads: 21
 v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 25
@@ -8,7 +8,7 @@ v1.0.0-mission.helper | downloads: 38
 v1.1.5-galactic.capital.investment | downloads: 110
 v1.0.7-bunrodea.missions | downloads: 75
 v1.0.5-human.labels | downloads: 38
-v1.1.4-more.boarding.missions | downloads: 75
+v1.1.4-more.boarding.missions | downloads: 77
 v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 68
 v1.0.15-additional.command.buttons.radial | downloads: 69
@@ -17,11 +17,11 @@ v1.0.0-avgi.licenses | downloads: 101
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 101
-v1.0.8-uniques | downloads: 86
+v1.0.8-uniques | downloads: 88
 v1.0.3-quarg.farm | downloads: 118
 v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 136
-v1.0.3-show.reputation | downloads: 75
+v1.0.3-show.reputation | downloads: 77
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 127
 v1.0.5-bunrodea.missions | downloads: 120
@@ -35,11 +35,11 @@ v1.0.12-additional.command.buttons.radial | downloads: 47
 v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
-v1.0.3-navy.licenses | downloads: 236
+v1.0.3-navy.licenses | downloads: 238
 v1.0.6-coalition.shopping | downloads: 197
 v1.0.5-snowfeather.robotics | downloads: 144
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 250
+v1.0.2-kor.efret.shipyard | downloads: 252
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 107
@@ -188,7 +188,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 187
-# TOTAL DOWNLOADS: 12712
+# TOTAL DOWNLOADS: 12724
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -213,15 +213,15 @@ hai.side.mission.unlocker 311
 human.labels 251
 jump.gates 339
 kestrel.unlocks 273
-kor.efret.shipyard 420
+kor.efret.shipyard 422
 landing.images 276
 landing.images.android 256
 landing.images.highres 200
-mission.helper 119
+mission.helper 121
 more.arfectas 394
-more.boarding.missions 395
+more.boarding.missions 397
 more.person.ships 313
-navy.licenses 448
+navy.licenses 450
 no.more.mereti.mines 253
 outfits.weapon.slot 237
 paint.your.ships 279
@@ -230,10 +230,10 @@ planet.map 186
 planet.pluto 95
 quarg.farm 429
 real.fluff 93
-show.reputation 324
+show.reputation 326
 snowfeather.robotics 303
 space.fauna 254
 too.many.asteroids 467
 tribute.republic 204
 unique.fix 44
-uniques 296
+uniques 298
