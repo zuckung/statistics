@@ -54,8 +54,8 @@
 		<td>97</td>
 		<td>99</td>
 		<td>101</td>
-		<td>103</td>
-		<td>+ 2</td>
+		<td>105</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -98,8 +98,8 @@
 		<td>386</td>
 		<td>390</td>
 		<td>391</td>
-		<td>393</td>
-		<td>+ 2</td>
+		<td>395</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -439,8 +439,8 @@
 		<td>467</td>
 		<td>467</td>
 		<td>467</td>
-		<td>470</td>
-		<td>+ 3</td>
+		<td>472</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -509,8 +509,8 @@
 		<td>467</td>
 		<td>467</td>
 		<td>467</td>
-		<td>470</td>
-		<td>+ 3</td>
+		<td>472</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -608,8 +608,8 @@
 		<td>386</td>
 		<td>390</td>
 		<td>391</td>
-		<td>393</td>
-		<td>+ 2</td>
+		<td>395</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -905,8 +905,8 @@
 		<td>97</td>
 		<td>99</td>
 		<td>101</td>
-		<td>103</td>
-		<td>+ 2</td>
+		<td>105</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
