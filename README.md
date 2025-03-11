@@ -32,8 +32,8 @@
 		<td>313</td>
 		<td>315</td>
 		<td>316</td>
-		<td>316</td>
-		<td></td>
+		<td>318</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -274,8 +274,8 @@
 		<td>119</td>
 		<td>119</td>
 		<td>121</td>
-		<td>123</td>
-		<td>+ 2</td>
+		<td>125</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -652,8 +652,8 @@
 		<td>313</td>
 		<td>315</td>
 		<td>316</td>
-		<td>316</td>
-		<td></td>
+		<td>318</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -883,8 +883,8 @@
 		<td>119</td>
 		<td>119</td>
 		<td>121</td>
-		<td>123</td>
-		<td>+ 2</td>
+		<td>125</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
