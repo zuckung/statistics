@@ -87,8 +87,8 @@
 		<td>347</td>
 		<td>347</td>
 		<td>347</td>
-		<td>347</td>
-		<td></td>
+		<td>349</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -219,8 +219,8 @@
 		<td>273</td>
 		<td>273</td>
 		<td>273</td>
-		<td>273</td>
-		<td></td>
+		<td>275</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -274,8 +274,8 @@
 		<td>119</td>
 		<td>119</td>
 		<td>121</td>
-		<td>121</td>
-		<td></td>
+		<td>123</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -608,8 +608,8 @@
 		<td>347</td>
 		<td>347</td>
 		<td>347</td>
-		<td>347</td>
-		<td></td>
+		<td>349</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -740,8 +740,8 @@
 		<td>273</td>
 		<td>273</td>
 		<td>273</td>
-		<td>273</td>
-		<td></td>
+		<td>275</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -883,8 +883,8 @@
 		<td>119</td>
 		<td>119</td>
 		<td>121</td>
-		<td>121</td>
-		<td></td>
+		<td>123</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
