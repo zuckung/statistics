@@ -285,8 +285,8 @@
 		<td>392</td>
 		<td>392</td>
 		<td>394</td>
-		<td>398</td>
-		<td>+ 4</td>
+		<td>400</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -384,8 +384,8 @@
 		<td>427</td>
 		<td>427</td>
 		<td>429</td>
-		<td>432</td>
-		<td>+ 3</td>
+		<td>434</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -542,8 +542,8 @@
 		<td>427</td>
 		<td>427</td>
 		<td>429</td>
-		<td>432</td>
-		<td>+ 3</td>
+		<td>434</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -568,6 +568,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>more.arfectas</td>
+		<td>390</td>
+		<td>390</td>
+		<td>390</td>
+		<td>392</td>
+		<td>392</td>
+		<td>394</td>
+		<td>400</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
 		<td>more.boarding.missions</td>
 		<td>395</td>
 		<td>395</td>
@@ -577,17 +588,6 @@
 		<td>397</td>
 		<td>398</td>
 		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>more.arfectas</td>
-		<td>390</td>
-		<td>390</td>
-		<td>390</td>
-		<td>392</td>
-		<td>392</td>
-		<td>394</td>
-		<td>398</td>
-		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
