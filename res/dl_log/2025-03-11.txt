@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.18-additional.command.buttons.radial | downloads: 16
-v1.0.2-mission.helper | downloads: 58
+v1.0.2-mission.helper | downloads: 60
 v1.0.17-additional.command.buttons.radial | downloads: 21
 v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 25
@@ -16,7 +16,7 @@ v1.0.6-expert.crew.members | downloads: 95
 v1.0.0-avgi.licenses | downloads: 101
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
-v1.1.7-captureable.person.ships | downloads: 101
+v1.1.7-captureable.person.ships | downloads: 103
 v1.0.8-uniques | downloads: 88
 v1.0.3-quarg.farm | downloads: 118
 v1.0.7-uniques | downloads: 5
@@ -80,7 +80,7 @@ v1.0.0-outfits.weapon.slot | downloads: 237
 v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 108
-v1.0.0-kestrel.unlocks | downloads: 273
+v1.0.0-kestrel.unlocks | downloads: 275
 v1.0.2-tribute.republic | downloads: 186
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
@@ -188,7 +188,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 187
-# TOTAL DOWNLOADS: 12726
+# TOTAL DOWNLOADS: 12732
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -199,7 +199,7 @@ automata.in.human.space 283
 avgi.licenses 101
 better.starts 342
 bunrodea.missions 454
-captureable.person.ships 347
+captureable.person.ships 349
 coalition.shopping 391
 control.station 267
 devil-run.unhidden 66
@@ -212,12 +212,12 @@ gegno.pirates 425
 hai.side.mission.unlocker 311
 human.labels 251
 jump.gates 339
-kestrel.unlocks 273
+kestrel.unlocks 275
 kor.efret.shipyard 422
 landing.images 276
 landing.images.android 256
 landing.images.highres 200
-mission.helper 121
+mission.helper 123
 more.arfectas 394
 more.boarding.missions 397
 more.person.ships 313
