@@ -43,8 +43,8 @@
 		<td>281</td>
 		<td>281</td>
 		<td>283</td>
-		<td>285</td>
-		<td>+ 2</td>
+		<td>286</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
@@ -186,8 +186,8 @@
 		<td>311</td>
 		<td>311</td>
 		<td>311</td>
-		<td>313</td>
-		<td>+ 2</td>
+		<td>314</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -241,8 +241,8 @@
 		<td>414</td>
 		<td>418</td>
 		<td>422</td>
-		<td>427</td>
-		<td>+ 5</td>
+		<td>428</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -296,8 +296,8 @@
 		<td>392</td>
 		<td>392</td>
 		<td>394</td>
-		<td>403</td>
-		<td>+ 9</td>
+		<td>404</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -307,8 +307,8 @@
 		<td>395</td>
 		<td>395</td>
 		<td>397</td>
-		<td>401</td>
-		<td>+ 4</td>
+		<td>402</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -384,8 +384,8 @@
 		<td>95</td>
 		<td>95</td>
 		<td>95</td>
-		<td>97</td>
-		<td>+ 2</td>
+		<td>98</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -439,8 +439,8 @@
 		<td>467</td>
 		<td>467</td>
 		<td>467</td>
-		<td>469</td>
-		<td>+ 2</td>
+		<td>470</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -509,8 +509,8 @@
 		<td>467</td>
 		<td>467</td>
 		<td>467</td>
-		<td>469</td>
-		<td>+ 2</td>
+		<td>470</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -564,8 +564,8 @@
 		<td>414</td>
 		<td>418</td>
 		<td>422</td>
-		<td>427</td>
-		<td>+ 5</td>
+		<td>428</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -586,8 +586,8 @@
 		<td>392</td>
 		<td>392</td>
 		<td>394</td>
-		<td>403</td>
-		<td>+ 9</td>
+		<td>404</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -597,8 +597,8 @@
 		<td>395</td>
 		<td>395</td>
 		<td>397</td>
-		<td>401</td>
-		<td>+ 4</td>
+		<td>402</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -685,8 +685,8 @@
 		<td>311</td>
 		<td>311</td>
 		<td>311</td>
-		<td>313</td>
-		<td>+ 2</td>
+		<td>314</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -718,8 +718,8 @@
 		<td>281</td>
 		<td>281</td>
 		<td>283</td>
-		<td>285</td>
-		<td>+ 2</td>
+		<td>286</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -916,8 +916,8 @@
 		<td>95</td>
 		<td>95</td>
 		<td>95</td>
-		<td>97</td>
-		<td>+ 2</td>
+		<td>98</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
