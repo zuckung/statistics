@@ -21,8 +21,8 @@
 		<td>502</td>
 		<td>502</td>
 		<td>504</td>
-		<td>506</td>
-		<td>+ 2</td>
+		<td>508</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -230,8 +230,8 @@
 		<td>414</td>
 		<td>418</td>
 		<td>422</td>
-		<td>422</td>
-		<td></td>
+		<td>425</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -274,8 +274,8 @@
 		<td>119</td>
 		<td>119</td>
 		<td>121</td>
-		<td>125</td>
-		<td>+ 4</td>
+		<td>128</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -285,8 +285,8 @@
 		<td>392</td>
 		<td>392</td>
 		<td>394</td>
-		<td>394</td>
-		<td></td>
+		<td>397</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -351,8 +351,8 @@
 		<td>277</td>
 		<td>277</td>
 		<td>279</td>
-		<td>279</td>
-		<td></td>
+		<td>281</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -384,8 +384,8 @@
 		<td>427</td>
 		<td>427</td>
 		<td>429</td>
-		<td>429</td>
-		<td></td>
+		<td>431</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -487,8 +487,8 @@
 		<td>502</td>
 		<td>502</td>
 		<td>504</td>
-		<td>506</td>
-		<td>+ 2</td>
+		<td>508</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -542,8 +542,19 @@
 		<td>427</td>
 		<td>427</td>
 		<td>429</td>
-		<td>429</td>
-		<td></td>
+		<td>431</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>kor.efret.shipyard</td>
+		<td>414</td>
+		<td>414</td>
+		<td>414</td>
+		<td>414</td>
+		<td>418</td>
+		<td>422</td>
+		<td>425</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -554,17 +565,6 @@
 		<td>422</td>
 		<td>425</td>
 		<td>425</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>kor.efret.shipyard</td>
-		<td>414</td>
-		<td>414</td>
-		<td>414</td>
-		<td>414</td>
-		<td>418</td>
-		<td>422</td>
-		<td>422</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -586,8 +586,8 @@
 		<td>392</td>
 		<td>392</td>
 		<td>394</td>
-		<td>394</td>
-		<td></td>
+		<td>397</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -718,8 +718,8 @@
 		<td>277</td>
 		<td>277</td>
 		<td>279</td>
-		<td>279</td>
-		<td></td>
+		<td>281</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -883,8 +883,8 @@
 		<td>119</td>
 		<td>119</td>
 		<td>121</td>
-		<td>125</td>
-		<td>+ 4</td>
+		<td>128</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
