@@ -76,8 +76,8 @@
 		<td>447</td>
 		<td>449</td>
 		<td>454</td>
-		<td>456</td>
-		<td>+ 2</td>
+		<td>458</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -175,8 +175,8 @@
 		<td>420</td>
 		<td>422</td>
 		<td>425</td>
-		<td>427</td>
-		<td>+ 2</td>
+		<td>429</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -197,8 +197,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>3</td>
-		<td>+ 3</td>
+		<td>5</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -307,8 +307,8 @@
 		<td>395</td>
 		<td>395</td>
 		<td>397</td>
-		<td>402</td>
-		<td>+ 5</td>
+		<td>403</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -318,8 +318,8 @@
 		<td>313</td>
 		<td>313</td>
 		<td>313</td>
-		<td>315</td>
-		<td>+ 2</td>
+		<td>317</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -329,8 +329,8 @@
 		<td>448</td>
 		<td>448</td>
 		<td>450</td>
-		<td>454</td>
-		<td>+ 4</td>
+		<td>456</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -428,8 +428,8 @@
 		<td>254</td>
 		<td>254</td>
 		<td>254</td>
-		<td>258</td>
-		<td>+ 4</td>
+		<td>260</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -520,8 +520,8 @@
 		<td>447</td>
 		<td>449</td>
 		<td>454</td>
-		<td>456</td>
-		<td>+ 2</td>
+		<td>458</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -531,8 +531,8 @@
 		<td>448</td>
 		<td>448</td>
 		<td>450</td>
-		<td>454</td>
-		<td>+ 4</td>
+		<td>456</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -557,6 +557,17 @@
 		<td>+ 6</td>
 	</tr>
 	<tr>
+		<td>gegno.pirates</td>
+		<td>420</td>
+		<td>420</td>
+		<td>420</td>
+		<td>420</td>
+		<td>422</td>
+		<td>425</td>
+		<td>429</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>kor.efret.shipyard</td>
 		<td>414</td>
 		<td>414</td>
@@ -566,17 +577,6 @@
 		<td>422</td>
 		<td>428</td>
 		<td>+ 6</td>
-	</tr>
-	<tr>
-		<td>gegno.pirates</td>
-		<td>420</td>
-		<td>420</td>
-		<td>420</td>
-		<td>420</td>
-		<td>422</td>
-		<td>425</td>
-		<td>427</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -597,8 +597,8 @@
 		<td>395</td>
 		<td>395</td>
 		<td>397</td>
-		<td>402</td>
-		<td>+ 5</td>
+		<td>403</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -674,8 +674,8 @@
 		<td>313</td>
 		<td>313</td>
 		<td>313</td>
-		<td>315</td>
-		<td>+ 2</td>
+		<td>317</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -784,8 +784,8 @@
 		<td>254</td>
 		<td>254</td>
 		<td>254</td>
-		<td>258</td>
-		<td>+ 4</td>
+		<td>260</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -927,8 +927,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>3</td>
-		<td>+ 3</td>
+		<td>5</td>
+		<td>+ 5</td>
 	</tr>
 </table>
 </sub></sup>
