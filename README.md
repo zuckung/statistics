@@ -208,8 +208,8 @@
 		<td>251</td>
 		<td>251</td>
 		<td>253</td>
-		<td>253</td>
-		<td></td>
+		<td>254</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -817,8 +817,8 @@
 		<td>251</td>
 		<td>251</td>
 		<td>253</td>
-		<td>253</td>
-		<td></td>
+		<td>254</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
