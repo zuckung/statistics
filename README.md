@@ -54,8 +54,8 @@
 		<td>99</td>
 		<td>101</td>
 		<td>105</td>
-		<td>105</td>
-		<td></td>
+		<td>107</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -241,8 +241,8 @@
 		<td>418</td>
 		<td>422</td>
 		<td>428</td>
-		<td>430</td>
-		<td>+ 2</td>
+		<td>432</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -461,8 +461,8 @@
 		<td>296</td>
 		<td>298</td>
 		<td>300</td>
-		<td>300</td>
-		<td></td>
+		<td>302</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -557,6 +557,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>kor.efret.shipyard</td>
+		<td>414</td>
+		<td>414</td>
+		<td>414</td>
+		<td>418</td>
+		<td>422</td>
+		<td>428</td>
+		<td>432</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>gegno.pirates</td>
 		<td>420</td>
 		<td>420</td>
@@ -565,17 +576,6 @@
 		<td>425</td>
 		<td>429</td>
 		<td>431</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>kor.efret.shipyard</td>
-		<td>414</td>
-		<td>414</td>
-		<td>414</td>
-		<td>418</td>
-		<td>422</td>
-		<td>428</td>
-		<td>430</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -707,8 +707,8 @@
 		<td>296</td>
 		<td>298</td>
 		<td>300</td>
-		<td>300</td>
-		<td></td>
+		<td>302</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -905,8 +905,8 @@
 		<td>99</td>
 		<td>101</td>
 		<td>105</td>
-		<td>105</td>
-		<td></td>
+		<td>107</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
