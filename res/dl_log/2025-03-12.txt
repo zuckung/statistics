@@ -1,8 +1,8 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.3-gegno.pirates | downloads: 6
-v1.0.0-highrollers.ltd | downloads: 5
+v1.0.0-highrollers.ltd | downloads: 7
 v1.0.18-additional.command.buttons.radial | downloads: 24
-v1.0.2-mission.helper | downloads: 69
+v1.0.2-mission.helper | downloads: 71
 v1.0.17-additional.command.buttons.radial | downloads: 21
 v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 25
@@ -190,7 +190,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 189
-# TOTAL DOWNLOADS: 12923
+# TOTAL DOWNLOADS: 12927
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -212,7 +212,7 @@ free.worlds.5.years.later 250
 galactic.capital.investment 540
 gegno.pirates 431
 hai.side.mission.unlocker 316
-highrollers.ltd 5
+highrollers.ltd 7
 human.labels 254
 jump.gates 343
 kestrel.unlocks 279
@@ -220,7 +220,7 @@ kor.efret.shipyard 432
 landing.images 280
 landing.images.android 260
 landing.images.highres 202
-mission.helper 132
+mission.helper 134
 more.arfectas 406
 more.boarding.missions 403
 more.person.ships 317
