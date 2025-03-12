@@ -450,8 +450,8 @@
 		<td>204</td>
 		<td>204</td>
 		<td>208</td>
-		<td>208</td>
-		<td></td>
+		<td>210</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -850,8 +850,8 @@
 		<td>204</td>
 		<td>204</td>
 		<td>208</td>
-		<td>208</td>
-		<td></td>
+		<td>210</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
