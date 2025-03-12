@@ -153,8 +153,8 @@
 		<td>248</td>
 		<td>248</td>
 		<td>250</td>
-		<td>250</td>
-		<td></td>
+		<td>252</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -828,8 +828,8 @@
 		<td>248</td>
 		<td>248</td>
 		<td>250</td>
-		<td>250</td>
-		<td></td>
+		<td>252</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
