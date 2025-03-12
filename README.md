@@ -32,8 +32,8 @@
 		<td>315</td>
 		<td>316</td>
 		<td>320</td>
-		<td>322</td>
-		<td>+ 2</td>
+		<td>323</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -65,8 +65,8 @@
 		<td>340</td>
 		<td>342</td>
 		<td>348</td>
-		<td>348</td>
-		<td></td>
+		<td>349</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -109,8 +109,8 @@
 		<td>267</td>
 		<td>267</td>
 		<td>269</td>
-		<td>269</td>
-		<td></td>
+		<td>270</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -208,8 +208,8 @@
 		<td>251</td>
 		<td>251</td>
 		<td>253</td>
-		<td>254</td>
-		<td>+ 1</td>
+		<td>255</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -219,8 +219,8 @@
 		<td>339</td>
 		<td>339</td>
 		<td>341</td>
-		<td>343</td>
-		<td>+ 2</td>
+		<td>344</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -252,8 +252,8 @@
 		<td>276</td>
 		<td>276</td>
 		<td>278</td>
-		<td>280</td>
-		<td>+ 2</td>
+		<td>281</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -285,8 +285,8 @@
 		<td>119</td>
 		<td>121</td>
 		<td>132</td>
-		<td>134</td>
-		<td>+ 2</td>
+		<td>135</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -307,8 +307,8 @@
 		<td>395</td>
 		<td>397</td>
 		<td>403</td>
-		<td>403</td>
-		<td></td>
+		<td>404</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -329,8 +329,8 @@
 		<td>448</td>
 		<td>450</td>
 		<td>456</td>
-		<td>456</td>
-		<td></td>
+		<td>457</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -531,8 +531,8 @@
 		<td>448</td>
 		<td>450</td>
 		<td>456</td>
-		<td>456</td>
-		<td></td>
+		<td>457</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -597,8 +597,8 @@
 		<td>395</td>
 		<td>397</td>
 		<td>403</td>
-		<td>403</td>
-		<td></td>
+		<td>404</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -630,8 +630,8 @@
 		<td>340</td>
 		<td>342</td>
 		<td>348</td>
-		<td>348</td>
-		<td></td>
+		<td>349</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -641,8 +641,8 @@
 		<td>339</td>
 		<td>339</td>
 		<td>341</td>
-		<td>343</td>
-		<td>+ 2</td>
+		<td>344</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -663,8 +663,8 @@
 		<td>315</td>
 		<td>316</td>
 		<td>320</td>
-		<td>322</td>
-		<td>+ 2</td>
+		<td>323</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -740,8 +740,8 @@
 		<td>276</td>
 		<td>276</td>
 		<td>278</td>
-		<td>280</td>
-		<td>+ 2</td>
+		<td>281</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -762,8 +762,8 @@
 		<td>267</td>
 		<td>267</td>
 		<td>269</td>
-		<td>269</td>
-		<td></td>
+		<td>270</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -817,8 +817,8 @@
 		<td>251</td>
 		<td>251</td>
 		<td>253</td>
-		<td>254</td>
-		<td>+ 1</td>
+		<td>255</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -894,8 +894,8 @@
 		<td>119</td>
 		<td>121</td>
 		<td>132</td>
-		<td>134</td>
-		<td>+ 2</td>
+		<td>135</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
