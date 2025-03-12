@@ -21,8 +21,8 @@
 		<td>502</td>
 		<td>504</td>
 		<td>512</td>
-		<td>512</td>
-		<td></td>
+		<td>514</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -76,8 +76,8 @@
 		<td>449</td>
 		<td>454</td>
 		<td>458</td>
-		<td>458</td>
-		<td></td>
+		<td>460</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -175,8 +175,8 @@
 		<td>422</td>
 		<td>425</td>
 		<td>429</td>
-		<td>429</td>
-		<td></td>
+		<td>431</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -186,8 +186,8 @@
 		<td>311</td>
 		<td>311</td>
 		<td>314</td>
-		<td>314</td>
-		<td></td>
+		<td>316</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -219,8 +219,8 @@
 		<td>339</td>
 		<td>339</td>
 		<td>341</td>
-		<td>341</td>
-		<td></td>
+		<td>343</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -230,8 +230,8 @@
 		<td>273</td>
 		<td>273</td>
 		<td>277</td>
-		<td>277</td>
-		<td></td>
+		<td>279</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -241,8 +241,8 @@
 		<td>418</td>
 		<td>422</td>
 		<td>428</td>
-		<td>428</td>
-		<td></td>
+		<td>430</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -252,8 +252,8 @@
 		<td>276</td>
 		<td>276</td>
 		<td>278</td>
-		<td>278</td>
-		<td></td>
+		<td>280</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -263,8 +263,8 @@
 		<td>256</td>
 		<td>256</td>
 		<td>258</td>
-		<td>258</td>
-		<td></td>
+		<td>260</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -296,8 +296,8 @@
 		<td>392</td>
 		<td>394</td>
 		<td>404</td>
-		<td>404</td>
-		<td></td>
+		<td>406</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -395,8 +395,8 @@
 		<td>427</td>
 		<td>429</td>
 		<td>435</td>
-		<td>435</td>
-		<td></td>
+		<td>437</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -439,8 +439,8 @@
 		<td>467</td>
 		<td>467</td>
 		<td>472</td>
-		<td>472</td>
-		<td></td>
+		<td>474</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -498,8 +498,8 @@
 		<td>502</td>
 		<td>504</td>
 		<td>512</td>
-		<td>512</td>
-		<td></td>
+		<td>514</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -509,8 +509,8 @@
 		<td>467</td>
 		<td>467</td>
 		<td>472</td>
-		<td>472</td>
-		<td></td>
+		<td>474</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -520,8 +520,8 @@
 		<td>449</td>
 		<td>454</td>
 		<td>458</td>
-		<td>458</td>
-		<td></td>
+		<td>460</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -553,8 +553,8 @@
 		<td>427</td>
 		<td>429</td>
 		<td>435</td>
-		<td>435</td>
-		<td></td>
+		<td>437</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -564,8 +564,8 @@
 		<td>422</td>
 		<td>425</td>
 		<td>429</td>
-		<td>429</td>
-		<td></td>
+		<td>431</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -575,8 +575,8 @@
 		<td>418</td>
 		<td>422</td>
 		<td>428</td>
-		<td>428</td>
-		<td></td>
+		<td>430</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -586,8 +586,8 @@
 		<td>392</td>
 		<td>394</td>
 		<td>404</td>
-		<td>404</td>
-		<td></td>
+		<td>406</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -641,8 +641,8 @@
 		<td>339</td>
 		<td>339</td>
 		<td>341</td>
-		<td>341</td>
-		<td></td>
+		<td>343</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -685,8 +685,8 @@
 		<td>311</td>
 		<td>311</td>
 		<td>314</td>
-		<td>314</td>
-		<td></td>
+		<td>316</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -740,8 +740,8 @@
 		<td>276</td>
 		<td>276</td>
 		<td>278</td>
-		<td>278</td>
-		<td></td>
+		<td>280</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -751,8 +751,8 @@
 		<td>273</td>
 		<td>273</td>
 		<td>277</td>
-		<td>277</td>
-		<td></td>
+		<td>279</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -795,8 +795,8 @@
 		<td>256</td>
 		<td>256</td>
 		<td>258</td>
-		<td>258</td>
-		<td></td>
+		<td>260</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
