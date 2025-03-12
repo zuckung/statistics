@@ -197,8 +197,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>5</td>
-		<td>5</td>
-		<td></td>
+		<td>7</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -285,8 +285,8 @@
 		<td>119</td>
 		<td>121</td>
 		<td>132</td>
-		<td>132</td>
-		<td></td>
+		<td>134</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -894,8 +894,8 @@
 		<td>119</td>
 		<td>121</td>
 		<td>132</td>
-		<td>132</td>
-		<td></td>
+		<td>134</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
@@ -927,8 +927,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>5</td>
-		<td>5</td>
-		<td></td>
+		<td>7</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
