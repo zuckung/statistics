@@ -19,7 +19,7 @@ v1.0.0-avgi.licenses | downloads: 108
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 107
-v1.0.8-uniques | downloads: 92
+v1.0.8-uniques | downloads: 94
 v1.0.3-quarg.farm | downloads: 126
 v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 143
@@ -190,7 +190,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 189
-# TOTAL DOWNLOADS: 12987
+# TOTAL DOWNLOADS: 12989
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -239,4 +239,4 @@ space.fauna 262
 too.many.asteroids 474
 tribute.republic 210
 unique.fix 44
-uniques 302
+uniques 304
