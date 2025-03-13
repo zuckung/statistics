@@ -428,8 +428,8 @@
 		<td>254</td>
 		<td>260</td>
 		<td>260</td>
-		<td>260</td>
-		<td></td>
+		<td>262</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -766,6 +766,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>space.fauna</td>
+		<td>254</td>
+		<td>254</td>
+		<td>254</td>
+		<td>254</td>
+		<td>260</td>
+		<td>260</td>
+		<td>262</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>259</td>
 		<td>259</td>
@@ -774,17 +785,6 @@
 		<td>261</td>
 		<td>261</td>
 		<td>261</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>space.fauna</td>
-		<td>254</td>
-		<td>254</td>
-		<td>254</td>
-		<td>254</td>
-		<td>260</td>
-		<td>260</td>
-		<td>260</td>
 		<td></td>
 	</tr>
 	<tr>
