@@ -197,8 +197,8 @@
 		<td>0</td>
 		<td>5</td>
 		<td>7</td>
-		<td>7</td>
-		<td></td>
+		<td>9</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -329,8 +329,8 @@
 		<td>450</td>
 		<td>456</td>
 		<td>457</td>
-		<td>457</td>
-		<td></td>
+		<td>459</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -531,8 +531,8 @@
 		<td>450</td>
 		<td>456</td>
 		<td>457</td>
-		<td>457</td>
-		<td></td>
+		<td>459</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -927,8 +927,8 @@
 		<td>0</td>
 		<td>5</td>
 		<td>7</td>
-		<td>7</td>
-		<td></td>
+		<td>9</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
