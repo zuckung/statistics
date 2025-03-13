@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.3-gegno.pirates | downloads: 6
-v1.0.0-highrollers.ltd | downloads: 7
+v1.0.0-highrollers.ltd | downloads: 9
 v1.0.18-additional.command.buttons.radial | downloads: 26
 v1.0.2-mission.helper | downloads: 72
 v1.0.17-additional.command.buttons.radial | downloads: 21
@@ -37,7 +37,7 @@ v1.0.12-additional.command.buttons.radial | downloads: 47
 v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
-v1.0.3-navy.licenses | downloads: 245
+v1.0.3-navy.licenses | downloads: 247
 v1.0.6-coalition.shopping | downloads: 201
 v1.0.5-snowfeather.robotics | downloads: 146
 v1.0.4-snowfeather.robotics | downloads: 3
@@ -190,7 +190,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 189
-# TOTAL DOWNLOADS: 12949
+# TOTAL DOWNLOADS: 12953
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -212,7 +212,7 @@ free.worlds.5.years.later 252
 galactic.capital.investment 540
 gegno.pirates 431
 hai.side.mission.unlocker 316
-highrollers.ltd 7
+highrollers.ltd 9
 human.labels 255
 jump.gates 344
 kestrel.unlocks 279
@@ -224,7 +224,7 @@ mission.helper 135
 more.arfectas 406
 more.boarding.missions 404
 more.person.ships 317
-navy.licenses 457
+navy.licenses 459
 no.more.mereti.mines 257
 outfits.weapon.slot 241
 paint.your.ships 283
