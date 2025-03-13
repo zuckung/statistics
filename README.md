@@ -32,8 +32,8 @@
 		<td>316</td>
 		<td>320</td>
 		<td>323</td>
-		<td>323</td>
-		<td></td>
+		<td>324</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -43,8 +43,8 @@
 		<td>283</td>
 		<td>286</td>
 		<td>286</td>
-		<td>286</td>
-		<td></td>
+		<td>287</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
@@ -54,8 +54,8 @@
 		<td>101</td>
 		<td>105</td>
 		<td>107</td>
-		<td>107</td>
-		<td></td>
+		<td>108</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -65,8 +65,8 @@
 		<td>342</td>
 		<td>348</td>
 		<td>349</td>
-		<td>349</td>
-		<td></td>
+		<td>350</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -384,8 +384,8 @@
 		<td>95</td>
 		<td>98</td>
 		<td>98</td>
-		<td>98</td>
-		<td></td>
+		<td>99</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -630,8 +630,8 @@
 		<td>342</td>
 		<td>348</td>
 		<td>349</td>
-		<td>349</td>
-		<td></td>
+		<td>350</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -663,8 +663,8 @@
 		<td>316</td>
 		<td>320</td>
 		<td>323</td>
-		<td>323</td>
-		<td></td>
+		<td>324</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -718,8 +718,8 @@
 		<td>283</td>
 		<td>286</td>
 		<td>286</td>
-		<td>286</td>
-		<td></td>
+		<td>287</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -905,8 +905,8 @@
 		<td>101</td>
 		<td>105</td>
 		<td>107</td>
-		<td>107</td>
-		<td></td>
+		<td>108</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -916,8 +916,8 @@
 		<td>95</td>
 		<td>98</td>
 		<td>98</td>
-		<td>98</td>
-		<td></td>
+		<td>99</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
