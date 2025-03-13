@@ -109,8 +109,8 @@
 		<td>267</td>
 		<td>269</td>
 		<td>270</td>
-		<td>270</td>
-		<td></td>
+		<td>272</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -762,8 +762,8 @@
 		<td>267</td>
 		<td>269</td>
 		<td>270</td>
-		<td>270</td>
-		<td></td>
+		<td>272</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
