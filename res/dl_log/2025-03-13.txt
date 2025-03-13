@@ -140,7 +140,7 @@ v1.1.3-more.boarding.missions | downloads: 313
 v1.0.3-coalition.shopping | downloads: 97
 v1.0.2-coalition.shopping | downloads: 1
 v1.0.1-navy.licenses | downloads: 1
-v1.1.2-space.fauna | downloads: 258
+v1.1.2-space.fauna | downloads: 260
 v1.0.3-snowfeather.robotics | downloads: 149
 v1.0.2-snowfeather.robotics | downloads: 1
 v1.1.1-space.fauna | downloads: 1
@@ -190,7 +190,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 189
-# TOTAL DOWNLOADS: 12955
+# TOTAL DOWNLOADS: 12957
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -235,7 +235,7 @@ quarg.farm 437
 real.fluff 93
 show.reputation 328
 snowfeather.robotics 305
-space.fauna 260
+space.fauna 262
 too.many.asteroids 474
 tribute.republic 210
 unique.fix 44
