@@ -15,11 +15,11 @@ v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 73
 v1.0.15-additional.command.buttons.radial | downloads: 69
 v1.0.6-expert.crew.members | downloads: 101
-v1.0.0-avgi.licenses | downloads: 108
+v1.0.0-avgi.licenses | downloads: 110
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 107
-v1.0.8-uniques | downloads: 94
+v1.0.8-uniques | downloads: 96
 v1.0.3-quarg.farm | downloads: 126
 v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 143
@@ -190,7 +190,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 189
-# TOTAL DOWNLOADS: 12999
+# TOTAL DOWNLOADS: 13003
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -198,7 +198,7 @@ additional.command.buttons 93
 additional.command.buttons.radial 520
 automata.destruction.0percent 328
 automata.in.human.space 287
-avgi.licenses 108
+avgi.licenses 110
 better.starts 352
 bunrodea.missions 460
 captureable.person.ships 353
@@ -239,4 +239,4 @@ space.fauna 262
 too.many.asteroids 474
 tribute.republic 210
 unique.fix 44
-uniques 304
+uniques 306
