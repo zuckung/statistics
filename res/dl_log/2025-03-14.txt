@@ -80,11 +80,11 @@ v1.0.1-uniques | downloads: 14
 v1.0.4-additional.command.buttons.radial | downloads: 5
 v1.0.3-additional.command.buttons.radial | downloads: 10
 v1.0.2-additional.command.buttons.radial | downloads: 4
-v1.0.0-outfits.weapon.slot | downloads: 245
+v1.0.0-outfits.weapon.slot | downloads: 247
 v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 108
-v1.0.0-kestrel.unlocks | downloads: 281
+v1.0.0-kestrel.unlocks | downloads: 283
 v1.0.2-tribute.republic | downloads: 194
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
@@ -192,7 +192,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 191
-# TOTAL DOWNLOADS: 13106
+# TOTAL DOWNLOADS: 13110
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -217,7 +217,7 @@ hai.side.mission.unlocker 320
 highrollers.ltd 13
 human.labels 259
 jump.gates 346
-kestrel.unlocks 281
+kestrel.unlocks 283
 kor.efret.shipyard 434
 landing.images 289
 landing.images.android 266
@@ -228,7 +228,7 @@ more.boarding.missions 410
 more.person.ships 319
 navy.licenses 461
 no.more.mereti.mines 261
-outfits.weapon.slot 245
+outfits.weapon.slot 247
 paint.your.ships 285
 pirate.warlords 3
 planet.map 194
