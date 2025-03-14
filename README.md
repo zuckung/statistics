@@ -32,8 +32,8 @@
 		<td>320</td>
 		<td>323</td>
 		<td>328</td>
-		<td>330</td>
-		<td>+ 2</td>
+		<td>332</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -65,8 +65,8 @@
 		<td>348</td>
 		<td>349</td>
 		<td>352</td>
-		<td>354</td>
-		<td>+ 2</td>
+		<td>356</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -612,6 +612,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>better.starts</td>
+		<td>340</td>
+		<td>340</td>
+		<td>342</td>
+		<td>348</td>
+		<td>349</td>
+		<td>352</td>
+		<td>356</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>captureable.person.ships</td>
 		<td>347</td>
 		<td>347</td>
@@ -620,17 +631,6 @@
 		<td>353</td>
 		<td>353</td>
 		<td>355</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>better.starts</td>
-		<td>340</td>
-		<td>340</td>
-		<td>342</td>
-		<td>348</td>
-		<td>349</td>
-		<td>352</td>
-		<td>354</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -645,23 +645,23 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
-		<td>show.reputation</td>
-		<td>324</td>
-		<td>324</td>
-		<td>326</td>
-		<td>328</td>
-		<td>328</td>
-		<td>328</td>
-		<td>330</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>313</td>
 		<td>315</td>
 		<td>316</td>
 		<td>320</td>
 		<td>323</td>
+		<td>328</td>
+		<td>332</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
+		<td>show.reputation</td>
+		<td>324</td>
+		<td>324</td>
+		<td>326</td>
+		<td>328</td>
+		<td>328</td>
 		<td>328</td>
 		<td>330</td>
 		<td>+ 2</td>
