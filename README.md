@@ -175,8 +175,8 @@
 		<td>429</td>
 		<td>431</td>
 		<td>431</td>
-		<td>433</td>
-		<td>+ 2</td>
+		<td>435</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -557,6 +557,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>gegno.pirates</td>
+		<td>420</td>
+		<td>422</td>
+		<td>425</td>
+		<td>429</td>
+		<td>431</td>
+		<td>431</td>
+		<td>435</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>kor.efret.shipyard</td>
 		<td>414</td>
 		<td>418</td>
@@ -565,17 +576,6 @@
 		<td>432</td>
 		<td>432</td>
 		<td>434</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>gegno.pirates</td>
-		<td>420</td>
-		<td>422</td>
-		<td>425</td>
-		<td>429</td>
-		<td>431</td>
-		<td>431</td>
-		<td>433</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
