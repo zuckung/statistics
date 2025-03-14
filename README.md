@@ -21,8 +21,8 @@
 		<td>512</td>
 		<td>514</td>
 		<td>518</td>
-		<td>526</td>
-		<td>+ 8</td>
+		<td>528</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -252,8 +252,8 @@
 		<td>278</td>
 		<td>281</td>
 		<td>283</td>
-		<td>287</td>
-		<td>+ 4</td>
+		<td>289</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -263,8 +263,8 @@
 		<td>258</td>
 		<td>260</td>
 		<td>260</td>
-		<td>264</td>
-		<td>+ 4</td>
+		<td>266</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -274,8 +274,8 @@
 		<td>202</td>
 		<td>202</td>
 		<td>204</td>
-		<td>206</td>
-		<td>+ 2</td>
+		<td>207</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -498,8 +498,8 @@
 		<td>512</td>
 		<td>514</td>
 		<td>518</td>
-		<td>526</td>
-		<td>+ 8</td>
+		<td>528</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -711,6 +711,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>landing.images</td>
+		<td>276</td>
+		<td>276</td>
+		<td>276</td>
+		<td>278</td>
+		<td>281</td>
+		<td>283</td>
+		<td>289</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
 		<td>automata.in.human.space</td>
 		<td>281</td>
 		<td>281</td>
@@ -720,17 +731,6 @@
 		<td>287</td>
 		<td>289</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>landing.images</td>
-		<td>276</td>
-		<td>276</td>
-		<td>276</td>
-		<td>278</td>
-		<td>281</td>
-		<td>283</td>
-		<td>287</td>
-		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -766,6 +766,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>landing.images.android</td>
+		<td>256</td>
+		<td>256</td>
+		<td>256</td>
+		<td>258</td>
+		<td>260</td>
+		<td>260</td>
+		<td>266</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
 		<td>space.fauna</td>
 		<td>254</td>
 		<td>254</td>
@@ -775,17 +786,6 @@
 		<td>262</td>
 		<td>264</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>landing.images.android</td>
-		<td>256</td>
-		<td>256</td>
-		<td>256</td>
-		<td>258</td>
-		<td>260</td>
-		<td>260</td>
-		<td>264</td>
-		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -861,8 +861,8 @@
 		<td>202</td>
 		<td>202</td>
 		<td>204</td>
-		<td>206</td>
-		<td>+ 2</td>
+		<td>207</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
