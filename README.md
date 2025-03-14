@@ -54,8 +54,8 @@
 		<td>105</td>
 		<td>107</td>
 		<td>108</td>
-		<td>108</td>
-		<td></td>
+		<td>110</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -461,8 +461,8 @@
 		<td>300</td>
 		<td>302</td>
 		<td>304</td>
-		<td>304</td>
-		<td></td>
+		<td>306</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -689,6 +689,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>uniques</td>
+		<td>296</td>
+		<td>296</td>
+		<td>298</td>
+		<td>300</td>
+		<td>302</td>
+		<td>304</td>
+		<td>306</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>snowfeather.robotics</td>
 		<td>301</td>
 		<td>303</td>
@@ -697,17 +708,6 @@
 		<td>305</td>
 		<td>305</td>
 		<td>305</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>uniques</td>
-		<td>296</td>
-		<td>296</td>
-		<td>298</td>
-		<td>300</td>
-		<td>302</td>
-		<td>304</td>
-		<td>304</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -905,8 +905,8 @@
 		<td>105</td>
 		<td>107</td>
 		<td>108</td>
-		<td>108</td>
-		<td></td>
+		<td>110</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
