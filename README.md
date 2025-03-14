@@ -21,8 +21,8 @@
 		<td>512</td>
 		<td>514</td>
 		<td>518</td>
-		<td>518</td>
-		<td></td>
+		<td>520</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -252,8 +252,8 @@
 		<td>278</td>
 		<td>281</td>
 		<td>283</td>
-		<td>283</td>
-		<td></td>
+		<td>285</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -263,8 +263,8 @@
 		<td>258</td>
 		<td>260</td>
 		<td>260</td>
-		<td>260</td>
-		<td></td>
+		<td>262</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -307,8 +307,8 @@
 		<td>403</td>
 		<td>404</td>
 		<td>406</td>
-		<td>406</td>
-		<td></td>
+		<td>408</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -373,8 +373,8 @@
 		<td>190</td>
 		<td>190</td>
 		<td>190</td>
-		<td>190</td>
-		<td></td>
+		<td>192</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -498,8 +498,8 @@
 		<td>512</td>
 		<td>514</td>
 		<td>518</td>
-		<td>518</td>
-		<td></td>
+		<td>520</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -586,8 +586,8 @@
 		<td>403</td>
 		<td>404</td>
 		<td>406</td>
-		<td>406</td>
-		<td></td>
+		<td>408</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -722,23 +722,23 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>paint.your.ships</td>
-		<td>277</td>
-		<td>277</td>
-		<td>279</td>
-		<td>283</td>
-		<td>283</td>
-		<td>283</td>
-		<td>283</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>landing.images</td>
 		<td>276</td>
 		<td>276</td>
 		<td>276</td>
 		<td>278</td>
 		<td>281</td>
+		<td>283</td>
+		<td>285</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>paint.your.ships</td>
+		<td>277</td>
+		<td>277</td>
+		<td>279</td>
+		<td>283</td>
+		<td>283</td>
 		<td>283</td>
 		<td>283</td>
 		<td></td>
@@ -777,6 +777,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>landing.images.android</td>
+		<td>256</td>
+		<td>256</td>
+		<td>256</td>
+		<td>258</td>
+		<td>260</td>
+		<td>260</td>
+		<td>262</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>259</td>
 		<td>259</td>
@@ -785,17 +796,6 @@
 		<td>261</td>
 		<td>261</td>
 		<td>261</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>landing.images.android</td>
-		<td>256</td>
-		<td>256</td>
-		<td>256</td>
-		<td>258</td>
-		<td>260</td>
-		<td>260</td>
-		<td>260</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -872,8 +872,8 @@
 		<td>190</td>
 		<td>190</td>
 		<td>190</td>
-		<td>190</td>
-		<td></td>
+		<td>192</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
