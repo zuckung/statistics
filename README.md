@@ -65,8 +65,8 @@
 		<td>349</td>
 		<td>352</td>
 		<td>356</td>
-		<td>356</td>
-		<td></td>
+		<td>358</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -285,8 +285,8 @@
 		<td>135</td>
 		<td>135</td>
 		<td>139</td>
-		<td>143</td>
-		<td>+ 4</td>
+		<td>145</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -395,8 +395,8 @@
 		<td>437</td>
 		<td>437</td>
 		<td>439</td>
-		<td>439</td>
-		<td></td>
+		<td>441</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -553,8 +553,8 @@
 		<td>437</td>
 		<td>437</td>
 		<td>439</td>
-		<td>439</td>
-		<td></td>
+		<td>441</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -619,8 +619,8 @@
 		<td>349</td>
 		<td>352</td>
 		<td>356</td>
-		<td>356</td>
-		<td></td>
+		<td>358</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -894,8 +894,8 @@
 		<td>135</td>
 		<td>135</td>
 		<td>139</td>
-		<td>143</td>
-		<td>+ 4</td>
+		<td>145</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
