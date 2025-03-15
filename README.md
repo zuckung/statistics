@@ -197,8 +197,8 @@
 		<td>7</td>
 		<td>11</td>
 		<td>13</td>
-		<td>13</td>
-		<td></td>
+		<td>15</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -927,8 +927,8 @@
 		<td>7</td>
 		<td>11</td>
 		<td>13</td>
-		<td>13</td>
-		<td></td>
+		<td>15</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
