@@ -285,8 +285,8 @@
 		<td>135</td>
 		<td>135</td>
 		<td>139</td>
-		<td>141</td>
-		<td>+ 2</td>
+		<td>143</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -296,8 +296,8 @@
 		<td>406</td>
 		<td>406</td>
 		<td>408</td>
-		<td>408</td>
-		<td></td>
+		<td>410</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -597,8 +597,8 @@
 		<td>406</td>
 		<td>406</td>
 		<td>408</td>
-		<td>408</td>
-		<td></td>
+		<td>410</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -894,8 +894,8 @@
 		<td>135</td>
 		<td>135</td>
 		<td>139</td>
-		<td>141</td>
-		<td>+ 2</td>
+		<td>143</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
