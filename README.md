@@ -76,8 +76,8 @@
 		<td>460</td>
 		<td>460</td>
 		<td>462</td>
-		<td>464</td>
-		<td>+ 2</td>
+		<td>465</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -87,8 +87,8 @@
 		<td>353</td>
 		<td>353</td>
 		<td>355</td>
-		<td>355</td>
-		<td></td>
+		<td>356</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -98,8 +98,8 @@
 		<td>395</td>
 		<td>395</td>
 		<td>397</td>
-		<td>399</td>
-		<td>+ 2</td>
+		<td>400</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -241,8 +241,8 @@
 		<td>432</td>
 		<td>432</td>
 		<td>434</td>
-		<td>434</td>
-		<td></td>
+		<td>435</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -329,8 +329,8 @@
 		<td>457</td>
 		<td>459</td>
 		<td>461</td>
-		<td>463</td>
-		<td>+ 2</td>
+		<td>464</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -362,8 +362,8 @@
 		<td>283</td>
 		<td>283</td>
 		<td>285</td>
-		<td>285</td>
-		<td></td>
+		<td>286</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -520,8 +520,8 @@
 		<td>460</td>
 		<td>460</td>
 		<td>462</td>
-		<td>464</td>
-		<td>+ 2</td>
+		<td>465</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -531,8 +531,8 @@
 		<td>457</td>
 		<td>459</td>
 		<td>461</td>
-		<td>463</td>
-		<td>+ 2</td>
+		<td>464</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -575,8 +575,8 @@
 		<td>432</td>
 		<td>432</td>
 		<td>434</td>
-		<td>434</td>
-		<td></td>
+		<td>435</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -608,8 +608,8 @@
 		<td>395</td>
 		<td>395</td>
 		<td>397</td>
-		<td>399</td>
-		<td>+ 2</td>
+		<td>400</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -630,8 +630,8 @@
 		<td>353</td>
 		<td>353</td>
 		<td>355</td>
-		<td>355</td>
-		<td></td>
+		<td>356</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -740,8 +740,8 @@
 		<td>283</td>
 		<td>283</td>
 		<td>285</td>
-		<td>285</td>
-		<td></td>
+		<td>286</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
