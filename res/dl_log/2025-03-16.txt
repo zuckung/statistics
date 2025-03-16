@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.19-additional.command.buttons.radial | downloads: 13
+v1.0.19-additional.command.buttons.radial | downloads: 15
 v1.0.1-highrollers.ltd | downloads: 4
 v1.0.3-gegno.pirates | downloads: 16
 v1.0.0-highrollers.ltd | downloads: 11
@@ -22,7 +22,7 @@ v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 112
 v1.0.8-uniques | downloads: 98
-v1.0.3-quarg.farm | downloads: 130
+v1.0.3-quarg.farm | downloads: 132
 v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 145
 v1.0.3-show.reputation | downloads: 81
@@ -40,7 +40,7 @@ v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 252
-v1.0.6-coalition.shopping | downloads: 206
+v1.0.6-coalition.shopping | downloads: 208
 v1.0.5-snowfeather.robotics | downloads: 150
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 265
@@ -70,7 +70,7 @@ v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 92
 v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
-v1.1.4-hai.side.mission.unlocker | downloads: 247
+v1.1.4-hai.side.mission.unlocker | downloads: 249
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 205
 v1.0.1-paint.your.ships | downloads: 282
@@ -128,7 +128,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 333
+v1.0.1-automata.destruction.0percent | downloads: 335
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -192,19 +192,19 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 191
-# TOTAL DOWNLOADS: 13184
+# TOTAL DOWNLOADS: 13194
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 534
-automata.destruction.0percent 334
+additional.command.buttons.radial 536
+automata.destruction.0percent 336
 automata.in.human.space 291
 avgi.licenses 116
 better.starts 361
 bunrodea.missions 469
 captureable.person.ships 358
-coalition.shopping 400
+coalition.shopping 402
 control.station 274
 devil-run.unhidden 66
 disable.person.ships 172
@@ -213,7 +213,7 @@ expert.crew.members 461
 free.worlds.5.years.later 256
 galactic.capital.investment 548
 gegno.pirates 441
-hai.side.mission.unlocker 322
+hai.side.mission.unlocker 324
 highrollers.ltd 15
 human.labels 261
 jump.gates 346
@@ -233,7 +233,7 @@ paint.your.ships 286
 pirate.warlords 3
 planet.map 196
 planet.pluto 101
-quarg.farm 441
+quarg.farm 443
 real.fluff 93
 show.reputation 330
 snowfeather.robotics 309
