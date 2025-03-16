@@ -65,8 +65,8 @@
 		<td>352</td>
 		<td>356</td>
 		<td>358</td>
-		<td>358</td>
-		<td></td>
+		<td>359</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -87,8 +87,8 @@
 		<td>353</td>
 		<td>355</td>
 		<td>356</td>
-		<td>356</td>
-		<td></td>
+		<td>358</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -175,8 +175,8 @@
 		<td>431</td>
 		<td>435</td>
 		<td>437</td>
-		<td>437</td>
-		<td></td>
+		<td>439</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -351,8 +351,8 @@
 		<td>243</td>
 		<td>247</td>
 		<td>247</td>
-		<td>247</td>
-		<td></td>
+		<td>249</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -564,8 +564,8 @@
 		<td>431</td>
 		<td>435</td>
 		<td>437</td>
-		<td>437</td>
-		<td></td>
+		<td>439</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -619,8 +619,8 @@
 		<td>352</td>
 		<td>356</td>
 		<td>358</td>
-		<td>358</td>
-		<td></td>
+		<td>359</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -630,8 +630,8 @@
 		<td>353</td>
 		<td>355</td>
 		<td>356</td>
-		<td>356</td>
-		<td></td>
+		<td>358</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -839,8 +839,8 @@
 		<td>243</td>
 		<td>247</td>
 		<td>247</td>
-		<td>247</td>
-		<td></td>
+		<td>249</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
