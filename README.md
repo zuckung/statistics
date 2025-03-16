@@ -21,8 +21,8 @@
 		<td>518</td>
 		<td>528</td>
 		<td>532</td>
-		<td>534</td>
-		<td>+ 2</td>
+		<td>536</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -32,8 +32,8 @@
 		<td>328</td>
 		<td>332</td>
 		<td>332</td>
-		<td>334</td>
-		<td>+ 2</td>
+		<td>336</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -98,8 +98,8 @@
 		<td>395</td>
 		<td>397</td>
 		<td>400</td>
-		<td>400</td>
-		<td></td>
+		<td>402</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -186,8 +186,8 @@
 		<td>318</td>
 		<td>320</td>
 		<td>322</td>
-		<td>322</td>
-		<td></td>
+		<td>324</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -395,8 +395,8 @@
 		<td>437</td>
 		<td>439</td>
 		<td>441</td>
-		<td>441</td>
-		<td></td>
+		<td>443</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -498,8 +498,8 @@
 		<td>518</td>
 		<td>528</td>
 		<td>532</td>
-		<td>534</td>
-		<td>+ 2</td>
+		<td>536</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -553,8 +553,8 @@
 		<td>437</td>
 		<td>439</td>
 		<td>441</td>
-		<td>441</td>
-		<td></td>
+		<td>443</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -608,8 +608,8 @@
 		<td>395</td>
 		<td>397</td>
 		<td>400</td>
-		<td>400</td>
-		<td></td>
+		<td>402</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -652,8 +652,8 @@
 		<td>328</td>
 		<td>332</td>
 		<td>332</td>
-		<td>334</td>
-		<td>+ 2</td>
+		<td>336</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -674,8 +674,8 @@
 		<td>318</td>
 		<td>320</td>
 		<td>322</td>
-		<td>322</td>
-		<td></td>
+		<td>324</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
