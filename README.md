@@ -76,8 +76,8 @@
 		<td>460</td>
 		<td>462</td>
 		<td>465</td>
-		<td>467</td>
-		<td>+ 2</td>
+		<td>469</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -175,8 +175,8 @@
 		<td>431</td>
 		<td>435</td>
 		<td>437</td>
-		<td>439</td>
-		<td>+ 2</td>
+		<td>441</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -520,8 +520,8 @@
 		<td>460</td>
 		<td>462</td>
 		<td>465</td>
-		<td>467</td>
-		<td>+ 2</td>
+		<td>469</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -564,8 +564,8 @@
 		<td>431</td>
 		<td>435</td>
 		<td>437</td>
-		<td>439</td>
-		<td>+ 2</td>
+		<td>441</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
