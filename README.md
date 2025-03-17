@@ -373,8 +373,8 @@
 		<td>194</td>
 		<td>196</td>
 		<td>196</td>
-		<td>196</td>
-		<td></td>
+		<td>198</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -872,8 +872,8 @@
 		<td>194</td>
 		<td>196</td>
 		<td>196</td>
-		<td>196</td>
-		<td></td>
+		<td>198</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
