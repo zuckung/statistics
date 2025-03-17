@@ -439,8 +439,8 @@
 		<td>476</td>
 		<td>476</td>
 		<td>478</td>
-		<td>478</td>
-		<td></td>
+		<td>480</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -509,8 +509,8 @@
 		<td>476</td>
 		<td>476</td>
 		<td>478</td>
-		<td>478</td>
-		<td></td>
+		<td>480</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
