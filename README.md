@@ -21,8 +21,8 @@
 		<td>532</td>
 		<td>536</td>
 		<td>544</td>
-		<td>544</td>
-		<td></td>
+		<td>547</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -241,8 +241,8 @@
 		<td>435</td>
 		<td>437</td>
 		<td>441</td>
-		<td>441</td>
-		<td></td>
+		<td>443</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -296,8 +296,8 @@
 		<td>410</td>
 		<td>410</td>
 		<td>414</td>
-		<td>414</td>
-		<td></td>
+		<td>417</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -498,8 +498,8 @@
 		<td>532</td>
 		<td>536</td>
 		<td>544</td>
-		<td>544</td>
-		<td></td>
+		<td>547</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -575,25 +575,25 @@
 		<td>435</td>
 		<td>437</td>
 		<td>441</td>
-		<td>441</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>more.boarding.missions</td>
-		<td>404</td>
-		<td>406</td>
-		<td>410</td>
-		<td>410</td>
-		<td>410</td>
-		<td>414</td>
-		<td>414</td>
-		<td></td>
+		<td>443</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
 		<td>406</td>
 		<td>406</td>
 		<td>408</td>
+		<td>410</td>
+		<td>410</td>
+		<td>414</td>
+		<td>417</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
+		<td>more.boarding.missions</td>
+		<td>404</td>
+		<td>406</td>
+		<td>410</td>
 		<td>410</td>
 		<td>410</td>
 		<td>414</td>
