@@ -274,8 +274,8 @@
 		<td>207</td>
 		<td>207</td>
 		<td>207</td>
-		<td>207</td>
-		<td></td>
+		<td>209</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -861,8 +861,8 @@
 		<td>207</td>
 		<td>207</td>
 		<td>207</td>
-		<td>207</td>
-		<td></td>
+		<td>209</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
