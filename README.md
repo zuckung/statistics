@@ -362,8 +362,8 @@
 		<td>286</td>
 		<td>286</td>
 		<td>290</td>
-		<td>290</td>
-		<td></td>
+		<td>292</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -740,8 +740,8 @@
 		<td>286</td>
 		<td>286</td>
 		<td>290</td>
-		<td>290</td>
-		<td></td>
+		<td>292</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
