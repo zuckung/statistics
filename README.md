@@ -384,8 +384,8 @@
 		<td>101</td>
 		<td>103</td>
 		<td>103</td>
-		<td>103</td>
-		<td></td>
+		<td>104</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -417,8 +417,8 @@
 		<td>309</td>
 		<td>313</td>
 		<td>313</td>
-		<td>313</td>
-		<td></td>
+		<td>315</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -439,8 +439,8 @@
 		<td>478</td>
 		<td>487</td>
 		<td>487</td>
-		<td>487</td>
-		<td></td>
+		<td>489</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -509,8 +509,8 @@
 		<td>478</td>
 		<td>487</td>
 		<td>487</td>
-		<td>487</td>
-		<td></td>
+		<td>489</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -696,8 +696,8 @@
 		<td>309</td>
 		<td>313</td>
 		<td>313</td>
-		<td>313</td>
-		<td></td>
+		<td>315</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -916,8 +916,8 @@
 		<td>101</td>
 		<td>103</td>
 		<td>103</td>
-		<td>103</td>
-		<td></td>
+		<td>104</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
