@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.19-additional.command.buttons.radial | downloads: 30
 v1.0.1-highrollers.ltd | downloads: 8
-v1.0.3-gegno.pirates | downloads: 22
+v1.0.3-gegno.pirates | downloads: 24
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 31
 v1.0.2-mission.helper | downloads: 86
@@ -12,7 +12,7 @@ v1.0.0-mission.helper | downloads: 38
 v1.1.5-galactic.capital.investment | downloads: 134
 v1.0.7-bunrodea.missions | downloads: 97
 v1.0.5-human.labels | downloads: 49
-v1.1.4-more.boarding.missions | downloads: 96
+v1.1.4-more.boarding.missions | downloads: 98
 v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 81
 v1.0.15-additional.command.buttons.radial | downloads: 69
@@ -192,7 +192,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 191
-# TOTAL DOWNLOADS: 13401
+# TOTAL DOWNLOADS: 13405
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -212,7 +212,7 @@ disable.spaceport.repeatables 265
 expert.crew.members 467
 free.worlds.5.years.later 256
 galactic.capital.investment 562
-gegno.pirates 447
+gegno.pirates 449
 hai.side.mission.unlocker 328
 highrollers.ltd 19
 human.labels 263
@@ -224,7 +224,7 @@ landing.images.android 268
 landing.images.highres 209
 mission.helper 149
 more.arfectas 419
-more.boarding.missions 416
+more.boarding.missions 418
 more.person.ships 323
 navy.licenses 468
 no.more.mereti.mines 271
