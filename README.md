@@ -32,8 +32,8 @@
 		<td>336</td>
 		<td>342</td>
 		<td>342</td>
-		<td>344</td>
-		<td>+ 2</td>
+		<td>347</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -142,8 +142,8 @@
 		<td>463</td>
 		<td>465</td>
 		<td>465</td>
-		<td>465</td>
-		<td></td>
+		<td>467</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -296,8 +296,8 @@
 		<td>410</td>
 		<td>414</td>
 		<td>417</td>
-		<td>417</td>
-		<td></td>
+		<td>419</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -307,8 +307,8 @@
 		<td>410</td>
 		<td>414</td>
 		<td>414</td>
-		<td>414</td>
-		<td></td>
+		<td>416</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -318,8 +318,8 @@
 		<td>319</td>
 		<td>321</td>
 		<td>321</td>
-		<td>321</td>
-		<td></td>
+		<td>323</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -542,8 +542,8 @@
 		<td>463</td>
 		<td>465</td>
 		<td>465</td>
-		<td>465</td>
-		<td></td>
+		<td>467</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -586,8 +586,8 @@
 		<td>410</td>
 		<td>414</td>
 		<td>417</td>
-		<td>417</td>
-		<td></td>
+		<td>419</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -597,8 +597,8 @@
 		<td>410</td>
 		<td>414</td>
 		<td>414</td>
-		<td>414</td>
-		<td></td>
+		<td>416</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -652,8 +652,8 @@
 		<td>336</td>
 		<td>342</td>
 		<td>342</td>
-		<td>344</td>
-		<td>+ 2</td>
+		<td>347</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -685,8 +685,8 @@
 		<td>319</td>
 		<td>321</td>
 		<td>321</td>
-		<td>321</td>
-		<td></td>
+		<td>323</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
