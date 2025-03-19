@@ -21,8 +21,8 @@
 		<td>536</td>
 		<td>544</td>
 		<td>547</td>
-		<td>549</td>
-		<td>+ 2</td>
+		<td>551</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -32,8 +32,8 @@
 		<td>336</td>
 		<td>342</td>
 		<td>342</td>
-		<td>342</td>
-		<td></td>
+		<td>344</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -340,8 +340,8 @@
 		<td>263</td>
 		<td>267</td>
 		<td>267</td>
-		<td>269</td>
-		<td>+ 2</td>
+		<td>271</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -498,8 +498,8 @@
 		<td>536</td>
 		<td>544</td>
 		<td>547</td>
-		<td>549</td>
-		<td>+ 2</td>
+		<td>551</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -652,8 +652,8 @@
 		<td>336</td>
 		<td>342</td>
 		<td>342</td>
-		<td>342</td>
-		<td></td>
+		<td>344</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -773,8 +773,8 @@
 		<td>263</td>
 		<td>267</td>
 		<td>267</td>
-		<td>269</td>
-		<td>+ 2</td>
+		<td>271</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
