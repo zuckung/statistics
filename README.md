@@ -21,8 +21,8 @@
 		<td>536</td>
 		<td>544</td>
 		<td>547</td>
-		<td>547</td>
-		<td></td>
+		<td>549</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -164,8 +164,8 @@
 		<td>548</td>
 		<td>554</td>
 		<td>558</td>
-		<td>558</td>
-		<td></td>
+		<td>560</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -487,8 +487,8 @@
 		<td>548</td>
 		<td>554</td>
 		<td>558</td>
-		<td>558</td>
-		<td></td>
+		<td>560</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -498,8 +498,8 @@
 		<td>536</td>
 		<td>544</td>
 		<td>547</td>
-		<td>547</td>
-		<td></td>
+		<td>549</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
