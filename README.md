@@ -340,8 +340,8 @@
 		<td>263</td>
 		<td>267</td>
 		<td>267</td>
-		<td>267</td>
-		<td></td>
+		<td>269</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -766,6 +766,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>no.more.mereti.mines</td>
+		<td>259</td>
+		<td>261</td>
+		<td>261</td>
+		<td>263</td>
+		<td>267</td>
+		<td>267</td>
+		<td>269</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>landing.images.android</td>
 		<td>260</td>
 		<td>266</td>
@@ -774,17 +785,6 @@
 		<td>268</td>
 		<td>268</td>
 		<td>268</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>no.more.mereti.mines</td>
-		<td>259</td>
-		<td>261</td>
-		<td>261</td>
-		<td>263</td>
-		<td>267</td>
-		<td>267</td>
-		<td>267</td>
 		<td></td>
 	</tr>
 	<tr>
