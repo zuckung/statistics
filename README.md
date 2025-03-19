@@ -395,8 +395,8 @@
 		<td>443</td>
 		<td>449</td>
 		<td>449</td>
-		<td>451</td>
-		<td>+ 2</td>
+		<td>454</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -553,8 +553,8 @@
 		<td>443</td>
 		<td>449</td>
 		<td>449</td>
-		<td>451</td>
-		<td>+ 2</td>
+		<td>454</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
