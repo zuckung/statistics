@@ -175,8 +175,8 @@
 		<td>443</td>
 		<td>447</td>
 		<td>447</td>
-		<td>447</td>
-		<td></td>
+		<td>449</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -307,8 +307,8 @@
 		<td>410</td>
 		<td>414</td>
 		<td>414</td>
-		<td>416</td>
-		<td>+ 2</td>
+		<td>418</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -564,8 +564,8 @@
 		<td>443</td>
 		<td>447</td>
 		<td>447</td>
-		<td>447</td>
-		<td></td>
+		<td>449</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -597,8 +597,8 @@
 		<td>410</td>
 		<td>414</td>
 		<td>414</td>
-		<td>416</td>
-		<td>+ 2</td>
+		<td>418</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
