@@ -450,8 +450,8 @@
 		<td>214</td>
 		<td>214</td>
 		<td>214</td>
-		<td>214</td>
-		<td></td>
+		<td>216</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -850,8 +850,8 @@
 		<td>214</td>
 		<td>214</td>
 		<td>214</td>
-		<td>214</td>
-		<td></td>
+		<td>216</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
