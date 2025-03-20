@@ -16,13 +16,13 @@ v1.1.4-more.boarding.missions | downloads: 99
 v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 81
 v1.0.15-additional.command.buttons.radial | downloads: 69
-v1.0.6-expert.crew.members | downloads: 114
+v1.0.6-expert.crew.members | downloads: 116
 v1.0.0-avgi.licenses | downloads: 126
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 118
 v1.0.8-uniques | downloads: 102
-v1.0.3-quarg.farm | downloads: 145
+v1.0.3-quarg.farm | downloads: 147
 v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 160
 v1.0.3-show.reputation | downloads: 87
@@ -73,7 +73,7 @@ v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 253
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 217
-v1.0.1-paint.your.ships | downloads: 288
+v1.0.1-paint.your.ships | downloads: 290
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
 v1.0.1-uniques | downloads: 14
@@ -192,7 +192,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 191
-# TOTAL DOWNLOADS: 13432
+# TOTAL DOWNLOADS: 13438
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -209,7 +209,7 @@ control.station 274
 devil-run.unhidden 66
 disable.person.ships 172
 disable.spaceport.repeatables 265
-expert.crew.members 467
+expert.crew.members 469
 free.worlds.5.years.later 256
 galactic.capital.investment 562
 gegno.pirates 449
@@ -229,11 +229,11 @@ more.person.ships 323
 navy.licenses 468
 no.more.mereti.mines 273
 outfits.weapon.slot 251
-paint.your.ships 292
+paint.your.ships 294
 pirate.warlords 3
 planet.map 198
 planet.pluto 104
-quarg.farm 456
+quarg.farm 458
 real.fluff 93
 show.reputation 336
 snowfeather.robotics 315
