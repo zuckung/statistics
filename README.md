@@ -340,8 +340,8 @@
 		<td>267</td>
 		<td>267</td>
 		<td>271</td>
-		<td>271</td>
-		<td></td>
+		<td>273</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -439,8 +439,8 @@
 		<td>487</td>
 		<td>487</td>
 		<td>489</td>
-		<td>489</td>
-		<td></td>
+		<td>491</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -509,8 +509,8 @@
 		<td>487</td>
 		<td>487</td>
 		<td>489</td>
-		<td>489</td>
-		<td></td>
+		<td>491</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -773,8 +773,8 @@
 		<td>267</td>
 		<td>267</td>
 		<td>271</td>
-		<td>271</td>
-		<td></td>
+		<td>273</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
