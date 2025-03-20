@@ -142,8 +142,8 @@
 		<td>465</td>
 		<td>465</td>
 		<td>467</td>
-		<td>467</td>
-		<td></td>
+		<td>469</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -362,8 +362,8 @@
 		<td>290</td>
 		<td>292</td>
 		<td>292</td>
-		<td>292</td>
-		<td></td>
+		<td>294</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -395,8 +395,8 @@
 		<td>449</td>
 		<td>449</td>
 		<td>454</td>
-		<td>456</td>
-		<td>+ 2</td>
+		<td>458</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -524,6 +524,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>expert.crew.members</td>
+		<td>456</td>
+		<td>458</td>
+		<td>463</td>
+		<td>465</td>
+		<td>465</td>
+		<td>467</td>
+		<td>469</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>navy.licenses</td>
 		<td>461</td>
 		<td>464</td>
@@ -535,17 +546,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>expert.crew.members</td>
-		<td>456</td>
-		<td>458</td>
-		<td>463</td>
-		<td>465</td>
-		<td>465</td>
-		<td>467</td>
-		<td>467</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>quarg.farm</td>
 		<td>439</td>
 		<td>441</td>
@@ -553,8 +553,8 @@
 		<td>449</td>
 		<td>449</td>
 		<td>454</td>
-		<td>456</td>
-		<td>+ 2</td>
+		<td>458</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -722,6 +722,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>paint.your.ships</td>
+		<td>285</td>
+		<td>286</td>
+		<td>286</td>
+		<td>290</td>
+		<td>292</td>
+		<td>292</td>
+		<td>294</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>landing.images</td>
 		<td>289</td>
 		<td>289</td>
@@ -730,17 +741,6 @@
 		<td>293</td>
 		<td>293</td>
 		<td>293</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>285</td>
-		<td>286</td>
-		<td>286</td>
-		<td>290</td>
-		<td>292</td>
-		<td>292</td>
-		<td>292</td>
 		<td></td>
 	</tr>
 	<tr>
