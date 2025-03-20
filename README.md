@@ -21,8 +21,8 @@
 		<td>544</td>
 		<td>547</td>
 		<td>551</td>
-		<td>554</td>
-		<td>+ 3</td>
+		<td>556</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -296,8 +296,8 @@
 		<td>414</td>
 		<td>417</td>
 		<td>421</td>
-		<td>422</td>
-		<td>+ 1</td>
+		<td>424</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -395,8 +395,8 @@
 		<td>449</td>
 		<td>449</td>
 		<td>454</td>
-		<td>459</td>
-		<td>+ 5</td>
+		<td>461</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -498,8 +498,8 @@
 		<td>544</td>
 		<td>547</td>
 		<td>551</td>
-		<td>554</td>
-		<td>+ 3</td>
+		<td>556</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -553,8 +553,8 @@
 		<td>449</td>
 		<td>449</td>
 		<td>454</td>
-		<td>459</td>
-		<td>+ 5</td>
+		<td>461</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -586,8 +586,8 @@
 		<td>414</td>
 		<td>417</td>
 		<td>421</td>
-		<td>422</td>
-		<td>+ 1</td>
+		<td>424</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
