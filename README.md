@@ -76,8 +76,8 @@
 		<td>476</td>
 		<td>476</td>
 		<td>476</td>
-		<td>476</td>
-		<td></td>
+		<td>478</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -87,8 +87,8 @@
 		<td>364</td>
 		<td>364</td>
 		<td>364</td>
-		<td>364</td>
-		<td></td>
+		<td>366</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -98,8 +98,8 @@
 		<td>404</td>
 		<td>404</td>
 		<td>404</td>
-		<td>404</td>
-		<td></td>
+		<td>406</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -520,8 +520,8 @@
 		<td>476</td>
 		<td>476</td>
 		<td>476</td>
-		<td>476</td>
-		<td></td>
+		<td>478</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -608,8 +608,19 @@
 		<td>404</td>
 		<td>404</td>
 		<td>404</td>
-		<td>404</td>
-		<td></td>
+		<td>406</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>captureable.person.ships</td>
+		<td>355</td>
+		<td>356</td>
+		<td>358</td>
+		<td>364</td>
+		<td>364</td>
+		<td>364</td>
+		<td>366</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -620,17 +631,6 @@
 		<td>365</td>
 		<td>365</td>
 		<td>365</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>captureable.person.ships</td>
-		<td>355</td>
-		<td>356</td>
-		<td>358</td>
-		<td>364</td>
-		<td>364</td>
-		<td>364</td>
-		<td>364</td>
 		<td></td>
 	</tr>
 	<tr>
