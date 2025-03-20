@@ -24,7 +24,7 @@ v1.1.7-captureable.person.ships | downloads: 118
 v1.0.8-uniques | downloads: 102
 v1.0.3-quarg.farm | downloads: 143
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 158
+v1.0.4-too.many.asteroids | downloads: 160
 v1.0.3-show.reputation | downloads: 87
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 150
@@ -72,7 +72,7 @@ v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 253
 v1.0.6-additional.command.buttons.radial | downloads: 48
-v1.0.3-no.more.mereti.mines | downloads: 215
+v1.0.3-no.more.mereti.mines | downloads: 217
 v1.0.1-paint.your.ships | downloads: 288
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
@@ -192,7 +192,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 191
-# TOTAL DOWNLOADS: 13424
+# TOTAL DOWNLOADS: 13428
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -227,7 +227,7 @@ more.arfectas 421
 more.boarding.missions 419
 more.person.ships 323
 navy.licenses 468
-no.more.mereti.mines 271
+no.more.mereti.mines 273
 outfits.weapon.slot 251
 paint.your.ships 292
 pirate.warlords 3
@@ -238,7 +238,7 @@ real.fluff 93
 show.reputation 336
 snowfeather.robotics 315
 space.fauna 266
-too.many.asteroids 489
+too.many.asteroids 491
 tribute.republic 216
 unique.fix 44
 uniques 312
