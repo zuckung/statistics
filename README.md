@@ -142,8 +142,8 @@
 		<td>465</td>
 		<td>467</td>
 		<td>470</td>
-		<td>470</td>
-		<td></td>
+		<td>471</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -164,8 +164,8 @@
 		<td>558</td>
 		<td>562</td>
 		<td>563</td>
-		<td>563</td>
-		<td></td>
+		<td>564</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -230,8 +230,8 @@
 		<td>287</td>
 		<td>287</td>
 		<td>288</td>
-		<td>288</td>
-		<td></td>
+		<td>289</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -241,8 +241,8 @@
 		<td>443</td>
 		<td>445</td>
 		<td>446</td>
-		<td>446</td>
-		<td></td>
+		<td>448</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -285,8 +285,8 @@
 		<td>149</td>
 		<td>151</td>
 		<td>152</td>
-		<td>154</td>
-		<td>+ 2</td>
+		<td>158</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -417,8 +417,8 @@
 		<td>313</td>
 		<td>315</td>
 		<td>316</td>
-		<td>316</td>
-		<td></td>
+		<td>318</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -487,8 +487,8 @@
 		<td>558</td>
 		<td>562</td>
 		<td>563</td>
-		<td>563</td>
-		<td></td>
+		<td>564</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -531,8 +531,8 @@
 		<td>465</td>
 		<td>467</td>
 		<td>470</td>
-		<td>470</td>
-		<td></td>
+		<td>471</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -575,8 +575,8 @@
 		<td>443</td>
 		<td>445</td>
 		<td>446</td>
-		<td>446</td>
-		<td></td>
+		<td>448</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -696,8 +696,8 @@
 		<td>313</td>
 		<td>315</td>
 		<td>316</td>
-		<td>316</td>
-		<td></td>
+		<td>318</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -751,8 +751,8 @@
 		<td>287</td>
 		<td>287</td>
 		<td>288</td>
-		<td>288</td>
-		<td></td>
+		<td>289</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -894,8 +894,8 @@
 		<td>149</td>
 		<td>151</td>
 		<td>152</td>
-		<td>154</td>
-		<td>+ 2</td>
+		<td>158</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
