@@ -76,8 +76,8 @@
 		<td>476</td>
 		<td>476</td>
 		<td>479</td>
-		<td>479</td>
-		<td></td>
+		<td>481</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -285,8 +285,8 @@
 		<td>149</td>
 		<td>151</td>
 		<td>152</td>
-		<td>158</td>
-		<td>+ 6</td>
+		<td>162</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -296,8 +296,8 @@
 		<td>417</td>
 		<td>421</td>
 		<td>424</td>
-		<td>424</td>
-		<td></td>
+		<td>426</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -520,8 +520,8 @@
 		<td>476</td>
 		<td>476</td>
 		<td>479</td>
-		<td>479</td>
-		<td></td>
+		<td>481</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -586,8 +586,8 @@
 		<td>417</td>
 		<td>421</td>
 		<td>424</td>
-		<td>424</td>
-		<td></td>
+		<td>426</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -894,8 +894,8 @@
 		<td>149</td>
 		<td>151</td>
 		<td>152</td>
-		<td>158</td>
-		<td>+ 6</td>
+		<td>162</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
