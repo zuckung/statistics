@@ -5,13 +5,13 @@ v1.0.1-highrollers.ltd | downloads: 9
 v1.0.3-gegno.pirates | downloads: 25
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 31
-v1.0.2-mission.helper | downloads: 95
+v1.0.2-mission.helper | downloads: 99
 v1.0.17-additional.command.buttons.radial | downloads: 21
 v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 25
 v1.0.0-mission.helper | downloads: 38
 v1.1.5-galactic.capital.investment | downloads: 134
-v1.0.7-bunrodea.missions | downloads: 100
+v1.0.7-bunrodea.missions | downloads: 102
 v1.0.5-human.labels | downloads: 50
 v1.1.4-more.boarding.missions | downloads: 100
 v1.0.6-bunrodea.missions | downloads: 6
@@ -158,7 +158,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 422
+v1.0.2-more.arfectas | downloads: 424
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -193,7 +193,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 192
-# TOTAL DOWNLOADS: 13506
+# TOTAL DOWNLOADS: 13514
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -203,7 +203,7 @@ automata.destruction.0percent 348
 automata.in.human.space 298
 avgi.licenses 127
 better.starts 366
-bunrodea.missions 479
+bunrodea.missions 481
 captureable.person.ships 367
 coalition.shopping 407
 control.station 275
@@ -223,8 +223,8 @@ kor.efret.shipyard 448
 landing.images 294
 landing.images.android 269
 landing.images.highres 210
-mission.helper 158
-more.arfectas 424
+mission.helper 162
+more.arfectas 426
 more.boarding.missions 420
 more.person.ships 324
 navy.licenses 469
