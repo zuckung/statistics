@@ -76,8 +76,8 @@
 		<td>476</td>
 		<td>476</td>
 		<td>479</td>
-		<td>482</td>
-		<td>+ 3</td>
+		<td>484</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -186,8 +186,8 @@
 		<td>328</td>
 		<td>328</td>
 		<td>329</td>
-		<td>329</td>
-		<td></td>
+		<td>331</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -520,8 +520,8 @@
 		<td>476</td>
 		<td>476</td>
 		<td>479</td>
-		<td>482</td>
-		<td>+ 3</td>
+		<td>484</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -674,8 +674,8 @@
 		<td>328</td>
 		<td>328</td>
 		<td>329</td>
-		<td>329</td>
-		<td></td>
+		<td>331</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
