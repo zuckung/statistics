@@ -32,8 +32,8 @@
 		<td>342</td>
 		<td>347</td>
 		<td>348</td>
-		<td>348</td>
-		<td></td>
+		<td>350</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -164,8 +164,8 @@
 		<td>558</td>
 		<td>562</td>
 		<td>563</td>
-		<td>564</td>
-		<td>+ 1</td>
+		<td>566</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -285,8 +285,8 @@
 		<td>149</td>
 		<td>151</td>
 		<td>152</td>
-		<td>162</td>
-		<td>+ 10</td>
+		<td>164</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -340,8 +340,8 @@
 		<td>267</td>
 		<td>271</td>
 		<td>274</td>
-		<td>274</td>
-		<td></td>
+		<td>276</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -487,8 +487,8 @@
 		<td>558</td>
 		<td>562</td>
 		<td>563</td>
-		<td>564</td>
-		<td>+ 1</td>
+		<td>566</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -652,8 +652,8 @@
 		<td>342</td>
 		<td>347</td>
 		<td>348</td>
-		<td>348</td>
-		<td></td>
+		<td>350</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -755,6 +755,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>no.more.mereti.mines</td>
+		<td>261</td>
+		<td>263</td>
+		<td>267</td>
+		<td>267</td>
+		<td>271</td>
+		<td>274</td>
+		<td>276</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>control.station</td>
 		<td>274</td>
 		<td>274</td>
@@ -763,17 +774,6 @@
 		<td>274</td>
 		<td>275</td>
 		<td>275</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>no.more.mereti.mines</td>
-		<td>261</td>
-		<td>263</td>
-		<td>267</td>
-		<td>267</td>
-		<td>271</td>
-		<td>274</td>
-		<td>274</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -894,8 +894,8 @@
 		<td>149</td>
 		<td>151</td>
 		<td>152</td>
-		<td>162</td>
-		<td>+ 10</td>
+		<td>164</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
