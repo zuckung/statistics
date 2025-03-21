@@ -1,11 +1,11 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.1.6-galactic.capital.investment | downloads: 2
+v1.1.6-galactic.capital.investment | downloads: 4
 v1.0.19-additional.command.buttons.radial | downloads: 37
 v1.0.1-highrollers.ltd | downloads: 9
 v1.0.3-gegno.pirates | downloads: 25
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 31
-v1.0.2-mission.helper | downloads: 99
+v1.0.2-mission.helper | downloads: 101
 v1.0.17-additional.command.buttons.radial | downloads: 21
 v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 25
@@ -73,7 +73,7 @@ v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 254
 v1.0.6-additional.command.buttons.radial | downloads: 48
-v1.0.3-no.more.mereti.mines | downloads: 218
+v1.0.3-no.more.mereti.mines | downloads: 220
 v1.0.1-paint.your.ships | downloads: 291
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
@@ -129,7 +129,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 347
+v1.0.1-automata.destruction.0percent | downloads: 349
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -193,13 +193,13 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 192
-# TOTAL DOWNLOADS: 13514
+# TOTAL DOWNLOADS: 13522
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 558
-automata.destruction.0percent 348
+automata.destruction.0percent 350
 automata.in.human.space 298
 avgi.licenses 127
 better.starts 366
@@ -212,7 +212,7 @@ disable.person.ships 173
 disable.spaceport.repeatables 266
 expert.crew.members 471
 free.worlds.5.years.later 257
-galactic.capital.investment 564
+galactic.capital.investment 566
 gegno.pirates 450
 hai.side.mission.unlocker 329
 highrollers.ltd 20
@@ -223,12 +223,12 @@ kor.efret.shipyard 448
 landing.images 294
 landing.images.android 269
 landing.images.highres 210
-mission.helper 162
+mission.helper 164
 more.arfectas 426
 more.boarding.missions 420
 more.person.ships 324
 navy.licenses 469
-no.more.mereti.mines 274
+no.more.mereti.mines 276
 outfits.weapon.slot 252
 paint.your.ships 295
 pirate.warlords 3
