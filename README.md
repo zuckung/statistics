@@ -98,8 +98,8 @@
 		<td>404</td>
 		<td>407</td>
 		<td>407</td>
-		<td>407</td>
-		<td></td>
+		<td>409</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -608,8 +608,8 @@
 		<td>404</td>
 		<td>407</td>
 		<td>407</td>
-		<td>407</td>
-		<td></td>
+		<td>409</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
