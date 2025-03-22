@@ -32,8 +32,8 @@
 		<td>347</td>
 		<td>348</td>
 		<td>351</td>
-		<td>352</td>
-		<td>+ 1</td>
+		<td>353</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -652,8 +652,8 @@
 		<td>347</td>
 		<td>348</td>
 		<td>351</td>
-		<td>352</td>
-		<td>+ 1</td>
+		<td>353</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
