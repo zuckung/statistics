@@ -340,8 +340,8 @@
 		<td>274</td>
 		<td>277</td>
 		<td>277</td>
-		<td>277</td>
-		<td></td>
+		<td>278</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -762,8 +762,8 @@
 		<td>274</td>
 		<td>277</td>
 		<td>277</td>
-		<td>277</td>
-		<td></td>
+		<td>278</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
