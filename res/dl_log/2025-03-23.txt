@@ -5,7 +5,7 @@ v1.0.1-highrollers.ltd | downloads: 9
 v1.0.3-gegno.pirates | downloads: 29
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 31
-v1.0.2-mission.helper | downloads: 104
+v1.0.2-mission.helper | downloads: 106
 v1.0.17-additional.command.buttons.radial | downloads: 21
 v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 25
@@ -15,9 +15,9 @@ v1.0.7-bunrodea.missions | downloads: 107
 v1.0.5-human.labels | downloads: 50
 v1.1.4-more.boarding.missions | downloads: 102
 v1.0.6-bunrodea.missions | downloads: 6
-v1.0.3-jump.gates | downloads: 82
+v1.0.3-jump.gates | downloads: 84
 v1.0.15-additional.command.buttons.radial | downloads: 69
-v1.0.6-expert.crew.members | downloads: 118
+v1.0.6-expert.crew.members | downloads: 120
 v1.0.0-avgi.licenses | downloads: 128
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
@@ -26,7 +26,7 @@ v1.0.8-uniques | downloads: 106
 v1.0.3-quarg.farm | downloads: 153
 v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 162
-v1.0.3-show.reputation | downloads: 88
+v1.0.3-show.reputation | downloads: 90
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 153
 v1.0.5-bunrodea.missions | downloads: 120
@@ -193,7 +193,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 192
-# TOTAL DOWNLOADS: 13585
+# TOTAL DOWNLOADS: 13593
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -210,20 +210,20 @@ control.station 275
 devil-run.unhidden 66
 disable.person.ships 173
 disable.spaceport.repeatables 266
-expert.crew.members 471
+expert.crew.members 473
 free.worlds.5.years.later 259
 galactic.capital.investment 566
 gegno.pirates 454
 hai.side.mission.unlocker 331
 highrollers.ltd 20
 human.labels 264
-jump.gates 353
+jump.gates 355
 kestrel.unlocks 293
 kor.efret.shipyard 452
 landing.images 296
 landing.images.android 269
 landing.images.highres 210
-mission.helper 167
+mission.helper 169
 more.arfectas 429
 more.boarding.missions 422
 more.person.ships 324
@@ -236,7 +236,7 @@ planet.map 199
 planet.pluto 105
 quarg.farm 464
 real.fluff 93
-show.reputation 337
+show.reputation 339
 snowfeather.robotics 318
 space.fauna 267
 too.many.asteroids 493
