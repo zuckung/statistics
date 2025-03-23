@@ -142,8 +142,8 @@
 		<td>470</td>
 		<td>471</td>
 		<td>471</td>
-		<td>471</td>
-		<td></td>
+		<td>473</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -219,8 +219,8 @@
 		<td>353</td>
 		<td>353</td>
 		<td>353</td>
-		<td>353</td>
-		<td></td>
+		<td>355</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -285,8 +285,8 @@
 		<td>152</td>
 		<td>165</td>
 		<td>165</td>
-		<td>167</td>
-		<td>+ 2</td>
+		<td>169</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -406,8 +406,8 @@
 		<td>337</td>
 		<td>337</td>
 		<td>337</td>
-		<td>337</td>
-		<td></td>
+		<td>339</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -542,8 +542,8 @@
 		<td>470</td>
 		<td>471</td>
 		<td>471</td>
-		<td>471</td>
-		<td></td>
+		<td>473</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -634,6 +634,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>jump.gates</td>
+		<td>352</td>
+		<td>352</td>
+		<td>352</td>
+		<td>353</td>
+		<td>353</td>
+		<td>353</td>
+		<td>355</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>342</td>
 		<td>342</td>
@@ -645,17 +656,6 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
-		<td>jump.gates</td>
-		<td>352</td>
-		<td>352</td>
-		<td>352</td>
-		<td>353</td>
-		<td>353</td>
-		<td>353</td>
-		<td>353</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>show.reputation</td>
 		<td>334</td>
 		<td>334</td>
@@ -663,8 +663,8 @@
 		<td>337</td>
 		<td>337</td>
 		<td>337</td>
-		<td>337</td>
-		<td></td>
+		<td>339</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -894,8 +894,8 @@
 		<td>152</td>
 		<td>165</td>
 		<td>165</td>
-		<td>167</td>
-		<td>+ 2</td>
+		<td>169</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
