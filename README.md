@@ -461,8 +461,8 @@
 		<td>313</td>
 		<td>313</td>
 		<td>313</td>
-		<td>313</td>
-		<td></td>
+		<td>314</td>
+		<td>+ 1</td>
 	</tr>
 </table>
 </sub></sup>
@@ -707,8 +707,8 @@
 		<td>313</td>
 		<td>313</td>
 		<td>313</td>
-		<td>313</td>
-		<td></td>
+		<td>314</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
