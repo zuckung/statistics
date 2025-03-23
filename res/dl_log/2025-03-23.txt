@@ -2,18 +2,18 @@
 v1.1.6-galactic.capital.investment | downloads: 4
 v1.0.19-additional.command.buttons.radial | downloads: 40
 v1.0.1-highrollers.ltd | downloads: 9
-v1.0.3-gegno.pirates | downloads: 27
+v1.0.3-gegno.pirates | downloads: 29
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 31
-v1.0.2-mission.helper | downloads: 102
+v1.0.2-mission.helper | downloads: 104
 v1.0.17-additional.command.buttons.radial | downloads: 21
 v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 25
 v1.0.0-mission.helper | downloads: 38
 v1.1.5-galactic.capital.investment | downloads: 134
-v1.0.7-bunrodea.missions | downloads: 105
+v1.0.7-bunrodea.missions | downloads: 107
 v1.0.5-human.labels | downloads: 50
-v1.1.4-more.boarding.missions | downloads: 100
+v1.1.4-more.boarding.missions | downloads: 102
 v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 82
 v1.0.15-additional.command.buttons.radial | downloads: 69
@@ -22,13 +22,13 @@ v1.0.0-avgi.licenses | downloads: 128
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 121
-v1.0.8-uniques | downloads: 104
-v1.0.3-quarg.farm | downloads: 151
+v1.0.8-uniques | downloads: 106
+v1.0.3-quarg.farm | downloads: 153
 v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 162
 v1.0.3-show.reputation | downloads: 88
 v1.0.13-additional.command.buttons.radial | downloads: 93
-v1.0.4-better.starts | downloads: 151
+v1.0.4-better.starts | downloads: 153
 v1.0.5-bunrodea.missions | downloads: 120
 v1.0.2-planet.pluto | downloads: 82
 v1.0.2-planet.map | downloads: 66
@@ -40,11 +40,11 @@ v1.0.12-additional.command.buttons.radial | downloads: 47
 v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
-v1.0.3-navy.licenses | downloads: 259
+v1.0.3-navy.licenses | downloads: 261
 v1.0.6-coalition.shopping | downloads: 215
 v1.0.5-snowfeather.robotics | downloads: 159
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 280
+v1.0.2-kor.efret.shipyard | downloads: 282
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 107
@@ -58,7 +58,7 @@ v1.0.8-additional.command.buttons.radial | downloads: 20
 v1.0.2-better.starts | downloads: 35
 v1.1.5-captureable.person.ships | downloads: 54
 v1.0.7-additional.command.buttons.radial | downloads: 9
-v1.0.4-landing.images | downloads: 221
+v1.0.4-landing.images | downloads: 223
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 120
 v1.0.2-quarg.farm | downloads: 190
@@ -85,8 +85,8 @@ v1.0.0-outfits.weapon.slot | downloads: 252
 v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 108
-v1.0.0-kestrel.unlocks | downloads: 291
-v1.0.2-tribute.republic | downloads: 199
+v1.0.0-kestrel.unlocks | downloads: 293
+v1.0.2-tribute.republic | downloads: 201
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
 v1.0.0-tribute.republic | downloads: 2
@@ -129,7 +129,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 352
+v1.0.1-automata.destruction.0percent | downloads: 354
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -158,7 +158,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 425
+v1.0.2-more.arfectas | downloads: 427
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -179,7 +179,7 @@ v1.0-more.boarding.missions | downloads: 4
 v1.0-more.arfectas | downloads: 1
 v1.0-kor.efret.shipyard | downloads: 155
 v1.0-gegno.pirates | downloads: 1
-v1.0-free.worlds.5.years.later | downloads: 257
+v1.0-free.worlds.5.years.later | downloads: 259
 v1.0-expert.crew.members | downloads: 4
 v1.0-disable.person.ships | downloads: 173
 v1.0-devil-run.unhidden | downloads: 1
@@ -193,17 +193,17 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 192
-# TOTAL DOWNLOADS: 13553
+# TOTAL DOWNLOADS: 13583
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 561
-automata.destruction.0percent 353
+automata.destruction.0percent 355
 automata.in.human.space 298
 avgi.licenses 128
-better.starts 366
-bunrodea.missions 484
+better.starts 368
+bunrodea.missions 486
 captureable.person.ships 367
 coalition.shopping 409
 control.station 275
@@ -211,35 +211,35 @@ devil-run.unhidden 66
 disable.person.ships 173
 disable.spaceport.repeatables 266
 expert.crew.members 471
-free.worlds.5.years.later 257
+free.worlds.5.years.later 259
 galactic.capital.investment 566
-gegno.pirates 452
+gegno.pirates 454
 hai.side.mission.unlocker 331
 highrollers.ltd 20
 human.labels 264
 jump.gates 353
-kestrel.unlocks 291
-kor.efret.shipyard 450
-landing.images 294
+kestrel.unlocks 293
+kor.efret.shipyard 452
+landing.images 296
 landing.images.android 269
 landing.images.highres 210
-mission.helper 165
-more.arfectas 427
-more.boarding.missions 420
+mission.helper 167
+more.arfectas 429
+more.boarding.missions 422
 more.person.ships 324
-navy.licenses 471
+navy.licenses 473
 no.more.mereti.mines 278
 outfits.weapon.slot 252
 paint.your.ships 297
 pirate.warlords 3
 planet.map 199
 planet.pluto 105
-quarg.farm 462
+quarg.farm 464
 real.fluff 93
 show.reputation 337
 snowfeather.robotics 318
 space.fauna 267
 too.many.asteroids 493
-tribute.republic 217
+tribute.republic 219
 unique.fix 44
-uniques 314
+uniques 316
