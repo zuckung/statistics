@@ -406,8 +406,8 @@
 		<td>337</td>
 		<td>337</td>
 		<td>339</td>
-		<td>339</td>
-		<td></td>
+		<td>341</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -663,8 +663,8 @@
 		<td>337</td>
 		<td>337</td>
 		<td>339</td>
-		<td>339</td>
-		<td></td>
+		<td>341</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
