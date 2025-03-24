@@ -285,8 +285,8 @@
 		<td>165</td>
 		<td>165</td>
 		<td>169</td>
-		<td>169</td>
-		<td></td>
+		<td>171</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -894,8 +894,8 @@
 		<td>165</td>
 		<td>165</td>
 		<td>169</td>
-		<td>169</td>
-		<td></td>
+		<td>171</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
