@@ -274,8 +274,8 @@
 		<td>210</td>
 		<td>210</td>
 		<td>210</td>
-		<td>210</td>
-		<td></td>
+		<td>212</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -439,8 +439,8 @@
 		<td>493</td>
 		<td>493</td>
 		<td>493</td>
-		<td>493</td>
-		<td></td>
+		<td>495</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -509,8 +509,8 @@
 		<td>493</td>
 		<td>493</td>
 		<td>493</td>
-		<td>493</td>
-		<td></td>
+		<td>495</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -861,8 +861,8 @@
 		<td>210</td>
 		<td>210</td>
 		<td>210</td>
-		<td>210</td>
-		<td></td>
+		<td>212</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
