@@ -65,8 +65,8 @@
 		<td>366</td>
 		<td>366</td>
 		<td>368</td>
-		<td>368</td>
-		<td></td>
+		<td>370</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -109,8 +109,8 @@
 		<td>275</td>
 		<td>275</td>
 		<td>275</td>
-		<td>275</td>
-		<td></td>
+		<td>277</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -619,8 +619,8 @@
 		<td>366</td>
 		<td>366</td>
 		<td>368</td>
-		<td>368</td>
-		<td></td>
+		<td>370</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -773,8 +773,8 @@
 		<td>275</td>
 		<td>275</td>
 		<td>275</td>
-		<td>275</td>
-		<td></td>
+		<td>277</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
