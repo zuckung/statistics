@@ -142,8 +142,8 @@
 		<td>471</td>
 		<td>471</td>
 		<td>473</td>
-		<td>475</td>
-		<td>+ 2</td>
+		<td>477</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -153,8 +153,8 @@
 		<td>257</td>
 		<td>257</td>
 		<td>259</td>
-		<td>259</td>
-		<td></td>
+		<td>261</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -208,8 +208,8 @@
 		<td>264</td>
 		<td>264</td>
 		<td>264</td>
-		<td>264</td>
-		<td></td>
+		<td>266</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -406,8 +406,8 @@
 		<td>337</td>
 		<td>337</td>
 		<td>339</td>
-		<td>341</td>
-		<td>+ 2</td>
+		<td>343</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -461,8 +461,8 @@
 		<td>313</td>
 		<td>313</td>
 		<td>316</td>
-		<td>316</td>
-		<td></td>
+		<td>318</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>471</td>
 		<td>471</td>
 		<td>473</td>
-		<td>475</td>
-		<td>+ 2</td>
+		<td>477</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -663,8 +663,8 @@
 		<td>337</td>
 		<td>337</td>
 		<td>339</td>
-		<td>341</td>
-		<td>+ 2</td>
+		<td>343</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -689,6 +689,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>uniques</td>
+		<td>312</td>
+		<td>312</td>
+		<td>313</td>
+		<td>313</td>
+		<td>313</td>
+		<td>316</td>
+		<td>318</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>snowfeather.robotics</td>
 		<td>313</td>
 		<td>315</td>
@@ -697,17 +708,6 @@
 		<td>318</td>
 		<td>318</td>
 		<td>318</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>uniques</td>
-		<td>312</td>
-		<td>312</td>
-		<td>313</td>
-		<td>313</td>
-		<td>313</td>
-		<td>316</td>
-		<td>316</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -799,6 +799,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>human.labels</td>
+		<td>263</td>
+		<td>263</td>
+		<td>264</td>
+		<td>264</td>
+		<td>264</td>
+		<td>264</td>
+		<td>266</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>265</td>
 		<td>265</td>
@@ -810,17 +821,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>human.labels</td>
-		<td>263</td>
-		<td>263</td>
-		<td>264</td>
-		<td>264</td>
-		<td>264</td>
-		<td>264</td>
-		<td>264</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>free.worlds.5.years.later</td>
 		<td>256</td>
 		<td>256</td>
@@ -828,8 +828,8 @@
 		<td>257</td>
 		<td>257</td>
 		<td>259</td>
-		<td>259</td>
-		<td></td>
+		<td>261</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
