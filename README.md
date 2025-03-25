@@ -21,8 +21,8 @@
 		<td>559</td>
 		<td>563</td>
 		<td>565</td>
-		<td>566</td>
-		<td>+ 1</td>
+		<td>568</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -274,8 +274,8 @@
 		<td>210</td>
 		<td>210</td>
 		<td>212</td>
-		<td>212</td>
-		<td></td>
+		<td>214</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -285,8 +285,8 @@
 		<td>165</td>
 		<td>169</td>
 		<td>171</td>
-		<td>171</td>
-		<td></td>
+		<td>173</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -498,8 +498,8 @@
 		<td>559</td>
 		<td>563</td>
 		<td>565</td>
-		<td>566</td>
-		<td>+ 1</td>
+		<td>568</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -861,8 +861,8 @@
 		<td>210</td>
 		<td>210</td>
 		<td>212</td>
-		<td>212</td>
-		<td></td>
+		<td>214</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -876,6 +876,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>mission.helper</td>
+		<td>151</td>
+		<td>152</td>
+		<td>165</td>
+		<td>165</td>
+		<td>169</td>
+		<td>171</td>
+		<td>173</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>disable.person.ships</td>
 		<td>172</td>
 		<td>173</td>
@@ -884,17 +895,6 @@
 		<td>173</td>
 		<td>173</td>
 		<td>173</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>151</td>
-		<td>152</td>
-		<td>165</td>
-		<td>165</td>
-		<td>169</td>
-		<td>171</td>
-		<td>171</td>
 		<td></td>
 	</tr>
 	<tr>
