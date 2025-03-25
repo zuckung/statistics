@@ -21,8 +21,8 @@
 		<td>559</td>
 		<td>563</td>
 		<td>565</td>
-		<td>568</td>
-		<td>+ 3</td>
+		<td>570</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -164,8 +164,8 @@
 		<td>566</td>
 		<td>566</td>
 		<td>568</td>
-		<td>573</td>
-		<td>+ 5</td>
+		<td>575</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -252,8 +252,8 @@
 		<td>294</td>
 		<td>296</td>
 		<td>296</td>
-		<td>298</td>
-		<td>+ 2</td>
+		<td>300</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -487,8 +487,8 @@
 		<td>566</td>
 		<td>566</td>
 		<td>568</td>
-		<td>573</td>
-		<td>+ 5</td>
+		<td>575</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -498,8 +498,8 @@
 		<td>559</td>
 		<td>563</td>
 		<td>565</td>
-		<td>568</td>
-		<td>+ 3</td>
+		<td>570</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -711,6 +711,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>landing.images</td>
+		<td>293</td>
+		<td>294</td>
+		<td>294</td>
+		<td>294</td>
+		<td>296</td>
+		<td>296</td>
+		<td>300</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>paint.your.ships</td>
 		<td>292</td>
 		<td>295</td>
@@ -719,17 +730,6 @@
 		<td>297</td>
 		<td>297</td>
 		<td>299</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>landing.images</td>
-		<td>293</td>
-		<td>294</td>
-		<td>294</td>
-		<td>294</td>
-		<td>296</td>
-		<td>296</td>
-		<td>298</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
