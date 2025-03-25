@@ -252,8 +252,8 @@
 		<td>294</td>
 		<td>296</td>
 		<td>296</td>
-		<td>296</td>
-		<td></td>
+		<td>298</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -722,6 +722,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>landing.images</td>
+		<td>293</td>
+		<td>294</td>
+		<td>294</td>
+		<td>294</td>
+		<td>296</td>
+		<td>296</td>
+		<td>298</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>automata.in.human.space</td>
 		<td>297</td>
 		<td>298</td>
@@ -730,17 +741,6 @@
 		<td>298</td>
 		<td>298</td>
 		<td>298</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>landing.images</td>
-		<td>293</td>
-		<td>294</td>
-		<td>294</td>
-		<td>294</td>
-		<td>296</td>
-		<td>296</td>
-		<td>296</td>
 		<td></td>
 	</tr>
 	<tr>
