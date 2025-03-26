@@ -1,24 +1,24 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.1.6-galactic.capital.investment | downloads: 13
-v1.0.19-additional.command.buttons.radial | downloads: 49
-v1.0.1-highrollers.ltd | downloads: 9
-v1.0.3-gegno.pirates | downloads: 31
+v1.1.6-galactic.capital.investment | downloads: 14
+v1.0.19-additional.command.buttons.radial | downloads: 50
+v1.0.1-highrollers.ltd | downloads: 10
+v1.0.3-gegno.pirates | downloads: 32
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 31
-v1.0.2-mission.helper | downloads: 110
+v1.0.2-mission.helper | downloads: 111
 v1.0.17-additional.command.buttons.radial | downloads: 21
 v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 25
 v1.0.0-mission.helper | downloads: 38
 v1.1.5-galactic.capital.investment | downloads: 134
-v1.0.7-bunrodea.missions | downloads: 109
-v1.0.5-human.labels | downloads: 52
-v1.1.4-more.boarding.missions | downloads: 106
+v1.0.7-bunrodea.missions | downloads: 110
+v1.0.5-human.labels | downloads: 53
+v1.1.4-more.boarding.missions | downloads: 107
 v1.0.6-bunrodea.missions | downloads: 6
-v1.0.3-jump.gates | downloads: 86
+v1.0.3-jump.gates | downloads: 87
 v1.0.15-additional.command.buttons.radial | downloads: 69
-v1.0.6-expert.crew.members | downloads: 128
-v1.0.0-avgi.licenses | downloads: 128
+v1.0.6-expert.crew.members | downloads: 129
+v1.0.0-avgi.licenses | downloads: 129
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 123
@@ -40,7 +40,7 @@ v1.0.12-additional.command.buttons.radial | downloads: 47
 v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
-v1.0.3-navy.licenses | downloads: 261
+v1.0.3-navy.licenses | downloads: 262
 v1.0.6-coalition.shopping | downloads: 217
 v1.0.5-snowfeather.robotics | downloads: 163
 v1.0.4-snowfeather.robotics | downloads: 3
@@ -193,41 +193,41 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 192
-# TOTAL DOWNLOADS: 13681
+# TOTAL DOWNLOADS: 13693
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 570
+additional.command.buttons.radial 571
 automata.destruction.0percent 355
 automata.in.human.space 298
-avgi.licenses 128
+avgi.licenses 129
 better.starts 370
-bunrodea.missions 488
+bunrodea.missions 489
 captureable.person.ships 369
 coalition.shopping 411
 control.station 277
 devil-run.unhidden 66
 disable.person.ships 173
 disable.spaceport.repeatables 266
-expert.crew.members 481
+expert.crew.members 482
 free.worlds.5.years.later 261
-galactic.capital.investment 575
-gegno.pirates 456
+galactic.capital.investment 576
+gegno.pirates 457
 hai.side.mission.unlocker 331
-highrollers.ltd 20
-human.labels 266
-jump.gates 357
+highrollers.ltd 21
+human.labels 267
+jump.gates 358
 kestrel.unlocks 293
 kor.efret.shipyard 452
 landing.images 300
 landing.images.android 269
 landing.images.highres 214
-mission.helper 173
+mission.helper 174
 more.arfectas 431
-more.boarding.missions 426
+more.boarding.missions 427
 more.person.ships 326
-navy.licenses 473
+navy.licenses 474
 no.more.mereti.mines 278
 outfits.weapon.slot 252
 paint.your.ships 299
