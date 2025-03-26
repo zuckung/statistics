@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.1.6-galactic.capital.investment | downloads: 14
-v1.0.19-additional.command.buttons.radial | downloads: 50
+v1.0.19-additional.command.buttons.radial | downloads: 52
 v1.0.1-highrollers.ltd | downloads: 10
 v1.0.3-gegno.pirates | downloads: 32
 v1.0.0-highrollers.ltd | downloads: 11
@@ -71,7 +71,7 @@ v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 92
 v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
-v1.1.4-hai.side.mission.unlocker | downloads: 256
+v1.1.4-hai.side.mission.unlocker | downloads: 258
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 222
 v1.0.1-paint.your.ships | downloads: 295
@@ -193,12 +193,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 192
-# TOTAL DOWNLOADS: 13695
+# TOTAL DOWNLOADS: 13699
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 571
+additional.command.buttons.radial 573
 automata.destruction.0percent 355
 automata.in.human.space 298
 avgi.licenses 131
@@ -214,7 +214,7 @@ expert.crew.members 482
 free.worlds.5.years.later 261
 galactic.capital.investment 576
 gegno.pirates 457
-hai.side.mission.unlocker 331
+hai.side.mission.unlocker 333
 highrollers.ltd 21
 human.labels 267
 jump.gates 358
