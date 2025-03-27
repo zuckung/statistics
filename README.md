@@ -329,8 +329,8 @@
 		<td>473</td>
 		<td>473</td>
 		<td>474</td>
-		<td>476</td>
-		<td>+ 2</td>
+		<td>478</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -542,8 +542,8 @@
 		<td>473</td>
 		<td>473</td>
 		<td>474</td>
-		<td>476</td>
-		<td>+ 2</td>
+		<td>478</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
