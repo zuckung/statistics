@@ -21,8 +21,8 @@
 		<td>570</td>
 		<td>575</td>
 		<td>575</td>
-		<td>575</td>
-		<td></td>
+		<td>577</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -32,8 +32,8 @@
 		<td>355</td>
 		<td>355</td>
 		<td>357</td>
-		<td>357</td>
-		<td></td>
+		<td>359</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -186,8 +186,8 @@
 		<td>331</td>
 		<td>333</td>
 		<td>333</td>
-		<td>333</td>
-		<td></td>
+		<td>335</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -296,8 +296,8 @@
 		<td>431</td>
 		<td>431</td>
 		<td>431</td>
-		<td>431</td>
-		<td></td>
+		<td>433</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -498,8 +498,8 @@
 		<td>570</td>
 		<td>575</td>
 		<td>575</td>
-		<td>575</td>
-		<td></td>
+		<td>577</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -586,8 +586,8 @@
 		<td>431</td>
 		<td>431</td>
 		<td>431</td>
-		<td>431</td>
-		<td></td>
+		<td>433</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -652,8 +652,8 @@
 		<td>355</td>
 		<td>355</td>
 		<td>357</td>
-		<td>357</td>
-		<td></td>
+		<td>359</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -674,8 +674,8 @@
 		<td>331</td>
 		<td>333</td>
 		<td>333</td>
-		<td>333</td>
-		<td></td>
+		<td>335</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
