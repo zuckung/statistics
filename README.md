@@ -164,8 +164,8 @@
 		<td>575</td>
 		<td>576</td>
 		<td>576</td>
-		<td>578</td>
-		<td>+ 2</td>
+		<td>580</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -285,8 +285,8 @@
 		<td>173</td>
 		<td>174</td>
 		<td>174</td>
-		<td>176</td>
-		<td>+ 2</td>
+		<td>178</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -487,8 +487,8 @@
 		<td>575</td>
 		<td>576</td>
 		<td>576</td>
-		<td>578</td>
-		<td>+ 2</td>
+		<td>580</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -883,8 +883,8 @@
 		<td>173</td>
 		<td>174</td>
 		<td>174</td>
-		<td>176</td>
-		<td>+ 2</td>
+		<td>178</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
