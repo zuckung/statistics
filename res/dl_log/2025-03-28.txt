@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.1.6-galactic.capital.investment | downloads: 16
-v1.0.19-additional.command.buttons.radial | downloads: 54
+v1.0.19-additional.command.buttons.radial | downloads: 56
 v1.0.1-highrollers.ltd | downloads: 10
 v1.0.3-gegno.pirates | downloads: 34
 v1.0.0-highrollers.ltd | downloads: 11
@@ -71,7 +71,7 @@ v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 92
 v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
-v1.1.4-hai.side.mission.unlocker | downloads: 258
+v1.1.4-hai.side.mission.unlocker | downloads: 260
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 222
 v1.0.1-paint.your.ships | downloads: 299
@@ -129,7 +129,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 356
+v1.0.1-automata.destruction.0percent | downloads: 358
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -158,7 +158,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 429
+v1.0.2-more.arfectas | downloads: 431
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -193,13 +193,13 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 192
-# TOTAL DOWNLOADS: 13729
+# TOTAL DOWNLOADS: 13737
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 575
-automata.destruction.0percent 357
+additional.command.buttons.radial 577
+automata.destruction.0percent 359
 automata.in.human.space 298
 avgi.licenses 132
 better.starts 370
@@ -214,7 +214,7 @@ expert.crew.members 484
 free.worlds.5.years.later 261
 galactic.capital.investment 578
 gegno.pirates 459
-hai.side.mission.unlocker 333
+hai.side.mission.unlocker 335
 highrollers.ltd 21
 human.labels 267
 jump.gates 360
@@ -224,7 +224,7 @@ landing.images 300
 landing.images.android 269
 landing.images.highres 214
 mission.helper 176
-more.arfectas 431
+more.arfectas 433
 more.boarding.missions 427
 more.person.ships 326
 navy.licenses 478
