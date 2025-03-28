@@ -142,8 +142,8 @@
 		<td>481</td>
 		<td>482</td>
 		<td>482</td>
-		<td>482</td>
-		<td></td>
+		<td>484</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -285,8 +285,8 @@
 		<td>173</td>
 		<td>174</td>
 		<td>174</td>
-		<td>174</td>
-		<td></td>
+		<td>176</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -362,8 +362,8 @@
 		<td>299</td>
 		<td>299</td>
 		<td>301</td>
-		<td>301</td>
-		<td></td>
+		<td>303</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -531,8 +531,8 @@
 		<td>481</td>
 		<td>482</td>
 		<td>482</td>
-		<td>482</td>
-		<td></td>
+		<td>484</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -718,8 +718,8 @@
 		<td>299</td>
 		<td>299</td>
 		<td>301</td>
-		<td>301</td>
-		<td></td>
+		<td>303</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -876,6 +876,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>mission.helper</td>
+		<td>165</td>
+		<td>169</td>
+		<td>171</td>
+		<td>173</td>
+		<td>174</td>
+		<td>174</td>
+		<td>176</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>disable.person.ships</td>
 		<td>173</td>
 		<td>173</td>
@@ -884,17 +895,6 @@
 		<td>173</td>
 		<td>175</td>
 		<td>175</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>165</td>
-		<td>169</td>
-		<td>171</td>
-		<td>173</td>
-		<td>174</td>
-		<td>174</td>
-		<td>174</td>
 		<td></td>
 	</tr>
 	<tr>
