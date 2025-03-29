@@ -32,8 +32,8 @@
 		<td>355</td>
 		<td>357</td>
 		<td>359</td>
-		<td>359</td>
-		<td></td>
+		<td>365</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -43,8 +43,8 @@
 		<td>298</td>
 		<td>298</td>
 		<td>298</td>
-		<td>298</td>
-		<td></td>
+		<td>304</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
@@ -65,8 +65,8 @@
 		<td>370</td>
 		<td>370</td>
 		<td>370</td>
-		<td>370</td>
-		<td></td>
+		<td>376</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -164,8 +164,8 @@
 		<td>576</td>
 		<td>576</td>
 		<td>580</td>
-		<td>582</td>
-		<td>+ 2</td>
+		<td>584</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -487,8 +487,8 @@
 		<td>576</td>
 		<td>576</td>
 		<td>580</td>
-		<td>582</td>
-		<td>+ 2</td>
+		<td>584</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -619,8 +619,8 @@
 		<td>370</td>
 		<td>370</td>
 		<td>370</td>
-		<td>370</td>
-		<td></td>
+		<td>376</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -634,6 +634,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>355</td>
+		<td>355</td>
+		<td>355</td>
+		<td>355</td>
+		<td>357</td>
+		<td>359</td>
+		<td>365</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
 		<td>jump.gates</td>
 		<td>355</td>
 		<td>355</td>
@@ -643,17 +654,6 @@
 		<td>360</td>
 		<td>362</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>355</td>
-		<td>355</td>
-		<td>355</td>
-		<td>355</td>
-		<td>357</td>
-		<td>359</td>
-		<td>359</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -722,6 +722,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>automata.in.human.space</td>
+		<td>298</td>
+		<td>298</td>
+		<td>298</td>
+		<td>298</td>
+		<td>298</td>
+		<td>298</td>
+		<td>304</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
 		<td>landing.images</td>
 		<td>296</td>
 		<td>296</td>
@@ -730,17 +741,6 @@
 		<td>300</td>
 		<td>300</td>
 		<td>300</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>automata.in.human.space</td>
-		<td>298</td>
-		<td>298</td>
-		<td>298</td>
-		<td>298</td>
-		<td>298</td>
-		<td>298</td>
-		<td>298</td>
 		<td></td>
 	</tr>
 	<tr>
