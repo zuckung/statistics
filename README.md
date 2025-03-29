@@ -417,8 +417,8 @@
 		<td>322</td>
 		<td>324</td>
 		<td>324</td>
-		<td>324</td>
-		<td></td>
+		<td>325</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -696,8 +696,8 @@
 		<td>322</td>
 		<td>324</td>
 		<td>324</td>
-		<td>324</td>
-		<td></td>
+		<td>325</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
