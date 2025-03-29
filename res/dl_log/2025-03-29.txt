@@ -42,7 +42,7 @@ v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 269
 v1.0.6-coalition.shopping | downloads: 217
-v1.0.5-snowfeather.robotics | downloads: 165
+v1.0.5-snowfeather.robotics | downloads: 166
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 282
 v1.0.10-additional.command.buttons.radial | downloads: 40
@@ -193,7 +193,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 192
-# TOTAL DOWNLOADS: 13767
+# TOTAL DOWNLOADS: 13768
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -237,7 +237,7 @@ planet.pluto 105
 quarg.farm 468
 real.fluff 93
 show.reputation 349
-snowfeather.robotics 324
+snowfeather.robotics 325
 space.fauna 267
 too.many.asteroids 499
 tribute.republic 223
