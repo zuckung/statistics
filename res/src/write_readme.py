@@ -16,9 +16,7 @@ def create_image(countnumber, plugin):
 	draw = ImageDraw.Draw(im, 'RGBA')
 	draw.text((5, 2) , 'downloads: ' + countnumber, fill=(255,255,255), font=font)
 	im = im.convert('RGB')
-	if not os.path.isdir('page/'):
-		os.mkdir('page')
-	im.save('page/' + plugin + '.jpg')
+	im.save('pics/' + plugin + '.jpg')
 	print('created image: ' + countnumber + ' ' + plugin)
 
 
