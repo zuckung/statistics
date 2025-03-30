@@ -19,6 +19,7 @@ def create_image(countnumber, plugin):
 	if not os.path.isdir('page/'):
 		os.mkdir('page')
 	im.save('page/' + plugin + '.jpg')
+	print('created image: ' + countnumber + ' ' + plugin)
 
 
 def findp(list, p):
