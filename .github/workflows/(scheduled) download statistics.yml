@@ -16,6 +16,9 @@ jobs:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 2
+      - name: install libs
+        run: |
+          python3 -m pip install Pillow
       - name: write statistics file
         run: python res/src/download_statistics.py
       - name: Commit file
