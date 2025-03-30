@@ -114,7 +114,7 @@ def write_readme():
 				target.writelines('\t\t<td>' + findp(rows5, row.split(' ')[0]) + '</td>\n')
 				target.writelines('\t\t<td>' + findp(rows6, row.split(' ')[0]) + '</td>\n')
 				target.writelines('\t\t<td>' + findp(rows7, row.split(' ')[0]) + '</td>\n')
-				createimage(findp(rows1, row.split(' ')[0]) ,row.split(' ')[0])
+				create_image(findp(rows1, row.split(' ')[0]) ,row.split(' ')[0])
 				difference = str(int(findp(rows7, row.split(' ')[0])) - int(findp(rows6, row.split(' ')[0])))
 				if difference == '0':
 					difference = ''
