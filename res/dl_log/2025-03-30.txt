@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.1.6-galactic.capital.investment | downloads: 25
-v1.0.19-additional.command.buttons.radial | downloads: 57
+v1.0.19-additional.command.buttons.radial | downloads: 59
 v1.0.1-highrollers.ltd | downloads: 13
 v1.0.3-gegno.pirates | downloads: 40
 v1.0.0-highrollers.ltd | downloads: 11
@@ -13,7 +13,7 @@ v1.0.0-mission.helper | downloads: 38
 v1.1.5-galactic.capital.investment | downloads: 134
 v1.0.7-bunrodea.missions | downloads: 117
 v1.0.5-human.labels | downloads: 56
-v1.1.4-more.boarding.missions | downloads: 110
+v1.1.4-more.boarding.missions | downloads: 112
 v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 97
 v1.0.15-additional.command.buttons.radial | downloads: 69
@@ -193,12 +193,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 192
-# TOTAL DOWNLOADS: 13910
+# TOTAL DOWNLOADS: 13914
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 578
+additional.command.buttons.radial 580
 automata.destruction.0percent 367
 automata.in.human.space 307
 avgi.licenses 136
@@ -225,7 +225,7 @@ landing.images.android 270
 landing.images.highres 217
 mission.helper 183
 more.arfectas 439
-more.boarding.missions 430
+more.boarding.missions 432
 more.person.ships 329
 navy.licenses 485
 no.more.mereti.mines 279
