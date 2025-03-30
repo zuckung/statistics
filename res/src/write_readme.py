@@ -1,11 +1,24 @@
 import os
-
+import PIL
+from PIL import Image, ImageDraw, ImageFont
 
 
 def local_check():
 	# for local testing
 	if os.getcwd() == '/storage/emulated/0/Download/pytests/test/res/src':
 		os.chdir('../../')
+
+
+def create_image(countnumber, plugin):
+	iFont = 'DejaVuSans.ttf'
+	im = PIL.Image.new(mode = "RGB", size = (130, 20), color = (0, 0, 0))
+	font = ImageFont.truetype(font=iFont, size=12)
+	draw = ImageDraw.Draw(im, 'RGBA')
+	draw.text((5, 2) , 'downloads: ' + countnumber, fill=(255,255,255), font=font)
+	im = im.convert('RGB')
+	if not os.path.isdir('page/'):
+		os.mkdir('page')
+	im.save('page/' + plugin + '.jpg')
 
 
 def findp(list, p):
@@ -101,6 +114,7 @@ def write_readme():
 				target.writelines('\t\t<td>' + findp(rows5, row.split(' ')[0]) + '</td>\n')
 				target.writelines('\t\t<td>' + findp(rows6, row.split(' ')[0]) + '</td>\n')
 				target.writelines('\t\t<td>' + findp(rows7, row.split(' ')[0]) + '</td>\n')
+				createimage(findp(rows1, row.split(' ')[0]) ,row.split(' ')[0])
 				difference = str(int(findp(rows7, row.split(' ')[0])) - int(findp(rows6, row.split(' ')[0])))
 				if difference == '0':
 					difference = ''
