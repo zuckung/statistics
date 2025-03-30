@@ -21,8 +21,8 @@
 		<td>575</td>
 		<td>577</td>
 		<td>578</td>
-		<td>580</td>
-		<td>+ 2</td>
+		<td>584</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -109,8 +109,8 @@
 		<td>277</td>
 		<td>277</td>
 		<td>280</td>
-		<td>280</td>
-		<td></td>
+		<td>282</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -186,8 +186,8 @@
 		<td>333</td>
 		<td>335</td>
 		<td>336</td>
-		<td>336</td>
-		<td></td>
+		<td>338</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -285,8 +285,8 @@
 		<td>174</td>
 		<td>178</td>
 		<td>183</td>
-		<td>183</td>
-		<td></td>
+		<td>185</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -498,8 +498,8 @@
 		<td>575</td>
 		<td>577</td>
 		<td>578</td>
-		<td>580</td>
-		<td>+ 2</td>
+		<td>584</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -674,8 +674,8 @@
 		<td>333</td>
 		<td>335</td>
 		<td>336</td>
-		<td>336</td>
-		<td></td>
+		<td>338</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -762,8 +762,8 @@
 		<td>277</td>
 		<td>277</td>
 		<td>280</td>
-		<td>280</td>
-		<td></td>
+		<td>282</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -883,8 +883,8 @@
 		<td>174</td>
 		<td>178</td>
 		<td>183</td>
-		<td>183</td>
-		<td></td>
+		<td>185</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
