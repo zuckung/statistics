@@ -54,8 +54,8 @@
 		<td>132</td>
 		<td>132</td>
 		<td>136</td>
-		<td>136</td>
-		<td></td>
+		<td>138</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -905,8 +905,8 @@
 		<td>132</td>
 		<td>132</td>
 		<td>136</td>
-		<td>136</td>
-		<td></td>
+		<td>138</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
