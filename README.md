@@ -362,8 +362,8 @@
 		<td>301</td>
 		<td>303</td>
 		<td>306</td>
-		<td>306</td>
-		<td></td>
+		<td>308</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -711,6 +711,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>paint.your.ships</td>
+		<td>297</td>
+		<td>299</td>
+		<td>299</td>
+		<td>301</td>
+		<td>303</td>
+		<td>306</td>
+		<td>308</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>automata.in.human.space</td>
 		<td>298</td>
 		<td>298</td>
@@ -719,17 +730,6 @@
 		<td>298</td>
 		<td>307</td>
 		<td>307</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>297</td>
-		<td>299</td>
-		<td>299</td>
-		<td>301</td>
-		<td>303</td>
-		<td>306</td>
-		<td>306</td>
 		<td></td>
 	</tr>
 	<tr>
