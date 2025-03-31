@@ -11,13 +11,13 @@ def local_check():
 
 def create_image(countnumber, plugin):
 	iFont = 'DejaVuSans.ttf'
-	im = PIL.Image.new(mode = "RGB", size = (130, 20), color = (0, 0, 0))
+	im = PIL.Image.open('pics/new.png')
 	font = ImageFont.truetype(font=iFont, size=12)
 	draw = ImageDraw.Draw(im, 'RGBA')
 	draw.text((5, 2) , 'downloads: ' + countnumber, fill=(255,255,255), font=font)
 	im = im.convert('RGB')
-	im.save('pics/' + plugin + '.jpg')
-	print('created image: ' + countnumber + ' ' + plugin)
+	im.save('pics/' + plugin + '.png')
+	#print('created image: ' + countnumber + ' ' + plugin)
 
 
 def findp(list, p):
