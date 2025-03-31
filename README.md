@@ -351,8 +351,8 @@
 		<td>252</td>
 		<td>258</td>
 		<td>258</td>
-		<td>260</td>
-		<td>+ 2</td>
+		<td>262</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -839,8 +839,8 @@
 		<td>252</td>
 		<td>258</td>
 		<td>258</td>
-		<td>260</td>
-		<td>+ 2</td>
+		<td>262</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
