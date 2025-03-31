@@ -81,7 +81,7 @@ v1.0.1-uniques | downloads: 14
 v1.0.4-additional.command.buttons.radial | downloads: 5
 v1.0.3-additional.command.buttons.radial | downloads: 10
 v1.0.2-additional.command.buttons.radial | downloads: 4
-v1.0.0-outfits.weapon.slot | downloads: 260
+v1.0.0-outfits.weapon.slot | downloads: 262
 v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 108
@@ -193,7 +193,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 192
-# TOTAL DOWNLOADS: 14020
+# TOTAL DOWNLOADS: 14022
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -229,7 +229,7 @@ more.boarding.missions 434
 more.person.ships 331
 navy.licenses 487
 no.more.mereti.mines 281
-outfits.weapon.slot 260
+outfits.weapon.slot 262
 paint.your.ships 310
 pirate.warlords 3
 planet.map 204
