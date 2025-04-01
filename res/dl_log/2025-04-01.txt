@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.1.6-galactic.capital.investment | downloads: 31
-v1.0.19-additional.command.buttons.radial | downloads: 65
+v1.0.19-additional.command.buttons.radial | downloads: 67
 v1.0.1-highrollers.ltd | downloads: 17
 v1.0.3-gegno.pirates | downloads: 42
 v1.0.0-highrollers.ltd | downloads: 11
@@ -193,12 +193,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 192
-# TOTAL DOWNLOADS: 14024
+# TOTAL DOWNLOADS: 14026
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 586
+additional.command.buttons.radial 588
 automata.destruction.0percent 369
 automata.in.human.space 311
 avgi.licenses 142
