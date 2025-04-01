@@ -54,8 +54,8 @@
 		<td>136</td>
 		<td>140</td>
 		<td>142</td>
-		<td>142</td>
-		<td></td>
+		<td>144</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -164,8 +164,8 @@
 		<td>587</td>
 		<td>589</td>
 		<td>593</td>
-		<td>595</td>
-		<td>+ 2</td>
+		<td>597</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -406,8 +406,8 @@
 		<td>352</td>
 		<td>352</td>
 		<td>354</td>
-		<td>354</td>
-		<td></td>
+		<td>356</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -487,8 +487,8 @@
 		<td>587</td>
 		<td>589</td>
 		<td>593</td>
-		<td>595</td>
-		<td>+ 2</td>
+		<td>597</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -663,8 +663,8 @@
 		<td>352</td>
 		<td>352</td>
 		<td>354</td>
-		<td>354</td>
-		<td></td>
+		<td>356</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -905,8 +905,8 @@
 		<td>136</td>
 		<td>140</td>
 		<td>142</td>
-		<td>142</td>
-		<td></td>
+		<td>144</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
