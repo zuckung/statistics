@@ -164,8 +164,8 @@
 		<td>589</td>
 		<td>593</td>
 		<td>597</td>
-		<td>597</td>
-		<td></td>
+		<td>599</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -307,8 +307,8 @@
 		<td>432</td>
 		<td>434</td>
 		<td>436</td>
-		<td>438</td>
-		<td>+ 2</td>
+		<td>440</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -487,8 +487,8 @@
 		<td>589</td>
 		<td>593</td>
 		<td>597</td>
-		<td>597</td>
-		<td></td>
+		<td>599</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -597,8 +597,8 @@
 		<td>432</td>
 		<td>434</td>
 		<td>436</td>
-		<td>438</td>
-		<td>+ 2</td>
+		<td>440</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
