@@ -21,8 +21,8 @@
 		<td>584</td>
 		<td>586</td>
 		<td>588</td>
-		<td>588</td>
-		<td></td>
+		<td>590</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -32,8 +32,8 @@
 		<td>367</td>
 		<td>369</td>
 		<td>369</td>
-		<td>369</td>
-		<td></td>
+		<td>371</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -65,8 +65,8 @@
 		<td>380</td>
 		<td>382</td>
 		<td>382</td>
-		<td>382</td>
-		<td></td>
+		<td>384</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>496</td>
 		<td>498</td>
 		<td>498</td>
-		<td>498</td>
-		<td></td>
+		<td>500</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -142,8 +142,8 @@
 		<td>489</td>
 		<td>491</td>
 		<td>491</td>
-		<td>491</td>
-		<td></td>
+		<td>493</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -241,8 +241,8 @@
 		<td>458</td>
 		<td>460</td>
 		<td>460</td>
-		<td>460</td>
-		<td></td>
+		<td>462</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -307,8 +307,8 @@
 		<td>432</td>
 		<td>434</td>
 		<td>436</td>
-		<td>436</td>
-		<td></td>
+		<td>438</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -498,8 +498,8 @@
 		<td>584</td>
 		<td>586</td>
 		<td>588</td>
-		<td>588</td>
-		<td></td>
+		<td>590</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -520,8 +520,8 @@
 		<td>496</td>
 		<td>498</td>
 		<td>498</td>
-		<td>498</td>
-		<td></td>
+		<td>500</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -531,8 +531,8 @@
 		<td>489</td>
 		<td>491</td>
 		<td>491</td>
-		<td>491</td>
-		<td></td>
+		<td>493</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -575,8 +575,8 @@
 		<td>458</td>
 		<td>460</td>
 		<td>460</td>
-		<td>460</td>
-		<td></td>
+		<td>462</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -597,8 +597,8 @@
 		<td>432</td>
 		<td>434</td>
 		<td>436</td>
-		<td>436</td>
-		<td></td>
+		<td>438</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -619,8 +619,8 @@
 		<td>380</td>
 		<td>382</td>
 		<td>382</td>
-		<td>382</td>
-		<td></td>
+		<td>384</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -634,6 +634,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>357</td>
+		<td>359</td>
+		<td>367</td>
+		<td>367</td>
+		<td>369</td>
+		<td>369</td>
+		<td>371</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>jump.gates</td>
 		<td>360</td>
 		<td>360</td>
@@ -642,17 +653,6 @@
 		<td>370</td>
 		<td>370</td>
 		<td>370</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>357</td>
-		<td>359</td>
-		<td>367</td>
-		<td>367</td>
-		<td>369</td>
-		<td>369</td>
-		<td>369</td>
 		<td></td>
 	</tr>
 	<tr>
