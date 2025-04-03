@@ -13,11 +13,11 @@ v1.0.0-mission.helper | downloads: 38
 v1.1.5-galactic.capital.investment | downloads: 134
 v1.0.7-bunrodea.missions | downloads: 122
 v1.0.5-human.labels | downloads: 58
-v1.1.4-more.boarding.missions | downloads: 122
+v1.1.4-more.boarding.missions | downloads: 124
 v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 101
 v1.0.15-additional.command.buttons.radial | downloads: 69
-v1.0.6-expert.crew.members | downloads: 142
+v1.0.6-expert.crew.members | downloads: 144
 v1.0.0-avgi.licenses | downloads: 146
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
@@ -58,7 +58,7 @@ v1.0.8-additional.command.buttons.radial | downloads: 20
 v1.0.2-better.starts | downloads: 35
 v1.1.5-captureable.person.ships | downloads: 54
 v1.0.7-additional.command.buttons.radial | downloads: 9
-v1.0.4-landing.images | downloads: 230
+v1.0.4-landing.images | downloads: 232
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 120
 v1.0.2-quarg.farm | downloads: 190
@@ -90,7 +90,7 @@ v1.0.2-tribute.republic | downloads: 208
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
 v1.0.0-tribute.republic | downloads: 2
-v1.0.3-landing.images.android | downloads: 244
+v1.0.3-landing.images.android | downloads: 246
 v1.0.2-landing.images.android | downloads: 2
 v1.0.1-landing.images.android | downloads: 21
 v1.0.2-no.more.mereti.mines | downloads: 54
@@ -193,7 +193,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 192
-# TOTAL DOWNLOADS: 14080
+# TOTAL DOWNLOADS: 14088
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -210,7 +210,7 @@ control.station 284
 devil-run.unhidden 66
 disable.person.ships 178
 disable.spaceport.repeatables 271
-expert.crew.members 495
+expert.crew.members 497
 free.worlds.5.years.later 264
 galactic.capital.investment 599
 gegno.pirates 467
@@ -220,12 +220,12 @@ human.labels 272
 jump.gates 372
 kestrel.unlocks 299
 kor.efret.shipyard 462
-landing.images 303
-landing.images.android 272
+landing.images 305
+landing.images.android 274
 landing.images.highres 219
 mission.helper 197
 more.arfectas 443
-more.boarding.missions 442
+more.boarding.missions 444
 more.person.ships 331
 navy.licenses 489
 no.more.mereti.mines 281
