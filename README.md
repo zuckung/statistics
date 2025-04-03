@@ -142,8 +142,8 @@
 		<td>491</td>
 		<td>491</td>
 		<td>493</td>
-		<td>495</td>
-		<td>+ 2</td>
+		<td>497</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -252,8 +252,8 @@
 		<td>303</td>
 		<td>303</td>
 		<td>303</td>
-		<td>303</td>
-		<td></td>
+		<td>305</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -263,8 +263,8 @@
 		<td>272</td>
 		<td>272</td>
 		<td>272</td>
-		<td>272</td>
-		<td></td>
+		<td>274</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -307,8 +307,8 @@
 		<td>434</td>
 		<td>436</td>
 		<td>440</td>
-		<td>442</td>
-		<td>+ 2</td>
+		<td>444</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -531,8 +531,8 @@
 		<td>491</td>
 		<td>491</td>
 		<td>493</td>
-		<td>495</td>
-		<td>+ 2</td>
+		<td>497</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -579,6 +579,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>more.boarding.missions</td>
+		<td>427</td>
+		<td>430</td>
+		<td>432</td>
+		<td>434</td>
+		<td>436</td>
+		<td>440</td>
+		<td>444</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>more.arfectas</td>
 		<td>433</td>
 		<td>439</td>
@@ -587,17 +598,6 @@
 		<td>441</td>
 		<td>441</td>
 		<td>443</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>more.boarding.missions</td>
-		<td>427</td>
-		<td>430</td>
-		<td>432</td>
-		<td>434</td>
-		<td>436</td>
-		<td>440</td>
-		<td>442</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -740,8 +740,8 @@
 		<td>303</td>
 		<td>303</td>
 		<td>303</td>
-		<td>303</td>
-		<td></td>
+		<td>305</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -784,8 +784,8 @@
 		<td>272</td>
 		<td>272</td>
 		<td>272</td>
-		<td>272</td>
-		<td></td>
+		<td>274</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
