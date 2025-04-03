@@ -32,8 +32,8 @@
 		<td>369</td>
 		<td>369</td>
 		<td>371</td>
-		<td>371</td>
-		<td></td>
+		<td>373</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -54,8 +54,8 @@
 		<td>142</td>
 		<td>144</td>
 		<td>144</td>
-		<td>148</td>
-		<td>+ 4</td>
+		<td>150</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -652,8 +652,8 @@
 		<td>369</td>
 		<td>369</td>
 		<td>371</td>
-		<td>371</td>
-		<td></td>
+		<td>373</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -905,8 +905,8 @@
 		<td>142</td>
 		<td>144</td>
 		<td>144</td>
-		<td>148</td>
-		<td>+ 4</td>
+		<td>150</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
