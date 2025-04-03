@@ -142,8 +142,8 @@
 		<td>491</td>
 		<td>491</td>
 		<td>493</td>
-		<td>493</td>
-		<td></td>
+		<td>495</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -219,8 +219,8 @@
 		<td>370</td>
 		<td>370</td>
 		<td>370</td>
-		<td>370</td>
-		<td></td>
+		<td>372</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -296,8 +296,8 @@
 		<td>441</td>
 		<td>441</td>
 		<td>441</td>
-		<td>441</td>
-		<td></td>
+		<td>443</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -362,8 +362,8 @@
 		<td>310</td>
 		<td>310</td>
 		<td>310</td>
-		<td>310</td>
-		<td></td>
+		<td>312</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -417,8 +417,8 @@
 		<td>331</td>
 		<td>331</td>
 		<td>331</td>
-		<td>331</td>
-		<td></td>
+		<td>334</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -531,8 +531,8 @@
 		<td>491</td>
 		<td>491</td>
 		<td>493</td>
-		<td>493</td>
-		<td></td>
+		<td>495</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -586,8 +586,8 @@
 		<td>441</td>
 		<td>441</td>
 		<td>441</td>
-		<td>441</td>
-		<td></td>
+		<td>443</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -634,6 +634,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>jump.gates</td>
+		<td>360</td>
+		<td>368</td>
+		<td>368</td>
+		<td>370</td>
+		<td>370</td>
+		<td>370</td>
+		<td>372</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>359</td>
 		<td>367</td>
@@ -642,17 +653,6 @@
 		<td>369</td>
 		<td>371</td>
 		<td>371</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>jump.gates</td>
-		<td>360</td>
-		<td>368</td>
-		<td>368</td>
-		<td>370</td>
-		<td>370</td>
-		<td>370</td>
-		<td>370</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -685,8 +685,8 @@
 		<td>331</td>
 		<td>331</td>
 		<td>331</td>
-		<td>331</td>
-		<td></td>
+		<td>334</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -711,6 +711,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>paint.your.ships</td>
+		<td>303</td>
+		<td>306</td>
+		<td>308</td>
+		<td>310</td>
+		<td>310</td>
+		<td>310</td>
+		<td>312</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>automata.in.human.space</td>
 		<td>298</td>
 		<td>307</td>
@@ -719,17 +730,6 @@
 		<td>311</td>
 		<td>311</td>
 		<td>311</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>303</td>
-		<td>306</td>
-		<td>308</td>
-		<td>310</td>
-		<td>310</td>
-		<td>310</td>
-		<td>310</td>
 		<td></td>
 	</tr>
 	<tr>
