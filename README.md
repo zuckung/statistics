@@ -307,8 +307,8 @@
 		<td>434</td>
 		<td>436</td>
 		<td>440</td>
-		<td>440</td>
-		<td></td>
+		<td>442</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -597,8 +597,8 @@
 		<td>434</td>
 		<td>436</td>
 		<td>440</td>
-		<td>440</td>
-		<td></td>
+		<td>442</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
