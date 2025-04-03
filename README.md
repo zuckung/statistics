@@ -76,8 +76,8 @@
 		<td>498</td>
 		<td>498</td>
 		<td>500</td>
-		<td>500</td>
-		<td></td>
+		<td>501</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -285,8 +285,8 @@
 		<td>189</td>
 		<td>189</td>
 		<td>195</td>
-		<td>195</td>
-		<td></td>
+		<td>197</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -329,8 +329,8 @@
 		<td>487</td>
 		<td>487</td>
 		<td>487</td>
-		<td>487</td>
-		<td></td>
+		<td>489</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -520,8 +520,8 @@
 		<td>498</td>
 		<td>498</td>
 		<td>500</td>
-		<td>500</td>
-		<td></td>
+		<td>501</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -542,8 +542,8 @@
 		<td>487</td>
 		<td>487</td>
 		<td>487</td>
-		<td>487</td>
-		<td></td>
+		<td>489</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -883,8 +883,8 @@
 		<td>189</td>
 		<td>189</td>
 		<td>195</td>
-		<td>195</td>
-		<td></td>
+		<td>197</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
