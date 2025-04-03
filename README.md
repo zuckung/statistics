@@ -65,8 +65,8 @@
 		<td>382</td>
 		<td>382</td>
 		<td>384</td>
-		<td>386</td>
-		<td>+ 2</td>
+		<td>388</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>498</td>
 		<td>498</td>
 		<td>500</td>
-		<td>503</td>
-		<td>+ 3</td>
+		<td>505</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -520,8 +520,8 @@
 		<td>498</td>
 		<td>498</td>
 		<td>500</td>
-		<td>503</td>
-		<td>+ 3</td>
+		<td>505</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -619,8 +619,8 @@
 		<td>382</td>
 		<td>382</td>
 		<td>384</td>
-		<td>386</td>
-		<td>+ 2</td>
+		<td>388</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
