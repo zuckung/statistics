@@ -21,8 +21,8 @@
 		<td>586</td>
 		<td>588</td>
 		<td>590</td>
-		<td>590</td>
-		<td></td>
+		<td>592</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -373,8 +373,8 @@
 		<td>204</td>
 		<td>204</td>
 		<td>204</td>
-		<td>204</td>
-		<td></td>
+		<td>206</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -428,8 +428,8 @@
 		<td>270</td>
 		<td>270</td>
 		<td>270</td>
-		<td>270</td>
-		<td></td>
+		<td>272</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -498,8 +498,8 @@
 		<td>586</td>
 		<td>588</td>
 		<td>590</td>
-		<td>590</td>
-		<td></td>
+		<td>592</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -788,6 +788,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>space.fauna</td>
+		<td>267</td>
+		<td>268</td>
+		<td>268</td>
+		<td>270</td>
+		<td>270</td>
+		<td>270</td>
+		<td>272</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>human.labels</td>
 		<td>267</td>
 		<td>270</td>
@@ -807,17 +818,6 @@
 		<td>271</td>
 		<td>271</td>
 		<td>271</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>space.fauna</td>
-		<td>267</td>
-		<td>268</td>
-		<td>268</td>
-		<td>270</td>
-		<td>270</td>
-		<td>270</td>
-		<td>270</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -872,8 +872,8 @@
 		<td>204</td>
 		<td>204</td>
 		<td>204</td>
-		<td>204</td>
-		<td></td>
+		<td>206</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
