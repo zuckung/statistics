@@ -54,8 +54,8 @@
 		<td>142</td>
 		<td>144</td>
 		<td>144</td>
-		<td>146</td>
-		<td>+ 2</td>
+		<td>148</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -65,8 +65,8 @@
 		<td>382</td>
 		<td>382</td>
 		<td>384</td>
-		<td>384</td>
-		<td></td>
+		<td>386</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>498</td>
 		<td>498</td>
 		<td>500</td>
-		<td>501</td>
-		<td>+ 1</td>
+		<td>503</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -230,8 +230,8 @@
 		<td>299</td>
 		<td>299</td>
 		<td>299</td>
-		<td>299</td>
-		<td></td>
+		<td>301</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -520,8 +520,8 @@
 		<td>498</td>
 		<td>498</td>
 		<td>500</td>
-		<td>501</td>
-		<td>+ 1</td>
+		<td>503</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -619,8 +619,8 @@
 		<td>382</td>
 		<td>382</td>
 		<td>384</td>
-		<td>384</td>
-		<td></td>
+		<td>386</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -751,8 +751,8 @@
 		<td>299</td>
 		<td>299</td>
 		<td>299</td>
-		<td>299</td>
-		<td></td>
+		<td>301</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -905,8 +905,8 @@
 		<td>142</td>
 		<td>144</td>
 		<td>144</td>
-		<td>146</td>
-		<td>+ 2</td>
+		<td>148</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
