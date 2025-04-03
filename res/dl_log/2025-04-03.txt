@@ -11,14 +11,14 @@ v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 25
 v1.0.0-mission.helper | downloads: 38
 v1.1.5-galactic.capital.investment | downloads: 134
-v1.0.7-bunrodea.missions | downloads: 122
+v1.0.7-bunrodea.missions | downloads: 124
 v1.0.5-human.labels | downloads: 58
 v1.1.4-more.boarding.missions | downloads: 124
 v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 101
 v1.0.15-additional.command.buttons.radial | downloads: 69
 v1.0.6-expert.crew.members | downloads: 144
-v1.0.0-avgi.licenses | downloads: 146
+v1.0.0-avgi.licenses | downloads: 148
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 127
@@ -28,7 +28,7 @@ v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 174
 v1.0.3-show.reputation | downloads: 107
 v1.0.13-additional.command.buttons.radial | downloads: 93
-v1.0.4-better.starts | downloads: 169
+v1.0.4-better.starts | downloads: 171
 v1.0.5-bunrodea.missions | downloads: 120
 v1.0.2-planet.pluto | downloads: 85
 v1.0.2-planet.map | downloads: 71
@@ -85,7 +85,7 @@ v1.0.0-outfits.weapon.slot | downloads: 262
 v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 108
-v1.0.0-kestrel.unlocks | downloads: 299
+v1.0.0-kestrel.unlocks | downloads: 301
 v1.0.2-tribute.republic | downloads: 208
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
@@ -193,7 +193,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 192
-# TOTAL DOWNLOADS: 14088
+# TOTAL DOWNLOADS: 14096
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -201,9 +201,9 @@ additional.command.buttons 93
 additional.command.buttons.radial 590
 automata.destruction.0percent 371
 automata.in.human.space 311
-avgi.licenses 146
-better.starts 384
-bunrodea.missions 501
+avgi.licenses 148
+better.starts 386
+bunrodea.missions 503
 captureable.person.ships 373
 coalition.shopping 417
 control.station 284
@@ -218,7 +218,7 @@ hai.side.mission.unlocker 340
 highrollers.ltd 28
 human.labels 272
 jump.gates 372
-kestrel.unlocks 299
+kestrel.unlocks 301
 kor.efret.shipyard 462
 landing.images 305
 landing.images.android 274
