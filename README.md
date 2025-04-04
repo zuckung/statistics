@@ -21,8 +21,8 @@
 		<td>588</td>
 		<td>590</td>
 		<td>592</td>
-		<td>596</td>
-		<td>+ 4</td>
+		<td>598</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -318,8 +318,8 @@
 		<td>331</td>
 		<td>331</td>
 		<td>331</td>
-		<td>331</td>
-		<td></td>
+		<td>333</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -340,8 +340,8 @@
 		<td>281</td>
 		<td>281</td>
 		<td>281</td>
-		<td>281</td>
-		<td></td>
+		<td>283</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -373,8 +373,8 @@
 		<td>204</td>
 		<td>204</td>
 		<td>208</td>
-		<td>208</td>
-		<td></td>
+		<td>210</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -498,8 +498,8 @@
 		<td>588</td>
 		<td>590</td>
 		<td>592</td>
-		<td>596</td>
-		<td>+ 4</td>
+		<td>598</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -696,8 +696,8 @@
 		<td>331</td>
 		<td>331</td>
 		<td>331</td>
-		<td>331</td>
-		<td></td>
+		<td>333</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -773,8 +773,8 @@
 		<td>281</td>
 		<td>281</td>
 		<td>281</td>
-		<td>281</td>
-		<td></td>
+		<td>283</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -872,8 +872,8 @@
 		<td>204</td>
 		<td>204</td>
 		<td>208</td>
-		<td>208</td>
-		<td></td>
+		<td>210</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
