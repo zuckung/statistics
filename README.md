@@ -43,8 +43,8 @@
 		<td>311</td>
 		<td>311</td>
 		<td>311</td>
-		<td>311</td>
-		<td></td>
+		<td>313</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
@@ -395,8 +395,8 @@
 		<td>476</td>
 		<td>476</td>
 		<td>478</td>
-		<td>478</td>
-		<td></td>
+		<td>480</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -553,8 +553,8 @@
 		<td>476</td>
 		<td>476</td>
 		<td>478</td>
-		<td>478</td>
-		<td></td>
+		<td>480</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -711,6 +711,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>automata.in.human.space</td>
+		<td>307</td>
+		<td>307</td>
+		<td>309</td>
+		<td>311</td>
+		<td>311</td>
+		<td>311</td>
+		<td>313</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>paint.your.ships</td>
 		<td>306</td>
 		<td>308</td>
@@ -719,17 +730,6 @@
 		<td>310</td>
 		<td>312</td>
 		<td>312</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>automata.in.human.space</td>
-		<td>307</td>
-		<td>307</td>
-		<td>309</td>
-		<td>311</td>
-		<td>311</td>
-		<td>311</td>
-		<td>311</td>
 		<td></td>
 	</tr>
 	<tr>
