@@ -21,8 +21,8 @@
 		<td>588</td>
 		<td>590</td>
 		<td>592</td>
-		<td>592</td>
-		<td></td>
+		<td>594</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -65,8 +65,8 @@
 		<td>382</td>
 		<td>384</td>
 		<td>388</td>
-		<td>388</td>
-		<td></td>
+		<td>390</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -498,8 +498,8 @@
 		<td>588</td>
 		<td>590</td>
 		<td>592</td>
-		<td>592</td>
-		<td></td>
+		<td>594</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -619,8 +619,8 @@
 		<td>382</td>
 		<td>384</td>
 		<td>388</td>
-		<td>388</td>
-		<td></td>
+		<td>390</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
