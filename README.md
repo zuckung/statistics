@@ -21,8 +21,8 @@
 		<td>588</td>
 		<td>590</td>
 		<td>592</td>
-		<td>594</td>
-		<td>+ 2</td>
+		<td>596</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -43,8 +43,8 @@
 		<td>311</td>
 		<td>311</td>
 		<td>311</td>
-		<td>313</td>
-		<td>+ 2</td>
+		<td>315</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
@@ -54,8 +54,8 @@
 		<td>144</td>
 		<td>144</td>
 		<td>150</td>
-		<td>150</td>
-		<td></td>
+		<td>151</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -164,8 +164,8 @@
 		<td>597</td>
 		<td>599</td>
 		<td>601</td>
-		<td>603</td>
-		<td>+ 2</td>
+		<td>604</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -487,8 +487,8 @@
 		<td>597</td>
 		<td>599</td>
 		<td>601</td>
-		<td>603</td>
-		<td>+ 2</td>
+		<td>604</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -498,8 +498,8 @@
 		<td>588</td>
 		<td>590</td>
 		<td>592</td>
-		<td>594</td>
-		<td>+ 2</td>
+		<td>596</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -718,8 +718,8 @@
 		<td>311</td>
 		<td>311</td>
 		<td>311</td>
-		<td>313</td>
-		<td>+ 2</td>
+		<td>315</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -905,8 +905,8 @@
 		<td>144</td>
 		<td>144</td>
 		<td>150</td>
-		<td>150</td>
-		<td></td>
+		<td>151</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
